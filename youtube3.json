@@ -1,6 +1,8 @@
 {
 	"class":[
 {"type_id":"台灣新聞 直播","type_name":"台灣新聞台"},
+{"type_id":"TVBS娛樂頭條","type_name":"娛樂新聞"},
+{"type_id":"#shorts","type_name":"shorts"},
 {"type_id":"小姐姐合集","type_name":"小姐姐合集"}
 ],
 	
@@ -31,6 +33,19 @@
 		{"n":"Games","v":"live games"},
 		{"n":"CNN","v":"live CNN"},
 		{"n":"BBC","v":"live BBC"}
+	]}
+],
+
+"TVBS娛樂頭條":[
+	{"key":"tid","name":"中文","value":[
+		{"n":"TVBS娛樂頭條","v":"TVBS娛樂頭條"},
+		{"n":"八大電視娛樂百分百","v":"八大電視娛樂百分百"},
+		{"n":"壹蘋新聞網","v":"壹蘋新聞網"},
+		{"n":"【擠看看】 TVBS新聞","v":"【擠看看】 TVBS新聞"},
+		{"n":"三立娛樂星聞","v":"三立娛樂星聞"},
+		{"n":"CTWANT 娛樂新聞 ","v":"CTWANT 娛樂新聞 "},
+		{"n":"KTS娛樂新聞台","v":"KTS娛樂新聞台"},
+		{"n":"人間胸器","v":"人間胸器"}
 	]}
 ],
 
