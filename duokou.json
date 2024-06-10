@@ -1,0 +1,52 @@
+{
+    "urls": [
+        {
+            "url": "http://akun.work.gd/upload/18cj.json",
+            "name": "1影院"
+        },
+        {
+            "url": "http://akun.work.gd/upload/饭太硬/api.json",
+            "name": "饭太硬"
+        },
+        {
+            "url": "http://akun.work.gd/upload/小米/api.json",
+            "name": "小米"
+        },
+        {
+            "url": "http://akun.work.gd/upload/体育/TY.json",
+            "name": "看个球儿"
+        },
+        {
+            "url": "http://akun.work.gd/upload/jsm.json",
+            "name": "PG"
+        },
+        {
+            "url": "http://akun.work.gd/upload/香雅情XYQ/api.json",
+            "name": "香雅情XYQ"
+        },
+        {
+            "url": "http://akun.work.gd/upload/菜妮丝/api.json",
+            "name": "菜妮丝"
+        },
+        {
+            "url": "http://akun.work.gd/upload/骚零/api.json",
+            "name": "骚零"
+        },
+        {
+            "url": "http://akun.work.gd/upload/短剧频道/api.json",
+            "name": "短剧频道"
+        },
+        {
+            "url": "http://akun.work.gd/upload/少儿频道/api.json",
+            "name": "少儿频道"
+        },
+        {
+            "url": "http://akun.work.gd/upload/动漫频道/api.json",
+            "name": "动漫频道"
+        },
+        {
+            "url": "http://akun.work.gd/upload/BIBI/cbi.json",
+            "name": "B站频道"
+        }
+    ]
+}

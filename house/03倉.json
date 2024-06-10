@@ -1,0 +1,92 @@
+﻿{
+    "urls": [
+        {
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+            "name": "☁️云星家庭〔纯绿色家庭版〕"
+        },
+        {
+            "url": "http:/itvbox.cc/tvbox/云星日记/ali.m3u8",
+            "name": "☁️云星阿里〔小纸条/推送等〕"
+        },
+        {
+            "url": "http:/itvbox.cc/tvbox/云星日记/bili.m3u8",
+            "name": "☁️云星哔哩〔大套餐/学堂等〕"
+        },
+        {
+            "url": "http://刚刚.live/猫",
+            "name": "💖刚刚〔多条线路〕"
+        },
+        {
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "name": "💖肥猫Panda〔多条线路〕"
+        },
+        {
+            "url": "https://hutool.ml/tang",
+            "name": "💖唐三线路〔多条线路〕"
+        },                
+        {
+            "url": "http://饭太硬.ga/tv/",
+            "name": "💖饭太硬〔多条线路〕"
+        },                
+        {
+            "url": "https://gitee.com/lekanbox/ysc/raw/master/ysc.json",
+            "name": "✨lekan〔多条线路〕"
+        },                 
+        {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "✨菜尼丝接口〔多条线路〕"
+        },                      
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "💨南风〔多条线路〕"
+        },   
+        {
+            "url": "https://神器每日推送.tk/pz.json",
+            "name": "🤪神器推送〔多条线路〕"
+        },       
+        {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "🌝吾爱〔多条线路〕"
+        },   
+        {
+            "url": "https://jx.izny.cn/qwsp/qwsp.json",
+            "name": "☁️无名〔多条线路〕"
+        },                   
+        {
+            "url": "http://9xi4o.tk/0725.json",
+            "name": "☁️4K云盘〔多条线路〕"
+        },           
+        {
+            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+            "name": "🍎小苹果〔多条线路〕"
+        },
+        {
+            "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
+            "name": "🍸老刘备〔多条线路〕"
+        },
+        {
+            "url": "https://gitea.com/52670576/tvbox/raw/branch/master/ysc.json",
+            "name": "☁️无名路线〔多条线路〕"
+        },
+        {
+            "url": "http://52bsj.vip:81/api/v3/file/get/46060/Tv%20box%E6%BA%902.txt?sign=yI8sCYT8pei-pxp1_xwLjWOfepQ9b7c1y6Q_QD_0RY4%3D%3A0",
+            "name": "🐾兽爪线路〔多条线路〕"
+        },
+        {
+            "url": "http://www.dmtv.ml/mao/single.json",
+            "name": "🧗‍♀️乱世〔多条线路〕"
+        },
+        {
+            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+            "name": "😵巧技接口〔多条线路〕"
+        }
+        
+
+    ],
+    "vip": [
+        {
+            "url": "",
+            "name": "默认"
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+[
+{"name":"🔥4gtv豪華套餐👍","url":"https://raw.githubusercontent.com/sqspot/tac/main/4gtvjs.txt","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"live","url":"https://raw.githubusercontent.com/sqspot/tac/main/live.txt","ua": "","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"live3","url":"https://raw.githubusercontent.com/sqspot/tac/main/live3.txt","ua": "","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+]

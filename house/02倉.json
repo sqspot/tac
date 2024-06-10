@@ -1,0 +1,116 @@
+﻿//在线。家庭版。收录持续维护更新的合集。
+//单多仓配置地址https://agit.ai/butterfly/md/raw/branch/PLANT/DC-91-OL.json
+//或使用多仓总接口https://agit.ai/butterfly/md/raw/branch/PLANT/DC-main.json
+{
+  "urls": [
+    {
+      "url": "",
+      "name": "💛💛💛💛 在线 💛💛💛💛"
+    },
+
+//以下为高天流云收集的大佬列表（不分先后）
+    //{"url": "","name": "—— 高天流云 收录列表 ——"},
+
+    {"url": "https://hutool.ml/tang","name": "💚唐三☀️"},
+    {"url": "https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json","name": "💚Fongmi☀️"},
+    {"url": "http://home.jundie.top:81/top98.json","name": "💚俊于/top98☀️"},
+    {"url": "https://tvbox.cainisi.cf","name": "💚菜妮丝☀️"},
+    {"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "💚南风/XC☀️"},
+    {"url": "http://我不是.肥猫.love:63/接口禁止贩卖","name": "💚肥猫/love63☀️"},
+//一样的，会跳转到love63。{"url": "http://刚刚.live/猫","name": "💚刚刚猫/肥猫love63☀️"},
+    {"url": "http://饭太硬.ga/x/o.json","name": "💚饭太硬☀️"},
+    {"url": "https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json","name": "💚霜辉月明/py☀️"},
+    {"url": "http://drpy.site/js1","name": "💚小雅/dr☀️"},
+    {"url": "https://神器每日推送.tk/pz.json","name": "💚神器pz☀️"},
+    {"url": "http://52bsj.vip:98/0805","name": "💚吾爱有三☀️"},
+    {"url": "https://download.kstore.space/download/2863/01.txt","name": "💚潇洒☀️"},
+    {"url": "https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt","name": "💚佰欣园☀️"},
+    {"url": "https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json","name": "💚胖虎☀️"},
+    {"url": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json","name": "💚UndCover/py☀️"},
+    {"url": "https://pan.tenire.com/down.php/2664dabf44e1b55919f481903a178cba.txt","name": "💚木极☀️"},
+    {"url": "https://dxawi.github.io/0/0.json","name": "💚Ray/dxawi/0☀️"},
+    {"url": "https://kebedd69.github.io/TVbox-interface/py甜蜜.json","name": "💚甜蜜/py☀️"},
+    {"url": "https://kebedd69.github.io/TVbox-interface/甜蜜.json","name": "💚甜蜜☀️"},
+
+    {"url": "http://pandown.pro/tvbox/tvbox.json","name": "💚巧技？☀️"},
+//{"url": "https://maoyingshi.cc/tiaoshizhushou/1.txt","name": "💚云星调试助手？☀️"},
+    {"url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0","name": "💚BOX？☀️"},
+    {"url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0","name": "💚哔哩学习？☀️"},
+    {"url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0","name": "💚52bsj？☀️"},
+    {"url": "","name": "————————————————"},
+
+    //{"url": "","name": "💚☀️"},
+
+//{"url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json","name": "🅾️甜蜜"},
+//{"url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/py甜蜜.json","name": "🅾PY甜蜜"},
+
+//没维护了貌似{"url": "http://111.67.196.181/mtv/meow.txt","name": "🆗太阳视界/喵影视♪"},
+//貌似没维护{"url": "http://www.dmtv.ml/mao/single.json","name": "🅾️呆萌dmtv/single♪"},
+//多、好些都没维护{"url": "https://freed.yuanhsing.cf/TVBox/meowcf.json","name": "🅾️CH猫友/元兴all/meowcf♪"},
+
+
+    {
+      "url": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/smallmi.json",
+      "name": "🆗小河弯弯/smallmi☀️"
+    },
+    {
+      "url": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/xiaomi.json",
+      "name": "🆗小河弯弯/xiaomi☀️"
+    },
+  {
+    "url": "https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
+    "name": "🅰️Free-TVUrl-Merge/自动收集"
+  },
+    {
+      "url": "https://raw.liucn.cc/box/m.json",
+      "name": "🆗Liu673cn/m☀️old"
+    },
+    {
+      "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+      "name": "☁️云星 家庭☀️"
+    },
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
+            "name": "☁️云星 阿里☀️"
+        },
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
+            "name": "☁️云星 哔哩☀️"
+        },
+    {
+      "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
+      "name": "🆙多多/ｖ☀️"
+    },
+    {
+      "url": "https://gitlab.com/duomv/duo/-/raw/main/m.json",
+      "name": "🆙多多/ｍ☀️"
+    },
+
+    {
+      "url": "https://agit.ai/1452635819/h/raw/branch/master/mao3",
+      "name": "🅰️1452635819/h/mao3☀️"
+    },
+    {
+      "url": "https://agit.ai/1452635819/h/raw/branch/master/L1",
+      "name": "🅰️1452635819/h/L1☀️"
+    },
+        {
+      "url": "https://agit.ai/1452635819/h/raw/branch/master/L2",
+      "name": "🅰️1452635819/h/L2☀️"
+    },
+
+  {
+    "url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json",
+    "name": "🅰️kvymin/tv/Box"
+  },
+  {
+    "url": "https://agit.ai/kvymin/TV/raw/branch/master/maoys.json",
+    "name": "🅰️kvymin/tv/maoys"
+  },
+  {
+    "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+    "name": "🅰️巧技relax/adcc"
+  }
+  
+]
+}

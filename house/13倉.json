@@ -1,0 +1,82 @@
+{
+    "urls": [
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/YG/YG01.json",
+            "name": "👁️‍🗨线路1"
+        },    
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/YG/YG02.json",
+            "name": "👁️‍🗨️线路2"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/YG/YG03.json",
+            "name": "👁️‍🗨️线路3"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/YG/YG04.json",
+            "name": "👁️‍🗨️线路4"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/YG/YG05.json",
+            "name": "👁️‍🗨️线路5"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/YG/YG06.json",
+            "name": "👁️‍🗨️线路6"
+        },        
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/YG/YG07.json",
+            "name": "👁️‍🗨️线路7"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/YG/YG08.json",
+            "name": "👁️‍🗨️线路8"
+        },
+        { 
+            "url": "http://152.136.125.181:81/MM/dianbos/junbujianPro.json",
+            "name": "👁️‍🗨️君不见"
+        },       
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/zhoushijie.json",
+            "name": "👁️‍🗨️君不见Pro"
+        },   
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieB.json",
+            "name": "👁️‍🗨️夜视界"
+        },           
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/YG/YGH01.json",
+            "name": "🚀老司机成长记①"
+        },                      
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/YG/YGH02.json",
+            "name": "🚀老司机成长记②"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/YG/YGH03.json",
+            "name": "🚀老司机成长记③"
+        },   
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieE.json",
+            "name": "🚀猫影视半正常半开车源1"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieF.json",
+            "name": "🚀猫影视半正常半开车源2"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
+            "name": "🚀开车源1"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieD.json",
+            "name": "🚀开车源2"
+        }
+    ],
+    "vip": [
+        {
+            "url": "",
+            "name": "默认"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+live.txt(m3u)	安博
+live2.txt(m3u)	安博🔞
+live2-2.txt(m3u)	安博🔞2
+live3.txt(m3u)	安博其他
+live4.txt(m3u)	暫時
+liveCCTV3.txt
+4gtv.js	觀看直播專用，只能點擊👉『直播』👈 ，呼叫4gtvjs.txt用
+4gtv.txt	有ua，4GTV豪華套餐
+4gtvs.js	觀看直播專用，只能點擊♒『直播』♒，呼叫4gtvjs.txt
+4gtvs.txt	有ua，4GTV豪華套餐🔞 	影響有 18.js 
+4gtvjs.txt(m3u)	無ua，影響有 4gtv.js 4gtvs. jslive2tv_sq.txt
+4gtvjs_s.txt(m3u)	無ua，影響有 live2tv_sq_s.txt
+live2tv_sq.txt(m3u)	點播轉直播
+live2tv_sq_s.txt(m3u)	點播轉直播🔞
+YouTube.txt	呼叫YouTube2.txt
+YouTube2.txt	台灣新聞
+

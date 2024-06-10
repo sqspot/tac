@@ -1,0 +1,113 @@
+{
+"站名":"Miss AV",
+"直接播放":"1",
+"主页url":"https://missav123.com/cn",
+"数组":"class=\"lozad w-full\"&&</div></div></div><div>",
+"图片":"data-src=\"&&\"",
+"标题":"alt=\"&&\"",
+"链接":"href=\"&&\"",
+//"链接前缀":"https://missav.com/cn",
+"副标题":"<span class=\"absolute bottom*>&&</span></a></div>",
+"影片年代":"<div class=\"space-y-2\">&&标题",
+"影片类型":"类型:&&导演",
+"主演":"女优:&&</div>",
+"导演":"导演:&&</div>",
+"简介":"class=\"mb-1 text-secondary break-all line-clamp-2\">&&</div>",
+"分类":"观看日本AV$new#国产 AV$madou",
+//"分类url":"https://missav123.com/cn/{cateId}?page={catePg}",
+"分类url":"https://missav123.com/cn/{cateId}?sort={by}&page={catePg}",
+"免嗅":"0",
+"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+"过滤词":"=http#.jpg#.png#.ico#.gif#.js",
+"筛选":{
+"new":[
+{
+"key":"by",
+"name":"排序",
+"value":[
+{"v":"","n":"全部"},
+{"v":"released_at","n":"发行日期"},
+{"v":"published_at","n":"最近更新"},
+{"v":"saved","n":"收藏数"},
+{"v":"today_views","n":"今日浏览数"},
+{"v":"weekly_views","n":"本周浏览数"},
+{"v":"monthly_views","n":"本月浏览数"},
+{"v":"views","n":"总浏览数"}
+]
+},
+{
+"key":"cateId",
+"name":"类型",
+"value":[
+{"v":"","n":"全部"},
+{"v":"new","n":"最近更新"},
+{"v":"release","n":"新作上市"},
+{"v":"uncensored-leak","n":"无码流出"},
+{"v":"chinese-subtitle","n":"中文字幕"},
+{"v":"today-hot","n":"今日热门"},
+{"v":"weekly-hot","n":"本週热门"},
+{"v":"monthly-hot","n":"本月热门"}
+]
+},
+{
+"key":"cateId",
+"name":"素人",
+"value":[
+{"v":"","n":"全部"},
+{"v":"siro","n":"SIRO"},
+{"v":"luxu","n":"LUXU"},
+{"v":"gana","n":"GANA"},
+{"v":"maan","n":"PRESTIGE PREMIUM"},
+{"v":"scute","n":"S-CUTE"},
+{"v":"ara","n":"ARA"}
+]
+},
+{
+"key":"cateId",
+"name":"无码",
+"value":[
+{"v":"","n":"全部"},
+{"v":"uncensored-leak","n":"无码流出"},
+{"v":"fc2","n":"FC2"},
+{"v":"heyzo","n":"HEYZO"},
+{"v":"tokyohot","n":"东京热"},
+{"v":"1pondo","n":"一本道"},
+{"v":"caribbeancom","n":"Caribbeancom"},
+{"v":"caribbeancompr","n":"Caribbeancompr"},
+{"v":"10musume","n":"10musume"},
+{"v":"pacopacomama","n":"pacopacomama"},
+{"v":"gachinco","n":"Gachinco"},
+{"v":"xxxav","n":"XXX-AV"},
+{"v":"marriedslash","n":"人妻斩"},
+{"v":"naughty4610","n":"顽皮 4610"},
+{"v":"naughty0930","n":"顽皮 0930"}
+]
+}
+],
+"madou":[
+{
+"key":"by",
+"name":"排序",
+"value":[
+{"v":"","n":"全部"},
+{"v":"released_at","n":"发行日期"},
+{"v":"published_at","n":"最近更新"},
+{"v":"saved","n":"收藏数"},
+{"v":"today_views","n":"今日浏览数"},
+{"v":"weekly_views","n":"本周浏览数"},
+{"v":"monthly_views","n":"本月浏览数"},
+{"v":"views","n":"总浏览数"}
+]
+},
+{
+"key":"cateId",
+"name":"国产 AV",
+"value":[
+{"v":"","n":"全部"},
+{"v":"madou","n":"麻豆传媒"},
+{"v":"twav","n":"TWAV"}
+]
+}
+]
+}
+}
