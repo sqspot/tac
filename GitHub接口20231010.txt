@@ -1,0 +1,81 @@
+https://raw.githubusercontent.com/sqspot/tac/main/jshttp.js
+
+https://raw.githubusercontent.com/sqspot/tac/main/jshttp(1).js
+
+https://raw.githubusercontent.com/sqspot/tac/main/js.json
+
+https://raw.githubusercontent.com/sqspot/Cat-JS/main/js.json
+
+https://raw.githubusercontent.com/sqspot/tac/main/bili.js
+
+https://raw.githubusercontent.com/sqspot/tac/main/18.json
+
+https://raw.githubusercontent.com/sqspot/tac/main/總倉.json
+https://raw.githubusercontent.com/sqspot/tac/main/tac倉.js
+https://raw.githubusercontent.com/sqspot/tac/main/其他倉測試.js
+https://raw.githubusercontent.com/sqspot/tac/main/clan倉.js
+https://raw.githubusercontent.com/sqspot/tac/main/特殊倉.json
+https://raw.githubusercontent.com/sqspot/tac/main/gaotianliuyun倉.js
+https://raw.githubusercontent.com/sqspot/tac/main/优质倉.js
+https://raw.githubusercontent.com/sqspot/tac/main/cr倉.js
+https://raw.githubusercontent.com/sqspot/tac/main/TV倉.js
+https://raw.githubusercontent.com/sqspot/tac/main/hd9211總倉.js
+https://raw.githubusercontent.com/sqspot/tac/main/wuheng18_總倉.js
+
+
+https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json
+
+clan://localhost/drpy/jsclan.js
+
+clan://localhost/drpy/js_test.js
+
+clan://localhost/drpy/js繼承.json
+
+https://agit.ai/138001380000/MHQTV/raw/branch/master/js.json
+https://神器每日推送.tk/pz.json
+https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/cfg.json
+http://101.34.67.237/config/1
+https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;7d655c54d086110028be6074c85dce66",
+https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json
+
+https://raw.githubusercontent.com/sf467/tvbox-/main/特殊仓.json
+
+電視 Tv6Caxr5ja.txt
+https://raw.githubusercontent.com/sqspot/tac/main/Tv6Caxr5ja.txt
+SP sp23De0Qe7.txt
+https://raw.githubusercontent.com/sqspot/tac/main/sp23De0Qe7.txt
+tvbox客廳
+https://raw.githubusercontent.com/sqspot/tac/main/6810plutohttp.json
+tvbox(1)
+https://raw.githubusercontent.com/sqspot/tac/main/6810plutohttp(1).json
+jshttp
+https://raw.githubusercontent.com/sqspot/tac/main/jshttp6801.json
+
+
+
+发起新搜索新版本：输入：   const-string v5
+旧版本：打开HomeActivity  一类(无标点)，搜索关键词：api或者api_url
+然后此字符串的下方代码既是
+const-string v7, "接口链接"
+HomeActivity;->A:Z
+
+https://raw.githubusercontent.com/sqspot/Cat-JS/main/apk/CatBoxPro-20230904_0131.apk
+https://raw.githubusercontent.com/sqspot/Cat-JS/main/apk/CatBoxKTV-20230904_0131.apk
+
+搜尋 api_url
+打开HomeActivity
+搜尋 api_url
+如果是 const-string v7, "api_url"
+其上加空白行，再加一行 
+const-string v6, "api_url"
+將這二行的 api_url
+改成
+https://raw.githubusercontent.com/sqspot/tac/main/jshttp.js
+
+底圖 res 裡的 W-.png
+搜索 默认
+com.github.tvbox.osc.base
+App
+默认 下一行的 "" 加入
+https://raw.githubusercontent.com/sqspot/tac/main/jshttp.js
+
