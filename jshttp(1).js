@@ -19,7 +19,7 @@
 {"key":"农民","name":"💬評分 農民","type":3,"api":"drpy2.min.js","ext":"./js/农民影视.js"},
 {"key":"一起看","name":"💬評分/集數 一起看","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"./t.jar"},
 {"key":"乐鱼影视","name":"💬集數 乐鱼影视","type":3,"api":"drpy2.min.js","ext":"./js/乐鱼影视.js"},
-{"key":"獨播","name":"獨播|海外","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./jd/duboku.json"},
+{"key":"獨播","name":"獨播|海外","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./js/duboku.json"},
 {"key": "星星","name": "🔥星星|","type": 3,"api": "csp_Star","searchable": 1,"changeable": 0},
 {"key":"海外看网","name":"🔥海外看haiwaikan","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"oletv資源f","name":"🔥oletv資源(海外)","type":1,"api":"https://olevod1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
