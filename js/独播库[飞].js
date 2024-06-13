@@ -7,8 +7,8 @@
 
  var rule = {
 	title:'独播库[飞]',
-	// host:'https://www.duboku.tv',
-	host:'https://u.duboku.io',
+	host:'https://www.duboku.tv',
+	//host:'https://u.duboku.io',
 	// host:'https://w.duboku.io',
 	url: '/vodtype/fyclass-fypage.html',
 	// url: '/vodshow/fyfilter.html',
