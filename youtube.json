@@ -2,48 +2,47 @@
     "recommend":"LIST:最新|推薦,官方頻道",
 	"class":[
 		{
-			"type_id":"李子柒,老高與小茉,李永樂老師,滇西小哥,腦洞烏托邦,自說自話的總裁,老肉雜談,老飯骨,小高姐的MagicIngredients,小穎美食,野外求生,科普,航天大學,世界大戰,Mark Rober MarkRober,不良林,涌哥侃侃,悟空的日常,健康1+1 user-mr5bh4bk8z",
+			"type_id":"LIST:Full YouTube,李子柒,老高與小茉,李永樂老師,滇西小哥,腦洞烏托邦,自說自話的總裁,老肉雜談,老飯骨,小高姐的MagicIngredients,小穎美食,野外求生,科普,航天大學,世界大戰,Mark Rober MarkRober,不良林,涌哥侃侃,悟空的日常,健康1+1 user-mr5bh4bk8z",
 			"type_name":"YouTube(頻道)"
 		},
 		{
-			"type_id":"動畫片",
+			"type_id":"LIST:Full YouTube 動畫片",
 			"type_name":"動畫片"
 		},
 		{
-			"type_id":"TVBSNEWS網路獨家新聞24小時直播,CTI中天新聞24小時HD新聞直播,【錢線百分百】,【理財達人秀】,三立新聞24小時直播,LIVE民視新聞,中視新聞LIVE直播頻道24小時線上直播,東森財經新聞24小時線上直播,東森財經股市24小時直播,三立iNEWS24小時,鏡新聞線上看,寰宇新聞台24小時線上直播,寰宇新聞台灣台,台視新聞台HD24,華視新聞直播CH52,公視新聞PTS,公共電視13頻道,新聞
-",
+			"type_id":"TVBSNEWS網路獨家新聞24小時直播,CTI中天新聞24小時HD新聞直播,【錢線百分百】,【理財達人秀】,三立新聞24小時直播,LIVE民視新聞,中視新聞LIVE直播頻道24小時線上直播,東森財經新聞24小時線上直播,東森財經股市24小時直播,三立iNEWS24小時,鏡新聞線上看,寰宇新聞台24小時線上直播,寰宇新聞台灣台,台視新聞台HD24,華視新聞直播CH52,公視新聞PTS,公共電視13頻道,新聞",
 			"type_name":"新聞直播"
 		},
 		{
-			"type_id":"電影",
+			"type_id":"LIST:Full YouTube 電影",
 			"type_name":"電影"
 		},
 		{
-			"type_id":"劇集",
+			"type_id":"LIST:Full YouTube 劇集",
 			"type_name":"劇集"
 		},
 		{
-			"type_id":"綜藝",
+			"type_id":"LIST:Full YouTube 綜藝",
 			"type_name":"綜藝"
 		},
 		{
-			"type_id":"紀錄片",
+			"type_id":"LIST:Full YouTube 紀錄片",
 			"type_name":"紀錄片"
 		},
 		{
-			"type_id":"音樂🎶",
+			"type_id":"LIST:Full YouTube 音樂🎶",
 			"type_name":"音樂"
 		},
 		{
-			"type_id":"體育",
+			"type_id":"LIST:Full YouTube 體育",
 			"type_name":"體育"
 		},
 		{
-			"type_id":"時尚潮流",
+			"type_id":"LIST:Full YouTube 時尚潮流",
 			"type_name":"時尚潮流"
 		},
 		{
-			"type_id":"醫學教育",
+			"type_id":"LIST:Full YouTube 醫學教育",
 			"type_name":"醫學教育"
 		},
 		{
@@ -51,16 +50,16 @@
 			"type_name":"16k HDR"
 		},
 		{
-			"type_id":"宇宙",
+			"type_id":"LIST:Full YouTube 宇宙",
 			"type_name":"科普知識"
 		},
 		{
-			"type_id":"解說",
+			"type_id":"LIST:Full YouTube 解說",
 			"type_name":"解說"
 		}
 	],
 	"filters":{
-	    "李子柒,老高與小茉,李永樂老師,滇西小哥,腦洞烏托邦,自說自話的總裁,老肉雜談,老飯骨,小高姐的MagicIngredients,小穎美食,野外求生,科普,航天大學,世界大戰,Mark Rober MarkRober,不良林,涌哥侃侃,悟空的日常,健康1+1 user-mr5bh4bk8z":[
+	    "LIST:Full YouTube,李子柒,老高與小茉,李永樂老師,滇西小哥,腦洞烏托邦,自說自話的總裁,老肉雜談,老飯骨,小高姐的MagicIngredients,小穎美食,野外求生,科普,航天大學,世界大戰,Mark Rober MarkRober,不良林,涌哥侃侃,悟空的日常,健康1+1 user-mr5bh4bk8z":[
 	        {
 				"key":"time",
 				"name":"時間",
@@ -228,7 +227,7 @@
 				]
 			}
 		],
-	    "動畫片":[
+	    "LIST:Full YouTube 動畫片":[
 	        {
 				"key":"time",
 				"name":"時間",
@@ -337,14 +336,12 @@
 				]
 			}
 		],
-		"TVBSNEWS網路獨家新聞24小時直播,CTI中天新聞24小時HD新聞直播,【錢線百分百】,【理財達人秀】,三立新聞24小時直播,LIVE民視新聞,中視新聞LIVE直播頻道24小時線上直播,東森財經新聞24小時線上直播,東森財經股市24小時直播,三立iNEWS24小時,鏡新聞線上看,寰宇新聞台24小時線上直播,寰宇新聞台灣台,台視新聞台HD24,華視新聞直播CH52,公視新聞PTS,公共電視13頻道,新聞
-":[
+		"TVBSNEWS網路獨家新聞24小時直播,CTI中天新聞24小時HD新聞直播,【錢線百分百】,【理財達人秀】,三立新聞24小時直播,LIVE民視新聞,中視新聞LIVE直播頻道24小時線上直播,東森財經新聞24小時線上直播,東森財經股市24小時直播,三立iNEWS24小時,鏡新聞線上看,寰宇新聞台24小時線上直播,寰宇新聞台灣台,台視新聞台HD24,華視新聞直播CH52,公視新聞PTS,公共電視13頻道,新聞":[
 			{
 				"key":"tid",
 				"name":"中文",
 				"value":[
-					{"n":"默認直播","v":"fully TVBSNEWS網路獨家新聞24小時直播,CTI中天新聞24小時HD新聞直播,【錢線百分百】,【理財達人秀】,三立新聞24小時直播,LIVE民視新聞,中視新聞LIVE直播頻道24小時線上直播,東森財經新聞24小時線上直播,東森財經股市24小時直播,三立iNEWS24小時,鏡新聞線上看,寰宇新聞台24小時線上直播,寰宇新聞台灣台,台視新聞台HD24,華視新聞直播CH52,公視新聞PTS,公共電視13頻道,新聞
- 24小時"},
+					{"n":"默認直播","v":"fully TVBSNEWS網路獨家新聞24小時直播,CTI中天新聞24小時HD新聞直播,【錢線百分百】,【理財達人秀】,三立新聞24小時直播,LIVE民視新聞,中視新聞LIVE直播頻道24小時線上直播,東森財經新聞24小時線上直播,東森財經股市24小時直播,三立iNEWS24小時,鏡新聞線上看,寰宇新聞台24小時線上直播,寰宇新聞台灣台,台視新聞台HD24,華視新聞直播CH52,公視新聞PTS,公共電視13頻道,新聞 24小時"},
 					{"n":"賽事","v":"直播 賽事"},
 					{"n":"CCTV","v":"CCTV 24h馬拉松直播"},
 					{"n":"港臺","v":"直播 港臺"},
@@ -371,7 +368,7 @@
 				]
 			}
 		],
-		"電影":[
+		"LIST:Full YouTube 電影":[
 		    {
 				"key":"time",
 				"name":"時間",
@@ -524,7 +521,7 @@
 				]
 			}
 		],
-			"劇集":[
+			"LIST:Full YouTube 劇集":[
 		    {
 				"key":"time",
 				"name":"時間",
@@ -700,7 +697,7 @@
 				]
 			}
 		],
-		"綜藝":[
+		"LIST:Full YouTube 綜藝":[
 		    {
 				"key":"time",
 				"name":"時間",
@@ -821,7 +818,7 @@
 				]
 			}
 		],
-		"紀錄片":[
+		"LIST:Full YouTube 紀錄片":[
 		    {
 				"key":"time",
 				"name":"時間",
@@ -931,7 +928,7 @@
 				]
 			}
 		],
-		"音樂🎶":[
+		"LIST:Full YouTube 音樂🎶":[
 		    {
 				"key":"time",
 				"name":"時間",
@@ -1066,7 +1063,7 @@
 				]
 			}
 		],
-		"體育":[
+		"LIST:Full YouTube 體育":[
 		    {
 				"key":"time",
 				"name":"時間",
@@ -1187,7 +1184,7 @@
 				]
 			}
 		],
-		"時尚潮流":[
+		"LIST:Full YouTube 時尚潮流":[
 		    {
 				"key":"tid",
 				"name":"時裝秀",
@@ -1246,7 +1243,7 @@
 			    ]
 			}
 		],
-		"醫學教育":[
+		"LIST:Full YouTube 醫學教育":[
 		    {
 				"key":"time",
 				"name":"時間",
@@ -1329,7 +1326,7 @@
 				]
 			}
 		],
-		"解說":[
+		"LIST:Full YouTube 解說":[
 			{
 				"key":"tid",
 				"name":"頻道主",
@@ -1355,7 +1352,7 @@
 				]
 			}
 		],
-		"宇宙":[
+		"LIST:Full YouTube 宇宙":[
 			{
 				"key":"tid",
 				"name":"科普知識",
