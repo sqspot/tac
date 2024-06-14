@@ -2,7 +2,7 @@
     "recommend":"LIST:最新|推薦,官方頻道",
 	"class":[
 		{
-			"type_id":"李子柒 Liziqi cnliziqi,老高與小茉 laogao,李永樂老師 TchLiyongle,滇西小哥 dianxixiaoge,腦洞烏托邦 NDWTB,自說自話的總裁 STBoss,老肉雜談 老肉雜談,老飯骨 LaoFanGu,小高姐的 Magic Ingredients MagicIngredients,小穎美食 XiaoYingFood,野外求生 primitivetechnology9550 primitivetechnology9550,科普 Mr BeastMrBeast,航天大學 Airforceproud95 Airforceproud95,世界大戰 TheGreatWar TheGreatWar,Mark Rober MarkRober,不良林,涌哥侃侃 ygkkk,悟空的日常,健康1+1 user-mr5bh4bk8z",
+			"type_id":"李子柒,老高與小茉,李永樂老師,滇西小哥,腦洞烏托邦,自說自話的總裁,老肉雜談,老飯骨,小高姐的MagicIngredients,小穎美食,野外求生,科普,航天大學,世界大戰,Mark Rober MarkRober,不良林,涌哥侃侃,悟空的日常,健康1+1 user-mr5bh4bk8z",
 			"type_name":"YouTube(頻道)"
 		},
 		{
@@ -10,7 +10,8 @@
 			"type_name":"動畫片"
 		},
 		{
-			"type_id":"TVBS NEWS網路獨家新聞24小時直播,CTI中天新聞24小時HD新聞直播,【錢線百分百】,【理財達人秀】,三立新聞 24小時直播,LIVE 民視新聞,中視新聞LIVE直播頻道24小時線上直播,東森財經新聞24小時線上直播,東森財經股市24小時直播,三立iNEWS 24小時,鏡新聞 線上看,寰宇新聞台 24小時線上直播,寰宇新聞 台灣台,台視新聞台HD 24,華視新聞直播 CH52,公視新聞 PTS,公共電視 13頻道,新聞",
+			"type_id":"TVBSNEWS網路獨家新聞24小時直播,CTI中天新聞24小時HD新聞直播,【錢線百分百】,【理財達人秀】,三立新聞24小時直播,LIVE民視新聞,中視新聞LIVE直播頻道24小時線上直播,東森財經新聞24小時線上直播,東森財經股市24小時直播,三立iNEWS24小時,鏡新聞線上看,寰宇新聞台24小時線上直播,寰宇新聞台灣台,台視新聞台HD24,華視新聞直播CH52,公視新聞PTS,公共電視13頻道,新聞
+",
 			"type_name":"新聞直播"
 		},
 		{
@@ -59,7 +60,7 @@
 		}
 	],
 	"filters":{
-	    "李子柒 Liziqi cnliziqi,老高與小茉 laogao,李永樂老師 TchLiyongle,滇西小哥 dianxixiaoge,腦洞烏托邦 NDWTB,自說自話的總裁 STBoss,老肉雜談 老肉雜談,老飯骨 LaoFanGu,小高姐的 Magic Ingredients MagicIngredients,小穎美食 XiaoYingFood,野外求生 primitivetechnology9550 primitivetechnology9550,科普 Mr BeastMrBeast,航天大學 Airforceproud95 Airforceproud95,世界大戰 TheGreatWar TheGreatWar,Mark Rober MarkRober,不良林,涌哥侃侃 ygkkk,悟空的日常,健康1+1 user-mr5bh4bk8z":[
+	    "李子柒,老高與小茉,李永樂老師,滇西小哥,腦洞烏托邦,自說自話的總裁,老肉雜談,老飯骨,小高姐的MagicIngredients,小穎美食,野外求生,科普,航天大學,世界大戰,Mark Rober MarkRober,不良林,涌哥侃侃,悟空的日常,健康1+1 user-mr5bh4bk8z":[
 	        {
 				"key":"time",
 				"name":"時間",
@@ -336,12 +337,14 @@
 				]
 			}
 		],
-		"TVBS NEWS網路獨家新聞24小時直播,CTI中天新聞24小時HD新聞直播,【錢線百分百】,【理財達人秀】,三立新聞 24小時直播,LIVE 民視新聞,中視新聞LIVE直播頻道24小時線上直播,東森財經新聞24小時線上直播,東森財經股市24小時直播,三立iNEWS 24小時,鏡新聞 線上看,寰宇新聞台 24小時線上直播,寰宇新聞 台灣台,台視新聞台HD 24,華視新聞直播 CH52,公視新聞 PTS,公共電視 13頻道,新聞":[
+		"TVBSNEWS網路獨家新聞24小時直播,CTI中天新聞24小時HD新聞直播,【錢線百分百】,【理財達人秀】,三立新聞24小時直播,LIVE民視新聞,中視新聞LIVE直播頻道24小時線上直播,東森財經新聞24小時線上直播,東森財經股市24小時直播,三立iNEWS24小時,鏡新聞線上看,寰宇新聞台24小時線上直播,寰宇新聞台灣台,台視新聞台HD24,華視新聞直播CH52,公視新聞PTS,公共電視13頻道,新聞
+":[
 			{
 				"key":"tid",
 				"name":"中文",
 				"value":[
-					{"n":"默認直播","v":"fully TVBS NEWS網路獨家新聞24小時直播,CTI中天新聞24小時HD新聞直播,【錢線百分百】,【理財達人秀】,三立新聞 24小時直播,LIVE 民視新聞,中視新聞LIVE直播頻道24小時線上直播,東森財經新聞24小時線上直播,東森財經股市24小時直播,三立iNEWS 24小時,鏡新聞 線上看,寰宇新聞台 24小時線上直播,寰宇新聞 台灣台,台視新聞台HD 24,華視新聞直播 CH52,公視新聞 PTS,公共電視 13頻道,新聞 24小時"},
+					{"n":"默認直播","v":"fully TVBSNEWS網路獨家新聞24小時直播,CTI中天新聞24小時HD新聞直播,【錢線百分百】,【理財達人秀】,三立新聞24小時直播,LIVE民視新聞,中視新聞LIVE直播頻道24小時線上直播,東森財經新聞24小時線上直播,東森財經股市24小時直播,三立iNEWS24小時,鏡新聞線上看,寰宇新聞台24小時線上直播,寰宇新聞台灣台,台視新聞台HD24,華視新聞直播CH52,公視新聞PTS,公共電視13頻道,新聞
+ 24小時"},
 					{"n":"賽事","v":"直播 賽事"},
 					{"n":"CCTV","v":"CCTV 24h馬拉松直播"},
 					{"n":"港臺","v":"直播 港臺"},
