@@ -2,7 +2,7 @@
     "recommend":"LIST:最新|推薦,官方頻道",
 	"class":[
 		{
-			"type_id":"LIST:Full YouTube,李子柒,老高與小茉,李永樂老師,滇西小哥,腦洞烏托邦,自說自話的總裁,老肉雜談,老飯骨,小高姐的MagicIngredients,小穎美食,野外求生,科普,航天大學,世界大戰,Mark Rober MarkRober,不良林,涌哥侃侃,悟空的日常,健康1+1 user-mr5bh4bk8z",
+			"type_id":"LIST:Full YouTube,李子柒 Liziqi @cnliziqi,老高與小茉 @laogao,李永樂老師 @TchLiyongle,滇西小哥 @dianxixiaoge,腦洞烏托邦 @NDWTB,自說自話的總裁 @STBoss,老肉雜談 @老肉雜談,老飯骨 @LaoFanGu,小高姐的 Magic Ingredients @MagicIngredients,小穎美食 @XiaoYingFood,野外求生 primitivetechnology9550 @primitivetechnology9550,科普 Mr Beast@MrBeast,航天大學 Airforceproud95 @Airforceproud95,世界大戰 TheGreatWar @TheGreatWar,Mark Rober @MarkRober,不良林,涌哥侃侃 @ygkkk,悟空的日常,健康1+1 @user-mr5bh4bk8z",
 			"type_name":"YouTube(頻道)"
 		},
 		{
@@ -10,7 +10,7 @@
 			"type_name":"動畫片"
 		},
 		{
-			"type_id":"TVBSNEWS網路獨家新聞24小時直播,CTI中天新聞24小時HD新聞直播,【錢線百分百】,【理財達人秀】,三立新聞24小時直播,LIVE民視新聞,中視新聞LIVE直播頻道24小時線上直播,東森財經新聞24小時線上直播,東森財經股市24小時直播,三立iNEWS24小時,鏡新聞線上看,寰宇新聞台24小時線上直播,寰宇新聞台灣台,台視新聞台HD24,華視新聞直播CH52,公視新聞PTS,公共電視13頻道,新聞",
+			"type_id":"YouTube 新聞 Live",
 			"type_name":"新聞直播"
 		},
 		{
@@ -59,7 +59,7 @@
 		}
 	],
 	"filters":{
-	    "LIST:Full YouTube,李子柒,老高與小茉,李永樂老師,滇西小哥,腦洞烏托邦,自說自話的總裁,老肉雜談,老飯骨,小高姐的MagicIngredients,小穎美食,野外求生,科普,航天大學,世界大戰,Mark Rober MarkRober,不良林,涌哥侃侃,悟空的日常,健康1+1 user-mr5bh4bk8z":[
+	    "LIST:Full YouTube,李子柒 Liziqi @cnliziqi,老高與小茉 @laogao,李永樂老師 @TchLiyongle,滇西小哥 @dianxixiaoge,腦洞烏托邦 @NDWTB,自說自話的總裁 @STBoss,老肉雜談 @老肉雜談,老飯骨 @LaoFanGu,小高姐的 Magic Ingredients @MagicIngredients,小穎美食 @XiaoYingFood,野外求生 primitivetechnology9550 @primitivetechnology9550,科普 Mr Beast@MrBeast,航天大學 Airforceproud95 @Airforceproud95,世界大戰 TheGreatWar @TheGreatWar,Mark Rober @MarkRober,不良林,涌哥侃侃 @ygkkk,悟空的日常,健康1+1 @user-mr5bh4bk8z":[
 	        {
 				"key":"time",
 				"name":"時間",
@@ -323,29 +323,29 @@
 				"name":"English",
 				"value":[
 				    {"n":"中文國漫","v":"Full 國漫 3D 完整國產動漫"},
-				    {"n":"小豬佩奇","v":"PeppaPigChineseOfficial 小豬佩奇 中文官方 - Peppa Pig"},
-				    {"n":"CoComelon","v":"CoComelon"},
+				    {"n":"小豬佩奇","v":"@PeppaPigChineseOfficial 小豬佩奇 中文官方 - Peppa Pig"},
+				    {"n":"CoComelon","v":"@CoComelon"},
 				    {"n":"合集","v":"Anime ENG SUB 合集"},
-				    {"n":"國漫社","v":"Animation  次元 蒼穹動漫 PP看動漫 公館"},
-				    {"n":"國漫工廠","v":"3DGuoman  SUB"},
-				    {"n":"閱文動漫","v":"yuewenanimation  SUB"},
-				    {"n":"嗶哩","v":"madebybilibili  嗶哩動漫"},
-                    {"n":"騰訊","v":"TencentVideoAnimation SUB"},
-                    {"n":"優酷","v":"youkuanimation 優酷動漫"},
-                    {"n":"愛奇藝","v":"iQIYIAnime 愛奇藝動漫"}
+				    {"n":"國漫社","v":"@Animation  次元 蒼穹動漫 PP看動漫 公館"},
+				    {"n":"國漫工廠","v":"@3DGuoman  SUB"},
+				    {"n":"閱文動漫","v":"@yuewenanimation  SUB"},
+				    {"n":"嗶哩","v":"@madebybilibili  嗶哩動漫"},
+                    {"n":"騰訊","v":"@TencentVideoAnimation SUB"},
+                    {"n":"優酷","v":"@youkuanimation 優酷動漫"},
+                    {"n":"愛奇藝","v":"@iQIYIAnime 愛奇藝動漫"}
 				]
 			}
 		],
-		"TVBSNEWS網路獨家新聞24小時直播,CTI中天新聞24小時HD新聞直播,【錢線百分百】,【理財達人秀】,三立新聞24小時直播,LIVE民視新聞,中視新聞LIVE直播頻道24小時線上直播,東森財經新聞24小時線上直播,東森財經股市24小時直播,三立iNEWS24小時,鏡新聞線上看,寰宇新聞台24小時線上直播,寰宇新聞台灣台,台視新聞台HD24,華視新聞直播CH52,公視新聞PTS,公共電視13頻道,新聞":[
+		"YouTube 新聞 Live":[
 			{
 				"key":"tid",
 				"name":"中文",
 				"value":[
-					{"n":"默認直播","v":"fully TVBSNEWS網路獨家新聞24小時直播,CTI中天新聞24小時HD新聞直播,【錢線百分百】,【理財達人秀】,三立新聞24小時直播,LIVE民視新聞,中視新聞LIVE直播頻道24小時線上直播,東森財經新聞24小時線上直播,東森財經股市24小時直播,三立iNEWS24小時,鏡新聞線上看,寰宇新聞台24小時線上直播,寰宇新聞台灣台,台視新聞台HD24,華視新聞直播CH52,公視新聞PTS,公共電視13頻道,新聞 24小時"},
+					{"n":"默認直播","v":"fully YouTube 新聞 Live 24小時"},
 					{"n":"賽事","v":"直播 賽事"},
 					{"n":"CCTV","v":"CCTV 24h馬拉松直播"},
 					{"n":"港臺","v":"直播 港臺"},
-					{"n":"印度電視臺","v":"SETIndia"},
+					{"n":"印度電視臺","v":"@SETIndia"},
 				    {"n":"Live","v":"live news"},
 					{"n":"games","v":"live games news"},
 					{"n":"CNN","v":"live CNN news"},
@@ -498,10 +498,10 @@
 					{"n":"電影大劇院","v":"電影大劇院 1905 Movie Theater"},
 					{"n":"港臺三級片","v":"hdr 香港 澳門 臺灣 新加坡 馬來西亞 泰國 三級片"},
 					{"n":"邵氏經典","v":"hdr 邵氏經典武俠電影"},
-					{"n":"8號電影","v":"8-hkmovie 8號電影院 - HK Movie"},
-					{"n":"Chinese Dramas","v":"chinesedramas3560 Chinese Dramas"},
-					{"n":"追劇雜貨舖","v":"DramaGrocery 追劇雜貨鋪"},
-					{"n":"中國熱門高清電視","v":"chinahdtv8788 中國熱門高清電視 China HDTV"},
+					{"n":"8號電影","v":"@8-hkmovie 8號電影院 - HK Movie"},
+					{"n":"Chinese Dramas","v":"@chinesedramas3560 Chinese Dramas"},
+					{"n":"追劇雜貨舖","v":"@DramaGrocery 追劇雜貨鋪"},
+					{"n":"中國熱門高清電視","v":"@chinahdtv8788 中國熱門高清電視 China HDTV"},
 					{"n":"影視劇匯蹤","v":"影視劇匯蹤"},
 					{"n":"Movies china","v":"Movies china"},
 					{"n":"影視頻道","v":"影視頻道"},
@@ -650,7 +650,7 @@
 				    {"n":"全部Drama","v":"Full Episode drama"},
 				    {"n":"華語熱播電視劇官方頻道","v":"華語熱播電視劇官方頻道"},
 				    {"n":"粵劇","v":"粵劇 劇集"},
-				    {"n":"TVB","v":"TVB"},
+				    {"n":"TVB","v":"@TVB"},
 					{"n":"國劇放映社","v":"國劇放映社"},
 					{"n":"騰訊","v":"騰訊 劇集"},
 					{"n":"愛奇藝","v":"愛奇藝 劇集"},
@@ -676,18 +676,18 @@
 					{"n":"優酷","v":"full 優酷 短劇"},
 					{"n":"芒果","v":"full 芒果TV 短劇"},
 					{"n":"搜狐","v":"full 搜狐 短劇"},
-					{"n":"都市","v":"Urbanshort-TV full 都市 短劇"},
+					{"n":"都市","v":"@Urbanshort-TV full 都市 短劇"},
 					{"n":"愛情","v":"full 愛情 短劇"},
 					{"n":"復仇","v":"full 復仇 短劇"},
 					{"n":"穿越","v":"full 穿越 短劇"},
 					{"n":"喜劇","v":"full 喜劇 短劇"},
 					{"n":"奇幻","v":"full 奇幻 短劇"},
-					{"n":"九醬愛追劇","v":"NineSauceDramaTV full"},
-					{"n":"百萬好劇場","v":"1-pw5ox full"},
-					{"n":"咖啡追劇","v":"coffeedrama605 full"},
-					{"n":"鬥羅短劇","v":"DouluoDrama123 full 鬥羅短劇"},
-					{"n":"嘟嘟劇場","v":"DUDUJUCHANG full "},
-					{"n":"牛牛短劇","v":"niuniuduanju full"},
+					{"n":"九醬愛追劇","v":"@NineSauceDramaTV full"},
+					{"n":"百萬好劇場","v":"@1-pw5ox full"},
+					{"n":"咖啡追劇","v":"@@coffeedrama605 full"},
+					{"n":"鬥羅短劇","v":"@DouluoDrama123 full 鬥羅短劇"},
+					{"n":"嘟嘟劇場","v":"@DUDUJUCHANG full "},
+					{"n":"牛牛短劇","v":"@niuniuduanju full"},
 					{"n":"港澳臺","v":"完整 香港短劇 澳門短劇 臺灣短劇"},
 					{"n":"新馬泰","v":"完整 新加坡短劇 馬來西亞短劇 泰國短劇"},
 					{"n":"日韓","v":"完整 韓國短劇 日本短劇"},
@@ -1007,7 +1007,7 @@
 				"key":"tid",
 				"name":"地區",
 				"value":[
-				    {"n":"環球視聽","v":"環球視聽1980 RippleOfficialEvent"},
+				    {"n":"環球視聽","v":"環球視聽1980 @RippleOfficialEvent"},
 				    {"n":"YouTube 點閱率最高","v":"YouTube 點閱率最高觀看次數最多華語歌曲"},
 				    {"n":"海外抖音","v":"TikTok 翻唱 抖音 音樂"},
 				    {"n":"粵語","v":"粵語 音樂"},
@@ -1039,7 +1039,7 @@
 					{"n":"重低音DJ","v":"3D 8D 慢搖 重低音 音樂"},
 					{"n":"車載舞曲","v":"車載慢搖DJ歌曲串燒 深水炸彈DJ歌曲串燒 越南鼓DJ歌曲串燒 音樂"},
 					{"n":"超級女聲","v":"超級女聲"},
-					{"n":"tseries","v":"tseries"},
+					{"n":"tseries","v":"@tseries"},
 					{"n":"戲曲","v":"秦腔 京劇 越劇 黃梅戲 評劇 豫劇 崑曲 高腔 梆子腔 河北梆子 晉劇 蒲劇 雁劇 上黨梆子 武安平調 二人臺 吉劇 龍江劇 越調 河南曲劇 山東梆子 淮劇 滑稽戲 婺劇 紹劇 徽劇 閩劇 莆仙戲 梨園戲 高甲戲 贛劇 採茶戲 漢劇 湘劇 祁劇 湖南花鼓戲 粵劇 潮劇 桂劇 彩調 壯劇 川劇 黔劇 滇劇 傣劇 藏劇 皮影戲"}
 				]
 			},
@@ -1171,7 +1171,7 @@
 				"key":"tid",
 				"name":"體育",
 				"value":[
-				    {"n":"女足港場","v":"女足港場 Hong KongWomensStadium"},
+				    {"n":"女足港場","v":"女足港場 @Hong KongWomensStadium"},
 				    {"n":"全國校運動會","v":"全國大專 校院運動會 全中運 女子組賽事 全國中等 學校運動會"},
 				    {"n":"女中儀隊","v":"北一女中樂儀旗隊永續發展協會 北一女中家長會樂儀旗家長後援會 北一女中儀隊校友隊 臺灣 學校運動會 景美女中儀隊 北一女樂儀旗隊 full樂儀隊 "},
 				    {"n":"校園熱舞","v":"full 校園熱舞 開南熱無 開南大學課外活動組 女生熱舞社 南寶熱舞社 寶踐熱舞社 NTDC 熱舞社 STUST"},
@@ -1331,8 +1331,8 @@
 				"key":"tid",
 				"name":"頻道主",
 				"value":[
-				    {"n":"宇哥侃故事","v":"yuge"},
-				    {"n":"零度解說","v":"lingdujieshuo"}
+				    {"n":"宇哥侃故事","v":"@yuge"},
+				    {"n":"零度解說","v":"@lingdujieshuo"}
 				]
 			}
 		],
@@ -1343,7 +1343,7 @@
 				"value":[
 				    {"n":"運動","v":"GoPro 女翼裝飛行 極限自行車運動"},
 				    {"n":"風景","v":"hdr 大自然"},
-				    {"n":"Links TV頻道主","v":"linksphotograph Links TV hdr"},
+				    {"n":"Links TV頻道主","v":"@linksphotograph Links TV hdr"},
 				    {"n":"放鬆","v":"hdr 放鬆"},
 				    {"n":"動物世界","v":"hdr Carnivorous Animals 動物世界"},
 				    {"n":"深海世界","v":"hdr Invertebrate Fish 深海世界"},
@@ -1379,7 +1379,7 @@
 				"key":"tid",
 				"name":"隨便造",
 				"value":[
-				    {"n":"野外求生","v":"primitivetechnology9550 primitivetechnology9550"},
+				    {"n":"野外求生","v":"primitivetechnology9550 @primitivetechnology9550"},
 				    {"n":"求生","v":"求生一加一Dual Survival"},
 				    {"n":"脫險求生祕技","v":"脫險求生祕技 荒野求生祕技"},
 				    {"n":"荒野動物面對面","v":"荒野動物面對面wild recon"},
