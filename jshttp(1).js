@@ -1,14 +1,33 @@
 {
 //"spider":"./custom_spider.jar",
 "spider":"./pg.jar",
-"lives":[{
-"name":"自選",
+"lives":[
+{
+"name":"4gtv",
 "type":0,
 "url":"https://raw.githubusercontent.com/sqspot/tac/main/4gtv.txt",
 "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+"playerType": 1,
 "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png"
-}],
+},
+"name":"安博1",
+"type":0,
+"url":"https://raw.githubusercontent.com/sqspot/tac/main/live.txt",
+"ua": "okhttp/3.15",
+"playerType": 1,
+"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+"logo":"https://epg.112114.xyz/logo/{name}.png"
+},
+"name":"安博2",
+"type":0,
+"url":"https://raw.githubusercontent.com/sqspot/tac/main/live3.txt",
+"ua": "",
+"playerType": 1,
+"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+"logo":"https://epg.112114.xyz/logo/{name}.png"
+}
+],
 "sites" : [
 {"key":"lf_js_search","name":"🔎搜索影片　　　　🔥祝大家🤩好運🐉總來💯","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js"},
 {"key":"drpy","name":"豆瓣","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
