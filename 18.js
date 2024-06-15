@@ -28,7 +28,7 @@
 {"key": "csp_xBPQ_香蕉直播","name": "香蕉┃直播","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "./lib/Yoursmile2.jar","ext": "./js/新香蕉实时直播.json"},
 {"key":"9206_博天堂","name":"🔥博天堂歐美倫理","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"环亚资源站","name":"🔥环亚全無碼","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","playUrl":"","categories":[],"quickSearch":0},
-{"key":"dr_朱古力","name":"🔥朱古力(道长)","type":3,"api":"drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/朱古力.js"},
+{"key":"dr_朱古力","name":"🔥朱古力(道长)","type":3,"api":"./lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/朱古力.js"},
 {"key":"直播转点播s","name":"❤💻电视直播♒","type":3,"style":{ "type":"oval" },"api":"./lib/live2cms.js","ext":"./live2tv_sq_s.txt"},
 {"key": "Youtube","name": "❤📺YouTube新聞直播","type": 3,"style":{ "type":"oval" },"api": "./Mud.js","ext": "./YouTube.txt"},
 {"key":"T4-安博","name":"🏆安博(T4)","type":4,"api":"https://tang.serv00.net/power/ub1818","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
@@ -77,7 +77,7 @@
 {"key":"9206_橘猫资源","name":"🏆橘猫资源","type":1,"api":"https://to.to-long.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"9206_森林资源","name":"🏆森林资源","type":1,"api":"https://senlinzy2.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"玩偶","name":"🏆玩偶","type":3,"api":"csp_Doll","searchable":1,"filterable":1},
-{"key":"dr_玩偶姐姐","name":"🏆玩偶姐姐(道长)","type":3,"api":"drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/玩偶姐姐.js"},
+{"key":"dr_玩偶姐姐","name":"🏆玩偶姐姐(道长)","type":3,"api":"./lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/玩偶姐姐.js"},
 {"key":"9206_玉兔资源","name":"🏆玉兔资源","type":1,"api":"https://yutuzy3.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"9206_老鸭资源","name":"🌟🤩老鸭無碼動漫海外","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"9206_155资源","name":"🌟155资源","type":1,"api":"https://155api.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
@@ -93,7 +93,7 @@
 {"key":"9206_小湿妹资源站","name":"🌟小湿妹资源站","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"9206_蛋蛋视频","name":"🌟蛋蛋视频","type":1,"api":"http://156.249.29.8/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"9206_淫水机资源站","name":"😰淫水机资源站","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"ikanbot3","name":"爱看机器人3","type":3,"api":"drpy2.min.js","ext":"./js/ikanbot3.js"}
+{"key":"ikanbot3","name":"爱看机器人3","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"}
 ],
 
 "parses":[

@@ -21,7 +21,7 @@
 
 
 "sites":[
-{"key":"我的哔哩sq","name":"我的哔哩sq","type":3,"api":"drpy2.min.js","ext":"./js/我的哔哩sq.js"}
+{"key":"我的哔哩sq","name":"我的哔哩sq","type":3,"api":"./lib/drpy2.min.js","ext":"./js/我的哔哩sq.js"}
 
 
 //{"key":"说明","name":"------公众号【云星日记】------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
