@@ -1,6 +1,10 @@
 {
 	"class":[
 {"type_id":"台灣新聞 直播","type_name":"台灣新聞台"},
+{
+"type_id":"LIST:Full YouTube,關鍵時刻 @ebcctime,少康戰情室 @tvbssituationroom,政經最前線 https:/@democratictaiwanchannel,數字台灣 @taiwan_insights,曲博科技教室 @ansforce,年代向錢看 @next_money,文茜的世界周報 @tvbssisysworldnews,57爆新聞 @57breakingnews,年代向錢看 @next_money,新聞面對面 @facenews_era,關我什麼事 @gunashow,新聞哇哇哇 @newswawawa",
+"type_name":"政論節目(頻道)"
+},
 {"type_id":"TVBS娛樂頭條","type_name":"娛樂新聞"},
 {"type_id":"#shorts 短片","type_name":"shorts"},
 {"type_id":"時尚潮流","type_name":"時尚潮流"}
