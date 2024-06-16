@@ -23,7 +23,7 @@
 {"name":"安博2",
 "type":0,
 "url":"https://raw.githubusercontent.com/sqspot/tac/main/live2.txt",
-"ua": "",
+"ua": "okhttp/3.15",
 "playerType": 1,
 "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png"
@@ -31,7 +31,7 @@
 {"name":"安博4",
 "type":0,
 "url":"https://raw.githubusercontent.com/sqspot/tac/main/live4.txt",
-"ua": "",
+"ua": "okhttp/3.15",
 "playerType": 1,
 "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png"
