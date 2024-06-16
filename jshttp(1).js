@@ -11,7 +11,7 @@
 "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png"
 },
-"name":"安博1",
+{"name":"安博1",
 "type":0,
 "url":"https://raw.githubusercontent.com/sqspot/tac/main/live.txt",
 "ua": "okhttp/3.15",
@@ -19,7 +19,7 @@
 "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png"
 },
-"name":"安博2",
+{"name":"安博2",
 "type":0,
 "url":"https://raw.githubusercontent.com/sqspot/tac/main/live3.txt",
 "ua": "",
