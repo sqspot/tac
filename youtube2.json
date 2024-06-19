@@ -1,7 +1,7 @@
 {
 	"class":[
 {"type_id":"台灣新聞 直播","type_name":"台灣新聞台"},
-{"type_id":"政論節目","type_name":"政論節目"},
+{"type_id":"LIST:關鍵時刻","type_name":"政論節目"},
 {"type_id":"TVBS娛樂頭條","type_name":"娛樂新聞"},
 {"type_id":"#shorts 短片","type_name":"shorts"},
 {"type_id":"解說","type_name":"解說"}
@@ -37,7 +37,7 @@
 	]}
 ],
 
-"政論節目":[
+"LIST:關鍵時刻":[
 
 		{"key":"tid","name":"中文","value":[
 		{"n":"關鍵時刻","v":"關鍵時刻 @ebcctime"},
