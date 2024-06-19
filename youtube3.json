@@ -1,7 +1,7 @@
 {
 	"class":[
 {"type_id":"台灣新聞 直播","type_name":"台灣新聞台"},
-{"type_id":"LIST:Full YouTube,關鍵時刻 @ebcctime,少康戰情室 @tvbssituationroom,政經最前線 @democratictaiwanchannel,數字台灣 @taiwan_insights,曲博科技教室 @ansforce,年代向錢看 @next_money,文茜的世界周報 @tvbssisysworldnews,57爆新聞 @57breakingnews,年代向錢看 @next_money,新聞面對面 @facenews_era,關我什麼事 @gunashow,新聞哇哇哇 @newswawawa",
+{"type_id":"政論節目",
 "type_name":"政論節目(頻道)"},
 {"type_id":"TVBS娛樂頭條","type_name":"娛樂新聞"},
 {"type_id":"#shorts 短片","type_name":"shorts"},
@@ -38,16 +38,24 @@
 	]}
 ],
 
-"LIST:Full YouTube,關鍵時刻 @ebcctime,少康戰情室 @tvbssituationroom,政經最前線 @democratictaiwanchannel,數字台灣 @taiwan_insights,曲博科技教室 @ansforce,年代向錢看 @next_money,文茜的世界周報 @tvbssisysworldnews,57爆新聞 @57breakingnews,年代向錢看 @next_money,新聞面對面 @facenews_era,關我什麼事 @gunashow,新聞哇哇哇 @newswawawa":[
-{"key":"time",
-"name":"時間",
-"value":[
-	{"n":"全選","v":
-	"LIST:Full YouTube,關鍵時刻 @ebcctime,少康戰情室 @tvbssituationroom,政經最前線 @democratictaiwanchannel,數字台灣 @taiwan_insights,曲博科技教室 @ansforce,年代向錢看 @next_money,文茜的世界周報 @tvbssisysworldnews,57爆新聞 @57breakingnews,年代向錢看 @next_money,新聞面對面 @facenews_era,關我什麼事 @gunashow,新聞哇哇哇 @newswawawa"
-	}]
-}
+"政論節目":[
+{"key":"tid","name":"中文","value":[
+		{"n":"關鍵時刻","v":"關鍵時刻 @ebcctime"},
+		{"n":"少康戰情室","v":"少康戰情室 @tvbssituationroom"},
+		{"n":"政經最前線","v":"政經最前線 @democratictaiwanchannel"},
+		{"n":"數字台灣","v":"數字台灣 @taiwan_insights"},
+		{"n":"曲博科技教室","v":"曲博科技教室 @ansforce"},
+		{"n":"年代向錢看","v":"年代向錢看 @next_money"},
+		{"n":"文茜的世界周報","v":"文茜的世界周報 @tvbssisysworldnews"},
+		{"n":"57爆新聞","v":"57爆新聞 @57breakingnews"},
+		{"n":"新聞面對面","v":"新聞面對面 @facenews_era"},
+		{"n":"關我什麼事","v":"關我什麼事 @gunashow"},
+		{"n":"新聞哇哇哇","v":"新聞哇哇哇 @newswawawa"}
+		
+	]}
 ],
 
+	
 "TVBS娛樂頭條":[
 	{"key":"tid","name":"中文","value":[
 		{"n":"TVBS娛樂頭條","v":"TVBS娛樂頭條"},
