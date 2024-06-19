@@ -1,8 +1,7 @@
 {
 	"class":[
 {"type_id":"台灣新聞 直播","type_name":"台灣新聞台"},
-{"type_id":"LIST:Full YouTube,關鍵時刻 @ebcctime,少康戰情室 @tvbssituationroom,政經最前線 @democratictaiwanchannel,數字台灣 @taiwan_insights,曲博科技教室 @ansforce,年代向錢看 @next_money,文茜的世界周報 @tvbssisysworldnews,57爆新聞 @57breakingnews,年代向錢看 @next_money,新聞面對面 @facenews_era,關我什麼事 @gunashow,新聞哇哇哇 @newswawawa",
-"type_name":"政論節目(頻道)"},
+{"type_id":"政論節目","type_name":"政論節目"},
 {"type_id":"TVBS娛樂頭條","type_name":"娛樂新聞"},
 {"type_id":"#shorts 短片","type_name":"shorts"},
 {"type_id":"解說","type_name":"解說"}
@@ -38,18 +37,28 @@
 	]}
 ],
 
-"LIST:Full YouTube,關鍵時刻 @ebcctime,少康戰情室 @tvbssituationroom,政經最前線 @democratictaiwanchannel,數字台灣 @taiwan_insights,曲博科技教室 @ansforce,年代向錢看 @next_money,文茜的世界周報 @tvbssisysworldnews,57爆新聞 @57breakingnews,年代向錢看 @next_money,新聞面對面 @facenews_era,關我什麼事 @gunashow,新聞哇哇哇 @newswawawa":[
-{"key":"time",
-"name":"時間",
-"value":[
-	{"n":"全選","v":
-	"LIST:Full YouTube,關鍵時刻 @ebcctime,少康戰情室 @tvbssituationroom,政經最前線 @democratictaiwanchannel,數字台灣 @taiwan_insights,曲博科技教室 @ansforce,年代向錢看 @next_money,文茜的世界周報 @tvbssisysworldnews,57爆新聞 @57breakingnews,年代向錢看 @next_money,新聞面對面 @facenews_era,關我什麼事 @gunashow,新聞哇哇哇 @newswawawa"
-	}]
-}
+"政論節目":[
+
+		{"key":"tid","name":"中文","value":[
+		{"n":"關鍵時刻","v":"關鍵時刻 @ebcctime"},
+		{"n":"少康戰情室","v":"少康戰情室 @tvbssituationroom"},
+		{"n":"政經最前線","v":"政經最前線 @democratictaiwanchannel"},
+		{"n":"數字台灣","v":"數字台灣 @taiwan_insights"},
+		{"n":"曲博科技教室","v":"曲博科技教室 @ansforce"},
+		{"n":"年代向錢看","v":"年代向錢看 @next_money"},
+		{"n":"文茜的世界周報","v":"文茜的世界周報 @tvbssisysworldnews"},
+		{"n":"57爆新聞","v":"57爆新聞 @57breakingnews"},
+		{"n":"新聞面對面","v":"新聞面對面 @facenews_era"},
+		{"n":"關我什麼事","v":"關我什麼事 @gunashow"},
+		{"n":"新聞哇哇哇","v":"新聞哇哇哇 @newswawawa"}
+		
+	]}
+	
 ],
 
+	
 "TVBS娛樂頭條":[
-	{"key":"tid","name":"中文","value":[
+		{"key":"tid","name":"中文","value":[
 		{"n":"TVBS娛樂頭條","v":"TVBS娛樂頭條"},
 		{"n":"八大電視娛樂百分百","v":"八大電視娛樂百分百"},
 		{"n":"壹蘋新聞網","v":"壹蘋新聞網"},
@@ -59,6 +68,81 @@
 		{"n":"KTS娛樂新聞台","v":"KTS娛樂新聞台"}
 		
 	]}
+	
+],
+
+"#shorts 短片":[
+	{"key":"tid","name":"中文","value":[
+		{"n":"搞笑","v":"#shorts 搞笑"},
+		{"n":"生活小技巧","v":"#shorts 生活小技巧"},
+		{"n":"美女","v":"#shorts 美女"},
+		{"n":"流行","v":"#shorts 流行"},
+		{"n":"DIY","v":"#shorts DIY"},
+		{"n":"木工","v":"#shorts 木工"},
+		{"n":"水電","v":"#shorts 水電"},
+		{"n":"網紅","v":"#shorts 網紅"},
+		{"n":"知識","v":"#shorts 知識"}
+		"台灣新聞 直播":[
+	{"key":"tid","name":"中文","value":[
+		{"n":"默認","v":"台灣新聞 直播"},
+		{"n":"TVBS新聞","v":"TVBS NEWS網路獨家新聞24小時直播"},
+		{"n":"中天新聞","v":"CTI中天新聞24小時HD新聞直播"},
+		{"n":"三立新聞","v":"三立新聞 24小時直播 LIVE 三立+"},
+		{"n":"民視新聞","v":"LIVE 民視新聞 FTV 新聞直播"},
+		{"n":"中視新聞","v":"中視新聞LIVE直播頻道24小時線上直播"},
+		{"n":"東森財經新聞","v":"東森財經新聞24小時線上直播"},
+		{"n":"東森財經股市","v":"東森財經股市24小時直播"},
+		{"n":"錢線百分百","v":"【錢線百分百】"},
+		{"n":"理財達人秀","v":"【理財達人秀】"},
+		{"n":"三立財經新聞","v":"三立iNEWS 24小時 CH48新聞直播"},
+		{"n":"鏡新聞","v":"鏡新聞 線上看 24小時 新聞直播"},
+		{"n":"寰宇新聞台","v":"寰宇新聞台 24小時線上直播"},
+		{"n":"寰宇新聞台灣台","v":"寰宇新聞 台灣台"},
+		{"n":"台視新聞","v":"台視新聞台HD 24 小時線上直播"},
+		{"n":"華視新聞","v":"華視新聞直播 CH52"},
+		{"n":"公視新聞","v":"公視新聞 PTS News  24小時線上直播"},
+		{"n":"公共電視","v":"公共電視 13頻道 網路直播 PTS Live"}
+	]},
+	{"key":"tid","name":"English","value":[
+		{"n":"Live","v":"live"},
+		{"n":"Games","v":"live games"},
+		{"n":"CNN","v":"live CNN"},
+		{"n":"BBC","v":"live BBC"}
+	]}
+],
+
+"政論節目":[
+
+		{"key":"tid","name":"中文","value":[
+		{"n":"關鍵時刻","v":"關鍵時刻 @ebcctime"},
+		{"n":"少康戰情室","v":"少康戰情室 @tvbssituationroom"},
+		{"n":"政經最前線","v":"政經最前線 @democratictaiwanchannel"},
+		{"n":"數字台灣","v":"數字台灣 @taiwan_insights"},
+		{"n":"曲博科技教室","v":"曲博科技教室 @ansforce"},
+		{"n":"年代向錢看","v":"年代向錢看 @next_money"},
+		{"n":"文茜的世界周報","v":"文茜的世界周報 @tvbssisysworldnews"},
+		{"n":"57爆新聞","v":"57爆新聞 @57breakingnews"},
+		{"n":"新聞面對面","v":"新聞面對面 @facenews_era"},
+		{"n":"關我什麼事","v":"關我什麼事 @gunashow"},
+		{"n":"新聞哇哇哇","v":"新聞哇哇哇 @newswawawa"}
+		
+	]}
+	
+],
+
+	
+"TVBS娛樂頭條":[
+		{"key":"tid","name":"中文","value":[
+		{"n":"TVBS娛樂頭條","v":"TVBS娛樂頭條"},
+		{"n":"八大電視娛樂百分百","v":"八大電視娛樂百分百"},
+		{"n":"壹蘋新聞網","v":"壹蘋新聞網"},
+		{"n":"【擠看看】 TVBS新聞","v":"【擠看看】 TVBS新聞"},
+		{"n":"三立娛樂星聞","v":"三立娛樂星聞"},
+		{"n":"CTWANT 娛樂新聞 ","v":"CTWANT 娛樂新聞 "},
+		{"n":"KTS娛樂新聞台","v":"KTS娛樂新聞台"}
+		
+	]}
+	
 ],
 
 "#shorts 短片":[
@@ -77,65 +161,6 @@
 	]}
 ],
 
-"時尚潮流":[
-			{
-				"key":"tid",
-				"name":"時裝秀",
-				"value":[
-				    {"n":"街舞","v":"脫衣舞 丁字褲 街舞 太空步 機械舞 舞 裸體舞蹈 霹靂舞 魔性舞蹈 鬼步舞 木偶舞 女性藝術舞蹈"},
-				    {"n":"時尚走秀","v":"T臺走秀 lingerie show"},
-				    {"n":"時裝秀","v":"hdr ASM lingerieTV 東京ファッションショー 下着ショー"},
-				    {"n":"潮流秀","v":"FASHION IN UHD"},
-				    {"n":"時裝模特","v":"FASHION Runway"},
-				    {"n":"模特","v":"比基尼 泳裝 頂級車模 空姐 寫真 Car model Stewardess Portrait"},
-				    {"n":"裸體秀","v":"hdr 人體藝術 裸體秀 Nude show"},
-				    {"n":"無限亂鬥","v":"hdr 廟會秀 無限HD 公廟 鋼管舞 脫衣舞 舞女 清純 寫真"}
-				]
-			},
-			{
-				"key":"tid",
-				"name":"小姐姐",
-				"value":[
-					{"n":"小姐姐超清","v":"小姐姐超清"},
-				    {"n":"國內小姐姐","v":"快手車模 抖音車模 國內小姐姐"},
-					{"n":"韓國小姐姐","v":"韓國小姐姐"},
-					{"n":"日本小姐姐","v":"日本小姐姐"},
-					{"n":"俄羅斯小姐姐","v":"俄羅斯小姐姐"},
-					{"n":"混血小姐姐","v":"混血小姐姐"},
-					{"n":"越南小姐姐","v":"越南小姐姐"},
-					{"n":"Al小姐姐","v":"Al美女超清"},
-					{"n":"抖音熱門小姐姐","v":"抖音熱門小姐姐"},
-					{"n":"快手熱門美女","v":"快手熱門美女"},
-					{"n":"打碟小姐姐","v":"打碟小姐姐"},
-					{"n":"衝浪小姐姐","v":"衝浪小姐姐"},
-					{"n":"蹦迪小姐姐","v":"蹦迪小姐姐"},
-					{"n":"藝校小姐姐","v":"藝校小姐姐"},
-					{"n":"環球小姐","v":"環球小姐"},
-					{"n":"泰國人妖","v":"泰國人妖"},
-					{"n":"人間胸器","v":"人間胸器"}
-				]
-			},
-			{
-			    "key":"tid",
-			    "name":"English",
-			    "value":[
-			         {"n":"sexy Miss","v":"sexy Miss"},
-			         {"n":"Hot sexy Girl","v":"Hot sexy Girl"},
-			         {"n":"Korean Girl","v":"Korean sexy Girl"},
-			         {"n":"Japanese Girl","v":"Japanese sexy Girl"},
-			         {"n":"Russian Girl","v":"Russian sexy Girl"},
-			         {"n":"Vietnamese Girl","v":"Vietnamese sexy Girl"},
-			         {"n":"AI Girl","v":"AI Girl"},
-			         {"n":"TikTok Hot Siste","v":"TikTok Hot sexy Girl"},
-			         {"n":"Cute Girl","v":"sexy Cute Girl"},
-			         {"n":"Girl Dj","v":"sexy Girl Dj"},
-			         {"n":"Girl Surfer","v":"sexy Girl Surfer"},
-			         {"n":"Dance Girl","v":"Dance sexy Girl"},
-			         {"n":"Miss Universe","v":"Miss Universe"},
-			         {"n":"Thai Shemale","v":"Thai Shemale"}
-			    ]
-			}
-		],
 "解說":[
 			{
 				"key":"tid",
