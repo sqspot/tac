@@ -1,7 +1,7 @@
 {
 //Type 0-xml、 1-json 、2-爬虫源 、3-自定义爬虫 、4-服务器爬虫。
-//"spider":"./custom_spider.jar",
-"spider":"./pg.jar",
+"spider":"./custom_spider.jar",
+//"spider":"./pg.jar",
 "lives":[
 {
 "name":"4gtv",
@@ -46,13 +46,12 @@
 }
 ],
 "sites" : [
-{"key":"lf_js_search","name":"🔎搜索影片　　　　🔥祝大家🤩好運🐉總來💯","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js"},
-{"key":"drpy","name":"豆瓣","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
+{"key":"drpy","name":"🔎豆瓣搜索影片　　　　🔥祝大家🤩好運🐉總來💯","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
+{"key":"lf_search","name":"🔎lf_搜索影片3","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js"},
 {"key":"drpy__豆瓣","name":"豆瓣🏛[DRPY]","type":3,"api":"./lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
-{"key":"Youtube","name":"🛗Youtube⏩","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"./youtube.json","type":"直播#新聞#劇集#電影#綜藝#紀錄片#音樂#體育#動物#風光#放鬆#4K#HDR#movie#music#documentary#bbcdocumentary#nationalgeographicdocumentary","keywords":"排行榜,HOT,TRENDS,熱門話題,熱門趨勢,熱門綜藝,熱門電影,熱門電視劇,小姐姐","codecs":""},"style":{"type":"rect","ratio":1.5}},
-//{"key":"Youtube2","name":"👉🔥Youtube台灣新聞🎯👈","type":3,"api":"csp_Youtube","searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./youtube2.json","type":"TVBS新聞#中天新聞#三立新聞#民視新聞#中視新聞#東森財經新聞#東森財經股市#錢線百分百#理財達人秀#三立財經新聞#鏡新聞#寰宇新聞台#寰宇新聞台灣台#台視新聞#華視新聞#公視新聞#公共電視","keywords":"排行榜,HOT,TRENDS,熱門話題,熱門趨勢,熱門綜藝,熱門電影,熱門電視劇,小姐姐","codecs":""},"style":{"type":"rect","ratio":1.5}},
-{"key":"Youtube2","name":"👉🔥Youtube台灣新聞🎯👈","type":3,"api":"csp_Youtube","searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./youtube2.json","codecs":""},"style":{"type":"rect","ratio":1.5}},
-{"key":"Youtube3","name":"🛗🎯Youtube測試⏩","type":3,"api":"csp_Youtube","searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./youtube3.json","type":"TVBS新聞#中天新聞#三立新聞#民視新聞#中視新聞#東森財經新聞#東森財經股市#錢線百分百#理財達人秀#三立財經新聞#鏡新聞#寰宇新聞台#寰宇新聞台灣台#台視新聞#華視新聞#公視新聞#公共電視#其他","keywords":"排行榜,HOT,TRENDS,熱門話題,熱門趨勢,熱門綜藝,熱門電影,熱門電視劇,小姐姐","codecs":""},"style":{"type":"rect","ratio":1.5}},
+{"key":"Youtube","name":"🛗Youtube⏩","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"./youtube.json","type":"直播#新聞#劇集#電影#綜藝#紀錄片#音樂#體育#動物#風光#放鬆#4K#HDR#movie#music#documentary#bbcdocumentary#nationalgeographicdocumentary","keywords":"排行榜,HOT,TRENDS,熱門話題,熱門趨勢,熱門綜藝,熱門電影,熱門電視劇,小姐姐","codecs":""},"style":{"type":"rect","ratio":1.5},"jar":"./pg.jar"},
+{"key":"Youtube2","name":"👉🔥Youtube台灣新聞🎯👈","type":3,"api":"csp_Youtube","searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./youtube2.json","codecs":""},"style":{"type":"rect","ratio":1.5},"jar":"./pg.jar"},
+{"key":"Youtube3","name":"🛗🎯Youtube測試⏩","type":3,"api":"csp_Youtube","searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./youtube3.json","codecs":""},"style":{"type":"rect","ratio":1.5},"jar":"./pg.jar"},
 {"key":"ikanbotsq","name":"🈵爱看机器人sq","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbotsq.js"},
 {"key":"农民","name":"💬評分 農民","type":3,"api":"./lib/drpy2.min.js","ext":"./js/农民影视.js"},
 {"key":"一起看","name":"💬評分/集數 一起看","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"./t.jar"},
