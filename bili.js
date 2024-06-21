@@ -13,10 +13,8 @@
 
 
 {
-"spider":"./pg.jar",
-//"spider":"./custom_spider.jar"
-//"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jar",
-
+"spider":"./custom_spider.jar",
+//"spider":"./pg.jar",
 
 
 

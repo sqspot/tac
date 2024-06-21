@@ -1,6 +1,7 @@
 //./jshttp(1).js
 {
-//"spider":"./top98_1.jar",
+"spider":"./custom_spider.jar",
+//"spider":"./pg.jar",
 "sites" : [
 {"key":"drpy","name":"豆瓣🍭🔎(简体)","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key":"drpy2","name":"豆瓣2🍭🔎","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
