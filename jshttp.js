@@ -80,7 +80,6 @@
 {"key":"金鹰影视e","name":"😰金鹰影视","type":1,"api":"https://jinyingzy.com/provide/vod/from/jinyingm3u8/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"无尽网","name":"🌟无尽wj","type":0,"api":"https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Youtube台灣新聞","name": "😰YouTube台灣新聞","type": 3,"style":{ "type":"oval" },"api": "./Mud.js","ext": "./YouTube.txt"},
-{"key":"直播转点播","name":"❤💻網路第四台m3u格式","type":3,"searchable":0,"api":"./lib/live2vod.js","ext":"./live2tv_sq.m3u"},
 {"key":"直播转点播2","name":"❤💻網路第四台txt格式","type":3,"style":{ "type":"oval" },"api":"./lib/live2cms.js","ext":"./live2tv_sq.txt"},
 {"key":"ikanbot3","name":"爱看机器人3","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/ikanbot3.js"}
 ],
