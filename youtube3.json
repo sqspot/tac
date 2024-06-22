@@ -8,6 +8,8 @@
 {"type_id":"外配","type_name":"外配"},
 {"type_id":"#shorts 短片","type_name":"shorts"},
 {"type_id":"時尚潮流","type_name":"時尚潮流"}
+//{"type_id":"解說","type_name":"解說"}
+
 ],
 	
 	"filters":{
@@ -214,6 +216,7 @@
 			}
 		]
 
+//"解說":[{"key":"tid","name":"頻道主","value":[{"n":"宇哥侃故事","v":"@yuge"},{"n":"零度解說","v":"@lingdujieshuo"}]}]
 
 },
 	"jx":0,
