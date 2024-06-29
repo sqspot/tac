@@ -7,7 +7,7 @@
 {"type_id":"TVBS娛樂頭條","type_name":"娛樂新聞"},
 {"type_id":"綜藝節目","type_name":"綜藝節目"},
 {"type_id":"旅遊台灣","type_name":"旅遊台灣"},
-{"type_id":"直播主①","type_name":"直播主1"},
+{"type_id":"YouTuber①","type_name":"YouTuber①"},
 {"type_id":"外配","type_name":"外配"},
 {"type_id":"#shorts 短片","type_name":"shorts"},
 {"type_id":"時尚潮流","type_name":"時尚潮流"},
@@ -102,7 +102,7 @@
 ]}
 ],
 
-"直播主1":[
+"YouTuber①":[
 {"key":"tid","name":"中文","value":[
 {"n":"老高與小茉","v":"老高與小茉 Mr & Mrs Gao"},
 {"n":"未解之謎 扶搖","v":"未解之謎 扶搖"},
