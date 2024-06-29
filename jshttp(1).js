@@ -310,8 +310,6 @@
 {"name": "七新嗅探","hosts": [  "api.52wyb.com"],"regex": [  "m3u8?pt=m3u8"]},
 {"name": "毛驢點擊","hosts": [  "www.maolvys.com"],"script": [  "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"]}
 ],
-
 "ads": ["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]
-
 
 }
