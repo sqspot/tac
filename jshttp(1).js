@@ -57,7 +57,7 @@
 {"key":"一起看","name":"💬評分/集數 一起看","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"./t.jar"},
 {"key":"乐鱼影视","name":"💬集數 乐鱼影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/乐鱼影视.js"},
 {"key":"獨播","name":"獨播|海外","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./js/独播库[飞].js","jar":"./XBPQ.jar"},
-{"key":"獨播庫","name":"獨播庫|海外","type":3,"api":"csp_XBPQ","searchable":1,"changeable":0,"ext":"./js/独播库[飞].js","jar":"./XBPQ.jar"},
+{"key":"独播库","name":"独播库","type":3,"api":"csp_XBPQ","ext":{"图片":"data-original=\"&&\"","标题":"title=\"&&\"","线路数组":"class=\"myui-panel__headactive&&</div>","线路标题":"class=\"titletitlego\">&&</h3","分类url":"https://www.dubokuz.com/vodtype/{cateId}.html?year={year}&country={area}&page={catePg}","分类":"电影$movie#剧集$tv#综艺$show#动漫$anime"},"jar":"./xbpq.jar"}
 {"key":"獨播js","name":"獨播 js","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":0,"ext":"./js/独播库[飞].js","jar":"./XBPQ.jar"},
 {"key": "星星","name": "🔥星星|","type": 3,"api": "csp_Star","searchable": 1,"changeable": 0},
 {"key":"海外看网","name":"🔥海外看haiwaikan","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
