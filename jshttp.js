@@ -33,7 +33,7 @@
 {"key":"lf_search","name":"🔎lf_搜索影片3","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js"},
 {"key":"drpy__豆瓣","name":"豆瓣🏛[DRPY]","type":3,"api":"./lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
 {"key":"Youtube","name":"🛗Youtube⏩","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"./youtube.json","type":"直播#新聞#劇集#電影#綜藝#紀錄片#音樂#體育#動物#風光#放鬆#4K#HDR#movie#music#documentary#bbcdocumentary#nationalgeographicdocumentary","keywords":"排行榜,HOT,TRENDS,熱門話題,熱門趨勢,熱門綜藝,熱門電影,熱門電視劇,小姐姐","codecs":""},"style":{"type":"rect","ratio":1.5},"jar":"./pgYT.jar"},
-{"key":"Youtube2","name":"👉🔥Youtube台灣新聞🎯👈","type":3,"api":"csp_Youtube","searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./youtube2.json","codecs":""},"style":{"type":"rect","ratio":1.5},"jar":"./pgYT.jar"},
+{"key":"Youtube2","name":"👉🔥Youtube台灣🎯👈","type":3,"api":"csp_Youtube","searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./youtube2.json","codecs":""},"style":{"type":"rect","ratio":1.5},"jar":"./pgYT.jar"},
 {"key":"ikanbotsq","name":"🈵爱看机器人sq","type":3,"api":"./lib/drpy2.min.sq.js","ext":"./js/ikanbotsq.js"},
 {"key":"獨播","name":"獨播|海外","type":3,"api":"csp_XPathMacFilter","searchable":1,"changeable":0,"ext":"./js/独播库[飞].js"},
 {"key":"獨播js","name":"獨播 js","type":3,"api":"./lib/drpy2.min.sq.js","searchable":1,"changeable":0,"ext":"./js/独播库[飞].js"},

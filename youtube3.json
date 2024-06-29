@@ -7,11 +7,11 @@
 {"type_id":"TVBS娛樂頭條","type_name":"娛樂新聞"},
 {"type_id":"綜藝節目","type_name":"綜藝節目"},
 {"type_id":"旅遊台灣","type_name":"旅遊台灣"},
-{"type_id":"YouTuber①","type_name":"YouTuber①"},
-{"type_id":"外配","type_name":"外配"},
+{"type_id":"直播主","type_name":"YouTuber①"},
+{"type_id":"陸配","type_name":"外配"},
 {"type_id":"#shorts 短片","type_name":"shorts"},
 {"type_id":"時尚潮流","type_name":"時尚潮流"},
-{"type_id":"一口氣","type_name":"解說"}
+{"type_id":"一口氣看完","type_name":"一口氣看完"}
 ],
 
 "filters":{
@@ -102,7 +102,7 @@
 ]}
 ],
 
-"YouTuber①":[
+"直播主":[
 {"key":"tid","name":"中文","value":[
 {"n":"老高與小茉","v":"老高與小茉 Mr & Mrs Gao"},
 {"n":"未解之謎 扶搖","v":"未解之謎 扶搖"},
@@ -119,7 +119,7 @@
 ]}
 ],
 
-"外配":[
+"陸配":[
 {"key":"tid","name":"中文","value":[
 {"n":"徐子雅","v":"徐子雅"},
 {"n":"丸子妮","v":"丸子妮"},
@@ -181,7 +181,7 @@
 ]}
 ],
 
-"解說":[
+"一口氣看完":[
 {"key":"tid","name":"中文","value":[
 {"n":"温城鲤","v":"温城鲤"},
 {"n":"米虫看剧","v":"米虫看剧"},
