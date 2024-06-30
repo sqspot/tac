@@ -7,8 +7,8 @@
 {"type_id":"TVBS娛樂頭條","type_name":"娛樂新聞"},
 {"type_id":"綜藝節目","type_name":"綜藝節目"},
 {"type_id":"旅遊台灣","type_name":"旅遊台灣"},
-{"type_id":"直播主","type_name":"YouTuber①"},
-{"type_id":"YouTube①分支","type_name":"YouTube①分支"},
+{"type_id":"YouTuber①","type_name":"YouTuber①"},
+{"type_id":"stopkiddinstudio","type_name":"不要鬧工作室"},
 {"type_id":"陸配","type_name":"外配"},
 {"type_id":"#shorts 短片","type_name":"shorts"},
 {"type_id":"時尚潮流","type_name":"時尚潮流"},
@@ -84,7 +84,6 @@
 {"key":"tid","name":"中文","value":[
 {"n":"Sean的世界 TV","v":"Sean的世界 台灣"},
 {"n":"Sean逛吃TV","v":"Sean逛吃TV 台灣"},
-{"n":"不要鬧工作室","v":"stopkiddinstudio"},
 {"n":"韓國女生Judy","v":"韓國女生Judy"},
 {"n":"易拉罐的记事本","v":"易拉罐的记事本NewBee 台灣"},
 {"n":"蜜拉士愷","v":"波蘭女孩x台灣男孩蜜拉士愷"},
@@ -103,7 +102,7 @@
 ]}
 ],
 
-"直播主":[
+"YouTuber①":[
 {"key":"tid","name":"中文","value":[
 {"n":"老高與小茉","v":"老高與小茉 Mr & Mrs Gao"},
 {"n":"未解之謎 扶搖","v":"未解之謎 扶搖"},
@@ -206,7 +205,7 @@
 ]}
 ],
 
-"YouTube①分支":[
+"stopkiddinstudio":[
 {"key":"tid","name":"中文","value":[
 {"n":"奧地利相關系列","v":"奧地利相關系列 (Austrian Culture)Stopkiddinstudio"},
 {"n":"波蘭相關系列","v":"波蘭相關系列 (Polish Culture)Stopkiddinstudio"},
