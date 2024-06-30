@@ -7,8 +7,8 @@
 {"type_id":"TVBS娛樂頭條","type_name":"娛樂新聞"},
 {"type_id":"綜藝節目","type_name":"綜藝節目"},
 {"type_id":"旅遊台灣","type_name":"旅遊台灣"},
+{"type_id":"Sean的世界 台灣","type_name":"Sean&&易拉罐 台灣行"},
 {"type_id":"YouTuber①","type_name":"YouTuber①"},
-{"type_id":"stopkiddinstudio","type_name":"不要鬧工作室"},
 {"type_id":"陸配","type_name":"外配"},
 {"type_id":"#shorts 短片","type_name":"shorts"},
 {"type_id":"時尚潮流","type_name":"時尚潮流"},
@@ -82,10 +82,7 @@
 
 "旅遊台灣":[
 {"key":"tid","name":"中文","value":[
-{"n":"Sean的世界 TV","v":"Sean的世界 台灣"},
-{"n":"Sean逛吃TV","v":"Sean逛吃TV 台灣"},
 {"n":"韓國女生Judy","v":"韓國女生Judy"},
-{"n":"易拉罐的记事本","v":"易拉罐的记事本NewBee 台灣"},
 {"n":"蜜拉士愷","v":"波蘭女孩x台灣男孩蜜拉士愷"},
 {"n":"旅遊真台灣","v":"旅遊真台灣 Lena & Patrick"},
 {"n":"酷的夢","v":"Ku's dream酷的夢-"},
@@ -225,6 +222,23 @@
 {"n":"外國人瘋台灣","v":"外國人瘋台灣 (食)Food TaiwanStopkiddinstudio"},
 {"n":"外國人看台灣議題","v":"外國人看台灣議題(Phenomenons in Taiwan)Stopkiddinstudio"},
 {"n":"那些電影教我們的事","v":"那些電影教我們的事 (Movies)Stopkiddinstudio"}
+]}
+],
+
+"Sean的世界 台灣":[
+{"key":"tid","name":"中文","value":[
+{"n":"Sean世界TV,宝岛台湾我来啦","v":"宝岛台湾我来啦！Sean的世界 TV "},
+{"n":"Sean世界TV,台湾旅行第二弹","v":"台湾旅行第二弹！Sean的世界 TV "},
+{"n":"Sean世界TV,走遍台湾","v":"走遍台湾，东线走起！Sean的世界 TV "},
+{"n":"Sean世界TV,大陆哥俩再闯台湾","v":"大陆哥俩再闯台湾Sean的世界 TV "},
+{"n":"Sean逛吃TV,台湾行","v":"台湾行Sean逛吃TV "},
+{"n":"Sean逛吃TV,逛吃台湾第四季","v":"逛吃台湾第四季Sean逛吃TV "},
+{"n":"易拉罐记事本,台湾第一季 2023","v":"台湾第一季 2023易拉罐的记事本NewBee "},
+{"n":"易拉罐记事本,台湾第二季 2023","v":"台湾第二季 2023易拉罐的记事本NewBee "},
+{"n":"易拉罐记事本,台湾第三季 2024","v":"台湾第三季 2024易拉罐的记事本NewBee "},
+{"n":"易拉罐记事本,台湾第四季2024","v":"台湾第四季2024易拉罐的记事本NewBee "},
+{"n":"易拉罐记事本,台湾第五季2024","v":"台湾第五季2024易拉罐的记事本NewBee "},
+{"n":"易拉罐记事本,系列片《台湾故事》","v":"系列片《台湾故事》易拉罐的记事本NewBee "}
 ]}
 ],
 
