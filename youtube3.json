@@ -8,6 +8,7 @@
 {"type_id":"綜藝節目","type_name":"綜藝節目"},
 {"type_id":"旅遊台灣","type_name":"旅遊台灣"},
 {"type_id":"直播主","type_name":"YouTuber①"},
+{"type_id":"YouTube①分支","type_name":"YouTube①分支"},
 {"type_id":"陸配","type_name":"外配"},
 {"type_id":"#shorts 短片","type_name":"shorts"},
 {"type_id":"時尚潮流","type_name":"時尚潮流"},
@@ -84,7 +85,6 @@
 {"n":"Sean的世界 TV","v":"Sean的世界 台灣"},
 {"n":"Sean逛吃TV","v":"Sean逛吃TV 台灣"},
 {"n":"不要鬧工作室","v":"stopkiddinstudio"},
-{"n":"奧地利相關系列","v":"奧地利相關系列 (Austrian Culture)Stopkiddinstudio"},
 {"n":"韓國女生Judy","v":"韓國女生Judy"},
 {"n":"易拉罐的记事本","v":"易拉罐的记事本NewBee 台灣"},
 {"n":"蜜拉士愷","v":"波蘭女孩x台灣男孩蜜拉士愷"},
@@ -114,7 +114,7 @@
 {"n":"人体百科David伟","v":"人体百科David伟"},
 {"n":"獅心瘋","v":"獅心瘋"},
 {"n":"曲博科技教室","v":"曲博科技教室 Dr. J Class"},
-{"n":"Maria Lefter","v":"Maria Lefter"},
+{"n":"tatyana b","v":"tatyana b"},
 {"n":"ELIN艾琳","v":"ELIN艾琳_Official"},
 {"n":"無有淺談","v":"無有淺談"}
 ]}
@@ -206,9 +206,33 @@
 ]}
 ],
 
+"YouTube①分支":[
+{"key":"tid","name":"中文","value":[
+{"n":"奧地利相關系列","v":"奧地利相關系列 (Austrian Culture)Stopkiddinstudio"},
+{"n":"波蘭相關系列","v":"波蘭相關系列 (Polish Culture)Stopkiddinstudio"},
+{"n":"烏克蘭相關系列","v":"烏克蘭相關系列 (Ukrainian Culture)Stopkiddinstudio"},
+{"n":"韓國相關系列","v":"韓國相關系列(Korean Culture)Stopkiddinstudio"},
+{"n":"日本相關系列","v":"日本相關系列(Japanese Culture)Stopkiddinstudio"},
+{"n":"俄羅斯相關系列","v":"俄羅斯相關系列 (Russian Culture)Stopkiddinstudio"},
+{"n":"美國相關系列","v":"美國相關系列 (American Culture)Stopkiddinstudio"},
+{"n":"各國女生系列","v":"各國女生系列 (Girlfriends World Edition)Stopkiddinstudio"},
+{"n":"全世界最狂的打招呼方式","v":"全世界最狂的打招呼方式 (Best Way to Surprise Friends)Stopkiddinstudio"},
+{"n":"各國文化介紹","v":"各國文化介紹(World Culture)Stopkiddinstudio"},
+{"n":"老外的第一次","v":"老外的第一次 (Foreigners' First Time)Stopkiddinstudio"},
+{"n":"外國人整復推拿系列","v":"外國人整復推拿系列 (Taiwanese Massage)Stopkiddinstudio"},
+{"n":"外國人挑戰系列","v":"外國人挑戰系列(EPIC Challenge)Stopkiddinstudio"},
+{"n":"外國人瘋台灣","v":"外國人瘋台灣 (行)Travel TaiwanStopkiddinstudio"},
+{"n":"外國人推廣台灣","v":"外國人推廣台灣(Promote Taiwan)Stopkiddinstudio"},
+{"n":"外國人瘋台灣","v":"外國人瘋台灣 (食)Food TaiwanStopkiddinstudio"},
+{"n":"外國人看台灣議題","v":"外國人看台灣議題(Phenomenons in Taiwan)Stopkiddinstudio"},
+{"n":"那些電影教我們的事","v":"那些電影教我們的事 (Movies)Stopkiddinstudio"}
+]}
+],
+
+
+
+
 "時尚潮流":[{"key":"tid","name":"時裝秀","value":[{"n":"街舞","v":"脫衣舞 丁字褲 街舞 太空步 機械舞 舞 裸體舞蹈 霹靂舞 魔性舞蹈 鬼步舞 木偶舞 女性藝術舞蹈"},{"n":"時尚走秀","v":"T臺走秀 lingerie show"},{"n":"時裝秀","v":"hdr ASM lingerieTV 東京ファッションショー 下着ショー"},{"n":"潮流秀","v":"FASHION IN UHD"},{"n":"時裝模特","v":"FASHION Runway"},{"n":"模特","v":"比基尼 泳裝 頂級車模 空姐 寫真 Car model Stewardess Portrait"},{"n":"裸體秀","v":"hdr 人體藝術 裸體秀 Nude show"},{"n":"無限亂鬥","v":"hdr 廟會秀 無限HD 公廟 鋼管舞 脫衣舞 舞女 清純 寫真"}]},{"key":"tid","name":"小姐姐","value":[{"n":"小姐姐超清","v":"小姐姐超清"},{"n":"國內小姐姐","v":"快手車模 抖音車模 國內小姐姐"},{"n":"韓國小姐姐","v":"韓國小姐姐"},{"n":"日本小姐姐","v":"日本小姐姐"},{"n":"俄羅斯小姐姐","v":"俄羅斯小姐姐"},{"n":"混血小姐姐","v":"混血小姐姐"},{"n":"越南小姐姐","v":"越南小姐姐"},{"n":"Al小姐姐","v":"Al美女超清"},{"n":"抖音熱門小姐姐","v":"抖音熱門小姐姐"},{"n":"快手熱門美女","v":"快手熱門美女"},{"n":"打碟小姐姐","v":"打碟小姐姐"},{"n":"衝浪小姐姐","v":"衝浪小姐姐"},{"n":"蹦迪小姐姐","v":"蹦迪小姐姐"},{"n":"藝校小姐姐","v":"藝校小姐姐"},{"n":"環球小姐","v":"環球小姐"},{"n":"泰國人妖","v":"泰國人妖"},{"n":"人間胸器","v":"人間胸器"}]},{"key":"tid","name":"English","value":[{"n":"sexy Miss","v":"sexy Miss"},{"n":"Hot sexy Girl","v":"Hot sexy Girl"},{"n":"Korean Girl","v":"Korean sexy Girl"},{"n":"Japanese Girl","v":"Japanese sexy Girl"},{"n":"Russian Girl","v":"Russian sexy Girl"},{"n":"Vietnamese Girl","v":"Vietnamese sexy Girl"},{"n":"AI Girl","v":"AI Girl"},{"n":"TikTok Hot Siste","v":"TikTok Hot sexy Girl"},{"n":"Cute Girl","v":"sexy Cute Girl"},{"n":"Girl Dj","v":"sexy Girl Dj"},{"n":"Girl Surfer","v":"sexy Girl Surfer"},{"n":"Dance Girl","v":"Dance sexy Girl"},{"n":"Miss Universe","v":"Miss Universe"},{"n":"Thai Shemale","v":"Thai Shemale"}]}]
-
-
 },
 "jx":0,
 "parse":0
