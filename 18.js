@@ -13,6 +13,7 @@
 }],
 "sites":[
 {"key":"免費AV線上看","name":" 🔥免費AV線上看","type":1,"api":"https://c.mdvod.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},//https://seajav.gitbook.io/untitled/
+{"key": "drpy_xvideos","name": "xvideos","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/XVIDEOS.js","playerType": "1","searchable": 1,"quickSearch": 1,"changeable": 1,"style": {"type": "rect","ratio": 1.485}},
 {"key":"麻豆","name":"麻豆","type":1,"api":"https://www.md91.cc/api.php/provide/vod/"},
 {"key":"key_modu111","name":"采集|麻豆","type":1,"api":"http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://www.md91.cc/api.php/provide/vod/","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=127.0.0.1:10072&url=","searchable":1,"changeable":1},
 {"key":"奥斯卡资源","name":"🔥奥斯卡资源🐷解說","type":1,"api":"https://aosikazy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
