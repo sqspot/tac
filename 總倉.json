@@ -1,5 +1,6 @@
 {"storeHouse":[
 {"sourceName":"tac倉","sourceUrl":"https://raw.githubusercontent.com/sqspot/tac/main/tac倉.js"},
+{"sourceName":"檸檬倉","sourceUrl":"https://raw.githubusercontent.com/sqspot/tac/main/檸檬倉.json"},
 {"sourceName":"測試倉","sourceUrl":"https://raw.githubusercontent.com/sqspot/tac/main/測試倉.js"},
 {"sourceName":"clan倉","sourceUrl":"https://raw.githubusercontent.com/sqspot/tac/main/clan倉.js"},
 {"sourceName":"特殊倉on","sourceUrl":"https://raw.githubusercontent.com/sqspot/tac/main/特殊倉.json"},

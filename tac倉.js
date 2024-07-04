@@ -10,6 +10,7 @@
 {"name":"FongMi_adult","url":"https://raw.githubusercontent.com/sqspot/tac/main/adult.json"},
 {"name":"test","url":"https://raw.githubusercontent.com/sqspot/tac/main/test.js"},
 {"name":"短劇","url":"https://raw.githubusercontent.com/sqspot/tac/main/短劇.js"},
+{"name":"檸檬","url":"https://raw.githubusercontent.com/sqspot/tac/main/catcr.json"},
         {"url": "http://饭太硬.top/tv","name": "🚀饭太硬线路"},
         {"url": "http://肥猫.live","name": "🚀肥猫线路"},
         {"url": "https://jihulab.com/okcaptain/kko/-/raw/main/tv.txt","name": "🚀OK线路"},
