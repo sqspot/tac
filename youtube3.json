@@ -253,10 +253,11 @@
 
 "自己":[
 {"key":"tid","name":"中文","value":[
-{"n":"一口氣看完","v":"LIST:PL8c_zzr_v4WFG-cvhGBC6GEizkESVwL0i"},
-{"n":"分享","v":"LIST:PLZEAuwg9Ccy5xKCnCOKkC-1nixugV2_w3"},
-{"n":"客廳分享","v":"LIST:PL8c_zzr_v4WFAkl7wwOjXmpxs0QdIV-NQ"},
-{"n":"易拉罐记事本,台湾第一季 2023","v":"台湾第一季 2023易拉罐的记事本NewBee "}
+{"n":"一口氣看完","v":"playlist?list=PLZEAuwg9Ccy5xKCnCOKkC-1nixugV2_w3"},
+{"n":"分享","v":"playlist=PLZEAuwg9Ccy5xKCnCOKkC-1nixugV2_w3"},
+{"n":"客廳分享","v":"list=PLZEAuwg9Ccy5xKCnCOKkC-1nixugV2_w3"},
+{"n":"chen ccc","v":"chen ccc"},
+{"n":"chen ccc 分享","v":"chen ccc 分享"}
 ]}
 ],
 
