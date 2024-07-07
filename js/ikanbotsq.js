@@ -5,8 +5,8 @@ var rule = {
     //https://www.ikanbot.com/search?q=%E6%96%97%E7%BD%97%E5%A4%A7&p=2
     // searchUrl:'/search?q=**&p=fypage',
 	searchUrl:'/search?q=**&p=fypage[/search?q=**]',
-    searchable:2,
-    quickSearch:0,
+    searchable:1,
+    quickSearch:1,
     filterable:1,
     filter_url:'{{fl.tag}}',
     图片来源:'@Referer=https://www.ikanbot.com/@User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36',
