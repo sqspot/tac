@@ -14,6 +14,7 @@
 {"type_id":"陸配","type_name":"外配"},
 {"type_id":"#shorts 短片","type_name":"shorts"},
 {"type_id":"時尚潮流","type_name":"時尚潮流"},
+{"type_id":"自己","type_name":"自己"},
 {"type_id":"一口氣看完","type_name":"一口氣看完"}
 ],
 
@@ -246,6 +247,15 @@
 {"n":"易拉罐记事本,台湾第四季2024","v":"台湾第四季2024易拉罐的记事本NewBee "},
 {"n":"易拉罐记事本,台湾第三季 2024","v":"台湾第三季 2024易拉罐的记事本NewBee "},
 {"n":"易拉罐记事本,台湾第二季 2023","v":"台湾第二季 2023易拉罐的记事本NewBee "},
+{"n":"易拉罐记事本,台湾第一季 2023","v":"台湾第一季 2023易拉罐的记事本NewBee "}
+]}
+],
+
+"自己":[
+{"key":"tid","name":"中文","value":[
+{"n":"一口氣看完","v":"LIST:PL8c_zzr_v4WFG-cvhGBC6GEizkESVwL0i"},
+{"n":"分享","v":"LIST:PLZEAuwg9Ccy5xKCnCOKkC-1nixugV2_w3"},
+{"n":"客廳分享","v":"LIST:PL8c_zzr_v4WFAkl7wwOjXmpxs0QdIV-NQ"},
 {"n":"易拉罐记事本,台湾第一季 2023","v":"台湾第一季 2023易拉罐的记事本NewBee "}
 ]}
 ],
