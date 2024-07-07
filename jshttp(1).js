@@ -50,10 +50,15 @@
 {"key":"lf_search","name":"🔎lf_搜索影片3","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js"},
 {"key":"drpy__豆瓣","name":"豆瓣🏛[DRPY]","type":3,"api":"./lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
 {"key":"黑木耳","name":"👑黑木耳","type":1,"api":"https://www.heimuer.tv/api.php/provide/vod","searchable":1,"changeable":1},
+{"key":"黑木耳2","name":"👑黑木耳2","type":1,"api":"http://m3u8.hmrvideo.com/api.php/provide/vod","searchable":1,"changeable":1},
+
+{"key":"php_hmezy","name":"👑黑木耳克隆","type":4,"api":"https://demobe.serv00.net/heimuer.php","searchable":1,"quickSearch":0,"filterable":0}
+{"key":"nu","name":"Nuu|XBPQ","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","ext":{"分类url":"https://nuu.su/x/id/{cateId}/page/{catePg}.html","分类":"https://demobe.serv00.net/heimuer.php"}},
 {"key":"ikanbotsq","name":"🈵爱看机器人sq","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbotsq.js"},
 {"key":"农民","name":"💬評分 農民","type":3,"api":"./lib/drpy2.min.js","ext":"./js/农民影视.js"},
 {"key":"一起看","name":"💬評分/集數 一起看","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"./t.jar"},
 {"key":"乐鱼影视","name":"💬集數 乐鱼影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/乐鱼影视.js"},
+{"key":"PTT","name":"♒ptt","type":3,"api":"csp_PTT","searchable":1,"changeable":1},
 {"key": "星星","name": "🔥星星|","type": 3,"api": "csp_Star","searchable": 1,"changeable": 0},
 {"key":"海外看网","name":"🔥海外看haiwaikan","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"oletv資源f","name":"🔥oletv資源(海外)","type":1,"api":"https://olevod1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
