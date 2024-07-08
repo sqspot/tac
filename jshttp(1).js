@@ -56,6 +56,8 @@
 {"key":"农民","name":"💬評分 農民","type":3,"api":"./lib/drpy2.min.js","ext":"./js/农民影视.js"},
 {"key":"一起看","name":"💬評分/集數 一起看","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"./t.jar"},
 {"key":"乐鱼影视","name":"💬集數 乐鱼影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/乐鱼影视.js"},
+{"key":"nu","name":"Nuu|XBPQ","type":3,"api":"csp_XBPQ","jar":"./XBPQ.jar","ext":{"分类url":"https://nuu.su/x/id/{cateId}/page/{catePg}.html","分类":"電影$1#劇集$2#綜藝$3#動漫$4"}},
+{"key":"热播","name":"热播之家┃影视","type":3,"changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":{"分类url":"https://rebozj.pro/show/{cateId}-{area}--{class}-----{catePg}---{year}.html"}},
 
 {"key": "星星","name": "🔥星星|","type": 3,"api": "csp_Star","searchable": 1,"changeable": 0},
 {"key":"海外看网","name":"🔥海外看haiwaikan","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
