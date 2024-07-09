@@ -20,6 +20,14 @@
 "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png"
 },
+{"name":"stv.",
+"type":0,
+"url":"https://raw.githubusercontent.com/sqspot/tac/main/stv.txt",
+"ua": "okhttp/3.15",
+"playerType": 1,
+"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+"logo":"https://epg.112114.xyz/logo/{name}.png"
+},
 {"name":"安博2",
 "type":0,
 "url":"https://raw.githubusercontent.com/sqspot/tac/main/live2.txt",
@@ -47,9 +55,9 @@
 ],
 "sites" : [
 {"key":"drpy","name":"🔥豆瓣評分🔍搜尋➡簡體字、大陸譯名　　　　　　👉換站源(點我)👈","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
+{"key":"夜貓_drpy_xb","name":"👑小宝影视","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/小宝影院2.js","searchable":1,"changeable":1},
 {"key":"lf_search","name":"🔎lf_搜索影片3","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js"},
 {"key":"drpy__豆瓣","name":"豆瓣🏛[DRPY]","type":3,"api":"./lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
-{"key":"夜貓_drpy_xb","name":"👑小宝影视","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/小宝影院2.js","searchable":1,"changeable":1},
 {"key":"黑木耳","name":"👑黑木耳","type":1,"api":"https://www.heimuer.tv/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"php_hmezy","name":"👑黑木耳克隆","type":4,"api":"https://demobe.serv00.net/heimuer.php","searchable":1,"changeable":1},
 {"key":"PTT","name":"👑PTT采集综合","type":3,"api":"csp_PTT","searchable":1,"changeable":1},
