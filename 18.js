@@ -12,6 +12,9 @@
 "logo":"https://epg.112114.xyz/logo/{name}.png"
 }],
 "sites":[
+{"key":"MissAV","name":"🔥MissAV1無碼ijk","type":3,"api":"csp_Miss","searchable":1,"filterable":1},
+{"key":"9206_滴滴资源","name":"🌟滴滴资源","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"9206_黄AV资源站","name":"🌅黄AV资源站","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"免費AV線上看","name":" 🔥免費AV線上看","type":1,"api":"https://c.mdvod.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},//https://seajav.gitbook.io/untitled/
 {"key": "drpy_xvideos","name": "xvideos","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/XVIDEOS.js","playerType": "1","searchable": 1,"quickSearch": 1,"changeable": 1,"style": {"type": "rect","ratio": 1.485}},
 {"key":"麻豆","name":"麻豆","type":1,"api":"https://www.md91.cc/api.php/provide/vod/"},
@@ -23,7 +26,6 @@
 {"key":"csp_xBPQ_聚优AV解说","name":"🔞聚优AV解说","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./Yoursmile2.jar","ext":"./js/cj_新香蕉AV解说.json"},
 {"key":"泥巴18","name":"🔥泥巴","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"ext":"1"},
 {"key":"9206_csp_JavDb","name":"🔥JavDbcarib","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":1801,"ext":"http://javdb523.com"},
-{"key":"MissAV","name":"🔥MissAV1無碼ijk","type":3,"api":"csp_Miss","searchable":1,"filterable":1},
 {"key": "dr_Missav","name": "Missav(道长)","type": 3,"api": "drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./js/Missav.js"},
 {"key":"csp_XBPQ_Miss AV","name":"Miss AV[翻墙]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./zy.jar","ext":"./js/Miss AV.json"},
 {"key": "csp_xBPQ_香蕉直播","name": "香蕉┃直播","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "./lib/Yoursmile2.jar","ext": "./js/新香蕉实时直播.json"},
@@ -62,7 +64,6 @@
 {"key":"9206_api.maozyapi.com","name":"🌅成人15","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
 {"key":"9206_apittzy.com","name":"🌅成人25","type":1,"api":"https://apittzy.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
 {"key":"9206_富二代资源","name":"🌅富二代资源","type":0,"api":"http://f2dcj6.com/sapi?ac=list","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"9206_黄AV资源站","name":"🌅黄AV资源站","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"9206_美少女资源站","name":"🌅美少女资源站","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"9206_香奶儿资源站","name":"🌅香奶儿资源站","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"9206_白嫖资源站","name":"🏆🤩白嫖资源站","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
@@ -87,7 +88,6 @@
 {"key":"9206_lbapiby.com","name":"🌟成人14","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
 {"key":"9206_lbapi9.com","name":"🌟成人26","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
 {"key":"*大地资源","name":"🌟大地女星中文動漫","type":0,"api":"https://dadiapi.com/api.php/"},
-{"key":"9206_滴滴资源","name":"🌟滴滴资源","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"9206_fhapi9.com","name":"🌟番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
 {"key":"*辣椒资源","name":"🌟辣椒潮吹","type":0,"api":"http://api.11bat.com/api.php/provide/vod/at/xml"},
 {"key":"*鲨鱼资源","name":"🌟鲨鱼中長片","type":0,"api":"https://shayuapi.com/api.php/provide/vod/at/xml"},
