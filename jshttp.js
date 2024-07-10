@@ -82,9 +82,9 @@
 {"key":"樱花網","name":"🌟樱花yh","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1},
 {"key":"68网","name":"🌟6868","type":0,"api":"https://caiji.68zyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
 {"key":"if101","name":"🌟if101","type":3,"api":"./lib/drpy2.min.js","ext":"./js/if101.js","searchable":1,"changeable":1},
-{"key": "Youtube台灣新聞","name": "😰YouTube台灣新聞","type": 3,"style":{ "type":"oval" ,"searchable":1,"changeable":1},"api": "./Mud.js","ext": "./YouTube.txt","searchable":1,"changeable":1},
 {"key":"Youtube","name":"🛗Youtube⏩","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"./youtube.json","type":"直播#新聞#劇集#電影#綜藝#紀錄片#音樂#體育#動物#風光#放鬆#4K#HDR#movie#music#documentary#bbcdocumentary#nationalgeographicdocumentary","keywords":"排行榜,HOT,TRENDS,熱門話題,熱門趨勢,熱門綜藝,熱門電影,熱門電視劇,小姐姐","codecs":""},"style":{"type":"rect","ratio":1.5},"jar":"./pgYT.jar"},
 {"key":"Youtube2","name":"👉🔥Youtube台灣🎯👈","type":3,"api":"csp_Youtube","searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./youtube2.json","codecs":""},"style":{"type":"rect","ratio":1.5},"jar":"./pgYT.jar"},
+{"key": "Youtube台灣新聞","name": "😰YouTube台灣新聞","type": 3,"style":{ "type":"oval" ,"searchable":1,"changeable":1},"api": "./Mud.js","ext": "./YouTube.txt","searchable":1,"changeable":1},
 {"key":"直播转点播","name":"❤💻網路第四台txt格式","type":3,"style":{ "type":"oval" },"api":"./lib/live2cms.js","ext":"./live2tv_sq.txt"},
 {"key":"ikanbot3","name":"爱看机器人3","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"}
 ],
