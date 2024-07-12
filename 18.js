@@ -17,6 +17,8 @@
 {"key":"9206_黄AV资源站","name":"🌅黄AV资源站","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"免費AV線上看","name":" 🔥免費AV線上看","type":1,"api":"https://c.mdvod.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},//https://seajav.gitbook.io/untitled/
 {"key": "drpy_xvideos","name": "xvideos","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/XVIDEOS.js","playerType": "1","searchable": 1,"quickSearch": 1,"changeable": 1,"style": {"type": "rect","ratio": 1.485}},
+{"key":"色情采集之王","name":"色情采集之王[合]","type":3,"api":"https://down.nigx.cn/qu.ax/nmAN.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":1,"ext":"http://liulili.1919810.com/DZ/drpy_js/采集之王[合].js?type=url&params=http://liulili.1919810.com/DZ/json/采集[密]静态.json"},
+{"key":"色情采集之王2","name":"色情采集之王[合]","type":3,"api":"./js/nmAN.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":1,"ext":"./js/采集之王[合].js?type=url&params=./js/采集[密]静态.json"},
 {"key":"麻豆","name":"麻豆","type":1,"api":"https://www.md91.cc/api.php/provide/vod/"},
 {"key":"key_modu111","name":"采集|麻豆","type":1,"api":"http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://www.md91.cc/api.php/provide/vod/","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=127.0.0.1:10072&url=","searchable":1,"changeable":1},
 {"key":"奥斯卡资源","name":"🔥奥斯卡资源🐷解說","type":1,"api":"https://aosikazy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
