@@ -62,6 +62,7 @@
 {"key":"php_hmezy","name":"👑黑木耳克隆","type":4,"api":"https://demobe.serv00.net/heimuer.php","searchable":1,"changeable":1},
 {"key":"PTT","name":"👑PTT采集综合","type":3,"api":"csp_PTT","searchable":1,"changeable":1},
 {"key":"ikanbotsq","name":"🈵爱看机器人sq","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbotsq.js","searchable":1,"changeable":1},
+{"key":"实验华为吧","name":"实验华为吧","type":4,"api":"http://zhangqun66.serv00.net/hwb.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"农民","name":"💬評分 農民","type":3,"api":"./lib/drpy2.min.js","ext":"./js/农民影视.js","searchable":1,"changeable":1},
 {"key":"一起看","name":"💬評分/集數 一起看","type":"3","api":"csp_Dora","searchable":1,"changeable":1,"jar":"./t.jar"},
 {"key":"乐鱼影视","name":"💬集數 乐鱼影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/乐鱼影视.js","searchable":1,"changeable":1},
