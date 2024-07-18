@@ -1,5 +1,5 @@
 {
-"spider":"./pg.jar",
+"spider":"./pgYT.jar",
 "lives":[
 {
 "name":"4gtv",
