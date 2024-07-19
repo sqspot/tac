@@ -13,8 +13,8 @@
 {"type_id":"YouTuber①","type_name":"YouTuber①"},
 {"type_id":"陸配","type_name":"外配"},
 {"type_id":"#shorts 短片","type_name":"shorts"},
-{"type_id":"PLZEAuwg9Ccy5xKCnCOKkC-1nixugV2_w3","type_name":"分享"},
-{"type_id":"PL8c_zzr_v4WFAkl7wwOjXmpxs0QdIV-NQ","type_name":"客廳分享"},
+{"type_id":'"PLZEAuwg9Ccy5xKCnCOKkC-1nixugV2_w3"',"type_name":"分享"},
+{"type_id":'"PL8c_zzr_v4WFAkl7wwOjXmpxs0QdIV-NQ"',"type_name":"客廳分享"},
 {"type_id":"一口氣看完","type_name":"一口氣看完"}
 ],
 
@@ -256,9 +256,10 @@
 ]}
 ],
 
-"PLZEAuwg9Ccy5xKCnCOKkC-1nixugV2_w3":[
+'"PLZEAuwg9Ccy5xKCnCOKkC-1nixugV2_w3"':[
 {"key":"tid","name":"中文","value":[
-{"n":"分享","v":"https://youtube.com/playlist?list=PLZEAuwg9Ccy5xKCnCOKkC-1nixugV2_w3"},
+{"n":"分享","v":"https://youtube.com/playlist?list=PLZEAuwg9Ccy5xKCnCOKkC-1nixugV2_w3"}
+{"n":"分享2","v":'"PLZEAuwg9Ccy5xKCnCOKkC-1nixugV2_w3"'},
 
 ]}
 ],
