@@ -5,7 +5,8 @@
 {"type_id":"台灣新聞 直播","type_name":"台灣新聞台"},
 {"type_id":"LIST:關鍵時刻","type_name":"政論節目"},
 {"type_id":"TVBS娛樂頭條","type_name":"娛樂新聞"},
-{"type_id":"綜藝節目","type_name":"綜藝節目"},
+{"type_id":"綜藝節目","type_name":"綜藝節目①"},
+{"type_id":"綜藝節目②","type_name":"綜藝節目②"},
 {"type_id":"三立台劇","type_name":"台灣劇"},
 {"type_id":"旅遊台灣","type_name":"旅遊台灣"},
 {"type_id":"stopkiddinstudio","type_name":"不要鬧工作室"},
@@ -14,8 +15,6 @@
 {"type_id":"YouTuber①","type_name":"YouTuber①"},
 {"type_id":"陸配","type_name":"外配"},
 {"type_id":"#shorts 短片","type_name":"shorts"},
-{"type_id":"LIST:PLZEAuwg9Ccy5xKCnCOKkC-1nixugV2_w3","type_name":"分享"},
-{"type_id":"LIST:PL8c_zzr_v4WFAkl7wwOjXmpxs0QdIV-NQ","type_name":"客廳分享"},
 {"type_id":"一口氣看完","type_name":"一口氣看完"}
 ],
 
@@ -92,6 +91,7 @@
 {"n":"酷的夢","v":"Ku's dream酷的夢-"},
 {"n":"Prozzie","v":"Prozzie"},
 {"n":"大豐大哥大","v":"大豐大哥大"},
+{"n":"台灣尋奇","v":"台灣尋奇"},
 {"n":"阿貝很全能","v":"阿貝很全能"},
 {"n":"小熙","v":"小熙xiaoxi 샤오시"},
 {"n":"小杜的生活日記","v":"小杜的生活日記 Du's Diary"},
@@ -172,6 +172,7 @@
 {"n":"綜藝一級棒","v":"綜藝一級棒"},
 {"n":"超級紅人榜","v":"超級紅人榜"},
 {"n":"全能歌手","v":"全能歌手"},
+{"n":"小姐不熙娣","v":"小姐不熙娣"},
 {"n":"女人我最大","v":"女人我最大"},
 {"n":"同學來了","v":"同學來了"},
 {"n":"CEO考察日記","v":"CEO考察日記"},
@@ -257,15 +258,24 @@
 "三立台劇":[
 {"key":"tid","name":"中文","value":[
 {"n":"三立台劇","v":"三立台劇 SET Drama"},
-{"n":"民視戲劇館","v":"民視戲劇館 Formosa TV Dramas"},
-{"n":"現代啟示錄","v":"現代啟示錄"},
-{"n":"台灣啟示錄","v":"台灣啟示錄"}
+{"n":"民視戲劇館","v":"民視戲劇館 Formosa TV Dramas"}
 ]}
 ],
 
 
+"綜藝節目②":[
+{"key":"tid","name":"中文","value":[
+{"n":"現代啟示錄","v":"現代啟示錄"},
+{"n":"台灣啟示錄","v":"台灣啟示錄"},
+{"n":"進擊的台灣","v":"進擊的台灣"},
+{"n":"台灣百廟","v":"台灣百廟"},
+{"n":"台灣1001個故事","v":"台灣1001個故事"},
+{"n":"台灣60hz","v":"台灣60hz"}
+]}
+],
 
-"時尚潮流":[{"key":"tid","name":"時裝秀","value":[{"n":"街舞","v":"脫衣舞 丁字褲 街舞 太空步 機械舞 舞 裸體舞蹈 霹靂舞 魔性舞蹈 鬼步舞 木偶舞 女性藝術舞蹈"},{"n":"時尚走秀","v":"T臺走秀 lingerie show"},{"n":"時裝秀","v":"hdr ASM lingerieTV 東京ファッションショー 下着ショー"},{"n":"潮流秀","v":"FASHION IN UHD"},{"n":"時裝模特","v":"FASHION Runway"},{"n":"模特","v":"比基尼 泳裝 頂級車模 空姐 寫真 Car model Stewardess Portrait"},{"n":"裸體秀","v":"hdr 人體藝術 裸體秀 Nude show"},{"n":"無限亂鬥","v":"hdr 廟會秀 無限HD 公廟 鋼管舞 脫衣舞 舞女 清純 寫真"}]},{"key":"tid","name":"小姐姐","value":[{"n":"小姐姐超清","v":"小姐姐超清"},{"n":"國內小姐姐","v":"快手車模 抖音車模 國內小姐姐"},{"n":"韓國小姐姐","v":"韓國小姐姐"},{"n":"日本小姐姐","v":"日本小姐姐"},{"n":"俄羅斯小姐姐","v":"俄羅斯小姐姐"},{"n":"混血小姐姐","v":"混血小姐姐"},{"n":"越南小姐姐","v":"越南小姐姐"},{"n":"Al小姐姐","v":"Al美女超清"},{"n":"抖音熱門小姐姐","v":"抖音熱門小姐姐"},{"n":"快手熱門美女","v":"快手熱門美女"},{"n":"打碟小姐姐","v":"打碟小姐姐"},{"n":"衝浪小姐姐","v":"衝浪小姐姐"},{"n":"蹦迪小姐姐","v":"蹦迪小姐姐"},{"n":"藝校小姐姐","v":"藝校小姐姐"},{"n":"環球小姐","v":"環球小姐"},{"n":"泰國人妖","v":"泰國人妖"},{"n":"人間胸器","v":"人間胸器"}]},{"key":"tid","name":"English","value":[{"n":"sexy Miss","v":"sexy Miss"},{"n":"Hot sexy Girl","v":"Hot sexy Girl"},{"n":"Korean Girl","v":"Korean sexy Girl"},{"n":"Japanese Girl","v":"Japanese sexy Girl"},{"n":"Russian Girl","v":"Russian sexy Girl"},{"n":"Vietnamese Girl","v":"Vietnamese sexy Girl"},{"n":"AI Girl","v":"AI Girl"},{"n":"TikTok Hot Siste","v":"TikTok Hot sexy Girl"},{"n":"Cute Girl","v":"sexy Cute Girl"},{"n":"Girl Dj","v":"sexy Girl Dj"},{"n":"Girl Surfer","v":"sexy Girl Surfer"},{"n":"Dance Girl","v":"Dance sexy Girl"},{"n":"Miss Universe","v":"Miss Universe"},{"n":"Thai Shemale","v":"Thai Shemale"}]}]
+
+"時尚潮流":[]
 },
 "jx":0,
 "parse":0
