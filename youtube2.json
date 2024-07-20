@@ -6,6 +6,7 @@
 {"type_id":"LIST:關鍵時刻","type_name":"政論節目"},
 {"type_id":"TVBS娛樂頭條","type_name":"娛樂新聞"},
 {"type_id":"綜藝節目","type_name":"綜藝節目"},
+{"type_id":"三立台劇","type_name":"台灣劇"},
 {"type_id":"旅遊台灣","type_name":"旅遊台灣"},
 {"type_id":"stopkiddinstudio","type_name":"不要鬧工作室"},
 {"type_id":"Sean的世界 台灣","type_name":"Sean 肖恩 台灣行"},
@@ -13,7 +14,6 @@
 {"type_id":"YouTuber①","type_name":"YouTuber①"},
 {"type_id":"陸配","type_name":"外配"},
 {"type_id":"#shorts 短片","type_name":"shorts"},
-//{"type_id":"時尚潮流","type_name":"時尚潮流"},
 {"type_id":"一口氣看完","type_name":"一口氣看完"}
 ],
 
@@ -106,10 +106,6 @@
 {"n":"老高與小茉","v":"老高與小茉 Mr & Mrs Gao"},
 {"n":"未解之謎 扶搖","v":"未解之謎 扶搖"},
 {"n":"零度解說","v":"@lingdujieshuo"},
-{"n":"現代啟示錄","v":"現代啟示錄"},
-{"n":"台灣啟示錄","v":"台灣啟示錄"},
-{"n":"民視戲劇館","v":"民視戲劇館 Formosa TV Dramas"},
-{"n":"三立台劇","v":"三立台劇 SET Drama"},
 {"n":"Frank贾.枫下杂谈","v":"Frank 贾.枫下杂谈"},
 {"n":"N楚立功","v":"N楚立功"},
 {"n":"葉富源","v":"葉富源"},
@@ -161,6 +157,7 @@
 
 "綜藝節目":[
 {"key":"tid","name":"中文","value":[
+{"n":"百萬兄弟","v":"百萬兄弟|陳孟賢|陳昭瑋"},
 {"n":"11點熱吵店","v":"11點熱吵店"},
 {"n":"全民星攻略","v":"全民星攻略"},
 {"n":"WTO姐妹會","v":"WTO姐妹會"},
@@ -255,6 +252,14 @@
 ]}
 ],
 
+"三立台劇":[
+{"key":"tid","name":"中文","value":[
+{"n":"三立台劇","v":"三立台劇 SET Drama"},
+{"n":"民視戲劇館","v":"民視戲劇館 Formosa TV Dramas"},
+{"n":"現代啟示錄","v":"現代啟示錄"},
+{"n":"台灣啟示錄","v":"台灣啟示錄"}
+]}
+],
 
 
 
