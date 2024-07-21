@@ -1,0 +1,145 @@
+4GTV1080,#genre#
+
+AMC 最愛電影,http://xg.52sw.top:5000/litv/4gtv-4gtv017
+Arirang TV,http://xg.52sw.top:5000/litv/4gtv-4gtv079
+Bloomberg TV,http://xg.52sw.top:5000/4gtv/283
+CatchPlay 電影台,http://xg.52sw.top:5000/litv/4gtv-4gtv076
+CI 罪案偵查頻道,http://xg.52sw.top:5000/4gtv/215
+CinemaWorld,http://xg.52sw.top:5000/4gtv/225
+Classica 古典樂,http://xg.52sw.top:5000/litv/4gtv-4gtv059
+CNBC Asia 財經台,http://xg.52sw.top:5000/4gtv/235
+DreamWorks 夢工廠動畫,http://xg.52sw.top:5000/4gtv/282
+DW德國之聲,http://xg.52sw.top:5000/4gtv/226
+ELTA 生活旅遊,http://xg.52sw.top:5000/4gtv/237
+ELTA 娛樂台,http://xg.52sw.top:5000/litv/4gtv-4gtv070
+ELTA生活英語,http://xg.52sw.top:5000/litv/litv-longturn20
+Fun 探索娛樂台,http://xg.52sw.top:5000/4gtv/274
+GINX Esports TV,http://xg.52sw.top:5000/litv/4gtv-4gtv053
+Global Trekker,http://xg.52sw.top:5000/4gtv/252
+Globetrotter 環遊旅行家,http://xg.52sw.top:5000/litv/4gtv-4gtv016
+History 歷史頻道,http://xg.52sw.top:5000/4gtv/214
+HITS 頻道,http://xg.52sw.top:5000/4gtv/186
+i-Fun 動漫台,http://xg.52sw.top:5000/litv/litv-ftv15
+Lifetime 娛樂頻道,http://xg.52sw.top:5000/4gtv/217
+LiveABC 互動英語台,http://xg.52sw.top:5000/4gtv/188
+Love Nature,http://xg.52sw.top:5000/4gtv/139
+LUXE TV,http://xg.52sw.top:5000/4gtv/175
+Mezzo Live,http://xg.52sw.top:5000/litv/4gtv-4gtv083
+MOMO 親子台,http://xg.52sw.top:5000/4gtv/231
+MTV Live HD 音樂頻道,http://xg.52sw.top:5000/4gtv/213
+My Cinema Europe HD 我的歐洲電影,http://xg.52sw.top:5000/4gtv/176
+Nick Jr. 兒童頻道,http://xg.52sw.top:5000/4gtv/219
+Nickelodeon,http://xg.52sw.top:5000/4gtv/185
+Pet Club TV,http://xg.52sw.top:5000/4gtv/182
+Rock Action,http://xg.52sw.top:5000/4gtv/180
+Rock Entertainment,http://xg.52sw.top:5000/4gtv/275
+SBN 全球財經台,http://xg.52sw.top:5000/4gtv/224
+Smart 知識台,http://xg.52sw.top:5000/litv/litv-longturn19
+TechStorm,http://xg.52sw.top:5000/4gtv/181
+Trace Urban,http://xg.52sw.top:5000/litv/4gtv-4gtv082
+TraceSports,http://xg.52sw.top:5000/litv/4gtv-4gtv077
+TV5MONDE Style,http://xg.52sw.top:5000/4gtv/178
+TVBS 台劇台,http://xg.52sw.top:5000/4gtv/285
+TVBS 新聞台,http://xg.52sw.top:5000/litv/4gtv-4gtv072
+TVBS 精采台,http://xg.52sw.top:5000/litv/4gtv-4gtv067
+TVBS 綜藝台,http://xg.52sw.top:5000/4gtv/284
+TVBS 歡樂台,http://xg.52sw.top:5000/litv/4gtv-4gtv068
+TVBS,http://xg.52sw.top:5000/litv/4gtv-4gtv073
+VOA 美國之音,http://xg.52sw.top:5000/litv/litv-ftv03
+人間衛視,http://xg.52sw.top:5000/4gtv/210
+八大精彩台,http://xg.52sw.top:5000/litv/4gtv-4gtv034
+八大綜藝台,http://xg.52sw.top:5000/litv/4gtv-4gtv039
+三立新聞,http://xg.52sw.top:5000/4gtv/229
+三立綜合台,http://xg.52sw.top:5000/4gtv/169
+大愛電視,http://xg.52sw.top:5000/4gtv/209
+大愛電視2,http://xg.52sw.top:5000/4gtv/230
+中天亞洲台,http://xg.52sw.top:5000/litv/4gtv-4gtv109
+中天新聞台,http://xg.52sw.top:5000/litv/4gtv-4gtv009
+中視,http://xg.52sw.top:5000/litv/4gtv-4gtv040
+中視菁采台,http://xg.52sw.top:5000/litv/4gtv-4gtv064
+中視新聞台,http://xg.52sw.top:5000/litv/4gtv-4gtv074
+中視經典台,http://xg.52sw.top:5000/litv/4gtv-4gtv080
+公視戲劇台,http://xg.52sw.top:5000/litv/4gtv-4gtv042
+半島國際新聞台,http://xg.52sw.top:5000/litv/litv-ftv10
+台視,http://xg.52sw.top:5000/litv/4gtv-4gtv066
+台視財經台,http://xg.52sw.top:5000/litv/4gtv-4gtv056
+台視新聞台,http://xg.52sw.top:5000/litv/4gtv-4gtv051
+台灣戲劇台,http://xg.52sw.top:5000/litv/litv-longturn22
+民視,http://xg.52sw.top:5000/litv/4gtv-4gtv155
+民視台灣台,http://xg.52sw.top:5000/litv/4gtv-4gtv001
+民視旅遊台,http://xg.52sw.top:5000/litv/litv-ftv07
+民視第一台,http://xg.52sw.top:5000/litv/4gtv-4gtv003
+民視新聞台,http://xg.52sw.top:5000/litv/litv-ftv13
+民視綜藝台,http://xg.52sw.top:5000/litv/4gtv-4gtv004
+民視影劇台,http://xg.52sw.top:5000/litv/litv-ftv09
+好消息,http://xg.52sw.top:5000/litv/litv-ftv16
+好消息2台,http://xg.52sw.top:5000/litv/litv-ftv17
+車迷 TV,http://xg.52sw.top:5000/4gtv/160
+亞洲旅遊台,http://xg.52sw.top:5000/litv/litv-longturn17
+兒童卡通台,http://xg.52sw.top:5000/4gtv/269
+幸福空間居家台,http://xg.52sw.top:5000/4gtv/168
+東森財經新聞,http://xg.52sw.top:5000/litv/4gtv-4gtv153
+東森新聞,http://xg.52sw.top:5000/litv/4gtv-4gtv152
+東森購物一台,http://xg.52sw.top:5000/4gtv/173
+東森購物二台,http://xg.52sw.top:5000/4gtv/174
+東森購物三台,http://xg.52sw.top:5000/4gtv/287
+東森購物四台,http://xg.52sw.top:5000/4gtv/286
+花系列 經典劇場,http://xg.52sw.top:5000/4gtv/279
+采昌影劇台,http://xg.52sw.top:5000/litv/4gtv-4gtv049
+金光布袋戲,http://xg.52sw.top:5000/4gtv/236
+非凡商業台,http://xg.52sw.top:5000/litv/4gtv-4gtv048
+非凡新聞台,http://xg.52sw.top:5000/litv/4gtv-4gtv010
+客家電視台,http://xg.52sw.top:5000/litv/4gtv-4gtv043
+原住民族電視台,http://xg.52sw.top:5000/4gtv/273
+時尚運動X,http://xg.52sw.top:5000/4gtv/277
+國會頻道1,http://xg.52sw.top:5000/litv/4gtv-4gtv084
+國會頻道2,http://xg.52sw.top:5000/litv/4gtv-4gtv085
+第1商業台,http://xg.52sw.top:5000/litv/4gtv-4gtv104
+博斯高球二台,http://xg.52sw.top:5000/litv/litv-longturn06
+博斯高球台,http://xg.52sw.top:5000/litv/litv-longturn05
+博斯無限二台,http://xg.52sw.top:5000/litv/litv-longturn13
+博斯無限台,http://xg.52sw.top:5000/litv/litv-longturn10
+博斯運動一台,http://xg.52sw.top:5000/litv/litv-longturn07
+博斯運動二台,http://xg.52sw.top:5000/litv/litv-longturn08
+博斯網球台,http://xg.52sw.top:5000/litv/litv-longturn09
+博斯魅力台,http://xg.52sw.top:5000/litv/litv-longturn04
+智林體育台,http://xg.52sw.top:5000/litv/4gtv-4gtv101
+華視,http://xg.52sw.top:5000/litv/4gtv-4gtv041
+華視新聞,http://xg.52sw.top:5000/litv/4gtv-4gtv052
+視納華仁紀實頻道,http://xg.52sw.top:5000/litv/4gtv-4gtv013
+超人力霸王整套看,http://xg.52sw.top:5000/4gtv/278
+經典卡通台,http://xg.52sw.top:5000/4gtv/202
+經典電影台,http://xg.52sw.top:5000/4gtv/201
+達文西頻道,http://xg.52sw.top:5000/litv/4gtv-4gtv018
+電影免費看 2台,http://xg.52sw.top:5000/4gtv/245
+電影原聲台 CMusic,http://xg.52sw.top:5000/4gtv/218
+靖天日本台,http://xg.52sw.top:5000/litv/4gtv-4gtv047
+靖天卡通台,http://xg.52sw.top:5000/litv/4gtv-4gtv044
+靖天育樂台,http://xg.52sw.top:5000/litv/4gtv-4gtv062
+靖天映畫台,http://xg.52sw.top:5000/litv/4gtv-4gtv055
+靖天國際台,http://xg.52sw.top:5000/litv/4gtv-4gtv063
+靖天資訊台,http://xg.52sw.top:5000/litv/4gtv-4gtv065
+靖天電影台,http://xg.52sw.top:5000/litv/4gtv-4gtv061
+靖天綜合台,http://xg.52sw.top:5000/litv/4gtv-4gtv046
+靖天戲劇台,http://xg.52sw.top:5000/litv/4gtv-4gtv058
+靖天歡樂台,http://xg.52sw.top:5000/litv/4gtv-4gtv054
+靖洋卡通 Nice Bingo,http://xg.52sw.top:5000/litv/4gtv-4gtv057
+靖洋戲劇台,http://xg.52sw.top:5000/litv/4gtv-4gtv045
+滾動力 Rollor,http://xg.52sw.top:5000/4gtv/249
+精選動漫台,http://xg.52sw.top:5000/4gtv/204
+影迷數位紀實台,http://xg.52sw.top:5000/4gtv/212
+影迷數位電影台,http://xg.52sw.top:5000/litv/4gtv-4gtv011
+豬哥亮歌廳秀,http://xg.52sw.top:5000/litv/4gtv-4gtv006
+寰宇財經台,http://xg.52sw.top:5000/litv/litv-longturn23
+寰宇新聞台,http://xg.52sw.top:5000/litv/litv-longturn14
+寰宇新聞台灣台,http://xg.52sw.top:5000/litv/litv-longturn15
+龍華日韓台,http://xg.52sw.top:5000/litv/litv-longturn11
+龍華卡通台,http://xg.52sw.top:5000/litv/litv-longturn01
+龍華偶像台,http://xg.52sw.top:5000/litv/litv-longturn12
+龍華經典台,http://xg.52sw.top:5000/litv/litv-longturn21
+龍華電影台,http://xg.52sw.top:5000/litv/litv-longturn03
+龍華戲劇台,http://xg.52sw.top:5000/litv/litv-longturn18
+戲劇免費看 1台,http://xg.52sw.top:5000/4gtv/270
+戲劇免費看 2台,http://xg.52sw.top:5000/4gtv/244
+鏡電視新聞台,http://xg.52sw.top:5000/litv/4gtv-4gtv075
+霹靂布袋戲,http://xg.52sw.top:5000/4gtv/301
