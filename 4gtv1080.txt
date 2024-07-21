@@ -1,43 +1,5 @@
 4GTV1080,#genre#
 
-AMC 最愛電影,http://xg.52sw.top:5000/litv/4gtv-4gtv017
-Arirang TV,http://xg.52sw.top:5000/litv/4gtv-4gtv079
-Bloomberg TV,http://xg.52sw.top:5000/4gtv/283
-CatchPlay 電影台,http://xg.52sw.top:5000/litv/4gtv-4gtv076
-CI 罪案偵查頻道,http://xg.52sw.top:5000/4gtv/215
-CinemaWorld,http://xg.52sw.top:5000/4gtv/225
-Classica 古典樂,http://xg.52sw.top:5000/litv/4gtv-4gtv059
-CNBC Asia 財經台,http://xg.52sw.top:5000/4gtv/235
-DreamWorks 夢工廠動畫,http://xg.52sw.top:5000/4gtv/282
-DW德國之聲,http://xg.52sw.top:5000/4gtv/226
-ELTA 生活旅遊,http://xg.52sw.top:5000/4gtv/237
-ELTA 娛樂台,http://xg.52sw.top:5000/litv/4gtv-4gtv070
-ELTA生活英語,http://xg.52sw.top:5000/litv/litv-longturn20
-Fun 探索娛樂台,http://xg.52sw.top:5000/4gtv/274
-GINX Esports TV,http://xg.52sw.top:5000/litv/4gtv-4gtv053
-Global Trekker,http://xg.52sw.top:5000/4gtv/252
-Globetrotter 環遊旅行家,http://xg.52sw.top:5000/litv/4gtv-4gtv016
-History 歷史頻道,http://xg.52sw.top:5000/4gtv/214
-HITS 頻道,http://xg.52sw.top:5000/4gtv/186
-i-Fun 動漫台,http://xg.52sw.top:5000/litv/litv-ftv15
-Lifetime 娛樂頻道,http://xg.52sw.top:5000/4gtv/217
-LiveABC 互動英語台,http://xg.52sw.top:5000/4gtv/188
-Love Nature,http://xg.52sw.top:5000/4gtv/139
-LUXE TV,http://xg.52sw.top:5000/4gtv/175
-Mezzo Live,http://xg.52sw.top:5000/litv/4gtv-4gtv083
-MOMO 親子台,http://xg.52sw.top:5000/4gtv/231
-MTV Live HD 音樂頻道,http://xg.52sw.top:5000/4gtv/213
-My Cinema Europe HD 我的歐洲電影,http://xg.52sw.top:5000/4gtv/176
-Nick Jr. 兒童頻道,http://xg.52sw.top:5000/4gtv/219
-Nickelodeon,http://xg.52sw.top:5000/4gtv/185
-Pet Club TV,http://xg.52sw.top:5000/4gtv/182
-Rock Action,http://xg.52sw.top:5000/4gtv/180
-Rock Entertainment,http://xg.52sw.top:5000/4gtv/275
-SBN 全球財經台,http://xg.52sw.top:5000/4gtv/224
-Smart 知識台,http://xg.52sw.top:5000/litv/litv-longturn19
-TechStorm,http://xg.52sw.top:5000/4gtv/181
-Trace Urban,http://xg.52sw.top:5000/litv/4gtv-4gtv082
-TraceSports,http://xg.52sw.top:5000/litv/4gtv-4gtv077
 TV5MONDE Style,http://xg.52sw.top:5000/4gtv/178
 TVBS 台劇台,http://xg.52sw.top:5000/4gtv/285
 TVBS 新聞台,http://xg.52sw.top:5000/litv/4gtv-4gtv072
@@ -143,3 +105,41 @@ VOA 美國之音,http://xg.52sw.top:5000/litv/litv-ftv03
 戲劇免費看 2台,http://xg.52sw.top:5000/4gtv/244
 鏡電視新聞台,http://xg.52sw.top:5000/litv/4gtv-4gtv075
 霹靂布袋戲,http://xg.52sw.top:5000/4gtv/301
+AMC 最愛電影,http://xg.52sw.top:5000/litv/4gtv-4gtv017
+Arirang TV,http://xg.52sw.top:5000/litv/4gtv-4gtv079
+Bloomberg TV,http://xg.52sw.top:5000/4gtv/283
+CatchPlay 電影台,http://xg.52sw.top:5000/litv/4gtv-4gtv076
+CI 罪案偵查頻道,http://xg.52sw.top:5000/4gtv/215
+CinemaWorld,http://xg.52sw.top:5000/4gtv/225
+Classica 古典樂,http://xg.52sw.top:5000/litv/4gtv-4gtv059
+CNBC Asia 財經台,http://xg.52sw.top:5000/4gtv/235
+DreamWorks 夢工廠動畫,http://xg.52sw.top:5000/4gtv/282
+DW德國之聲,http://xg.52sw.top:5000/4gtv/226
+ELTA 生活旅遊,http://xg.52sw.top:5000/4gtv/237
+ELTA 娛樂台,http://xg.52sw.top:5000/litv/4gtv-4gtv070
+ELTA生活英語,http://xg.52sw.top:5000/litv/litv-longturn20
+Fun 探索娛樂台,http://xg.52sw.top:5000/4gtv/274
+GINX Esports TV,http://xg.52sw.top:5000/litv/4gtv-4gtv053
+Global Trekker,http://xg.52sw.top:5000/4gtv/252
+Globetrotter 環遊旅行家,http://xg.52sw.top:5000/litv/4gtv-4gtv016
+History 歷史頻道,http://xg.52sw.top:5000/4gtv/214
+HITS 頻道,http://xg.52sw.top:5000/4gtv/186
+i-Fun 動漫台,http://xg.52sw.top:5000/litv/litv-ftv15
+Lifetime 娛樂頻道,http://xg.52sw.top:5000/4gtv/217
+LiveABC 互動英語台,http://xg.52sw.top:5000/4gtv/188
+Love Nature,http://xg.52sw.top:5000/4gtv/139
+LUXE TV,http://xg.52sw.top:5000/4gtv/175
+Mezzo Live,http://xg.52sw.top:5000/litv/4gtv-4gtv083
+MOMO 親子台,http://xg.52sw.top:5000/4gtv/231
+MTV Live HD 音樂頻道,http://xg.52sw.top:5000/4gtv/213
+My Cinema Europe HD 我的歐洲電影,http://xg.52sw.top:5000/4gtv/176
+Nick Jr. 兒童頻道,http://xg.52sw.top:5000/4gtv/219
+Nickelodeon,http://xg.52sw.top:5000/4gtv/185
+Pet Club TV,http://xg.52sw.top:5000/4gtv/182
+Rock Action,http://xg.52sw.top:5000/4gtv/180
+Rock Entertainment,http://xg.52sw.top:5000/4gtv/275
+SBN 全球財經台,http://xg.52sw.top:5000/4gtv/224
+Smart 知識台,http://xg.52sw.top:5000/litv/litv-longturn19
+TechStorm,http://xg.52sw.top:5000/4gtv/181
+Trace Urban,http://xg.52sw.top:5000/litv/4gtv-4gtv082
+TraceSports,http://xg.52sw.top:5000/litv/4gtv-4gtv077
