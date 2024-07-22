@@ -6,11 +6,23 @@
 "lives":[{
 "name":"自選",
 "type":0,
-"url":"https://raw.githubusercontent.com/sqspot/tac/main/4gtvs.txt",
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+"url":"https://raw.githubusercontent.com/sqspot/tac/main/live2.txt",
+"ua": "okhttp/3.15",
+"playerType": 1,
 "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png"
-}],
+},
+"rules": [
+{"name": "proxy","hosts": [  "raw.githubusercontent.com",  "googlevideo.com",  "googleapis.com",  "cdn.v82u1l.com",  "cdn.iz8qkg.com",  "cdn.kin6c1.com",  "c.biggggg.com",  "c.olddddd.com",  "haiwaikan.com",  "www.histar.tv",  "youtube.com",  "uhibo.com",  ".*boku.*",  ".*nivod.*",  ".*ulivetv.*"]},
+{"name": "火山嗅探","hosts": [  "huoshan.com"],"regex": [  "item_id="]},
+{"name": "抖音嗅探","hosts": [  "douyin.com"],"regex": [  "is_play_url="]},
+{"name": "農民嗅探","hosts": [  "toutiaovod.com"],"regex": [  "video/tos/cn"]},
+{"name": "七新嗅探","hosts": [  "api.52wyb.com"],"regex": [  "m3u8?pt=m3u8"]},
+{"name": "毛驢點擊","hosts": [  "www.maolvys.com"],"script": [  "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"]}
+],
+"ads": ["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]
+
+],
 "sites":[
 {"key":"MissAV","name":"🔥MissAV1無碼ijk","type":3,"api":"csp_Miss","searchable":1,"filterable":1},
 {"key":"9206_滴滴资源","name":"🌟滴滴资源","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},

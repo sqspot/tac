@@ -11,31 +11,8 @@
 "playerType": 1,
 "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png"
-},
-{"name":"安博1",
-"type":0,
-"url":"https://raw.githubusercontent.com/sqspot/tac/main/live.txt",
-"ua": "okhttp/3.15",
-"playerType": 1,
-"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"https://epg.112114.xyz/logo/{name}.png"
-},
-{"name":"stv.",
-"type":0,
-"url":"https://raw.githubusercontent.com/sqspot/tac/main/stv.txt",
-"ua": "okhttp/3.15",
-"playerType": 1,
-"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"https://epg.112114.xyz/logo/{name}.png"
-},
-{"name":"安博3",
-"type":0,
-"url":"https://raw.githubusercontent.com/sqspot/tac/main/live3.txt",
-"ua": "",
-"playerType": 1,
-"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"https://epg.112114.xyz/logo/{name}.png"
 }
+
 ],
 "sites" : [
 {"key":"drpy","name":"🔥豆瓣(評分 0~10分)　　　　🔥祝大家🤩好運🐉總來💯","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
