@@ -1,0 +1,23 @@
+{
+"recommend":"最新|推薦 最新|熱門| 最新|#shorts",
+
+"class":[
+	{   'type_id':'"PLwHjhKNud0GiqFBpW5aorjeIVO4mZAn_b"',
+   "type_name":"环球大战线"
+  },
+     {   'type_id':'"PL-K7NYq6mtAuw3rO7t2rDUhI3qbS1rLMj"',
+   "type_name":"军情观察室"
+  },
+     {   'type_id':'"PL64Si-sSRnvZFmksKhDl34-Rgv2NGFbK-"',
+   "type_name":"TVBS战情室"
+  },
+    {   'type_id':'"PLvHT0yeWYIuASUZjoW8OXe4e_UkgP7qDU"',
+   "type_name":"国际直球对决"
+  },
+    {   'type_id':'"PLvHT0yeWYIuDyLVv1yDiIxhtk1ZQ92_RY"',
+   "type_name":"全球大视野"
+  },
+      {   'type_id':'"PLvHT0yeWYIuBGUWA2KySjgKdPEUFuM8Dc"',
+   "type_name":"前进战略高地"
+  }
+  ]}
