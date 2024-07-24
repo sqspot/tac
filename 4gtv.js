@@ -1,5 +1,5 @@
 {
-"spider":"./custom_spider.jar",
+"spider":"./fm.jar",
 "sites" : [
 ],
 "lives":[{

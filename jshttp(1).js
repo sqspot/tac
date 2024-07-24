@@ -1,6 +1,6 @@
 {
 //Type 0-xml、 1-json 、2-爬虫源 、3-自定义爬虫 、4-服务器爬虫。
-"spider":"./custom_spider.jar",
+"spider":"./fm.jar",
 //"spider":"./pg.jar",
 "lives":[
 {

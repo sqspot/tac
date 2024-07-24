@@ -1,7 +1,7 @@
 {
 //"spider":"./新视觉.jar",
 //"spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;9060b67dfec8782aca6e79ba17c0979b",
-"spider":"./custom_spider.jar",
+"spider":"./fm.jar",
 
 "lives":[{
 "name":"自選",

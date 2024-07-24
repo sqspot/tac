@@ -11,7 +11,7 @@
 {"key":"drpy_js_腾云驾雾","name":"官源🏛腾讯🔎","type":3,"api":"drpy2.min.js","ext":"./js/腾云驾雾.js"},
 {"key":"drpy_js_优酷","name":"官源🏛优酷🔎","type":3,"api":"drpy2.min.js","ext":"./js/优酷.js"},
 {"key":"ikanbotsq","name":"🈵爱看机器人sq(简体)","type":3,"api":"drpy2.min.js","ext":"./js/ikanbotsq.js"},
-{"key": "星星","name": "🏆星星(简体)","type": 3,"api": "csp_Star","searchable": 1,"jar":"./custom_spider.jar"},
+{"key": "星星","name": "🏆星星(简体)","type": 3,"api": "csp_Star","searchable": 1,"jar":"./fm.jar"},
 {"key":"农民","name":"💬評分 農民(简体)","type":3,"api":"drpy2.min.js","ext":"./js/农民影视.js"},
 {"key":"一起看","name":"💬評分/集數 一起看(简体)","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"./t.jar"},
 {"key":"乐鱼影视","name":"💬集數 乐鱼影视(简体)","type":3,"api":"drpy2.min.js","ext":"./js/乐鱼影视.js"},

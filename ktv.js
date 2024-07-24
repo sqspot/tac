@@ -1,6 +1,6 @@
 // https://github.com/leosam1024/tvbox-mv
 {
-"spider":"./custom_spider.jar",
+"spider":"./fm.jar",
 //"spider":"./pg.jar",
 "lives":[{"name":"KTV","type":0,"url":"./KTV.txt"}],
 "sites":[

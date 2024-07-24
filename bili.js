@@ -13,7 +13,7 @@
 
 
 {
-"spider":"./custom_spider.jar",
+"spider":"./fm.jar",
 //"spider":"./pg.jar",
 
 
