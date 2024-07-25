@@ -1,5 +1,5 @@
 {
-"spider":"./pgYT.jar",
+"spider":"./pg.jar",
 "lives":[
 {"name":"youtube",
 "type":0,
@@ -14,6 +14,8 @@
 {"key":"Youtube","name":"🛗Youtube⏩","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"./youtube.json","type":"直播#新聞#劇集#電影#綜藝#紀錄片#音樂#體育#動物#風光#放鬆#4K#HDR#movie#music#documentary#bbcdocumentary#nationalgeographicdocumentary","keywords":"排行榜,HOT,TRENDS,熱門話題,熱門趨勢,熱門綜藝,熱門電影,熱門電視劇,小姐姐","codecs":""},"style":{"type":"rect","ratio":1.5}},
 {"key":"Youtube2","name":"👉🔥Youtube台灣🎯👈","type":3,"api":"csp_Youtube","searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./youtube2.json","codecs":""},"style":{"type":"rect","ratio":1.5}},
 {"key":"Youtube3","name":"🛗🎯Youtube測試⏩","type":3,"api":"csp_Youtube","searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./youtube3.json","codecs":""},"style":{"type":"rect","ratio":1.5}},
+{"key":"Youtube4","name":"Youtube測試4","type":3,"api":"csp_Youtube","searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./youtube4.json","codecs":""},"style":{"type":"rect","ratio":1.5}},
+{"key": "Youtube5","name": "😰YouTube5","type": 3,"style":{ "type":"oval" ,"searchable":1,"changeable":1},"api": "./Mud.js","ext": "./ytshare.json","searchable":1,"changeable":1},
 {"key":"ikanbotsq","name":"🈵爱看机器人sq","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbotsq.js"}
 ],
 "wallpaper":"./黑色.jpeg",
