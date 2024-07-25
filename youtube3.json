@@ -8,16 +8,16 @@
 {"type_id":"LIST:11點熱吵店","type_name":"綜藝節目①"},
 {"type_id":"LIST:現代啟示錄","type_name":"綜藝節目②"},
 {"type_id":"三立台劇","type_name":"台灣劇"},
-{"type_id":"LIST:旅遊真台灣","type_name":"旅遊台灣"},
+{"type_id":"旅遊台灣","type_name":"旅遊台灣"},
 {"type_id":"stopkiddinstudio","type_name":"不要鬧工作室"},
 {"type_id":"Sean的世界 台灣","type_name":"Sean 肖恩 台灣行"},
 {"type_id":"易拉罐 台灣行","type_name":"易拉罐 台灣行"},
-{"type_id":"LIST:老高與小茉","type_name":"YouTuber①"},
-{"type_id":"LIST:Roman and Sharon","type_name":"YouTuber②"},
+{"type_id":"LIST:獅心瘋","type_name":"YouTuber①"},
+{"type_id":"LIST:老高與小茉 Mr & Mrs Gao","type_name":"YouTuber②"},
 {"type_id":"LIST:Ku's dream酷的夢-","type_name":"YouTuber③"},
-{"type_id":"LIST:PAPAYA 電腦教室","type_name":"YouTuber④"},
+{"type_id":"LIST:喪屍老爸","type_name":"YouTuber④"},
 {"type_id":"陸配","type_name":"外配"},
-{"type_id":"fgt","type_name":"分享"},
+{"type_id":"LIST:PL8c_zzr_v4WFAkl7wwOjXmpxs0QdIV-NQ","type_name":"分享"},
 {"type_id":"#shorts 短片","type_name":"shorts"},
 {"type_id":"一口氣看完","type_name":"一口氣看完"}
 ],
@@ -87,7 +87,7 @@
 ]}
 ],
 
-"LIST:旅遊真台灣":[
+"旅遊台灣":[
 {"key":"tid","name":"中文","value":[
 {"n":"韓國女生Judy","v":"韓國女生Judy"},
 {"n":"蜜拉士愷","v":"波蘭女孩x台灣男孩蜜拉士愷"},
@@ -107,9 +107,8 @@
 ]}
 ],
 
-"LIST:老高與小茉":[
+"LIST:未解之謎 扶搖":[
 {"key":"tid","name":"中文","value":[
-{"n":"老高與小茉","v":"老高與小茉 Mr & Mrs Gao"},
 {"n":"未解之謎 扶搖","v":"未解之謎 扶搖"},
 {"n":"零度解說","v":"@lingdujieshuo"},
 {"n":"Top 5 Trends","v":"Top 5 Trends"},
@@ -279,7 +278,7 @@
 ]}
 ],
 
-"LIST:Roman and Sharon":[
+"LIST:老高與小茉 Mr & Mrs Gao":[
 {"key":"tid","name":"中文","value":[
 {"n":"奇軒Tricking","v":"奇軒Tricking"},
 {"n":"Roman and Sharon","v":"Roman and Sharon"},
@@ -346,13 +345,13 @@
 {"n":"滴妹","v":"滴妹"}
 ]}
 ],
-"LIST:PAPAYA 電腦教室":[
+"LIST:喪屍老爸":[
 {"key":"tid","name":"中文","value":[
 {"n":"PAPAYA 電腦教室","v":"PAPAYA 電腦教室"},
 {"n":"MrYang楊家成","v":"MrYang楊家成"},
 {"n":"cheap","v":"cheap"},
 {"n":"喪屍老爸","v":"喪屍老爸"},
-{"n":"志祺七七 X 圖文不符","v":"志祺七七 X 圖文不符"},
+{"n":"志祺七七","v":"志祺七七"},
 {"n":"二米炊煙ErmiChuiyan","v":"二米炊煙ErmiChuiyan"},
 {"n":"胖猴仔","v":"胖猴仔"},
 {"n":"好棒Bump","v":"好棒Bump"},
@@ -378,10 +377,10 @@
 ]}
 ],
 
-"fgt":[
+"LIST:PL8c_zzr_v4WFAkl7wwOjXmpxs0QdIV-NQ":[
 {"key":"tid","name":"中文","value":[
 {"n":"分享","v":"PLZEAuwg9Ccy5xKCnCOKkC-1nixugV2_w3"},
-{"n":"客廳分享","v":"PL8c_zzr_v4WFAkl7wwOjXmpxs0QdIV-NQ"}
+{"n":"客廳分享","v":""PL8c_zzr_v4WFAkl7wwOjXmpxs0QdIV-NQ""}
 ]}
 ],
 
