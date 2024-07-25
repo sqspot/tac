@@ -1,17 +1,17 @@
-TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
-民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
-三立財經,https://www.youtube.com/watch?v=CKjSm5ZeehE
-中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
-東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE
-EBC東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
-華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
-台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
-寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
-鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
-公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
-公共電視,https://www.youtube.com/watch?v=C6gYqSHLRw4
-NBC NEW,https://www.youtube.com/watch?v=--ZdMGK9Hn0
-CCTV新聞,https://www.youtube.com/watch?v=bEZYrBMYNNg
+TVBS新聞,https://www.youtube.com/live/m_dhMSvUCIc
+民視新聞,https://www.youtube.com/live/ylYJSBUgaMA
+三立新聞,https://www.youtube.com/live/oZdzzvxTfUY
+三立財經,https://www.youtube.com/live/CKjSm5ZeehE
+中天新聞,https://www.youtube.com/live/oIgbl7t0S_w
+東森新聞,https://www.youtube.com/live/LuQ4S-i5zoE
+EBC東森財經,https://www.youtube.com/live/WHEPzbFA3hw
+華視新聞,https://www.youtube.com/live/wM0g8EoUZ_E
+中視新聞,https://www.youtube.com/live/TCnaIE_SAtM
+台視新聞,https://www.youtube.com/live/xL0ch83RAK8
+寰宇新聞,https://www.youtube.com/live/6IquAgfvYmc
+寰宇新聞台灣台,https://www.youtube.com/live/w87VGpgd90U
+鏡新聞,https://www.youtube.com/live/5n0y6b0Q25o
+公視新聞,https://www.youtube.com/live/quwqlazU-c8
+公共電視,https://www.youtube.com/live/C6gYqSHLRw4
+NBC NEW,https://www.youtube.com/live/--ZdMGK9Hn0
+CCTV新聞,https://www.youtube.com/live/bEZYrBMYNNg
