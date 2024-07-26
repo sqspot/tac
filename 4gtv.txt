@@ -1713,23 +1713,23 @@ TITV 原住民族電視台,https://www.ipcf.org.tw/zh-TW/Vod/Home
 CNA(亞洲新聞台),https://www.channelnewsasia.com/watch
 
 YT新聞,#genre#
-TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc&hd=1
-民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA&hd=1
-三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY&hd=1
-三立財經,https://www.youtube.com/watch?v=CKjSm5ZeehE&hd=1
-中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w&hd=1
-東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE&hd=1
-EBC東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw&hd=1
-華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E&hd=1
-中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM&hd=1
-台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8&hd=1
-寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc&hd=1
-寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U&hd=1
-鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o&hd=1
-公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8&hd=1
-公共電視,https://www.youtube.com/watch?v=C6gYqSHLRw4&hd=1
-NBC NEW,https://www.youtube.com/watch?v=--ZdMGK9Hn0&hd=1
-CCTV新聞,https://www.youtube.com/watch?v=bEZYrBMYNNg&hd=1
+TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc&fmt=37
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA&fmt=37
+三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY&fmt=37
+三立財經,https://www.youtube.com/watch?v=CKjSm5ZeehE&fmt=37
+中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w&fmt=37
+東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE&fmt=37
+EBC東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw&fmt=37
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E&fmt=37
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM&fmt=37
+台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8&fmt=37
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc&fmt=37
+寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U&fmt=37
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o&fmt=37
+公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8&fmt=37
+公共電視,https://www.youtube.com/watch?v=C6gYqSHLRw4&fmt=37
+NBC NEW,https://www.youtube.com/watch?v=--ZdMGK9Hn0&fmt=37
+CCTV新聞,https://www.youtube.com/watch?v=bEZYrBMYNNg&fmt=37
 
 📺四季嗅探,#genre#
 parse=1
