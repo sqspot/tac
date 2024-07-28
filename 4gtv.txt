@@ -1992,3 +1992,97 @@ TVBS台劇台,https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=285
 電影免費看 2台,https://www.4gtv.tv/channel/4gtv-live005?set=1&ch=245
 超人力霸王整套看,https://www.4gtv.tv/channel/4gtv-live015?set=1&ch=278
 花系列 經典劇場,https://www.4gtv.tv/channel/4gtv-live016?set=1&ch=279
+
+iptv,#genre#
+三立iNEWS00,https://github.com/ChiSheng9/iptv/blob/master/TV01.m3u8
+三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u9
+東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u10
+momo購物一台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u11
+momo購物二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u12
+運通財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u13
+信大電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u14
+DW News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u15
+中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u16
+Malaimurasu Tv 24X7,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u17
+Asianet News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u18
+華視戲劇頻道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u19
+中天亞洲台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u20
+Al Jazeera Arabic,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u21
+JapaNews24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u22
+THE K-POP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u23
+民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u24
+東森購物台CH60,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u25
+東森購物台CH46,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u26
+LIVE NOW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u27
+Haberturk TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u28
+鳳凰衛視資訊台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u29
+新唐人LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u30
+ABC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u31
+台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u32
+華視綜藝頻道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u33
+Astro AWANI,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u34
+中天電視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u35
+Tokyo Walk,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u36
+大愛一臺HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u37
+TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u38
+三立新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u39
+GB News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u40
+中視經典綜藝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u41
+Sky News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u42
+India Today,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u43
+Euronews English,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u44
+FRANCE 24 English,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u45
+NBC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u46
+News18 India,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u47
+寰宇新聞台灣台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u48
+MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u49
+鳳凰衛視資訊台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u50
+MediaoneTV Live,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u51
+TBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u52
+NewsTamil24x7,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u53
+大愛二臺HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u54
+東森購物台CH47,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u55
+中天2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u56
+Malayalam News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u57
+Arirang TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u58
+CNA LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u59
+HTB北海道ニュース,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u60
+美好購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u61
+美好購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u62
+國會頻道１,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u63
+立法院會議,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u64
+123 GO! Live,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u65
+Al Jazeera English,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u66
+Muse木棉花-闔家歡,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u67
+KBS News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u68
+ABCテレビニュース,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u69
+YOYO TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u70
+小猪佩奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u71
+Talking Tom,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u72
+TalkingFriendsTVMini,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u73
+Dave and Ava,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u74
+Tayo the Little Bus,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u75
+Disney Junio,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u76
+鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u77
+大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u78
+CRUX,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u79
+豬哥會社,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u80
+TIMES NOW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u81
+GTV DRAMA 八大劇樂部,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u82
+民視戲劇館,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u83
+Lofi Girl,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u84
+TaiwanPlus,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u85
+earthTV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u86
+SBS Running Man,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u87
+飢餓遊戲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u88
+TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u89
+TVBS選新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u90
+Entertainment - Mediacorp,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV84.m3u91
+寰宇新聞財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u92
+LiveNOW from FOX,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u93
+東森購物台CH34,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV87.m3u94
+InquizeX,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV88.m3u95
+8world,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV89.m3u96
+倪珍24小時播新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV90.m3u97
+TV5 News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV91.m3u98
