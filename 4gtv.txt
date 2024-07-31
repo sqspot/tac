@@ -1,5 +1,4 @@
 4GTV1080,#genre#
-
 TV5MONDE Style,http://xg.52sw.top:5000/4gtv/178
 TVBS 台劇台,http://xg.52sw.top:5000/4gtv/285
 TVBS 新聞台,http://xg.52sw.top:5000/litv/4gtv-4gtv072
@@ -240,6 +239,111 @@ TVBS新聞,https://5ed5d165c218d.streamlock.net:441/free/Stream2/playlist.m3u8
 愛爾達,https://5ed5d165c218d.streamlock.net:441/free/Stream8/playlist.m3u8
 三立,https://cdn1.ibizastream.biz:441/free/Stream9/playlist.m3u8
 三立,https://5ed5d165c218d.streamlock.net:441/free/Stream9/playlist.m3u8
+
+2024奧運,#genre#
+CCTV5,http://cdn.1678520.xyz/xsj.php?id=cctv5
+CCTV5+,http://cdn.1678520.xyz/xsj.php?id=cctv5plus
+CCTV16,http://cdn.1678520.xyz/xsj.php?id=cctv16
+ELTA奥运1台,http://cdn.1678520.xyz/xsj.php?id=elta-oly1
+ELTA奥运2台,http://cdn.1678520.xyz/xsj.php?id=elta-oly2
+ELTA奥运3台,http://cdn.1678520.xyz/xsj.php?id=elta-oly3
+ELTA奥运4台,http://cdn.1678520.xyz/xsj.php?id=elta-oly4
+ELTA奥运5台,http://cdn.1678520.xyz/xsj.php?id=elta-oly5
+ELTA奥运6台,http://cdn.1678520.xyz/xsj.php?id=elta-oly6
+ELTA奥运7台,http://cdn.1678520.xyz/xsj.php?id=elta-oly7
+Astro OLY 1,http://cdn.1678520.xyz/xsj.php?id=astro-oly1
+Astro OLY 2,http://cdn.1678520.xyz/xsj.php?id=astro-oly2
+Astro OLY 3,http://cdn.1678520.xyz/xsj.php?id=astro-oly3
+Astro OLY 4,http://cdn.1678520.xyz/xsj.php?id=astro-oly4
+Astro OLY 5,http://cdn.1678520.xyz/xsj.php?id=astro-oly5
+Astro OLY 6,http://cdn.1678520.xyz/xsj.php?id=astro-oly6
+Astro OLY 7,http://cdn.1678520.xyz/xsj.php?id=astro-oly7
+Astro OLY 8,http://cdn.1678520.xyz/xsj.php?id=astro-oly8
+Astro OLY 9,http://cdn.1678520.xyz/xsj.php?id=astro-oly9
+Astro OLY 10,http://cdn.1678520.xyz/xsj.php?id=astro-oly10
+Astro OLY 11,http://cdn.1678520.xyz/xsj.php?id=astro-oly11
+Astro OLY 12,http://cdn.1678520.xyz/xsj.php?id=astro-oly12
+Astro OLY 13,http://cdn.1678520.xyz/xsj.php?id=astro-oly13
+Astro OLY 14,http://cdn.1678520.xyz/xsj.php?id=astro-oly14
+Astro OLY 15,http://cdn.1678520.xyz/xsj.php?id=astro-oly15
+Astro OLY 16,http://cdn.1678520.xyz/xsj.php?id=astro-oly16
+MyTVSuper奥运801,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly801
+MyTVSuper奥运802,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly802
+MyTVSuper奥运803,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly803
+MyTVSuper奥运804,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly804
+MyTVSuper奥运805,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly805
+MyTVSuper奥运806,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly806
+MyTVSuper奥运807,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly807
+MyTVSuper奥运808,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly808
+MyTVSuper奥运809,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly809
+MyTVSuper奥运810,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly810
+MyTVSuper奥运811,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly811
+MyTVSuper奥运812,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly812
+MyTVSuper奥运813,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly813
+MyTVSuper奥运814,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly814
+MyTVSuper奥运815,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly815
+MyTVSuper奥运816,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly816
+MyTVSuper奥运817,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly817
+MyTVSuper奥运817,#KODIPROP:inputstream.adaptive.license_type=clearkey
+MyTVSuper奥运817,#KODIPROP:inputstream.adaptive.license_key=67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
+Paris 2024 CH01,https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586981/assetType/media/assetFileId/20061401/contextType/PLAYBACK/isAltUrl/False/a.mpd
+Paris 2024 CH01,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Paris 2024 CH01,#KODIPROP:inputstream.adaptive.license_key=f9c25c77ec994a979453d826b0eda5be:d54c0d2c9873abcf9197bb82fd3e8a4a
+Paris 2024 CH02,https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586982/assetType/media/assetFileId/20061571/contextType/PLAYBACK/isAltUrl/False/a.mpd
+Paris 2024 CH02,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Paris 2024 CH02,#KODIPROP:inputstream.adaptive.license_key=142a3c07ea6742bf99f7ae5eaa8db32f:d1ec541224d76fb8d8938f9d1d58d209
+Paris 2024 CH03,https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586983/assetType/media/assetFileId/20064752/contextType/PLAYBACK/isAltUrl/False/a.mpd
+Paris 2024 CH03,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Paris 2024 CH03,#KODIPROP:inputstream.adaptive.license_key=30b253cc3c164a2496aa1c937070efc2:5f923a53361bdfa477df89bd9d0f2ac2
+Paris 2024 CH04,https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586984/assetType/media/assetFileId/20070548/contextType/PLAYBACK/isAltUrl/False/a.mpd
+Paris 2024 CH04,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Paris 2024 CH04,#KODIPROP:inputstream.adaptive.license_key=c9a5ac35c7084fe7b636805b7bde58dc:046fadba2c1cd2cf184b33ae6e1fc495
+Paris 2024 CH05,https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586985/assetType/media/assetFileId/20074438/contextType/PLAYBACK/isAltUrl/False/a.mpd
+Paris 2024 CH05,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Paris 2024 CH05,#KODIPROP:inputstream.adaptive.license_key=94435d90aa5043aea3901de619747a3d:af3f0047f71346c127dfb9be139df37a
+Paris 2024 CH06,https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586986/assetType/media/assetFileId/20074544/contextType/PLAYBACK/isAltUrl/False/a.mpd
+Paris 2024 CH06,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Paris 2024 CH06,#KODIPROP:inputstream.adaptive.license_key=e371a0b27db64256b4b43dafcb04b759:34b573374930646e97b4009de29b7058
+Paris 2024 CH07,https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586987/assetType/media/assetFileId/20074556/contextType/PLAYBACK/isAltUrl/False/a.mpd
+Paris 2024 CH07,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Paris 2024 CH07,#KODIPROP:inputstream.adaptive.license_key=e78fde7e99d246f8a511587de98ebdaa:98cc62c131a81705c74b405e51b059cb
+Paris 2024 CH08,https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586988/assetType/media/assetFileId/20105496/contextType/PLAYBACK/isAltUrl/False/a.mpd
+Paris 2024 CH08,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Paris 2024 CH08,#KODIPROP:inputstream.adaptive.license_key=347e553679ac416c89724a73f11a7e0e:e03eac0f426ae6a94b02351b2c046f58
+Paris 2024 CH09,https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586989/assetType/media/assetFileId/20106124/contextType/PLAYBACK/isAltUrl/False/a.mpd
+Paris 2024 CH09,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Paris 2024 CH09,#KODIPROP:inputstream.adaptive.license_key=b73ecf9b3afd4dbe9f3497129af930e4:d8210580581eb63ecc8aa41207196190
+Paris 2024 CH10,https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586990/assetType/media/assetFileId/20106232/contextType/PLAYBACK/isAltUrl/False/a.mpd
+Paris 2024 CH10,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Paris 2024 CH10,#KODIPROP:inputstream.adaptive.license_key=bd4222aecfd44ddcb7e9fdd8d76f0c6b:48411f638e543360b5e8b721a1f51264
+Paris 2024 CH11,https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586991/assetType/media/assetFileId/20106485/contextType/PLAYBACK/isAltUrl/False/a.mpd
+Paris 2024 CH11,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Paris 2024 CH11,#KODIPROP:inputstream.adaptive.license_key=b5b8a1552dc447c0a58143ded9ea4965:7f629adaf2c7d010674a12ac1f5e6d99
+Paris 2024 CH12,https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586992/assetType/media/assetFileId/20106521/contextType/PLAYBACK/isAltUrl/False/a.mpd
+Paris 2024 CH12,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Paris 2024 CH12,#KODIPROP:inputstream.adaptive.license_key=0ddb4ca731cb4586a7269b29defa452b:fdb9619df86a47faea1145f607be5c2d
+Paris 2024 CH13,https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586993/assetType/media/assetFileId/20109466/contextType/PLAYBACK/isAltUrl/False/a.mpd
+Paris 2024 CH13,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Paris 2024 CH13,#KODIPROP:inputstream.adaptive.license_key=f78239c7163b4b17873d005f80b850bf:dfb3d1533e62397f696dd49ae136b8c7
+Paris 2024 CH14,https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586994/assetType/media/assetFileId/20109819/contextType/PLAYBACK/isAltUrl/False/a.mpd
+Paris 2024 CH14,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Paris 2024 CH14,#KODIPROP:inputstream.adaptive.license_key=e21ca3ae80cc40548c51dbeb8ce8b9d7:a36b19182f848e2dad1ea76a5a4e3bda
+Paris 2024 CH15,https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586995/assetType/media/assetFileId/20109831/contextType/PLAYBACK/isAltUrl/False/a.mpd
+Paris 2024 CH15,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Paris 2024 CH15,#KODIPROP:inputstream.adaptive.license_key=0e75d23cdbbf4fefa09f106a71ec8c18:8cf2a0ab6990b5091dd95dac3288789c
+Paris 2024 CH16,https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586996/assetType/media/assetFileId/20109883/contextType/PLAYBACK/isAltUrl/False/a.mpd
+Paris 2024 CH16,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Paris 2024 CH16,#KODIPROP:inputstream.adaptive.license_key=3ef636158fd6489da0a63ab426587308:6c1a22550758100c4a2b95e4b0dfad8d
+Paris 2024 CH17,https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586997/assetType/media/assetFileId/20110952/contextType/PLAYBACK/isAltUrl/False/a.mpd
+Paris 2024 CH17,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Paris 2024 CH17,#KODIPROP:inputstream.adaptive.license_key=019f6e480f774cae8539901c9edd2a60:6bd5db15b704e4f3dfa9a25a9cda6b79
+Paris 2024 CH18,https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/1586998/assetType/media/assetFileId/20110964/contextType/PLAYBACK/isAltUrl/False/a.mpd
+Channel 1 Paris 2024 Olympics,https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=11
+Channel 2 Paris 2024 Olympics,https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8?id=12
+Channel 3 Paris 2024 Olympics,https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8?id=13
+Channel 4 Paris 2024 Olympics,https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/playlist.m3u8?id=14
+Channel 5 Paris 2024 Olympics,https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=15
+Channel 6 Paris 2024 Olympics,https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
 
 台湾.晴天gener,#genre#
 BBC Lifestyle,P2p://generationnexxxt.com:19806/213ee36f11ba4b9896c8440290ebca3b
@@ -1992,6 +2096,151 @@ TVBS台劇台,https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=285
 電影免費看 2台,https://www.4gtv.tv/channel/4gtv-live005?set=1&ch=245
 超人力霸王整套看,https://www.4gtv.tv/channel/4gtv-live015?set=1&ch=278
 花系列 經典劇場,https://www.4gtv.tv/channel/4gtv-live016?set=1&ch=279
+
+Litv,#genre#
+民視,http://xg.52sw.top:5000/litv/4gtv-4gtv155
+民視第一台,http://xg.52sw.top:5000/litv/4gtv-4gtv003
+民視新聞台,http://xg.52sw.top:5000/litv/litv-ftv13
+民視台灣台,http://xg.52sw.top:5000/litv/4gtv-4gtv001
+民視影劇台,http://xg.52sw.top:5000/litv/litv-ftv09
+民視旅遊台, http://xg.52sw.top:5000/litv/litv-ftv07
+民視綜藝台, http://xg.52sw.top:5000/litv/4gtv-4gtv004
+中視,http://xg.52sw.top:5000/litv/4gtv-4gtv040
+中視新聞台, http://xg.52sw.top:5000/litv/4gtv-4gtv074
+中視經典台, http://xg.52sw.top:5000/litv/4gtv-4gtv080
+中視菁采台,http://xg.52sw.top:5000/litv/4gtv-4gtv064
+中天新聞台,http://xg.52sw.top:5000/litv/4gtv-4gtv009
+中天亞洲台,http://xg.52sw.top:5000/litv/4gtv-4gtv109
+華視,http://xg.52sw.top:5000/litv/4gtv-4gtv041
+華視新聞,http://xg.52sw.top:5000/litv/4gtv-4gtv052
+靖天綜合台,http://xg.52sw.top:5000/litv/4gtv-4gtv046
+靖天國際台,http://xg.52sw.top:5000/litv/4gtv-4gtv063
+靖天戲劇台,http://xg.52sw.top:5000/litv/4gtv-4gtv058
+靖天日本台,http://xg.52sw.top:5000/litv/4gtv-4gtv047
+靖天映畫台,http://xg.52sw.top:5000/litv/4gtv-4gtv055
+靖天卡通台,http://xg.52sw.top:5000/litv/4gtv-4gtv044
+靖天育樂台,http://xg.52sw.top:5000/litv/4gtv-4gtv062
+靖天資訊台,http://xg.52sw.top:5000/litv/4gtv-4gtv065
+靖天電影台,http://xg.52sw.top:5000/litv/4gtv-4gtv061
+靖天歡樂台,http://xg.52sw.top:5000/litv/4gtv-4gtv054
+龍華偶像台, http://xg.52sw.top:5000/litv/litv-longturn12
+龍華卡通台, http://xg.52sw.top:5000/litv/litv-longturn01
+龍華戲劇台, http://xg.52sw.top:5000/litv/litv-longturn18
+龍華日韓台, http://xg.52sw.top:5000/litv/litv-longturn11
+龍華經典台, http://xg.52sw.top:5000/litv/litv-longturn21
+龍華電影台, http://xg.52sw.top:5000/litv/litv-longturn03
+靖洋戲劇台, http://xg.52sw.top:5000/litv/4gtv-4gtv045
+靖洋卡通 Nice Bingo, http://xg.52sw.top:5000/litv/4gtv-4gtv057
+寰宇新聞台, http://xg.52sw.top:5000/litv/litv-longturn14
+寰宇新聞台灣台, http://xg.52sw.top:5000/litv/litv-longturn15
+寰宇財經台, http://xg.52sw.top:5000/litv/litv-longturn23
+TVBS, http://xg.52sw.top:5000/litv/4gtv-4gtv073
+TVBS 新聞台, http://xg.52sw.top:5000/litv/4gtv-4gtv072
+TVBS 綜藝台, http://xg.52sw.top:5000/4gtv/284
+TVBS 歡樂台, http://xg.52sw.top:5000/litv/4gtv-4gtv068
+TVBS 精采台, http://xg.52sw.top:5000/litv/4gtv-4gtv067
+TVBS 台劇台, http://xg.52sw.top:5000/4gtv/285
+八大精彩台, http://xg.52sw.top:5000/litv/4gtv-4gtv034
+八大綜藝台, http://xg.52sw.top:5000/litv/4gtv-4gtv039
+三立新聞, http://xg.52sw.top:5000/4gtv/229
+三立綜合台, http://xg.52sw.top:5000/4gtv/169
+台視, http://xg.52sw.top:5000/litv/4gtv-4gtv066
+台視新聞台, http://xg.52sw.top:5000/litv/4gtv-4gtv051
+台視財經台, http://xg.52sw.top:5000/litv/4gtv-4gtv056
+博斯運動一台, http://xg.52sw.top:5000/litv/litv-longturn07
+博斯運動二台, http://xg.52sw.top:5000/litv/litv-longturn08
+博斯無限台, http://xg.52sw.top:5000/litv/litv-longturn10
+博斯無限二台, http://xg.52sw.top:5000/litv/litv-longturn13
+博斯網球台, http://xg.52sw.top:5000/litv/litv-longturn09
+博斯高球台, http://xg.52sw.top:5000/litv/litv-longturn05
+博斯高球二台, http://xg.52sw.top:5000/litv/litv-longturn06
+博斯魅力台, http://xg.52sw.top:5000/litv/litv-longturn04
+ELTA 娛樂台, http://xg.52sw.top:5000/litv/4gtv-4gtv070
+ELTA 生活旅遊, http://xg.52sw.top:5000/4gtv/237
+ELTA生活英語, http://xg.52sw.top:5000/litv/litv-longturn20
+東森新聞, http://xg.52sw.top:5000/litv/4gtv-4gtv152
+東森財經新聞, http://xg.52sw.top:5000/litv/4gtv-4gtv153
+非凡新聞台, http://xg.52sw.top:5000/litv/4gtv-4gtv010
+非凡商業台, http://xg.52sw.top:5000/litv/4gtv-4gtv048
+鏡電視新聞台, http://xg.52sw.top:5000/litv/4gtv-4gtv075
+CNBC Asia 財經台, http://xg.52sw.top:5000/4gtv/235
+亞洲旅遊台, http://xg.52sw.top:5000/litv/litv-longturn17
+GINX Esports TV, http://xg.52sw.top:5000/litv/4gtv-4gtv053
+TechStorm, http://xg.52sw.top:5000/4gtv/181
+時尚運動X, http://xg.52sw.top:5000/4gtv/277
+智林體育台, http://xg.52sw.top:5000/litv/4gtv-4gtv101
+TraceSports, http://xg.52sw.top:5000/litv/4gtv-4gtv077
+影迷數位紀實台, http://xg.52sw.top:5000/4gtv/212
+影迷數位電影台, http://xg.52sw.top:5000/litv/4gtv-4gtv011
+AMC 最愛電影, http://xg.52sw.top:5000/litv/4gtv-4gtv017
+CatchPlay 電影台, http://xg.52sw.top:5000/litv/4gtv-4gtv076
+My Cinema Europe HD 我的歐洲電影, http://xg.52sw.top:5000/4gtv/176
+公視戲劇台, http://xg.52sw.top:5000/litv/4gtv-4gtv042
+采昌影劇台, http://xg.52sw.top:5000/litv/4gtv-4gtv049
+台灣戲劇台, http://xg.52sw.top:5000/litv/litv-longturn22
+戲劇免費看 1台, http://xg.52sw.top:5000/4gtv/270
+戲劇免費看 2台, http://xg.52sw.top:5000/4gtv/244
+經典電影台, http://xg.52sw.top:5000/4gtv/201
+電影免費看 2台, http://xg.52sw.top:5000/4gtv/245
+電影原聲台 CMusic, http://xg.52sw.top:5000/4gtv/218
+花系列 經典劇場, http://xg.52sw.top:5000/4gtv/279
+CinemaWorld, http://xg.52sw.top:5000/4gtv/225
+HITS 頻道, http://xg.52sw.top:5000/4gtv/186
+Rock Action, http://xg.52sw.top:5000/4gtv/180
+Rock Entertainment, http://xg.52sw.top:5000/4gtv/275
+金光布袋戲, http://xg.52sw.top:5000/4gtv/236
+霹靂布袋戲, http://xg.52sw.top:5000/4gtv/301
+DreamWorks 夢工廠動畫, http://xg.52sw.top:5000/4gtv/282
+Nickelodeon, http://xg.52sw.top:5000/4gtv/185
+Nick Jr. 兒童頻道, http://xg.52sw.top:5000/4gtv/219
+i-Fun 動漫台, http://xg.52sw.top:5000/litv/litv-ftv15
+兒童卡通台, http://xg.52sw.top:5000/4gtv/269
+精選動漫台, http://xg.52sw.top:5000/4gtv/204
+經典卡通台, http://xg.52sw.top:5000/4gtv/202
+達文西頻道, http://xg.52sw.top:5000/litv/4gtv-4gtv018
+超人力霸王整套看, http://xg.52sw.top:5000/4gtv/278
+MOMO 親子台, http://xg.52sw.top:5000/4gtv/231
+LiveABC 互動英語台, http://xg.52sw.top:5000/4gtv/188
+Classica 古典樂, http://xg.52sw.top:5000/litv/4gtv-4gtv059
+Lifetime 娛樂頻道, http://xg.52sw.top:5000/4gtv/217
+MTV Live HD 音樂頻道, http://xg.52sw.top:5000/4gtv/213
+Mezzo Live, http://xg.52sw.top:5000/litv/4gtv-4gtv083
+豬哥亮歌廳秀, http://xg.52sw.top:5000/litv/4gtv-4gtv006
+Trace Urban, http://xg.52sw.top:5000/litv/4gtv-4gtv082
+Global Trekker, http://xg.52sw.top:5000/4gtv/252
+Globetrotter 環遊旅行家, http://xg.52sw.top:5000/litv/4gtv-4gtv016
+LUXE TV, http://xg.52sw.top:5000/4gtv/175
+Pet Club TV, http://xg.52sw.top:5000/4gtv/182
+TV5MONDE Style, http://xg.52sw.top:5000/4gtv/178
+車迷 TV, http://xg.52sw.top:5000/4gtv/160
+Love Nature, http://xg.52sw.top:5000/4gtv/139
+Fun 探索娛樂台, http://xg.52sw.top:5000/4gtv/274
+幸福空間居家台, http://xg.52sw.top:5000/4gtv/168
+Arirang TV, http://xg.52sw.top:5000/litv/4gtv-4gtv079
+Bloomberg TV, http://xg.52sw.top:5000/4gtv/283
+SBN 全球財經台, http://xg.52sw.top:5000/4gtv/224
+半島國際新聞台, http://xg.52sw.top:5000/litv/litv-ftv10
+第1商業台, http://xg.52sw.top:5000/litv/4gtv-4gtv104
+History 歷史頻道, http://xg.52sw.top:5000/4gtv/214
+CI 罪案偵查頻道, http://xg.52sw.top:5000/4gtv/215
+Smart 知識台, http://xg.52sw.top:5000/litv/litv-longturn19
+視納華仁紀實頻道, http://xg.52sw.top:5000/litv/4gtv-4gtv013
+原住民族電視台, http://xg.52sw.top:5000/4gtv/273
+客家電視台, http://xg.52sw.top:5000/litv/4gtv-4gtv043
+滾動力 Rollor, http://xg.52sw.top:5000/4gtv/249
+好消息, http://xg.52sw.top:5000/litv/litv-ftv16
+好消息2台, http://xg.52sw.top:5000/litv/litv-ftv17
+大愛電視, http://xg.52sw.top:5000/4gtv/209
+大愛電視2, http://xg.52sw.top:5000/4gtv/230
+人間衛視, http://xg.52sw.top:5000/4gtv/210
+國會頻道1, http://xg.52sw.top:5000/litv/4gtv-4gtv084
+國會頻道2, http://xg.52sw.top:5000/litv/4gtv-4gtv085
+東森購物一台, http://xg.52sw.top:5000/4gtv/173
+東森購物二台, http://xg.52sw.top:5000/4gtv/174
+東森購物三台, http://xg.52sw.top:5000/4gtv/287
+東森購物四台, http://xg.52sw.top:5000/4gtv/286
+VOA TV, http://xg.52sw.top:5000/litv/litv-ftv03
+DW, http://xg.52sw.top:5000/4gtv/226
 
 iptv,#genre#
 三立iNEWS00,https://github.com/ChiSheng9/iptv/blob/master/TV01.m3u8
