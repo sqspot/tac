@@ -1,17 +1,17 @@
 奧運,#genre#
-US: CNBC,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649772.ts
-US: E!,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649773.ts
-US: NBC,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649774.ts
-US: USA Network,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649775.ts
-CA: CBC,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649776.ts
-UK: BBC One,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649777.ts
-UK: BBC Two,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649778.ts
-UK: Eurosport,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649788.ts
-UK: Eurosport 2,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649789.ts
-UK: Eurosport 3,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649790.ts
-UK: Eurosport 4,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649791.ts
-UK: Eurosport 5,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649792.ts
-UK: Eurosport 6,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649793.ts
-UK: Eurosport 7,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649794.ts
-UK: Eurosport 8,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649795.ts
-UK: Eurosport 9,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649796.ts
+奧運1-英國台,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649788.ts
+奧運2-英國台,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649789.ts
+奧運3-英國台,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649790.ts
+奧運4-英國台,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649791.ts
+奧運5-英國台,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649792.ts
+奧運6-英國台,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649793.ts
+奧運7-英國台,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649794.ts
+奧運8-英國台,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649795.ts
+奧運9-英國台,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649796.ts
+美國 CNBC,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649772.ts
+美國 E!,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649773.ts
+美國 NBC,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649774.ts
+美國 USA Network,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649775.ts
+加拿大 CBC,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649776.ts
+英國 BBC One,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649777.ts
+英國 BBC Two,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649778.ts
