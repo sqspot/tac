@@ -12,7 +12,14 @@
 "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png",
 "ads": ["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]
+},
+{
+    "name": "ETH(JS)",
+    "api": "https://tang.hz.cz/js/ethtv.js",
+    "type": 3,
+    "ua": "okhttp/4.12.0"
 }
+
 ],
 "sites" : [
 {"key":"drpy","name":"🔥豆瓣(評分 0~10分)　　　　🔥祝大家🤩好運🐉總來💯","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
