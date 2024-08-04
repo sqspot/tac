@@ -16,7 +16,7 @@
 },
 {
    "name":"ETH(JS)",
-   "api":"https://tang.hz.cz/js/ethtv.js",
+   "api":"https://raw.githubusercontent.com/sqspot/tac/main/js/ethtv.js",
    "type":3,
    "ua":"okhttp/4.12.0"
 },
@@ -72,7 +72,7 @@
 {"key":"ikun网","name":"🏆ikun","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/xml","searchable":1,"changeable":1},
 {"key":"大漠影视e","name":"🏆大漠dm","type":1,"api":"https://damozy.com/api.php/provide/vod/from/M3U8/","searchable":1,"changeable":1},
 {"key": "种子","name": "🏆种子短剧zz","type": 1,"api": "http://zzdj.cc/api.php/provide/vod/","searchable":1,"changeable":1},
-{"key":"量子網","name":"🏆量子lz","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["国产剧","国产动漫","泰国剧","台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","体育","剧情片","动作片","爱情片","喜剧片"]},
+{"key":"量子網","name":"??量子lz","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["国产剧","国产动漫","泰国剧","台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","体育","剧情片","动作片","爱情片","喜剧片"]},
 {"key":"淘片网","name":"🌕淘片tp","type":0,"api":"https://taopianapi.com/home/cjapi/as/mc10/vod/xml","searchable":1,"changeable":1},
 {"key":"U酷網","name":"🏆U酷","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"changeable":1},
 {"key":"红牛","name":"🏆红牛hn","type":0,"api":"https://www.hongniuzy2.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
