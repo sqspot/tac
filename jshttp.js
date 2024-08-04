@@ -14,6 +14,13 @@
 "logo":"https://epg.112114.xyz/logo/{name}.png",
 "ads": ["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]
 },
+{
+   "name":"ETH(JS)",
+   "api":"https://tang.hz.cz/js/ethtv.js",
+   "type":3,
+   "ua":"okhttp/4.12.0"
+},
+
         {
             "name": "飛龍影視",
             "type": 0,
@@ -23,7 +30,7 @@
 
 ],
 "sites" : [
-{"key":"drpy","name":"🔥豆瓣(評分 0~10分)　　　　🔥祝大家🤩好運🐉總來💯","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
+{"key":"drpy","name":"🔥豆瓣(評分 0~10分)　　🔥祝大家🤩好運🐉總來💯","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key":"夜貓_drpy_xb","name":"👑小宝影视","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/小宝影院2.js","searchable":1,"changeable":1},
 {"key":"lf_search","name":"🔎lf_搜索影片3","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js"},
 {"key":"drpy__豆瓣","name":"豆瓣🏛[DRPY]","type":3,"api":"./lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
