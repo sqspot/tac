@@ -2,6 +2,7 @@
 //Type 0-xml、 1-json 、2-爬虫源 、3-自定义爬虫 、4-服务器爬虫。
 "spider":"./fm.jar",
 //"spider":"./pg.jar",
+"logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 "lives":[
 {
 "name":"4gtv",
@@ -10,8 +11,15 @@
 "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
 "playerType": 1,
 "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"https://epg.112114.xyz/logo/{name}.png"
-}
+"logo":"https://epg.112114.xyz/logo/{name}.png",
+"ads": ["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]
+},
+        {
+            "name": "飛龍影視",
+            "type": 0,
+            "url": "https://gitlab.com/tvtg/vip/-/raw/main/fl2024.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        }
 
 ],
 "sites" : [
@@ -23,6 +31,7 @@
 {"key":"php_hmezy","name":"👑黑木耳克隆","type":4,"api":"https://demobe.serv00.net/heimuer.php","searchable":1,"changeable":1},
 {"key":"PTT","name":"👑PTT采集综合","type":3,"api":"csp_PTT","searchable":1,"changeable":1},
 {"key":"ikanbotsq","name":"🈵爱看机器人sq","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbotsq.js","searchable":1,"changeable":1},
+{"key":"XBPQ_文才","name":"🥬文才","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar","ext":{"分类": "国产剧&短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧","分类值": "14&42&22&26&36&25&30&23&69&15&16&62","分类url": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}","数组二次截取": "list\":[&&]","数组": "{&&}[不包含:]","图片": "vod_pic\":\"&&\"","标题": "vod_name\":\"&&\"","副标题": "+vod_remarks\":\"&&\"","链接": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,","搜索url": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://api.zeqaht.com/api.php/provide/vod?ac=detail&wd={wd}","搜索模式": "1","搜索二次截取": "list\":[&&]","搜索数组": "{&&}[不包含:]","搜索图片": "vod_pic\"*\"&&\"","搜索标题": "vod_name\"*\"&&\"","搜索副标题": "type_name\":\"&&\"","搜索链接": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,","影片类型": "vod_class\"*\"&&\"","导演": "vod_director\"*\"&&\"","主演": "vod_actor\"*\"&&\"","简介": "vod_content\"*\"&&\"","线路二次截取": "\"list\":[&&]","线路数组": "\"vod_play_from\":&&,","线路标题": "\"&&\"","播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]","播放二次截取": "","播放列表": "表&&表","播放标题": "题&&题","播放链接": "链&&链","嗅探词": ".m3u8","播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad","免嗅": "0"}},
 {"key": "星星","name": "🔥星星|","type": 3,"api": "csp_Star","searchable": 1,"changeable": 0},
 {"key":"海外看网","name":"🔥海外看haiwaikan","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list","searchable":1,"changeable":1},
 {"key":"oletv資源f","name":"🔥oletv資源(海外)","type":1,"api":"https://olevod1.com/api.php/provide/vod/","searchable":1,"changeable":1},
@@ -36,7 +45,6 @@
 {"key":"天空网","name":"👑天空tk","type":0,"api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
 {"key":"索尼","name":"👑索尼","type":0,"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml/","searchable":1,"changeable":1},
 {"key":"多瑙影视","name":"🈵多瑙影视♒","type":3,"api":"./lib/drpy2.min.js","ext":"./js/多瑙影视.js","searchable":1,"changeable":1},
-{"key":"XBPQ_文才","name":"🥬文才","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar","ext":{"分类": "国产剧&短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧","分类值": "14&42&22&26&36&25&30&23&69&15&16&62","分类url": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}","数组二次截取": "list\":[&&]","数组": "{&&}[不包含:]","图片": "vod_pic\":\"&&\"","标题": "vod_name\":\"&&\"","副标题": "+vod_remarks\":\"&&\"","链接": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,","搜索url": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://api.zeqaht.com/api.php/provide/vod?ac=detail&wd={wd}","搜索模式": "1","搜索二次截取": "list\":[&&]","搜索数组": "{&&}[不包含:]","搜索图片": "vod_pic\"*\"&&\"","搜索标题": "vod_name\"*\"&&\"","搜索副标题": "type_name\":\"&&\"","搜索链接": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,","影片类型": "vod_class\"*\"&&\"","导演": "vod_director\"*\"&&\"","主演": "vod_actor\"*\"&&\"","简介": "vod_content\"*\"&&\"","线路二次截取": "\"list\":[&&]","线路数组": "\"vod_play_from\":&&,","线路标题": "\"&&\"","播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]","播放二次截取": "","播放列表": "表&&表","播放标题": "题&&题","播放链接": "链&&链","嗅探词": ".m3u8","播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad","免嗅": "0"}},
 {"key":"360資源資源","name":"🔥360資源資源","type":1,"api":"https://360zy.com/api.php/provide/vod/at/json","searchable":1,"changeable":1},
 {"key":"豪华","name":"🌅豪华hh","type":0,"api":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/xml","searchable":1,"changeable":1},
 {"key":"欧乐影院","name":"🌅歐樂影院♒","type":3,"api":"./lib/drpy2.min.js","ext":"./js/欧乐影院.js","searchable":1,"changeable":1},

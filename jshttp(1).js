@@ -2,6 +2,7 @@
 //Type 0-xml、 1-json 、2-爬虫源 、3-自定义爬虫 、4-服务器爬虫。
 "spider":"./fm.jar",
 //"spider":"./pg.jar",
+"logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 "lives":[
 {
 "name":"4gtv",
@@ -12,7 +13,13 @@
 "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png",
 "ads": ["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]
-}
+},
+        {
+            "name": "飛龍影視",
+            "type": 0,
+            "url": "https://gitlab.com/tvtg/vip/-/raw/main/fl2024.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        }
 //},
 //{"name": "ETH(JS)","api": "https://tang.hz.cz/js/ethtv.js","type": 3,"ua": "okhttp/4.12.0"}
 
