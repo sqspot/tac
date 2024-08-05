@@ -1,149 +1,3 @@
-4GTV1080,#genre#
-TV5MONDE Style,http://xg.52sw.top:5000/4gtv/178
-民視,http://xg.52sw.top:5000/litv/4gtv-4gtv155
-民視第一台,http://xg.52sw.top:5000/litv/4gtv-4gtv003
-民視新聞台,http://xg.52sw.top:5000/litv/litv-ftv13
-民視台灣台,http://xg.52sw.top:5000/litv/4gtv-4gtv001
-民視影劇台,http://xg.52sw.top:5000/litv/litv-ftv09
-民視旅遊台, http://xg.52sw.top:5000/litv/litv-ftv07
-民視綜藝台, http://xg.52sw.top:5000/litv/4gtv-4gtv004
-中視,http://xg.52sw.top:5000/litv/4gtv-4gtv040
-中視新聞台, http://xg.52sw.top:5000/litv/4gtv-4gtv074
-中視經典台, http://xg.52sw.top:5000/litv/4gtv-4gtv080
-中視菁采台,http://xg.52sw.top:5000/litv/4gtv-4gtv064
-中天新聞台,http://xg.52sw.top:5000/litv/4gtv-4gtv009
-中天亞洲台,http://xg.52sw.top:5000/litv/4gtv-4gtv109
-華視,http://xg.52sw.top:5000/litv/4gtv-4gtv041
-華視新聞,http://xg.52sw.top:5000/litv/4gtv-4gtv052
-靖天綜合台,http://xg.52sw.top:5000/litv/4gtv-4gtv046
-靖天國際台,http://xg.52sw.top:5000/litv/4gtv-4gtv063
-靖天戲劇台,http://xg.52sw.top:5000/litv/4gtv-4gtv058
-靖天日本台,http://xg.52sw.top:5000/litv/4gtv-4gtv047
-靖天映畫台,http://xg.52sw.top:5000/litv/4gtv-4gtv055
-靖天卡通台,http://xg.52sw.top:5000/litv/4gtv-4gtv044
-靖天育樂台,http://xg.52sw.top:5000/litv/4gtv-4gtv062
-靖天資訊台,http://xg.52sw.top:5000/litv/4gtv-4gtv065
-靖天電影台,http://xg.52sw.top:5000/litv/4gtv-4gtv061
-靖天歡樂台,http://xg.52sw.top:5000/litv/4gtv-4gtv054
-龍華偶像台, http://xg.52sw.top:5000/litv/litv-longturn12
-龍華卡通台, http://xg.52sw.top:5000/litv/litv-longturn01
-龍華戲劇台, http://xg.52sw.top:5000/litv/litv-longturn18
-龍華日韓台, http://xg.52sw.top:5000/litv/litv-longturn11
-龍華經典台, http://xg.52sw.top:5000/litv/litv-longturn21
-龍華電影台, http://xg.52sw.top:5000/litv/litv-longturn03
-靖洋戲劇台, http://xg.52sw.top:5000/litv/4gtv-4gtv045
-靖洋卡通 Nice Bingo, http://xg.52sw.top:5000/litv/4gtv-4gtv057
-寰宇新聞台, http://xg.52sw.top:5000/litv/litv-longturn14
-寰宇新聞台灣台, http://xg.52sw.top:5000/litv/litv-longturn15
-寰宇財經台, http://xg.52sw.top:5000/litv/litv-longturn23
-TVBS, http://xg.52sw.top:5000/litv/4gtv-4gtv073
-TVBS 新聞台, http://xg.52sw.top:5000/litv/4gtv-4gtv072
-TVBS 綜藝台, http://xg.52sw.top:5000/4gtv/284
-TVBS 歡樂台, http://xg.52sw.top:5000/litv/4gtv-4gtv068
-TVBS 精采台, http://xg.52sw.top:5000/litv/4gtv-4gtv067
-TVBS 台劇台, http://xg.52sw.top:5000/4gtv/285
-八大精彩台, http://xg.52sw.top:5000/litv/4gtv-4gtv034
-八大綜藝台, http://xg.52sw.top:5000/litv/4gtv-4gtv039
-三立新聞, http://xg.52sw.top:5000/4gtv/229
-三立綜合台, http://xg.52sw.top:5000/4gtv/169
-台視, http://xg.52sw.top:5000/litv/4gtv-4gtv066
-台視新聞台, http://xg.52sw.top:5000/litv/4gtv-4gtv051
-台視財經台, http://xg.52sw.top:5000/litv/4gtv-4gtv056
-博斯運動一台, http://xg.52sw.top:5000/litv/litv-longturn07
-博斯運動二台, http://xg.52sw.top:5000/litv/litv-longturn08
-博斯無限台, http://xg.52sw.top:5000/litv/litv-longturn10
-博斯無限二台, http://xg.52sw.top:5000/litv/litv-longturn13
-博斯網球台, http://xg.52sw.top:5000/litv/litv-longturn09
-博斯高球台, http://xg.52sw.top:5000/litv/litv-longturn05
-博斯高球二台, http://xg.52sw.top:5000/litv/litv-longturn06
-博斯魅力台, http://xg.52sw.top:5000/litv/litv-longturn04
-ELTA 娛樂台, http://xg.52sw.top:5000/litv/4gtv-4gtv070
-ELTA 生活旅遊, http://xg.52sw.top:5000/4gtv/237
-ELTA生活英語, http://xg.52sw.top:5000/litv/litv-longturn20
-東森新聞, http://xg.52sw.top:5000/litv/4gtv-4gtv152
-東森財經新聞, http://xg.52sw.top:5000/litv/4gtv-4gtv153
-非凡新聞台, http://xg.52sw.top:5000/litv/4gtv-4gtv010
-非凡商業台, http://xg.52sw.top:5000/litv/4gtv-4gtv048
-鏡電視新聞台, http://xg.52sw.top:5000/litv/4gtv-4gtv075
-CNBC Asia 財經台, http://xg.52sw.top:5000/4gtv/235
-亞洲旅遊台, http://xg.52sw.top:5000/litv/litv-longturn17
-GINX Esports TV, http://xg.52sw.top:5000/litv/4gtv-4gtv053
-TechStorm, http://xg.52sw.top:5000/4gtv/181
-時尚運動X, http://xg.52sw.top:5000/4gtv/277
-智林體育台, http://xg.52sw.top:5000/litv/4gtv-4gtv101
-TraceSports, http://xg.52sw.top:5000/litv/4gtv-4gtv077
-影迷數位紀實台, http://xg.52sw.top:5000/4gtv/212
-影迷數位電影台, http://xg.52sw.top:5000/litv/4gtv-4gtv011
-AMC 最愛電影, http://xg.52sw.top:5000/litv/4gtv-4gtv017
-CatchPlay 電影台, http://xg.52sw.top:5000/litv/4gtv-4gtv076
-My Cinema Europe HD 我的歐洲電影, http://xg.52sw.top:5000/4gtv/176
-公視戲劇台, http://xg.52sw.top:5000/litv/4gtv-4gtv042
-采昌影劇台, http://xg.52sw.top:5000/litv/4gtv-4gtv049
-台灣戲劇台, http://xg.52sw.top:5000/litv/litv-longturn22
-戲劇免費看 1台, http://xg.52sw.top:5000/4gtv/270
-戲劇免費看 2台, http://xg.52sw.top:5000/4gtv/244
-經典電影台, http://xg.52sw.top:5000/4gtv/201
-電影免費看 2台, http://xg.52sw.top:5000/4gtv/245
-電影原聲台 CMusic, http://xg.52sw.top:5000/4gtv/218
-花系列 經典劇場, http://xg.52sw.top:5000/4gtv/279
-CinemaWorld, http://xg.52sw.top:5000/4gtv/225
-HITS 頻道, http://xg.52sw.top:5000/4gtv/186
-Rock Action, http://xg.52sw.top:5000/4gtv/180
-Rock Entertainment, http://xg.52sw.top:5000/4gtv/275
-金光布袋戲, http://xg.52sw.top:5000/4gtv/236
-霹靂布袋戲, http://xg.52sw.top:5000/4gtv/301
-DreamWorks 夢工廠動畫, http://xg.52sw.top:5000/4gtv/282
-Nickelodeon, http://xg.52sw.top:5000/4gtv/185
-Nick Jr. 兒童頻道, http://xg.52sw.top:5000/4gtv/219
-i-Fun 動漫台, http://xg.52sw.top:5000/litv/litv-ftv15
-兒童卡通台, http://xg.52sw.top:5000/4gtv/269
-精選動漫台, http://xg.52sw.top:5000/4gtv/204
-經典卡通台, http://xg.52sw.top:5000/4gtv/202
-達文西頻道, http://xg.52sw.top:5000/litv/4gtv-4gtv018
-超人力霸王整套看, http://xg.52sw.top:5000/4gtv/278
-MOMO 親子台, http://xg.52sw.top:5000/4gtv/231
-LiveABC 互動英語台, http://xg.52sw.top:5000/4gtv/188
-Classica 古典樂, http://xg.52sw.top:5000/litv/4gtv-4gtv059
-Lifetime 娛樂頻道, http://xg.52sw.top:5000/4gtv/217
-MTV Live HD 音樂頻道, http://xg.52sw.top:5000/4gtv/213
-Mezzo Live, http://xg.52sw.top:5000/litv/4gtv-4gtv083
-豬哥亮歌廳秀, http://xg.52sw.top:5000/litv/4gtv-4gtv006
-Trace Urban, http://xg.52sw.top:5000/litv/4gtv-4gtv082
-Global Trekker, http://xg.52sw.top:5000/4gtv/252
-Globetrotter 環遊旅行家, http://xg.52sw.top:5000/litv/4gtv-4gtv016
-LUXE TV, http://xg.52sw.top:5000/4gtv/175
-Pet Club TV, http://xg.52sw.top:5000/4gtv/182
-TV5MONDE Style, http://xg.52sw.top:5000/4gtv/178
-車迷 TV, http://xg.52sw.top:5000/4gtv/160
-Love Nature, http://xg.52sw.top:5000/4gtv/139
-Fun 探索娛樂台, http://xg.52sw.top:5000/4gtv/274
-幸福空間居家台, http://xg.52sw.top:5000/4gtv/168
-Arirang TV, http://xg.52sw.top:5000/litv/4gtv-4gtv079
-Bloomberg TV, http://xg.52sw.top:5000/4gtv/283
-SBN 全球財經台, http://xg.52sw.top:5000/4gtv/224
-半島國際新聞台, http://xg.52sw.top:5000/litv/litv-ftv10
-第1商業台, http://xg.52sw.top:5000/litv/4gtv-4gtv104
-History 歷史頻道, http://xg.52sw.top:5000/4gtv/214
-CI 罪案偵查頻道, http://xg.52sw.top:5000/4gtv/215
-Smart 知識台, http://xg.52sw.top:5000/litv/litv-longturn19
-視納華仁紀實頻道, http://xg.52sw.top:5000/litv/4gtv-4gtv013
-原住民族電視台, http://xg.52sw.top:5000/4gtv/273
-客家電視台, http://xg.52sw.top:5000/litv/4gtv-4gtv043
-滾動力 Rollor, http://xg.52sw.top:5000/4gtv/249
-好消息, http://xg.52sw.top:5000/litv/litv-ftv16
-好消息2台, http://xg.52sw.top:5000/litv/litv-ftv17
-大愛電視, http://xg.52sw.top:5000/4gtv/209
-大愛電視2, http://xg.52sw.top:5000/4gtv/230
-人間衛視, http://xg.52sw.top:5000/4gtv/210
-國會頻道1, http://xg.52sw.top:5000/litv/4gtv-4gtv084
-國會頻道2, http://xg.52sw.top:5000/litv/4gtv-4gtv085
-東森購物一台, http://xg.52sw.top:5000/4gtv/173
-東森購物二台, http://xg.52sw.top:5000/4gtv/174
-東森購物三台, http://xg.52sw.top:5000/4gtv/287
-東森購物四台, http://xg.52sw.top:5000/4gtv/286
-VOA TV, http://xg.52sw.top:5000/litv/litv-ftv03
-DW, http://xg.52sw.top:5000/4gtv/226
-
 奧運,#genre#
 巴黎奥运开幕式,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge12/126662925810848154051013005/aa9f232ba4be4c49921baae0c27194dd-4.m3u8
 实时奥运金牌榜,https://pull-flv-f6.douyincdn.com/media/stream-692028292559012524.flv?abr_pts=-800&_session_id=037-202407291921458CA4EAA478C16011032F.1722252116805.55119
@@ -1031,3 +885,752 @@ iFun动漫台,P2p://generationnexxxt.com:19806/6cb1867e9aa543d7938ecb9ac3605564
 历史频道台,P2p://generationnexxxt.com:19806/cf774dbea20b492db00ab609f1c43d47
 爱尔达二台,P2p://generationnexxxt.com:19806/1ba2c7d7725f46a595dcb7df1741b5fb
 爱尔达三台,P2p://generationnexxxt.com:19806/45f846eb465245d2aae9e7c34609f960
+
+偶爾能看,#genre#
+
+IBiza ,#genre#
+NYX,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
+NYX,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
+TVBS新聞,https://cdn1.ibizastream.biz:441/free/Stream2/playlist.m3u8
+TVBS新聞,https://5ed5d165c218d.streamlock.net:441/free/Stream2/playlist.m3u8
+民視新聞,https://cdn1.ibizastream.biz:441/free/Stream6/playlist.m3u8
+民視新聞,https://5ed5d165c218d.streamlock.net:441/free/Stream6/playlist.m3u8
+緯來日本, https://cdn1.ibizastream.biz:441/free/Stream7/playlist.m3u8
+緯來日本,https://5ed5d165c218d.streamlock.net:441/free/Stream7/playlist.m3u8
+愛爾達,https://cdn1.ibizastream.biz:441/free/Stream8/playlist.m3u8
+愛爾達,https://5ed5d165c218d.streamlock.net:441/free/Stream8/playlist.m3u8
+三立,https://cdn1.ibizastream.biz:441/free/Stream9/playlist.m3u8
+三立,https://5ed5d165c218d.streamlock.net:441/free/Stream9/playlist.m3u8
+
+📺歐飛嗅探,#genre#
+parse=1 
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+台視,https://www.ofiii.com/channel/watch/4gtv-4gtv066
+中視,https://www.ofiii.com/channel/watch/4gtv-4gtv040
+華視,https://www.ofiii.com/channel/watch/4gtv-4gtv041
+公視金獎,https://www.ofiii.com/channel/watch/ofiii13
+ELTV生活英語,https://www.ofiii.com/channel/watch/litv-longturn20
+龍華卡通,https://www.ofiii.com/channel/watch/litv-longturn01
+哆啦A夢,https://www.ofiii.com/channel/watch/ofiii22
+TVBS食尚玩家,https://www.ofiii.com/channel/watch/ofiii31
+東森娛樂,https://www.ofiii.com/channel/watch/ofiii32
+洲旅遊,https://www.ofiii.com/channel/watch/litv-longturn17
+天亞洲精采,https://www.ofiii.com/channel/watch/ofiii36
+SMART知識,https://www.ofiii.com/channel/watch/litv-longturn19
+龍華戲劇,https://www.ofiii.com/channel/watch/litv-longturn18
+台灣戲劇,https://www.ofiii.com/channel/watch/litv-longturn22
+東森購物1,https://www.ofiii.com/channel/watch/4gtv-4gtv102
+龍華偶像,https://www.ofiii.com/channel/watch/litv-longturn12
+龍華日韓,https://www.ofiii.com/channel/watch/litv-longturn11
+Yes娛樂,https://www.ofiii.com/channel/watch/ofiii47
+Focus風采戲劇,https://www.ofiii.com/channel/watch/ofiii1048
+東森購物2,https://www.ofiii.com/channel/watch/4gtv-4gtv103
+掏掏新聞,https://www.ofiii.com/channel/watch/ofiii50
+華視新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv052
+三立新聞iNEWS,https://www.ofiii.com/channel/watch/iNEWS
+寰宇財經,https://www.ofiii.com/channel/watch/litv-longturn23
+台視新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv051
+中視新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv074
+中天新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv009
+寰宇新聞台灣,https://www.ofiii.com/channel/watch/litv-longturn15
+寰宇新聞,https://www.ofiii.com/channel/watch/litv-longturn14
+第1財經,https://www.ofiii.com/channel/watch/ofiii64
+第1商業,https://www.ofiii.com/channel/watch/4gtv-4gtv104
+國會頻道1,https://www.ofiii.com/channel/watch/4gtv-4gtv084
+國會頻道1,https://www.ofiii.com/channel/watch/4gtv-4gtv085
+龍華經典,https://www.ofiii.com/channel/watch/litv-longturn21
+龍華電影,https://www.ofiii.com/channel/watch/litv-longturn03
+周星馳電影,https://www.ofiii.com/channel/watch/ofiii73
+歐飛電影台,https://www.ofiii.com/channel/watch/ofiii74
+歐飛動作電影台,https://www.ofiii.com/channel/watch/ofiii75
+Focus探索新知,https://www.ofiii.com/channel/watch/ofiii82
+東森購物快閃,https://www.ofiii.com/channel/watch/ofiii87
+黃阿瑪的後宮生活,https://www.ofiii.com/channel/watch/ofiii93
+八月,https://www.ofiii.com/channel/watch/ofiii94
+Freeman@台灣,https://www.ofiii.com/channel/watch/ofiii95
+饕客揪愛吃,https://www.ofiii.com/channel/watch/ofiii96
+人氣動漫預告,https://www.ofiii.com/channel/watch/ofiii97
+銀髮族聚樂部,https://www.ofiii.com/channel/watch/ofiii99
+琅琊榜,https://www.ofiii.com/channel/watch/ofiii101
+芈月傳,,https://www.ofiii.com/channel/watch/ofiii105
+軍師聯盟,https://www.ofiii.com/channel/watch/ofiii106
+軍師聯盟2 虎嘯龍吟,https://www.ofiii.com/channel/watch/ofiii107
+東宮(完整版),https://www.ofiii.com/channel/watch/ofiii108
+錦衣之下,https://www.ofiii.com/channel/watch/ofiii109
+楚喬傳,https://www.ofiii.com/channel/watch/ofiii110
+倚天屠龍記 2019,https://www.ofiii.com/channel/watch/ofiii111
+風起西州,https://www.ofiii.com/channel/watch/ofiii112
+三十而已,https://www.ofiii.com/channel/watch/ofiii115
+去有風的地方,https://www.ofiii.com/channel/watch/ofiii116
+以愛為營,https://www.ofiii.com/channel/watch/ofiii117
+向風而行,https://www.ofiii.com/channel/watch/ofiii118
+以家人之名,https://www.ofiii.com/channel/watch/ofiii119
+我們的翻譯官,https://www.ofiii.com/channel/watch/ofiii120
+流光之下,https://www.ofiii.com/channel/watch/ofiii121
+鱷魚與牙籤鳥,https://www.ofiii.com/channel/watch/ofiii122
+裝腔啟示錄,https://www.ofiii.com/channel/watch/ofiii123
+無與倫比的美麗,https://www.ofiii.com/channel/watch/ofiii124
+食尚玩家-2天1夜go,https://www.ofiii.com/channel/watch/ofiii128
+WTO姐妹會,https://www.ofiii.com/channel/watch/ofiii129
+綜藝玩很大,https://www.ofiii.com/channel/watch/ofiii130
+全民星攻略,https://www.ofiii.com/channel/watch/ofiii131
+台灣1001個故事,https://www.ofiii.com/channel/watch/ofiii132
+台灣啟示錄,https://www.ofiii.com/channel/watch/ofiii133
+法眼黑與白,https://www.ofiii.com/channel/watch/ofiii134
+天才衝衝衝,https://www.ofiii.com/channel/watch/ofiii135
+詹姆士出走料理,https://www.ofiii.com/channel/watch/ofiii136
+食尚玩家-魚肉鄉民,https://www.ofiii.com/channel/watch/ofiii137
+世界第一等,https://www.ofiii.com/channel/watch/ofiii138
+進擊的台灣,https://www.ofiii.com/channel/watch/ofiii139
+食尚玩家-瘋狂總部,https://www.ofiii.com/channel/watch/ofiii140
+台灣第一等,https://www.ofiii.com/channel/watch/ofiii141
+一字千金,https://www.ofiii.com/channel/watch/ofiii142
+11點熱吵店,https://www.ofiii.com/channel/watch/ofiii143
+食尚玩家-熱血48小時,https://www.ofiii.com/channel/watch/ofiii144
+百年新娘,https://www.ofiii.com/channel/watch/ofiii147
+頭腦共助,https://www.ofiii.com/channel/watch/ofiii148
+朝鮮律師,https://www.ofiii.com/channel/watch/ofiii149
+包青天 1993版,https://www.ofiii.com/channel/watch/ofiii151
+我的婆婆怎麼那麼可愛,https://www.ofiii.com/channel/watch/ofiii152
+村裡來了個暴走女外科,https://www.ofiii.com/channel/watch/ofiii153
+一把青,https://www.ofiii.com/channel/watch/ofiii154
+茶金,https://www.ofiii.com/channel/watch/ofiii155
+四樓的天堂,https://www.ofiii.com/channel/watch/ofiii156
+擁有超常技能的異世界流浪美食家,https://www.ofiii.com/channel/watch/ofiii160
+香格里拉・開拓異境~糞作獵手挑戰神作~,https://www.ofiii.com/channel/watch/ofiii161
+在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～,https://www.ofiii.com/channel/watch/ofiii162
+第一神拳,https://www.ofiii.com/channel/watch/ofiii163
+刀劍神域(中文版),https://www.ofiii.com/channel/watch/ofiii164
+蠟筆小新(中文版),https://www.ofiii.com/channel/watch/ofiii165
+我們這一家,https://www.ofiii.com/channel/watch/ofiii166
+獵人(中文版),https://www.ofiii.com/channel/watch/ofiii167
+中華一番(中文版),https://www.ofiii.com/channel/watch/ofiii168
+隊長小翼(中文版),https://www.ofiii.com/channel/watch/ofiii169
+SPY X FAMILY 間諜家家酒,https://www.ofiii.com/channel/watch/ofiii170
+SPY X FAMILY 間諜家家酒(中文版),https://www.ofiii.com/channel/watch/ofiii171
+無職轉生，到了異世界就拿出真本事,https://www.ofiii.com/channel/watch/ofiii172
+關於我轉生變成史萊姆這檔事(國),https://www.ofiii.com/channel/watch/ofiii173
+夏目友人帳,https://www.ofiii.com/channel/watch/ofiii174
+家庭教師HITMAN REBORN!(中文版),https://www.ofiii.com/channel/watch/ofiii175
+烘焙王,https://www.ofiii.com/channel/watch/ofiii176
+鋼之鍊金術師,https://www.ofiii.com/channel/watch/ofiii177
+JOJO 的奇妙冒險,https://www.ofiii.com/channel/watch/ofiii178
+葬送的芙莉蓮,https://www.ofiii.com/channel/watch/ofiii179
+電動車時代,https://www.ofiii.com/channel/watch/ofiii180
+SiCAR愛車酷,https://www.ofiii.com/channel/watch/ofiii181
+狂人日誌,https://www.ofiii.com/channel/watch/ofiii185
+Super Snow Show,https://www.ofiii.com/channel/watch/ofiii186
+玩車大麥克,https://www.ofiii.com/channel/watch/ofiii188
+脖子解說 Mr. Neck,https://www.ofiii.com/channel/watch/ofiii190
+蒙福人生,https://www.ofiii.com/channel/watch/ofiii191
+生命的贏家,https://www.ofiii.com/channel/watch/ofiii192
+大新聞大爆卦,https://www.ofiii.com/channel/watch/ofiii201
+新聞大白話,https://www.ofiii.com/channel/watch/ofiii202
+文茜的世界周報,https://www.ofiii.com/channel/watch/ofiii203
+寰宇全視界,https://www.ofiii.com/channel/watch/ofiii204
+TITV 原住民族電視台,https://www.ipcf.org.tw/zh-TW/Vod/Home
+CNA(亞洲新聞台),https://www.channelnewsasia.com/watch
+
+YT新聞,#genre#
+TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc&fmt=37
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA&fmt=37
+三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY&fmt=37
+三立財經,https://www.youtube.com/watch?v=CKjSm5ZeehE&fmt=37
+中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w&fmt=37
+東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE&fmt=37
+EBC東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw&fmt=37
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E&fmt=37
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM&fmt=37
+台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8&fmt=37
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc&fmt=37
+寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U&fmt=37
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o&fmt=37
+公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8&fmt=37
+公共電視,https://www.youtube.com/watch?v=C6gYqSHLRw4&fmt=37
+NBC NEW,https://www.youtube.com/watch?v=--ZdMGK9Hn0&fmt=37
+CCTV新聞,https://www.youtube.com/watch?v=bEZYrBMYNNg&fmt=37
+
+4GTV豪華套餐,#genre#
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
+民視台灣台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
+民視,https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
+大愛電視,https://www.4gtv.tv/channel/4gtv-live007?set=1&ch=209
+中視,https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
+中視經典台,https://www.4gtv.tv/channel/4gtv-4gtv080?set=1&ch=124
+華視,https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=6
+三立綜合台,https://www.4gtv.tv/channel/4gtv-live207?set=1&ch=169
+客家電視台,https://www.4gtv.tv/channel/4gtv-4gtv043?set=1&ch=107
+八大綜藝台,https://www.4gtv.tv/channel/4gtv-4gtv039?set=1&ch=114
+中視菁采台,https://www.4gtv.tv/channel/4gtv-4gtv064?set=1&ch=123
+TVBS精采台,https://www.4gtv.tv/channel/4gtv-4gtv067?set=1&ch=227
+愛爾達娛樂台,https://www.4gtv.tv/channel/4gtv-4gtv070?set=1&ch=19
+靖天綜合台,https://www.4gtv.tv/channel/4gtv-4gtv046?set=1&ch=21
+靖天日本台,https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22
+新唐人亞太台,https://www.4gtv.tv/channel/4gtv-live050?set=1&ch=223
+ARIRANG阿里郎頻道,https://www.4gtv.tv/channel/4gtv-4gtv079?set=1&ch=189
+Global Trekker,https://www.4gtv.tv/channel/4gtv-live112?set=1&ch=252
+原住民族電視台,https://www.4gtv.tv/channel/4gtv-live014?set=1&ch=273
+東森購物四台,https://www.4gtv.tv/channel/4gtv-live049?set=1&ch=286
+LiveABC互動英語頻道,https://www.4gtv.tv/channel/4gtv-live030?set=1&ch=188
+達文西頻道,https://www.4gtv.tv/channel/4gtv-4gtv018?set=1&ch=11
+ELTV生活英語台,https://www.4gtv.tv/channel/litv-longturn20?set=1&ch=106
+Nick Jr. 兒童頻道,https://www.4gtv.tv/channel/4gtv-live032?set=1&ch=219
+尼克兒童頻道,https://www.4gtv.tv/channel/4gtv-live105?set=1&ch=185
+DreamWorks 夢工廠動畫,https://www.4gtv.tv/channel/4gtv-live017?set=1&ch=282
+靖天卡通台,https://www.4gtv.tv/channel/4gtv-4gtv044?set=1&ch=15
+靖洋卡通Nice Bingo,https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59
+i-Fun動漫台,https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=60
+MOMO親子台,https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
+東森購物一台,https://www.4gtv.tv/channel/4gtv-live047?set=1&ch=173
+鏡電視新聞台,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
+東森新聞台,https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
+華視新聞,https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34
+民視新聞台,https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31
+三立新聞iNEWS,https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229
+TVBS新聞,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
+東森財經新聞台,https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293
+中視新聞,https://www.4gtv.tv/channel/4gtv-4gtv074?set=1&ch=33
+中天新聞台,https://www.4gtv.tv/channel/4gtv-4gtv009?set=1&ch=30
+Bloomberg TV,https://www.4gtv.tv/channel/4gtv-live059?set=1&ch=283
+寰宇新聞台,https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36
+寰宇新聞台灣台,https://www.4gtv.tv/channel/litv-longturn15?set=1&ch=280
+SBN全球財經台,https://www.4gtv.tv/channel/4gtv-live060?set=1&ch=224
+寰宇財經台,https://www.4gtv.tv/channel/litv-longturn23?set=1&ch=281
+TVBS,https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
+東森購物二台,https://www.4gtv.tv/channel/4gtv-live046?set=1&ch=174
+民視綜藝台,https://www.4gtv.tv/channel/4gtv-4gtv004?set=1&ch=16
+豬哥亮歌廳秀,https://www.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
+靖天育樂台,https://www.4gtv.tv/channel/4gtv-4gtv062?set=1&ch=83
+KLT-靖天國際台,https://www.4gtv.tv/channel/4gtv-4gtv063?set=1&ch=84
+Nice TV 靖天歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv054?set=1&ch=119
+靖天資訊台,https://www.4gtv.tv/channel/4gtv-4gtv065?set=1&ch=88
+TVBS歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
+ROCK Entertainment,https://www.4gtv.tv/channel/4gtv-live080?set=1&ch=275
+Lifetime 娛樂頻道,https://www.4gtv.tv/channel/4gtv-live029?set=1&ch=217
+電影原聲台CMusic,https://www.4gtv.tv/channel/4gtv-live031?set=1&ch=218
+TRACE Urban,https://www.4gtv.tv/channel/4gtv-4gtv082?set=1&ch=78
+MTV Live HD 音樂頻道,https://www.4gtv.tv/channel/4gtv-live025?set=1&ch=213
+Mezzo Live HD,https://www.4gtv.tv/channel/4gtv-4gtv083?set=1&ch=79
+CLASSICA 古典樂,https://www.4gtv.tv/channel/4gtv-4gtv059?set=1&ch=80
+東森購物三台,https://www.4gtv.tv/channel/4gtv-live048?set=1&ch=287
+博斯高球台,https://www.4gtv.tv/channel/litv-longturn05?set=1&ch=48
+博斯運動一台,https://www.4gtv.tv/channel/litv-longturn07?set=1&ch=50
+博斯無限台,https://www.4gtv.tv/channel/litv-longturn10?set=1&ch=51
+博斯網球台,https://www.4gtv.tv/channel/litv-longturn09?set=1&ch=52
+TRACE Sport Stars,https://www.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=57
+智林體育台,https://www.4gtv.tv/channel/4gtv-4gtv101?set=1&ch=58
+時尚運動X,https://www.4gtv.tv/channel/4gtv-4gtv014?set=1&ch=69
+車迷TV,https://www.4gtv.tv/channel/4gtv-live201?set=1&ch=160
+GINX Esports TV,https://www.4gtv.tv/channel/4gtv-4gtv053?set=1&ch=179
+TechStorm,https://www.4gtv.tv/channel/4gtv-live109?set=1&ch=181
+Pet Club TV,https://www.4gtv.tv/channel/4gtv-live110?set=1&ch=182
+民視旅遊台,https://www.4gtv.tv/channel/litv-ftv07?set=1&ch=61
+滾動力rollor,https://www.4gtv.tv/channel/4gtv-live012?set=1&ch=249
+亞洲旅遊台,https://www.4gtv.tv/channel/litv-longturn17?set=1&ch=250
+fun探索娛樂台,https://www.4gtv.tv/channel/4gtv-live011?set=1&ch=274
+幸福空間居家台,https://www.4gtv.tv/channel/4gtv-live206?set=1&ch=168
+Love Nature,https://www.4gtv.tv/channel/4gtv-live208?set=1&ch=139
+History 歷史頻道,https://www.4gtv.tv/channel/4gtv-live026?set=1&ch=214
+Globetrotter 環遊旅行家,https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=288
+愛爾達生活旅遊台,https://www.4gtv.tv/channel/4gtv-live120?set=1&ch=237
+LUXE TV Channel,https://www.4gtv.tv/channel/4gtv-live121?set=1&ch=175
+TV5MONDE STYLE HD 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch=178
+公視戲劇,https://www.4gtv.tv/channel/4gtv-4gtv042?set=1&ch=7
+民視影劇台,https://www.4gtv.tv/channel/litv-ftv09?set=1&ch=24
+龍華戲劇台,https://www.4gtv.tv/channel/litv-longturn18?set=1&ch=23
+HITS頻道,https://www.4gtv.tv/channel/4gtv-live620?set=1&ch=186
+龍華日韓台,https://www.4gtv.tv/channel/litv-longturn11?set=1&ch=28
+八大精彩台,https://www.4gtv.tv/channel/4gtv-4gtv034?set=1&ch=172
+靖天戲劇台,https://www.4gtv.tv/channel/4gtv-4gtv058?set=1&ch=116
+靖洋戲劇台,https://www.4gtv.tv/channel/4gtv-4gtv045?set=1&ch=118
+CI 罪案偵查頻道,https://www.4gtv.tv/channel/4gtv-live027?set=1&ch=215
+視納華仁紀實頻道,https://www.4gtv.tv/channel/4gtv-4gtv013?set=1&ch=38
+影迷數位紀實台,https://www.4gtv.tv/channel/4gtv-live023?set=1&ch=212
+金光布袋戲,https://www.4gtv.tv/channel/4gtv-live144?set=1&ch=236
+ROCK Action,https://www.4gtv.tv/channel/4gtv-live138?set=1&ch=180
+采昌影劇台,https://www.4gtv.tv/channel/4gtv-4gtv049?set=1&ch=25
+靖天映畫,https://www.4gtv.tv/channel/4gtv-4gtv055?set=1&ch=42
+靖天電影台,https://www.4gtv.tv/channel/4gtv-4gtv061?set=1&ch=82
+龍華電影台,https://www.4gtv.tv/channel/litv-longturn03?set=1&ch=121
+影迷數位電影台,https://www.4gtv.tv/channel/4gtv-4gtv011?set=1&ch=40
+amc電影台,https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
+CinemaWorld,https://www.4gtv.tv/channel/4gtv-live069?set=1&ch=225
+My Cinema Europe HD 我的歐洲電影,https://www.4gtv.tv/channel/4gtv-live157?set=1&ch=176
+好消息2台,https://www.4gtv.tv/channel/litv-ftv17?set=1&ch=8
+好消息,https://www.4gtv.tv/channel/litv-ftv16?set=1&ch=9
+大愛二台,https://www.4gtv.tv/channel/4gtv-live106?set=1&ch=230
+人間衛視,https://www.4gtv.tv/channel/4gtv-live008?set=1&ch=210
+半島國際新聞台,https://www.4gtv.tv/channel/litv-ftv10?set=1&ch=85
+VOA美國之音,https://www.4gtv.tv/channel/litv-ftv03?set=1&ch=86
+CNBC Asia 財經台,https://www.4gtv.tv/channel/4gtv-live130?set=1&ch=235
+DW德國之聲,https://www.4gtv.tv/channel/4gtv-live071?set=1&ch=226
+國會頻道1,https://www.4gtv.tv/channel/4gtv-4gtv084?set=1&ch=170
+國會頻道2,https://www.4gtv.tv/channel/4gtv-4gtv085?set=1&ch=171
+TVBS綜藝台,https://www.4gtv.tv/channel/4gtv-live087?set=1&ch=284
+TVBS台劇台,https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=285
+經典電影台,https://www.4gtv.tv/channel/4gtv-live021?set=1&ch=201
+經典卡通台,https://www.4gtv.tv/channel/4gtv-live022?set=1&ch=202
+兒童卡通台,https://www.4gtv.tv/channel/4gtv-live009?set=1&ch=269
+精選動漫台,https://www.4gtv.tv/channel/4gtv-live024?set=1&ch=204
+戲劇免費看 1台,https://www.4gtv.tv/channel/4gtv-live010?set=1&ch=270
+戲劇免費看 2台,https://www.4gtv.tv/channel/4gtv-live006?set=1&ch=244
+電影免費看 2台,https://www.4gtv.tv/channel/4gtv-live005?set=1&ch=245
+超人力霸王整套看,https://www.4gtv.tv/channel/4gtv-live015?set=1&ch=278
+花系列 經典劇場,https://www.4gtv.tv/channel/4gtv-live016?set=1&ch=279
+
+📺四季嗅探,#genre#
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+民視第一台,video://https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=22
+民視台灣台,video://https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=22
+民視,video://https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=22
+大愛電視,video://https://www.4gtv.tv/channel/4gtv-live007?set=1&ch=22
+中視,video://https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=22
+中視經典台,video://https://www.4gtv.tv/channel/4gtv-4gtv080?set=1&ch=22
+華視,video://https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=22
+三立綜合台,video://https://www.4gtv.tv/channel/4gtv-live207?set=1&ch=22
+客家電視台,video://https://www.4gtv.tv/channel/4gtv-4gtv043?set=1&ch=22
+八大綜藝台,video://https://www.4gtv.tv/channel/4gtv-4gtv039?set=1&ch=22
+中視菁采台,video://https://www.4gtv.tv/channel/4gtv-4gtv064?set=1&ch=22
+TVBS精采台,video://https://www.4gtv.tv/channel/4gtv-4gtv067?set=1&ch=22
+愛爾達娛樂台,video://https://www.4gtv.tv/channel/4gtv-4gtv070?set=1&ch=22
+靖天綜合台,video://https://www.4gtv.tv/channel/4gtv-4gtv046?set=1&ch=22
+靖天日本台,video://https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22
+新唐人亞太台,video://https://www.4gtv.tv/channel/4gtv-live050?set=1&ch=22
+ARIRANG阿里郎頻道,video://https://www.4gtv.tv/channel/4gtv-4gtv079?set=1&ch=22
+Global Trekker,video://https://www.4gtv.tv/channel/4gtv-live112?set=1&ch=22
+原住民族電視台,video://https://www.4gtv.tv/channel/4gtv-live014?set=1&ch=22
+東森購物四台,video://https://www.4gtv.tv/channel/4gtv-live049?set=1&ch=22
+LiveABC互動英語頻道,video://https://www.4gtv.tv/channel/4gtv-live030?set=1&ch=22
+達文西頻道,video://https://www.4gtv.tv/channel/4gtv-4gtv018?set=1&ch=22
+ELTV生活英語台,video://https://www.4gtv.tv/channel/litv-longturn20?set=1&ch=22
+Nick Jr. 兒童頻道,video://https://www.4gtv.tv/channel/4gtv-live032?set=1&ch=22
+尼克兒童頻道,video://https://www.4gtv.tv/channel/4gtv-live105?set=1&ch=22
+DreamWorks 夢工廠動畫,video://https://www.4gtv.tv/channel/4gtv-live017?set=1&ch=22
+靖天卡通台,video://https://www.4gtv.tv/channel/4gtv-4gtv044?set=1&ch=22
+靖洋卡通Nice Bingo,video://https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=22
+i-Fun動漫台,video://https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=22
+MOMO親子台,video://https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=22
+東森購物一台,video://https://www.4gtv.tv/channel/4gtv-live047?set=1&ch=22
+鏡電視新聞台,video://https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=22
+東森新聞台,video://https://www.4gtv.tv/channel/4gtv-live114?set=1&ch=22
+華視新聞,video://https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=22
+民視新聞台,video://https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=22
+三立新聞iNEWS,video://https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=22
+TVBS新聞,video://https://www.4gtv.tv/channel/4gtv-live072?set=1&ch=22
+東森財經新聞台,video://https://www.4gtv.tv/channel/4gtv-live019?set=1&ch=22
+中視新聞,video://https://www.4gtv.tv/channel/4gtv-4gtv074?set=1&ch=22
+中天新聞台,video://https://www.4gtv.tv/channel/4gtv-4gtv009?set=1&ch=22
+Bloomberg TV,video://https://www.4gtv.tv/channel/4gtv-live059?set=1&ch=22
+寰宇新聞台,video://https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=22
+寰宇新聞台灣台,video://https://www.4gtv.tv/channel/litv-longturn15?set=1&ch=22
+SBN全球財經台,video://https://www.4gtv.tv/channel/4gtv-live060?set=1&ch=22
+寰宇財經台,video://https://www.4gtv.tv/channel/litv-longturn23?set=1&ch=22
+TVBS,video://https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=22
+東森購物二台,video://https://www.4gtv.tv/channel/4gtv-live046?set=1&ch=22
+民視綜藝台,video://https://www.4gtv.tv/channel/4gtv-4gtv004?set=1&ch=22
+豬哥亮歌廳秀,video://https://www.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=22
+靖天育樂台,video://https://www.4gtv.tv/channel/4gtv-4gtv062?set=1&ch=22
+KLT-靖天國際台,video://https://www.4gtv.tv/channel/4gtv-4gtv063?set=1&ch=22
+Nice TV 靖天歡樂台,video://https://www.4gtv.tv/channel/4gtv-4gtv054?set=1&ch=22
+靖天資訊台,video://https://www.4gtv.tv/channel/4gtv-4gtv065?set=1&ch=22
+TVBS歡樂台,video://https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=22
+韓國娛樂台 KMTV,video://https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=22
+ROCK Entertainment,video://https://www.4gtv.tv/channel/4gtv-live080?set=1&ch=22
+Lifetime 娛樂頻道,video://https://www.4gtv.tv/channel/4gtv-live029?set=1&ch=22
+電影原聲台CMusic,video://https://www.4gtv.tv/channel/4gtv-live031?set=1&ch=22
+TRACE Urban,video://https://www.4gtv.tv/channel/4gtv-4gtv082?set=1&ch=22
+MTV Live HD 音樂頻道,video://https://www.4gtv.tv/channel/4gtv-live025?set=1&ch=22
+Mezzo Live HD,video://https://www.4gtv.tv/channel/4gtv-4gtv083?set=1&ch=22
+CLASSICA 古典樂,video://https://www.4gtv.tv/channel/4gtv-4gtv059?set=1&ch=22
+東森購物三台,video://https://www.4gtv.tv/channel/4gtv-live048?set=1&ch=22
+博斯高球台,video://https://www.4gtv.tv/channel/litv-longturn05?set=1&ch=22
+博斯運動一台,video://https://www.4gtv.tv/channel/litv-longturn07?set=1&ch=22
+博斯無限台,video://https://www.4gtv.tv/channel/litv-longturn10?set=1&ch=22
+博斯網球台,video://https://www.4gtv.tv/channel/litv-longturn09?set=1&ch=22
+TRACE Sport Stars,video://https://www.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=22
+智林體育台,video://https://www.4gtv.tv/channel/4gtv-4gtv101?set=1&ch=22
+時尚運動X,video://https://www.4gtv.tv/channel/4gtv-4gtv014?set=1&ch=22
+車迷TV,video://https://www.4gtv.tv/channel/4gtv-live201?set=1&ch=22
+GINX Esports TV,video://https://www.4gtv.tv/channel/4gtv-4gtv053?set=1&ch=22
+TechStorm,video://https://www.4gtv.tv/channel/4gtv-live109?set=1&ch=22
+Pet Club TV,video://https://www.4gtv.tv/channel/4gtv-live110?set=1&ch=22
+民視旅遊台,video://https://www.4gtv.tv/channel/litv-ftv07?set=1&ch=22
+滾動力rollor,video://https://www.4gtv.tv/channel/4gtv-live012?set=1&ch=22
+亞洲旅遊台,video://https://www.4gtv.tv/channel/litv-longturn17?set=1&ch=22
+fun探索娛樂台,video://https://www.4gtv.tv/channel/4gtv-live011?set=1&ch=22
+幸福空間居家台,video://https://www.4gtv.tv/channel/4gtv-live206?set=1&ch=22
+Love Nature,video://https://www.4gtv.tv/channel/4gtv-live208?set=1&ch=22
+History 歷史頻道,video://https://www.4gtv.tv/channel/4gtv-live026?set=1&ch=22
+愛爾達生活旅遊台,video://https://www.4gtv.tv/channel/4gtv-live120?set=1&ch=22
+LUXE TV Channel,video://https://www.4gtv.tv/channel/4gtv-live121?set=1&ch=22
+TV5MONDE STYLE HD 生活時尚,video://https://www.4gtv.tv/channel/4gtv-live122?set=1&ch=22
+公視戲劇,video://https://www.4gtv.tv/channel/4gtv-4gtv042?set=1&ch=22
+民視影劇台,video://https://www.4gtv.tv/channel/litv-ftv09?set=1&ch=22
+龍華戲劇台,video://https://www.4gtv.tv/channel/litv-longturn18?set=1&ch=22
+HITS頻道,video://https://www.4gtv.tv/channel/4gtv-live620?set=1&ch=22
+龍華日韓台,video://https://www.4gtv.tv/channel/litv-longturn11?set=1&ch=22
+八大精彩台,video://https://www.4gtv.tv/channel/4gtv-4gtv034?set=1&ch=22
+靖天戲劇台,video://https://www.4gtv.tv/channel/4gtv-4gtv058?set=1&ch=22
+靖洋戲劇台,video://https://www.4gtv.tv/channel/4gtv-4gtv045?set=1&ch=22
+CI 罪案偵查頻道,video://https://www.4gtv.tv/channel/4gtv-live027?set=1&ch=22
+視納華仁紀實頻道,video://https://www.4gtv.tv/channel/4gtv-4gtv013?set=1&ch=22
+影迷數位紀實台,video://https://www.4gtv.tv/channel/4gtv-live023?set=1&ch=22
+金光布袋戲,video://https://www.4gtv.tv/channel/4gtv-live144?set=1&ch=22
+ROCK Action,video://https://www.4gtv.tv/channel/4gtv-live138?set=1&ch=22
+采昌影劇台,video://https://www.4gtv.tv/channel/4gtv-4gtv049?set=1&ch=22
+靖天映畫,video://https://www.4gtv.tv/channel/4gtv-4gtv055?set=1&ch=22
+靖天電影台,video://https://www.4gtv.tv/channel/4gtv-4gtv061?set=1&ch=22
+龍華電影台,video://https://www.4gtv.tv/channel/litv-longturn03?set=1&ch=22
+影迷數位電影台,video://https://www.4gtv.tv/channel/4gtv-4gtv011?set=1&ch=22
+amc電影台,video://https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=22
+CinemaWorld,video://https://www.4gtv.tv/channel/4gtv-live069?set=1&ch=22
+My Cinema Europe HD 我的歐洲電影,video://https://www.4gtv.tv/channel/4gtv-live157?set=1&ch=22
+好消息2台,video://https://www.4gtv.tv/channel/litv-ftv17?set=1&ch=22
+好消息,video://https://www.4gtv.tv/channel/litv-ftv16?set=1&ch=22
+大愛二台,video://https://www.4gtv.tv/channel/4gtv-live106?set=1&ch=22
+人間衛視,video://https://www.4gtv.tv/channel/4gtv-live008?set=1&ch=22
+半島國際新聞台,video://https://www.4gtv.tv/channel/litv-ftv10?set=1&ch=22
+VOA美國之音,video://https://www.4gtv.tv/channel/litv-ftv03?set=1&ch=22
+CNBC Asia 財經台,video://https://www.4gtv.tv/channel/4gtv-live130?set=1&ch=22
+DW德國之聲,video://https://www.4gtv.tv/channel/4gtv-live071?set=1&ch=22
+國會頻道1,video://https://www.4gtv.tv/channel/4gtv-4gtv084?set=1&ch=22
+國會頻道2,video://https://www.4gtv.tv/channel/4gtv-4gtv085?set=1&ch=22
+TVBS綜藝台,video://https://www.4gtv.tv/channel/4gtv-live087?set=1&ch=22
+TVBS台劇台,video://https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=22
+經典電影台,video://https://www.4gtv.tv/channel/4gtv-live021?set=1&ch=22
+經典卡通台,video://https://www.4gtv.tv/channel/4gtv-live022?set=1&ch=22
+兒童卡通台,video://https://www.4gtv.tv/channel/4gtv-live009?set=1&ch=22
+精選動漫台,video://https://www.4gtv.tv/channel/4gtv-live024?set=1&ch=22
+戲劇免費看 1台,video://https://www.4gtv.tv/channel/4gtv-live010?set=1&ch=22
+戲劇免費看 2台,video://https://www.4gtv.tv/channel/4gtv-live006?set=1&ch=22
+電影免費看 1台,video://https://www.4gtv.tv/channel/4gtv-live013?set=1&ch=22
+電影免費看 2台,video://https://www.4gtv.tv/channel/4gtv-live005?set=1&ch=22
+超人力霸王整套看,video://https://www.4gtv.tv/channel/4gtv-live015?set=1&ch=22
+花系列 經典劇場,video://https://www.4gtv.tv/channel/4gtv-live016?set=1&ch=22
+
+Smart台,#genre#
+TVBS News 新闻台,https://tang.hz.cz/zb/Smart.php?id=10d8dcb0ff0242c1b28507a9b0ccff44
+TVBS 欢乐台 （备份）,https://tang.hz.cz/zb/Smart.php?id=e2d335f422d540c7c626642b83a17ca6
+TVBS HD,https://tang.hz.cz/zb/Smart.php?id=83bd5da725f36ca9037bc2fb57487dcb
+中天新闻 HD,https://tang.hz.cz/zb/Smart.php?id=605dd87cdd90344d147fe8183d26938c
+中天娱乐 CTI Entertaiment,https://tang.hz.cz/zb/Smart.php?id=f2732e069da1395762b8f6499f3f4a33
+中天综合 CTI Metro,https://tang.hz.cz/zb/Smart.php?id=d2749eac637842532120d7147a5456a4
+中天亚洲台,https://tang.hz.cz/zb/Smart.php?id=979d728417031bb8badaeca999a840b4
+台视 TTV HD,https://tang.hz.cz/zb/Smart.php?id=3e333e692349df85205186c9eae4cb2f
+台视新闻台,https://tang.hz.cz/zb/Smart.php?id=725ad6c7ca8ca0fdda740ea8bb5314e9
+台视综合台,https://tang.hz.cz/zb/Smart.php?id=829640c75c755d454e10590c6d9da4cd
+中视 HD,https://tang.hz.cz/zb/Smart.php?id=8f479c048f1e98b51c8f1064093db146
+中视新闻台,https://tang.hz.cz/zb/Smart.php?id=227537268b13f2310f4797fd7853104e5b2ac4628eda604470e404e62faa2251
+民视 HD,https://tang.hz.cz/zb/Smart.php?id=e06401a94e46a288204d384f29511e5c
+民视新闻台 FTV News,https://tang.hz.cz/zb/Smart.php?id=21fe1fd3915f7f1169d5bd2967444f58
+民视台湾台,https://tang.hz.cz/zb/Smart.php?id=6486aacfafc85c592b3c5cf54fa41002
+华视 CTS HD,https://tang.hz.cz/zb/Smart.php?id=cde16d9770934081effa7d753a625e31
+公视 CTV,https://tang.hz.cz/zb/Smart.php?id=45f8a71c83191179cf8fd3648301c32e
+八大第一 GTV First,https://tang.hz.cz/zb/Smart.php?id=a79e71bf905a83a221dc5556d4ee9a6c
+八大综合 GTV Metro,https://tang.hz.cz/zb/Smart.php?id=5b2ef74bf75589e14c46ccf5909ecb3d
+八大戏剧 GTV Drama,https://tang.hz.cz/zb/Smart.php?id=a5068ea12f574bfb92c536099661cd22
+八大娱乐 GTV Entertainment,https://tang.hz.cz/zb/Smart.php?id=b336ed14c03ff501a960e121667bf9e6
+HBO_HD,https://tang.hz.cz/zb/Smart.php?id=ab05564eff4f6a103c304839cd722982
+HBO_HITS,https://tang.hz.cz/zb/Smart.php?id=5ba43501c3bffd960344dceb95ff0017
+Hollywood Movies,https://tang.hz.cz/zb/Smart.php?id=9f486c3c64264aca33ad3e6951af631cd1ce94b9443c931d67259f0885024b96
+三立台湾 Sanli Taiwan,https://tang.hz.cz/zb/Smart.php?id=9878a7959e4258920e12d82cb3664741
+三立戏剧台,https://tang.hz.cz/zb/Smart.php?id=cf1fee24e870fb0162e32173eaab7d62
+三立综合 Sanli Metro,https://tang.hz.cz/zb/Smart.php?id=042a0c332128f67d9da84b125b53d21e
+三立都会台,https://tang.hz.cz/zb/Smart.php?id=53308bdff0c5316b3a28d038ba4e7ca6
+东森新闻 ETTV News,https://tang.hz.cz/zb/Smart.php?id=61d5198c05391723d8f89cd3fc47ed04
+CINEMAX,https://tang.hz.cz/zb/Smart.php?id=99330788b20d460101059bbea1ce7a99
+东森综合 ETTV Metro,https://tang.hz.cz/zb/Smart.php?id=e5f8d84267448d6ba543b16fea6f395a
+东森戏剧 ETTV Drama,https://tang.hz.cz/zb/Smart.php?id=720f452e6135f65e4580c9060151b66f
+东森超视,https://tang.hz.cz/zb/Smart.php?id=e030f8afba06a879c03128ae09dd4699
+东森财经新闻 ETTV Business,https://tang.hz.cz/zb/Smart.php?id=95d0850f3174fba0c8977f5833641c69
+寰宇财经,https://tang.hz.cz/zb/Smart.php?id=584084f77101ac8be3b3a567e0a16d263b509e31285e2a9434b55d5d65d56619
+寰宇新闻台,https://tang.hz.cz/zb/Smart.php?id=f36858bd12bdc95a401fe3b0ae954ba296faea71c7a38d0ca02b333799acc7eb
+大爱1台,https://tang.hz.cz/zb/Smart.php?id=2827ab0c8530eee50e0ecbca69a03fa5
+非凡新闻台,https://tang.hz.cz/zb/Smart.php?id=221c2d190281a75ef939c8499f4d079c
+龙华戏剧 Lunghua Drama,https://tang.hz.cz/zb/Smart.php?id=e38732421cb5b4ba12849fa3d1e4d3bf
+龙华戏剧台,https://tang.hz.cz/zb/Smart.php?id=e38732421cb5b4ba12849fa3d1e4d3bf
+龙华经典台,https://tang.hz.cz/zb/Smart.php?id=925dccea67fbae001300514c4750f74684169598917b98511157edb8ab7bd213
+龙华偶像,https://tang.hz.cz/zb/Smart.php?id=2171b8d8f799c69def6f8540c233ec81
+AXN Taiwan,https://tang.hz.cz/zb/Smart.php?id=998e4ffe949d929cf0b490064c011812
+靖天国际台,https://tang.hz.cz/zb/Smart.php?id=5dc10d940fe39cae16e54f8201fe30e688b4c1864a9a21cefa487a58b4284256
+年代新闻,https://tang.hz.cz/zb/Smart.php?id=6e5d7e9e16a1ad40b97b0eb5e6ac0ed3
+纬来日本台,https://tang.hz.cz/zb/Smart.php?id=deb606c922e9fa230c39627ae520aa76
+纬来电影台,https://tang.hz.cz/zb/Smart.php?id=b7b207787a5021659df07d89d10876e5e37d3711ac3cf9888b398a75fa011d83
+纬来体育台,https://tang.hz.cz/zb/Smart.php?id=aa19c3a30dbbb3bbfe8d809b8bfce896
+纬来综合台,https://tang.hz.cz/zb/Smart.php?id=094c209d3d99e22e72aa194069af6296
+纬来育乐,https://tang.hz.cz/zb/Smart.php?id=9e6fa1af1780d721d56286f099c2bf39
+纬来精彩,https://tang.hz.cz/zb/Smart.php?id=9ac89fc7f4816b1e831725eb3aa97d52709ebe871f1c5bc51f1582e76fe9987f
+好消息 2,https://tang.hz.cz/zb/Smart.php?id=2082dca286c797a0954e9c3061395c6a
+大爱2台,https://tang.hz.cz/zb/Smart.php?id=4db58062886880b92e881b169e2a85e9
+亚洲美食,https://tang.hz.cz/zb/Smart.php?id=3bf19f5e66ff69d422ca27f8dcf26e71
+美食星球,https://tang.hz.cz/zb/Smart.php?id=d082040af1266c60521697c65246bdef
+亚洲旅游 TLC Asia,https://tang.hz.cz/zb/Smart.php?id=22b4481add9aebbbbafdbff7cf79de56
+东森电影 ETTV Movie,https://tang.hz.cz/zb/Smart.php?id=1a1f6437c2227cc60498fd67c4911c65
+阿里郎 Arirang,https://tang.hz.cz/zb/Smart.php?id=976f060b75ecd4d658605f6aed003879
+博斯运动 1,https://tang.hz.cz/zb/Smart.php?id=3cdb8df641a62c4fcc6aa263c6e94334
+博斯运动 2,https://tang.hz.cz/zb/Smart.php?id=de9ce4d2b5cc7975984ba4d2dbe97d8a
+博斯高球2 HD,https://tang.hz.cz/zb/Smart.php?id=9a7da50dd4a88841dc338f280c45f78e
+博斯网球 HD,https://tang.hz.cz/zb/Smart.php?id=0d10c72eef38645331ab2122b4472b15
+东森洋片 ETTV Western,https://tang.hz.cz/zb/Smart.php?id=c2855bce754e15e0bd91b52dbfbfc0bd
+龙华洋片 Lunghua Western,https://tang.hz.cz/zb/Smart.php?id=e53b67b8493a7683fd38401b8e3ed0952f5ab4d87adfe54d2ab7e26af6a4e976
+博斯无限,https://tang.hz.cz/zb/Smart.php?id=e528b0203eaca02774a23d5b539c48cf8635570ac2b985325ed5162a584a6bed
+MTV Live,https://tang.hz.cz/zb/Smart.php?id=3852beea5cadd2b2ce85e129dd54f6bf
+龙详时代,https://tang.hz.cz/zb/Smart.php?id=d8cebc4657e3c1599598361cb6067c81557f23c4349f497f92792b86f12884ad
+EYETV 旅游,https://tang.hz.cz/zb/Smart.php?id=fba36508f2c676040c47e243c56cb796
+靖天卡通台,https://tang.hz.cz/zb/Smart.php?id=8db5f2238c19d6d464cc8c14e91954408aa66bd11d8b914aa07c12c1adf2d744
+EYETV 戏剧,https://tang.hz.cz/zb/Smart.php?id=bb97b4633dca935655d86f0de408dc57
+卫视中文台 Star Movies Chinese,https://tang.hz.cz/zb/Smart.php?id=7938584f00cdd67f393c13a2ff5f432f0513c69d757a65442ec9792d330e08fb
+东森幼幼 Yoyo TV,https://tang.hz.cz/zb/Smart.php?id=726e32d3c496db9db3d80ee105265cd4
+卫视电影台,https://tang.hz.cz/zb/Smart.php?id=bd897f81b41e799d5c35d2f33ef45c5b
+美亚电影,https://tang.hz.cz/zb/Smart.php?id=542955c2f301de8ba283bee1b2158e59
+爱尔达影剧台,https://tang.hz.cz/zb/Smart.php?id=1e69dce5a3d8e3e7c9ebe7770aa270fb
+爱尔达综合台,https://tang.hz.cz/zb/Smart.php?id=befb46c86848bb87b09b6fb3b64fa2df
+星卫电影,https://tang.hz.cz/zb/Smart.php?id=1c5aa5d56221fe87400a1d0a2cb060d3
+爱尔达影剧,https://tang.hz.cz/zb/Smart.php?id=1e69dce5a3d8e3e7c9ebe7770aa270fb
+爱尔达体育2台,https://tang.hz.cz/zb/Smart.php?id=badb43973866cb8faf3bf09b3eb04840
+AFC 亚洲旅游台,https://tang.hz.cz/zb/Smart.php?id=01895cf0dcbf24af5ae1d41487b80b7d
+爱尔达体育3台,https://tang.hz.cz/zb/Smart.php?id=babe53d5543902e806c3be4a6e2255d7
+
+漸漸失效,#genre#
+4GTV1080,#genre#
+TV5MONDE Style,http://xg.52sw.top:5000/4gtv/178
+民視,http://xg.52sw.top:5000/litv/4gtv-4gtv155
+民視第一台,http://xg.52sw.top:5000/litv/4gtv-4gtv003
+民視新聞台,http://xg.52sw.top:5000/litv/litv-ftv13
+民視台灣台,http://xg.52sw.top:5000/litv/4gtv-4gtv001
+民視影劇台,http://xg.52sw.top:5000/litv/litv-ftv09
+民視旅遊台, http://xg.52sw.top:5000/litv/litv-ftv07
+民視綜藝台, http://xg.52sw.top:5000/litv/4gtv-4gtv004
+中視,http://xg.52sw.top:5000/litv/4gtv-4gtv040
+中視新聞台, http://xg.52sw.top:5000/litv/4gtv-4gtv074
+中視經典台, http://xg.52sw.top:5000/litv/4gtv-4gtv080
+中視菁采台,http://xg.52sw.top:5000/litv/4gtv-4gtv064
+中天新聞台,http://xg.52sw.top:5000/litv/4gtv-4gtv009
+中天亞洲台,http://xg.52sw.top:5000/litv/4gtv-4gtv109
+華視,http://xg.52sw.top:5000/litv/4gtv-4gtv041
+華視新聞,http://xg.52sw.top:5000/litv/4gtv-4gtv052
+靖天綜合台,http://xg.52sw.top:5000/litv/4gtv-4gtv046
+靖天國際台,http://xg.52sw.top:5000/litv/4gtv-4gtv063
+靖天戲劇台,http://xg.52sw.top:5000/litv/4gtv-4gtv058
+靖天日本台,http://xg.52sw.top:5000/litv/4gtv-4gtv047
+靖天映畫台,http://xg.52sw.top:5000/litv/4gtv-4gtv055
+靖天卡通台,http://xg.52sw.top:5000/litv/4gtv-4gtv044
+靖天育樂台,http://xg.52sw.top:5000/litv/4gtv-4gtv062
+靖天資訊台,http://xg.52sw.top:5000/litv/4gtv-4gtv065
+靖天電影台,http://xg.52sw.top:5000/litv/4gtv-4gtv061
+靖天歡樂台,http://xg.52sw.top:5000/litv/4gtv-4gtv054
+龍華偶像台, http://xg.52sw.top:5000/litv/litv-longturn12
+龍華卡通台, http://xg.52sw.top:5000/litv/litv-longturn01
+龍華戲劇台, http://xg.52sw.top:5000/litv/litv-longturn18
+龍華日韓台, http://xg.52sw.top:5000/litv/litv-longturn11
+龍華經典台, http://xg.52sw.top:5000/litv/litv-longturn21
+龍華電影台, http://xg.52sw.top:5000/litv/litv-longturn03
+靖洋戲劇台, http://xg.52sw.top:5000/litv/4gtv-4gtv045
+靖洋卡通 Nice Bingo, http://xg.52sw.top:5000/litv/4gtv-4gtv057
+寰宇新聞台, http://xg.52sw.top:5000/litv/litv-longturn14
+寰宇新聞台灣台, http://xg.52sw.top:5000/litv/litv-longturn15
+寰宇財經台, http://xg.52sw.top:5000/litv/litv-longturn23
+TVBS, http://xg.52sw.top:5000/litv/4gtv-4gtv073
+TVBS 新聞台, http://xg.52sw.top:5000/litv/4gtv-4gtv072
+TVBS 綜藝台, http://xg.52sw.top:5000/4gtv/284
+TVBS 歡樂台, http://xg.52sw.top:5000/litv/4gtv-4gtv068
+TVBS 精采台, http://xg.52sw.top:5000/litv/4gtv-4gtv067
+TVBS 台劇台, http://xg.52sw.top:5000/4gtv/285
+八大精彩台, http://xg.52sw.top:5000/litv/4gtv-4gtv034
+八大綜藝台, http://xg.52sw.top:5000/litv/4gtv-4gtv039
+三立新聞, http://xg.52sw.top:5000/4gtv/229
+三立綜合台, http://xg.52sw.top:5000/4gtv/169
+台視, http://xg.52sw.top:5000/litv/4gtv-4gtv066
+台視新聞台, http://xg.52sw.top:5000/litv/4gtv-4gtv051
+台視財經台, http://xg.52sw.top:5000/litv/4gtv-4gtv056
+博斯運動一台, http://xg.52sw.top:5000/litv/litv-longturn07
+博斯運動二台, http://xg.52sw.top:5000/litv/litv-longturn08
+博斯無限台, http://xg.52sw.top:5000/litv/litv-longturn10
+博斯無限二台, http://xg.52sw.top:5000/litv/litv-longturn13
+博斯網球台, http://xg.52sw.top:5000/litv/litv-longturn09
+博斯高球台, http://xg.52sw.top:5000/litv/litv-longturn05
+博斯高球二台, http://xg.52sw.top:5000/litv/litv-longturn06
+博斯魅力台, http://xg.52sw.top:5000/litv/litv-longturn04
+ELTA 娛樂台, http://xg.52sw.top:5000/litv/4gtv-4gtv070
+ELTA 生活旅遊, http://xg.52sw.top:5000/4gtv/237
+ELTA生活英語, http://xg.52sw.top:5000/litv/litv-longturn20
+東森新聞, http://xg.52sw.top:5000/litv/4gtv-4gtv152
+東森財經新聞, http://xg.52sw.top:5000/litv/4gtv-4gtv153
+非凡新聞台, http://xg.52sw.top:5000/litv/4gtv-4gtv010
+非凡商業台, http://xg.52sw.top:5000/litv/4gtv-4gtv048
+鏡電視新聞台, http://xg.52sw.top:5000/litv/4gtv-4gtv075
+CNBC Asia 財經台, http://xg.52sw.top:5000/4gtv/235
+亞洲旅遊台, http://xg.52sw.top:5000/litv/litv-longturn17
+GINX Esports TV, http://xg.52sw.top:5000/litv/4gtv-4gtv053
+TechStorm, http://xg.52sw.top:5000/4gtv/181
+時尚運動X, http://xg.52sw.top:5000/4gtv/277
+智林體育台, http://xg.52sw.top:5000/litv/4gtv-4gtv101
+TraceSports, http://xg.52sw.top:5000/litv/4gtv-4gtv077
+影迷數位紀實台, http://xg.52sw.top:5000/4gtv/212
+影迷數位電影台, http://xg.52sw.top:5000/litv/4gtv-4gtv011
+AMC 最愛電影, http://xg.52sw.top:5000/litv/4gtv-4gtv017
+CatchPlay 電影台, http://xg.52sw.top:5000/litv/4gtv-4gtv076
+My Cinema Europe HD 我的歐洲電影, http://xg.52sw.top:5000/4gtv/176
+公視戲劇台, http://xg.52sw.top:5000/litv/4gtv-4gtv042
+采昌影劇台, http://xg.52sw.top:5000/litv/4gtv-4gtv049
+台灣戲劇台, http://xg.52sw.top:5000/litv/litv-longturn22
+戲劇免費看 1台, http://xg.52sw.top:5000/4gtv/270
+戲劇免費看 2台, http://xg.52sw.top:5000/4gtv/244
+經典電影台, http://xg.52sw.top:5000/4gtv/201
+電影免費看 2台, http://xg.52sw.top:5000/4gtv/245
+電影原聲台 CMusic, http://xg.52sw.top:5000/4gtv/218
+花系列 經典劇場, http://xg.52sw.top:5000/4gtv/279
+CinemaWorld, http://xg.52sw.top:5000/4gtv/225
+HITS 頻道, http://xg.52sw.top:5000/4gtv/186
+Rock Action, http://xg.52sw.top:5000/4gtv/180
+Rock Entertainment, http://xg.52sw.top:5000/4gtv/275
+金光布袋戲, http://xg.52sw.top:5000/4gtv/236
+霹靂布袋戲, http://xg.52sw.top:5000/4gtv/301
+DreamWorks 夢工廠動畫, http://xg.52sw.top:5000/4gtv/282
+Nickelodeon, http://xg.52sw.top:5000/4gtv/185
+Nick Jr. 兒童頻道, http://xg.52sw.top:5000/4gtv/219
+i-Fun 動漫台, http://xg.52sw.top:5000/litv/litv-ftv15
+兒童卡通台, http://xg.52sw.top:5000/4gtv/269
+精選動漫台, http://xg.52sw.top:5000/4gtv/204
+經典卡通台, http://xg.52sw.top:5000/4gtv/202
+達文西頻道, http://xg.52sw.top:5000/litv/4gtv-4gtv018
+超人力霸王整套看, http://xg.52sw.top:5000/4gtv/278
+MOMO 親子台, http://xg.52sw.top:5000/4gtv/231
+LiveABC 互動英語台, http://xg.52sw.top:5000/4gtv/188
+Classica 古典樂, http://xg.52sw.top:5000/litv/4gtv-4gtv059
+Lifetime 娛樂頻道, http://xg.52sw.top:5000/4gtv/217
+MTV Live HD 音樂頻道, http://xg.52sw.top:5000/4gtv/213
+Mezzo Live, http://xg.52sw.top:5000/litv/4gtv-4gtv083
+豬哥亮歌廳秀, http://xg.52sw.top:5000/litv/4gtv-4gtv006
+Trace Urban, http://xg.52sw.top:5000/litv/4gtv-4gtv082
+Global Trekker, http://xg.52sw.top:5000/4gtv/252
+Globetrotter 環遊旅行家, http://xg.52sw.top:5000/litv/4gtv-4gtv016
+LUXE TV, http://xg.52sw.top:5000/4gtv/175
+Pet Club TV, http://xg.52sw.top:5000/4gtv/182
+TV5MONDE Style, http://xg.52sw.top:5000/4gtv/178
+車迷 TV, http://xg.52sw.top:5000/4gtv/160
+Love Nature, http://xg.52sw.top:5000/4gtv/139
+Fun 探索娛樂台, http://xg.52sw.top:5000/4gtv/274
+幸福空間居家台, http://xg.52sw.top:5000/4gtv/168
+Arirang TV, http://xg.52sw.top:5000/litv/4gtv-4gtv079
+Bloomberg TV, http://xg.52sw.top:5000/4gtv/283
+SBN 全球財經台, http://xg.52sw.top:5000/4gtv/224
+半島國際新聞台, http://xg.52sw.top:5000/litv/litv-ftv10
+第1商業台, http://xg.52sw.top:5000/litv/4gtv-4gtv104
+History 歷史頻道, http://xg.52sw.top:5000/4gtv/214
+CI 罪案偵查頻道, http://xg.52sw.top:5000/4gtv/215
+Smart 知識台, http://xg.52sw.top:5000/litv/litv-longturn19
+視納華仁紀實頻道, http://xg.52sw.top:5000/litv/4gtv-4gtv013
+原住民族電視台, http://xg.52sw.top:5000/4gtv/273
+客家電視台, http://xg.52sw.top:5000/litv/4gtv-4gtv043
+滾動力 Rollor, http://xg.52sw.top:5000/4gtv/249
+好消息, http://xg.52sw.top:5000/litv/litv-ftv16
+好消息2台, http://xg.52sw.top:5000/litv/litv-ftv17
+大愛電視, http://xg.52sw.top:5000/4gtv/209
+大愛電視2, http://xg.52sw.top:5000/4gtv/230
+人間衛視, http://xg.52sw.top:5000/4gtv/210
+國會頻道1, http://xg.52sw.top:5000/litv/4gtv-4gtv084
+國會頻道2, http://xg.52sw.top:5000/litv/4gtv-4gtv085
+東森購物一台, http://xg.52sw.top:5000/4gtv/173
+東森購物二台, http://xg.52sw.top:5000/4gtv/174
+東森購物三台, http://xg.52sw.top:5000/4gtv/287
+東森購物四台, http://xg.52sw.top:5000/4gtv/286
+VOA TV, http://xg.52sw.top:5000/litv/litv-ftv03
+DW, http://xg.52sw.top:5000/4gtv/226
+
+iptv,#genre#
+三立iNEWS00,https://github.com/ChiSheng9/iptv/blob/master/TV01.m3u8
+三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u9
+東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u10
+momo購物一台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u11
+momo購物二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u12
+運通財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u13
+信大電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u14
+DW News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u15
+中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u16
+Malaimurasu Tv 24X7,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u17
+Asianet News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u18
+華視戲劇頻道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u19
+中天亞洲台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u20
+Al Jazeera Arabic,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u21
+JapaNews24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u22
+THE K-POP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u23
+民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u24
+東森購物台CH60,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u25
+東森購物台CH46,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u26
+LIVE NOW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u27
+Haberturk TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u28
+鳳凰衛視資訊台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u29
+新唐人LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u30
+ABC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u31
+台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u32
+華視綜藝頻道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u33
+Astro AWANI,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u34
+中天電視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u35
+Tokyo Walk,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u36
+大愛一臺HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u37
+TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u38
+三立新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u39
+GB News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u40
+中視經典綜藝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u41
+Sky News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u42
+India Today,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u43
+Euronews English,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u44
+FRANCE 24 English,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u45
+NBC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u46
+News18 India,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u47
+寰宇新聞台灣台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u48
+MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u49
+鳳凰衛視資訊台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u50
+MediaoneTV Live,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u51
+TBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u52
+NewsTamil24x7,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u53
+大愛二臺HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u54
+東森購物台CH47,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u55
+中天2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u56
+Malayalam News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u57
+Arirang TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u58
+CNA LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u59
+HTB北海道ニュース,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u60
+美好購物1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u61
+美好購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u62
+國會頻道１,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u63
+立法院會議,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u64
+123 GO! Live,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u65
+Al Jazeera English,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u66
+Muse木棉花-闔家歡,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u67
+KBS News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u68
+ABCテレビニュース,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u69
+YOYO TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u70
+小猪佩奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u71
+Talking Tom,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u72
+TalkingFriendsTVMini,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u73
+Dave and Ava,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u74
+Tayo the Little Bus,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u75
+Disney Junio,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u76
+鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u77
+大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u78
+CRUX,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u79
+豬哥會社,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u80
+TIMES NOW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u81
+GTV DRAMA 八大劇樂部,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u82
+民視戲劇館,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u83
+Lofi Girl,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u84
+TaiwanPlus,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u85
+earthTV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u86
+SBS Running Man,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u87
+飢餓遊戲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u88
+TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u89
+TVBS選新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u90
+Entertainment - Mediacorp,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV84.m3u91
+寰宇新聞財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u92
+LiveNOW from FOX,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u93
+東森購物台CH34,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV87.m3u94
+InquizeX,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV88.m3u95
+8world,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV89.m3u96
+倪珍24小時播新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV90.m3u97
+TV5 News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV91.m3u98
