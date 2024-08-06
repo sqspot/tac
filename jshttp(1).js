@@ -15,9 +15,8 @@
 "ads": ["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]
 },
 {
-   "name":"ETH(JS)",
-   "api":"https://tang.hz.cz/js/ethtv.js",
-   "ext":"https://tang.hz.cz/api/user?token=dea0470f",
+   "name":"ETs",
+   "api":"https://tang.hz.cz/api/user?token=dea0470f",
    "type":3,
    "ua":"okhttp/4.12.0"
 },
