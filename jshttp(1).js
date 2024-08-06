@@ -16,7 +16,8 @@
 },
 {
    "name":"ETH(JS)",
-   "api":"https://tang.hz.cz/api/user?token=dea0470f",
+   "api":"https://tang.hz.cz/js/ethtv.js",
+   "ext":"https://tang.hz.cz/api/user?token=dea0470f"
    "type":3,
    "ua":"okhttp/4.12.0"
 },
