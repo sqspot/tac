@@ -16,7 +16,7 @@
 },
 {
    "name":"ETH(JS)",
-   "api":"https://raw.githubusercontent.com/sqspot/tac/main/js/ethtv.js",
+   "api":"https://tang.hz.cz/api/user?token=dea0470f",
    "type":3,
    "ua":"okhttp/4.12.0"
 },
