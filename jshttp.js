@@ -15,9 +15,9 @@
 "ads": ["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]
 },
 {
-   "name":"ETH(JS)",
-   "api":"https://tang.hz.cz/js/ethtv.js",
-   "type":3,
+   "name":"ETs",
+   "url":"https://tang.hz.cz/api/user?token=dea0470f",
+   "type":0,
    "ua":"okhttp/4.12.0"
 },
 
@@ -26,7 +26,9 @@
             "type": 0,
             "url": "https://gitlab.com/tvtg/vip/-/raw/main/fl2024.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-        }
+        },
+//},
+{"name": "ETH(JS)","api": "https://tang.hz.cz/js/ethtv.js","type": 3,"ua": "okhttp/4.12.0"}
 
 ],
 "sites" : [

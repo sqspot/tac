@@ -886,7 +886,7 @@ iFun动漫台,P2p://generationnexxxt.com:19806/6cb1867e9aa543d7938ecb9ac3605564
 爱尔达二台,P2p://generationnexxxt.com:19806/1ba2c7d7725f46a595dcb7df1741b5fb
 爱尔达三台,P2p://generationnexxxt.com:19806/45f846eb465245d2aae9e7c34609f960
 
-偶爾能看,#genre#
+💬以下偶爾能看,#genre#
 
 IBiza ,#genre#
 NYX,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
@@ -1394,7 +1394,7 @@ EYETV 戏剧,https://tang.hz.cz/zb/Smart.php?id=bb97b4633dca935655d86f0de408dc57
 AFC 亚洲旅游台,https://tang.hz.cz/zb/Smart.php?id=01895cf0dcbf24af5ae1d41487b80b7d
 爱尔达体育3台,https://tang.hz.cz/zb/Smart.php?id=babe53d5543902e806c3be4a6e2255d7
 
-漸漸失效,#genre#
+😰以下漸漸失效,#genre#
 4GTV1080,#genre#
 TV5MONDE Style,http://xg.52sw.top:5000/4gtv/178
 民視,http://xg.52sw.top:5000/litv/4gtv-4gtv155
