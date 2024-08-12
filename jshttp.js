@@ -14,12 +14,7 @@
 "logo":"https://epg.112114.xyz/logo/{name}.png",
 "ads": ["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]
 },
-{
-   "name":"ETs",
-   "url":"https://tang.hz.cz/api/user?token=dea0470f",
-   "type":0,
-   "ua":"okhttp/4.12.0"
-},
+//{"name":"ETs","url":"https://tang.hz.cz/api/user?token=dea0470f","type":0,"ua":"okhttp/4.12.0"},
 
         {
             "name": "飛龍影視",
@@ -28,8 +23,18 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
 //},
-{"name": "ETH(JS)","api": "https://tang.hz.cz/js/ethtv.js","type": 3,"ua": "okhttp/4.12.0"}
-
+//{"name": "ETH(JS)","api": "https://tang.hz.cz/js/ethtv.js","type": 3,"ua": "okhttp/4.12.0"}
+{
+      "name": "SMT",
+      "boot": false,
+      "pass": true,
+      "url": "https://t4.doube.eu.org/smt.txt",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "header": {
+        "CLIENT-IP": "127.0.0.1",
+        "X-FORWARDED-FOR": "127.0.0.1"
+      }
+    }
 ],
 "sites" : [
 {"key":"drpy","name":"🔥豆瓣(評分 0~10分)　　🔥祝大家🤩好運🐉總來💯　　2.4.6版","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
