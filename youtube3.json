@@ -15,7 +15,7 @@
 {"type_id":"LIST:獅心瘋","type_name":"YouTuber①"},
 {"type_id":"LIST:老高與小茉 Mr & Mrs Gao","type_name":"YouTuber②"},
 {"type_id":"鏡頭下爆笑","type_name":"YouTuber③"},
-{"type_id":"LIST:喪屍老爸","type_name":"YouTuber④"},
+{"type_id":"LIST:李船長筆記","type_name":"YouTuber④"},
 {"type_id":"陸配","type_name":"外配"},
 {"type_id":"LIST:PL8c_zzr_v4WFAkl7wwOjXmpxs0QdIV-NQ","type_name":"分享"},
 {"type_id":"#shorts 短片","type_name":"shorts"},
@@ -347,8 +347,9 @@
 {"n":"滴妹","v":"滴妹"}
 ]}
 ],
-"LIST:喪屍老爸":[
+"LIST:李船長筆記":[
 {"key":"tid","name":"中文","value":[
+{"n":"李船長筆記","v":"李船長筆記"},
 {"n":"PAPAYA 電腦教室","v":"PAPAYA 電腦教室"},
 {"n":"MrYang楊家成","v":"MrYang楊家成"},
 {"n":"cheap","v":"cheap"},
