@@ -2,6 +2,7 @@
 {
 "spider":"./fm.jar",
 //"spider":"./pg.jar",
+"logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 "lives":[{"name":"KTV","type":0,"url":"./KTV.txt"}],
 "sites":[
 //{"key":"MV_vod","name":"MTV合集","type":1,"api":"https://tvbox-mv-xianlaihuyu.koyeb.app/mv/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playerType":"1"},

@@ -15,6 +15,7 @@
 {
 "spider":"./fm.jar",
 //"spider":"./pg.jar",
+"logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 
 
 
