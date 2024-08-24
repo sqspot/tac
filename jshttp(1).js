@@ -10,6 +10,7 @@
       "pass": true,
       "url": "https://t4.doube.eu.org/smt.txt",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "playerType": 1,
       "header": {
         "CLIENT-IP": "127.0.0.1",
         "X-FORWARDED-FOR": "127.0.0.1"
@@ -30,6 +31,7 @@
         {
             "name": "飛龍影視",
             "type": 0,
+            "playerType": 1,
             "url": "https://gitlab.com/tvtg/vip/-/raw/main/fl2024.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
@@ -38,6 +40,7 @@
     {
       "name": "XT",
       "type": 3,
+      "playerType": 1,
       "api": "https://raw.githubusercontent.com/sqspot/tac/main/xt.js",
 		"url": "https://raw.githubusercontent.com/sqspot/tac/main/xt.txt"
     }
