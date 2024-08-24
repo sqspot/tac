@@ -24,6 +24,13 @@
         },
 //},
 //{"name": "ETH(JS)","api": "https://tang.hz.cz/js/ethtv.js","type": 3,"ua": "okhttp/4.12.0"}
+    {
+      "name": "XT",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/sqspot/tac/main/xt.js",
+      "url": "https://raw.githubusercontent.com/sqspot/tac/main/xt.txt",
+      "ext": ""
+    },
 {
       "name": "SMT",
       "boot": false,
@@ -44,6 +51,8 @@
 {"key":"黑木耳","name":"👑黑木耳1","type":1,"api":"https://www.heimuer.tv/api.php/provide/vod","searchable":1,"changeable":1},
 {"key": "heimuer","name": "👑黑木耳2","type": 1,"api": "https://json.heimuer.xyz/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}},
 {"key":"php_hmezy","name":"👑黑木耳克隆","type":4,"api":"https://demobe.serv00.net/heimuer.php","searchable":1,"changeable":1},
+{"key":"heimuerai","name":"黑木耳ai","type":1,"api":"https://json.heimuer.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"header":{"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36"},"ext":{"search":{"url":"https://json.heimuer.xyz/api.php/provide/vod/","params":{"ac":"list","wd":"{wd}"}},"detail":{"url":"https://json.heimuer.xyz/api.php/provide/vod/","params":{"ac":"detail","ids":"{ids}"}},"list":{"url":"https://json.heimuer.xyz/api.php/provide/vod/","params":{"ac":"list","pg":"{pg}"}}}},
+{"key":"haiwaibaai","name":"海外吧ai","type":1,"api":"https://hw8.live/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"PTT","name":"👑PTT采集综合","type":3,"api":"csp_PTT","searchable":1,"changeable":1},
 {"key":"ikanbotsq","name":"🈵爱看机器人sq","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbotsq.js","searchable":1,"changeable":1},
 {"key":"XBPQ_文才","name":"🥬文才","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar","ext":{"分类": "国产剧&短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧","分类值": "14&42&22&26&36&25&30&23&69&15&16&62","分类url": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}","数组二次截取": "list\":[&&]","数组": "{&&}[不包含:]","图片": "vod_pic\":\"&&\"","标题": "vod_name\":\"&&\"","副标题": "+vod_remarks\":\"&&\"","链接": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,","搜索url": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://api.zeqaht.com/api.php/provide/vod?ac=detail&wd={wd}","搜索模式": "1","搜索二次截取": "list\":[&&]","搜索数组": "{&&}[不包含:]","搜索图片": "vod_pic\"*\"&&\"","搜索标题": "vod_name\"*\"&&\"","搜索副标题": "type_name\":\"&&\"","搜索链接": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,","影片类型": "vod_class\"*\"&&\"","导演": "vod_director\"*\"&&\"","主演": "vod_actor\"*\"&&\"","简介": "vod_content\"*\"&&\"","线路二次截取": "\"list\":[&&]","线路数组": "\"vod_play_from\":&&,","线路标题": "\"&&\"","播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]","播放二次截取": "","播放列表": "表&&表","播放标题": "题&&题","播放链接": "链&&链","嗅探词": ".m3u8","播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad","免嗅": "0"}},
