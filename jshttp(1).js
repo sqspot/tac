@@ -39,7 +39,7 @@
       "name": "XT",
       "type": 3,
       "api": "https://raw.githubusercontent.com/sqspot/tac/main/xt.js",
-		"ext": "https://raw.githubusercontent.com/sqspot/tac/main/xt.txt",
+		"ext": "https://raw.githubusercontent.com/sqspot/tac/main/xt.txt"
     }
 
 ],
