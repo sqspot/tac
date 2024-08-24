@@ -5,9 +5,20 @@
 "logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 "lives":[
 {
-"name":"4gtv",
+      "name": "SMT",
+      "boot": false,
+      "pass": true,
+      "url": "https://t4.doube.eu.org/smt.txt",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "header": {
+        "CLIENT-IP": "127.0.0.1",
+        "X-FORWARDED-FOR": "127.0.0.1"
+      }
+    },
+    {
+"name":"雜錄",
 "type":0,
-"url":"https://raw.githubusercontent.com/sqspot/tac/main/4gtv.txt",
+"url":"https://raw.githubusercontent.com/sqspot/tac/main/live雜錄.txt",
 "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
 "playerType": 1,
 "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
@@ -28,20 +39,9 @@
       "name": "XT",
       "type": 3,
       "api": "https://raw.githubusercontent.com/sqspot/tac/main/xt.js",
-      "url": "https://raw.githubusercontent.com/sqspot/tac/main/xt.txt",
-      "ext": ""
-    },
-{
-      "name": "SMT",
-      "boot": false,
-      "pass": true,
-      "url": "https://t4.doube.eu.org/smt.txt",
-      "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "header": {
-        "CLIENT-IP": "127.0.0.1",
-        "X-FORWARDED-FOR": "127.0.0.1"
-      }
+		"ext": "https://raw.githubusercontent.com/sqspot/tac/main/xt.txt",
     }
+
 ],
 "sites" : [
 {"key":"drpy","name":"🔥豆瓣(評分 0~10分)　　🔥祝大家🤩好運🐉總來💯　　2.4.6版","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
