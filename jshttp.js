@@ -49,7 +49,7 @@
 {"key":"優質网","name":"🔥優質zyk","type":0,"api":"https://api.1080zyku.com/inc/api.php","searchable":1,"changeable":1},
 {"key":"欧帝影院","name":"🔥欧帝影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/欧帝影院.js","searchable":1,"changeable":1},
 {"key":"泥巴","name":"🔥泥巴","type":3,"api":"csp_Nbys","jar":"./top98_1.jar","searchable":1,"changeable":1},
-{"key":"独播库","name":"👑独播库","type":3,"api":"csp_XBPQ","ext":{"图片":"data-original=\"&&\"","标题":"title=\"&&\"","线路数组":"class=\"myui-panel__headactive&&</div>","线路标题":"class=\"titletitlego\">&&</h3","分类url":"https://www.dubokuz.com/vodtype/{cateId}.html?year={year}&country={area}&page={catePg}","分类":"电影$movie#剧集$tv#综艺$show#动漫$anime"},"jar":"./XBPQ.jar","searchable":1,"changeable":1},
+//{"key":"独播库","name":"👑独播库","type":3,"api":"csp_XBPQ","ext":{"图片":"data-original=\"&&\"","标题":"title=\"&&\"","线路数组":"class=\"myui-panel__headactive&&</div>","线路标题":"class=\"titletitlego\">&&</h3","分类url":"https://www.dubokuz.com/vodtype/{cateId}.html?year={year}&country={area}&page={catePg}","分类":"电影$movie#剧集$tv#综艺$show#动漫$anime"},"jar":"./XBPQ.jar","searchable":1,"changeable":1},
 {"key":"最大","name":"👑最大","type":0,"api":"https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/at/xml","searchable":1,"changeable":1},
 {"key":"天空网","name":"👑天空tk","type":0,"api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
 {"key":"索尼","name":"👑索尼","type":0,"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml/","searchable":1,"changeable":1},
