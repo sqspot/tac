@@ -29,7 +29,7 @@
 
 {"name":"斯玛特","type":0,"url":"https://tang.hz.cz/zb/stv?token=dea0470f","playerType":2},
 
-//{"name":"ETs","url":"https://tang.hz.cz/api/user?token=dea0470f","type":0,"ua":"okhttp/4.12.0"},
+{"name":"ETs","type":0,"url":"https://tang.hz.cz/api/user?token=dea0470f","playerType":2},
 
         {
             "name": "飛龍影視",
