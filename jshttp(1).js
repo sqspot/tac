@@ -26,6 +26,9 @@
 "logo":"https://epg.112114.xyz/logo/{name}.png",
 "ads": ["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]
 },
+
+{"name":"斯玛特","type":0,"url":"https://tang.hz.cz/zb/stv?token=000000","playerType":2},
+
 //{"name":"ETs","url":"https://tang.hz.cz/api/user?token=dea0470f","type":0,"ua":"okhttp/4.12.0"},
 
         {
@@ -214,6 +217,7 @@
 {"key": "实验直播1","name": "第四台全球","type": 4,"api": "http://zhangqun1818.serv00.net/zh/224.php","searchable": 0,"changeable": 0,"ext": "2"},
 {"key": "实验直播2","name": "第四台含台灣","type": 4,"api": "http://zhangqun1818.serv00.net/zh/224.php","searchable": 0,"changeable": 0,"ext": "3"},
 {"key": "实验直播3","name": "第四台全球","type": 4,"api": "http://zhangqun1818.serv00.net/zh/224.php","searchable": 0,"changeable": 0,"ext": "4"},
+{"key":"实验直播5","name":"实验直播5","type":4,"api":"http://zhangqun1818.serv00.net/zh/2241.php","searchable":0,"changeable":0,"ext":"1,2,3"},
 {"key":"直播转点播","name":"❤💻網路第四台txt格式","type":3,"style":{ "type":"oval" },"api":"./lib/live2cms.js","ext":"./live2tv_sq.txt"},
 {"key":"直播转点播2","name":"❤💻網路第四台m3u格式","type":3,"searchable":0,"api":"./lib/live2vod.js","ext":"./live2tv_sq.m3u"},
 {"key":"直播转点播s","name":"❤💻網路第四台txt♒","type":3,"style":{ "type":"oval" },"api":"./lib/live2cms.js","ext":"./live2tv_sq_s.txt"},
