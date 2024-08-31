@@ -4,16 +4,9 @@
 "spider":"./fm.jar",
 "logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 
-"lives":[{
-"name":"自選",
-"type":0,
-"url":"https://raw.githubusercontent.com/sqspot/tac/main/live2.txt",
-"ua": "okhttp/3.15",
-"playerType": 1,
-"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"https://epg.112114.xyz/logo/{name}.png",
-"ads": ["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]
-}
+"lives":[
+{"name":"自選","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/live2.txt","ua": "okhttp/3.15","playerType": 1,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ads": ["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]},
+{"name":"安博","type":0,"url":"https://tang.hz.cz/zb/anbo?token=cb70f1ae","playerType":2}
 ],
 "sites":[
 {"key":"MissAV","name":"🔥MissAV1無碼ijk","type":3,"api":"csp_Miss","searchable":1,"filterable":1},
