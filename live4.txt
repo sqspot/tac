@@ -1,17 +1,219 @@
 奧運,#genre#
-奧運1-英國台,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649788.ts
-奧運2-英國台,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649789.ts
-奧運3-英國台,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649790.ts
-奧運4-英國台,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649791.ts
-奧運5-英國台,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649792.ts
-奧運6-英國台,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649793.ts
-奧運7-英國台,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649794.ts
-奧運8-英國台,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649795.ts
-奧運9-英國台,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649796.ts
-美國 CNBC,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649772.ts
-美國 E!,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649773.ts
-美國 NBC,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649774.ts
-美國 USA Network,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649775.ts
-加拿大 CBC,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649776.ts
-英國 BBC One,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649777.ts
-英國 BBC Two,http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/649778.ts
+中天新聞,
+寰宇新聞,
+中視新聞,
+台視新聞,
+CNN ,
+民視,
+人間衛視,
+台視,
+大愛,
+中視,
+霹靂台灣,
+華視,
+公視,
+公視台語,
+好消息,
+原住民族電視,
+客家電視,
+BBC Earth ,
+Discovery 頻道,
+TLC 旅遊生活頻道,
+動物星球頻道,
+CN卡通頻道,
+尼克兒童頻道,
+momo親子,
+東森幼幼,
+緯來綜合,
+八大第一,
+八大綜合,
+三立台灣,
+三立都會,
+韓國娛樂台KMTV ,
+東森綜合,
+超視,
+東森購物2,
+momo購物2,
+中天綜合,
+東風衛視,
+年代MUCH,
+中天娛樂,
+東森戲劇,
+八大戲劇,
+TVBS歡樂,
+緯來戲劇,
+高點電視,
+東森購物3,
+東森購物1,
+momo購物1,
+三立iNEWS ,
+壹電視新聞,
+年代新聞,
+東森新聞,
+華視新聞資訊,
+民視新聞,
+三立新聞,
+TVBS新聞台 ,
+TVBS ,
+東森財經新聞,
+非凡新聞,
+viva購物1,
+東森購物5,
+CATCHPLAY電影,
+東森電影,
+緯來電影,
+LS龍祥電影,
+HBO,
+東森洋片,
+AXN ,
+好萊塢電影,
+amc電影,
+CINEMAX ,
+緯來育樂,
+緯來體育,
+DAZN 1 ,
+DAZN 2 ,
+MOMO綜合,
+博斯運動一,
+緯來日本,
+國興衛視,
+BBC Lifestyle ,
+靖天購物一,
+Animax(),
+信吉電視,
+JET 綜合,
+中台灣生活網頻道,
+鏡電視新聞,
+冠軍電視,
+Z頻道,
+ETtoday綜合,
+非凡商業,
+八大娛樂,
+運通財經,
+全球財經,
+誠心電視,
+華藝台灣,
+台灣綜合,
+海豚綜合,
+威達超舜生活,
+台灣藝術,
+樂視,
+華藏電視,
+十方法界電視,
+世界電視,
+佛衛慈悲,
+信大電視,
+全大電視,
+美麗人生購物,
+正德電視,
+天良綜合,
+番薯電視,
+富立電視,
+華視教育體育文化,
+冠軍夢想,
+新天地民俗,
+三聖電視,
+紅豆2,
+天美麗電視,
+雙子衛視,
+高雄都會,
+NHK ,
+國會頻道1,
+國會頻道2,
+幸福空間居家,
+高點育樂,
+滾動力 rollor ,
+MTV ,
+智林體育,
+唯心電視,
+Global Trekker ,
+ROCK Action ,
+TRACE Sport Stars ,
+美食星球頻道,
+寰宇財經,
+民視第一,
+民視台灣,
+中視菁采,
+台視財經,
+台視綜合,
+小公視(公視兒少台),
+CARTOONITO ,
+達文西頻道,
+寰宇新聞台灣,
+HGTV居家樂活頻道,
+MTV Live ,
+TV5法式生活頻道,
+古典音樂,
+梅迪奇藝術頻道,
+大愛2,
+好消息2,
+TaiwanPlus ,
+彭博財經頻道,
+CNBC Asia ,
+BBC NEWS ,
+CNBC Asia ,
+BBC NEWS ,
+民視,rtmp://f13h.mine.nu/sat/tv051
+臺視,rtmp://f13h.mine.nu/sat/tv071
+中視,rtmp://f13h.mine.nu/sat/tv091
+華視,rtmp://f13h.mine.nu/sat/tv111
+TVBS新聞,rtmp://f13h.mine.nu/sat/tv551
+TVBS歡樂,rtmp://f13h.mine.nu/sat/tv421
+東森財經新聞,rtmp://f13h.mine.nu/sat/tv571
+東森超視,rtmp://f13h.mine.nu/sat/tv521
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
+ELTA體育2,rtmp://f13h.mine.nu/sat/md011
+ELEVEN2,rtmp://f13h.mine.nu/sat/md021
+博斯網球,rtmp://f13h.mine.nu/sat/md031
+ELTA體育3,rtmp://f13h.mine.nu/sat/md041
+ELTA體育1,rtmp://f13h.mine.nu/sat/md051
+CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
+CNBC,http://125.227.210.55:8152/VideoInput/play.ts
+HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
+Discovery,http://125.227.210.55:8154/VideoInput/play.ts
+中視,rtmp://220.130.201.73/sat/tv091
+華視,rtmp://220.130.201.73/sat/tv111
+臺視,rtmp://220.130.201.73/sat/tv071
+民視,rtmp://220.130.201.73/sat/tv051
+緯來體育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+緯來體育,rtmp://220.130.201.73/sat/tv721
+緯來育樂,rtmp://220.130.201.73/sat/tv701
+緯來日本,rtmp://220.130.201.73/sat/tv771
+東森超視,rtmp://220.130.201.73/sat/tv331
+八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
+三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
+AMC電影臺,http://61.221.215.25:8800/hls/43/index.m3u8
+鳳凰資訊,http://61.221.215.25:8800/hls/47/index.m3u8
+緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+49號,http://61.221.215.25:8800/hls/49/index.m3u8
+探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
+緯來體育臺,http://125.227.210.55:8155/VideoInput/play.ts
+三立臺灣臺,http://125.227.210.55:8160/VideoInput/play.ts
+Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
+BBC new,http://125.227.210.55:8165/VideoInput/play.ts
+CNN new,http://125.227.210.55:8166/VideoInput/play.ts
+CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+JTV,http://125.227.210.55:8169/VideoInput/play.ts
+TVBS新聞臺,http://125.227.210.55:8186/VideoInput/play.ts
+食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts
+TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
+TV5臺,http://125.227.210.55:15533/VideoInput/play.ts
+YTN臺,http://125.227.210.55:17478/VideoInput/play.ts
+NHK JAPAN臺,http://125.227.210.55:35802/VideoInput/play.ts
+PBS臺,http://125.227.210.55:36950/VideoInput/play.ts
+HD臺🍒,http://125.227.210.55:39004/VideoInput/play.ts
+DW臺,http://125.227.210.55:42534/VideoInput/play.ts
+BBC臺,http://125.227.210.55:44350/VideoInput/play.ts
+KOREA臺,http://125.227.210.55:48553/VideoInput/play.ts
+Mainu臺,http://125.227.210.55:51359/VideoInput/play.ts
+NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
