@@ -4,30 +4,13 @@
 //"spider":"./pg.jar",
 "logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 "lives":[
-{
-      "name": "1.有人維護",
-      "boot": false,
-      "pass": true,
-      "url": "https://t4.doube.eu.org/smt.txt",
-      "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "playerType": 1,
-      "header": {
-        "CLIENT-IP": "127.0.0.1",
-        "X-FORWARDED-FOR": "127.0.0.1"
-      }
-    },
-    {
-"name":"2.舊版",
-"type":0,
-"url":"https://raw.githubusercontent.com/sqspot/tac/main/4gtv.txt",
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-"playerType": 1,
-"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"https://epg.112114.xyz/logo/{name}.png",
-"ads": ["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]
 
-    }
-
+{"name":"綜合版","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/4gtv.txt","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36","playerType":1,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ads":["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]},
+{"name":"smart","boot":false,"pass":true,"url":"https://t4.doube.eu.org/smt.txt","logo":"https://live.fanmingming.com/tv/{name}.png","playerType":1,"header":{"CLIENT-IP":"127.0.0.1","X-FORWARDED-FOR":"127.0.0.1"}},
+{"name":"安博","type":0,"url":"https://tang.hz.cz/zb/anbo?token=cb70f1ae","playerType":2},	
+{"name":"台湾","type":0,"url":"https://raw.githubusercontent.com/shawn82/fm/main/lib/taiwan.m3u","playerType":2},	
+{"name":"Gather","type":0,"url":"https://tv.iill.top/m3u/Gather","playerType":2},
+{"name":"MYTVSuper","type":0,"url":"https://tv.iill.top/m3u/MyTV","playerType":2}
 
 ],
 "sites" : [
