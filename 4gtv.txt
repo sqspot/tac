@@ -1575,10 +1575,3 @@ TVBS新聞,p3p://108.181.20.159:33962/621858e3000e70ad1217c0700d576ad0$LR•IPV4
 東森電影,http://171.108.239.99:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『線路5』
 東森電影,http://171.108.239.77:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『線路6』
 東森電影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8$LR•IPV4『線路7』
-公告信息,#genre#
-請閱讀,https://liuliuliu.tv/api/channels/1997/stream
-yuanzl77.github.io,https://liuliuliu.tv/api/channels/233/stream
-免費提供,http://eastscreen.tv/ooooo.php?id=CCTV16-4k
-不存在收費使用,http://175.178.251.183:6689/liveup.php?id=CCTV16 4K
-更新日期,https://gitlab.com/lr77/IPTV/-/raw/main/%E4%B8%BB%E8%A7%92.mp4
-2024-09-01,https://gitlab.com/lr77/IPTV/-/raw/main/%E8%B5%B7%E9%A3%8E%E4%BA%86.mp4
