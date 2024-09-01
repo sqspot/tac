@@ -23,7 +23,7 @@
 {"name":"4GTV豪華版 ijk",
 "type":0,
 "url":"https://raw.githubusercontent.com/sqspot/tac/main/4GTV豪華版.txt",
-"ua":"Mozilla/5.0 (Android 10; Mobile; rv:121.0) Gecko/121.0 Firefox/121.0",
+"ua":"Mozilla/5.0 (Linux; Android 11; M2101K9C Build/RKQ1.201112.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 T7/12.16 SearchCraft/3.9.1 (Baidu; P1 11)",
 "playerType":1,
 "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png",
