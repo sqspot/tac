@@ -16,10 +16,8 @@
 {"name":"Gather ijk","type":0,"url":"https://tv.iill.top/m3u/Gather","playerType":1},
 {"name":"Gather exo","type":0,"url":"https://tv.iill.top/m3u/Gather","playerType":2},
 {"name":"美国","type":0,"url":"https://raw.githubusercontent.com/shawn82/fm/main/lib/us.m3u8","playerType":2},
-{"name":"MYTVSuper","type":0,"url":"https://tv.iill.top/m3u/MyTV","playerType":2},
-{"name":"斯玛特","type":0,"url":"https://tang.hz.cz/zb/stv?token=cb70f1ae","playerType":2},
-{"name":"ETs","type":0,"url":"https://tang.hz.cz/api/user?token=cb70f1ae","playerType":2},
 {"name":"飛龍影視","type":0,"playerType":1,"url":"https://gitlab.com/tvtg/vip/-/raw/main/fl2024.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
+{"name":"smt","type":0,"playerType":1,"url":"https://raw.githubusercontent.com/sqspot/tac/main/smt.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"4GTV豪華版 ijk",
 "type":0,
 "url":"https://raw.githubusercontent.com/sqspot/tac/main/4GTV豪華版.txt",
@@ -28,8 +26,7 @@
 "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png",
 "ads":["static-mozai.4gtv.tv",
-"s3t3d2y8.afcdn.net"]},
-{"name":"XT","type":3,"playerType":1,"api":"https://raw.githubusercontent.com/sqspot/tac/main/xt.js","url":"https://raw.githubusercontent.com/sqspot/tac/main/xt.txt"}
+"s3t3d2y8.afcdn.net"]}
 
 ],
 "sites" : [
