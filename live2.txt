@@ -18,8 +18,35 @@ TV5MONDE Style,http://xg.52sw.top:5000/4gtv/178
 彩虹電影,https://0.m3u8
 
 驚艷台,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
+潘多拉,http://18.svi-studio.com:8880/live/908957700097/132663288386/3.m3u8
+香蕉台,http://18.svi-studio.com:8880/live/908957700097/132663288386/4.m3u8
+松視1,http://18.svi-studio.com:8880/live/908957700097/132663288386/5.m3u8
+松視2,http://18.svi-studio.com:8880/live/908957700097/132663288386/6.m3u8
+松視3,http://18.svi-studio.com:8880/live/908957700097/132663288386/20205.m3u8
+驚艷台,http://18.svi-studio.com:8880/live/584830114073/800309151021/1.m3u8
+潘多拉,http://18.svi-studio.com:8880/live/584830114073/800309151021/3.m3u8
+香蕉台,http://18.svi-studio.com:8880/live/584830114073/800309151021/4.m3u8
+松視1,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
+松視2,http://18.svi-studio.com:8880/live/584830114073/800309151021/6.m3u8
+松視3,http://18.svi-studio.com:8880/live/584830114073/800309151021/20205.m3u8
+驚艷台,http://18.svi-studio.com:8880/live/624372101145/418430465490/1.m3u8
 潘多拉,http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
 香蕉台,http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
+松視1,http://18.svi-studio.com:8880/live/624372101145/418430465490/5.m3u8
+松視2,http://18.svi-studio.com:8880/live/624372101145/418430465490/6.m3u8
+松視3,http://18.svi-studio.com:8880/live/624372101145/418430465490/20205.m3u8
+驚艷台,http://18.svi-studio.com:8880/live/917952932058/953281067271/1.m3u8
+潘多拉,http://18.svi-studio.com:8880/live/917952932058/953281067271/3.m3u8
+香蕉台,http://18.svi-studio.com:8880/live/917952932058/953281067271/4.m3u8
+松視1,http://18.svi-studio.com:8880/live/917952932058/953281067271/5.m3u8
+松視2,http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
+松視3,http://18.svi-studio.com:8880/live/917952932058/953281067271/20205.m3u8
+驚艷台,http://18.svi-studio.com:8880/live/271871095922/006886711863/1.m3u8
+潘多拉,http://18.svi-studio.com:8880/live/271871095922/006886711863/3.m3u8
+香蕉台,http://18.svi-studio.com:8880/live/271871095922/006886711863/4.m3u8
+松視1,http://18.svi-studio.com:8880/live/271871095922/006886711863/5.m3u8
+松視2,http://18.svi-studio.com:8880/live/271871095922/006886711863/6.m3u8
+松視3,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
 奧視3,http://125.227.210.55:8917/VideoInput/play.ts
 奧視2,http://125.227.210.55:55643/VideoInput/play.ts
 松視1,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
@@ -27,16 +54,12 @@ TV5MONDE Style,http://xg.52sw.top:5000/4gtv/178
 松視3,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
 驚艷台,http://125.227.210.55:8156/VideoInput/play.ts
 香蕉台,http://125.227.210.55:8159/VideoInput/play.ts
-驚艷台,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
 驚艷台,https://z88.ubtvfans.com:443/live/rx4/2931/0abbe9024509c229983e5c124e987107/index.m3u8
 免子台,http://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
-松視1,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
 松視1,http://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
 松視1,http://z88.ubtvfans.com/live/rx3/2905/daf5dc8e6ec09a9f9fa07764441d1ebc/index.m3u8
-松視2,http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
 松視2,http://z88.ubtvfans.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
 松視2,http://z88.ubtvfans.com/live/rx3/2906/786522c38e02f6af5fea35725319e11a/index.m3u8
-松視3,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
 松視3,http://z88.ubtvfans.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
 松視3,http://z88.ubtvfans.com/live/rx3/2907/996ead584b34542d91ef9b92b8184d0a/index.m3u8
 玩美台,http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
@@ -5058,7 +5081,7 @@ l🐸12传媒01,https://10j991.cdnedge.live/file/avple-asserts/hls/639985bd2c279
 🍓5传媒169,https://d862cp.cdnedge.live/file/avple-images/hls/62715fc34deadc023a8a098e/playlist.m3u8
 🍓5传媒170,https://10j99.cdnedge.live/file/avple-images/hls/6270a7893ddea14c11aa4ab5/playlist.m3u8
 🍓5传媒171,https://8bb88.cdnedge.live/file/avple-images/hls/626fc4703ddea14c11aa4ab4/playlist.m3u8
-🍓5传媒172,https://w9n76.cdnedge.live/file/avple-images/hls/626fb69c3ddea14c11aa4aaf/playlist.m3u8
+??5传媒172,https://w9n76.cdnedge.live/file/avple-images/hls/626fb69c3ddea14c11aa4aaf/playlist.m3u8
 🍓5传媒173,https://u89ey.cdnedge.live/file/avple-images/hls/626fb8423ddea14c11aa4ab1/playlist.m3u8
 🍓5传媒174,https://je40u.cdnedge.live/file/avple-images/hls/626fb8b93ddea14c11aa4ab2/playlist.m3u8
 🍓5传媒175,https://10j99.cdnedge.live/file/avple-images/hls/626fb78f3ddea14c11aa4ab0/playlist.m3u8

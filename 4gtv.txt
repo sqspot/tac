@@ -1036,6 +1036,15 @@ Z頻道,P2p://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
 三立都會,P2p://generationnexxxt.com:19806/d246662584364ea6aad39cb2c7767eec
 三立國際,https://z88.ubtvfans.com/live/rx3/2285/6a8add031ee3407648e3eb8731932206/index.m3u8
 三立台灣,http://125.227.210.55:8160/VideoInput/play.ts
+三立台灣,https://z88.ubtvfans.com/live/rx1/35/95b580d006ccfa063954e194114981bb/index.m3u8
+三立台灣,https://z88.ubtvfans.com/live/rx1/2436/b092782bb131a42358edd5973812efa9/index.m3u8
+三立台灣,mitv://generationnexxxt.com:19806/82c3325594cc42bcb28b18426623428e
+三立台灣,mitv://generationnexxxt.com:19806/82fb76c0b7d7487cb42604a970c4d2da
+三立台灣,mitv://generationnexxxt.com:19806/7554a57ea53f4c10ae4e219ac2d374c4
+三立台灣,mitv://generationnexxxt.com:19806/ff12e8f29f9b4f61a9b766709aa498f6
+三立台灣,p3p://108.181.20.159:23520/5fe2947f000c58a57c0623474ae64e07$LR•IPV4『線路2』
+三立台灣,p3p://173.208.176.178:19806/5fe2947f000c58a57c0623474ae64e07
+三立台灣,http://125.227.210.55:8160/VideoInput/play.ts
 三立台灣,http://extraott.com:80/live/7921751389/6097373662/5505.m3u8
 三立台灣,https://z88.ubtvfans.com/live/rx1/21/76c76eb600260e45acc3e1b7cc9b8829/index.m3u8
 三立台灣,https://z88.ubtvfans.com/live/rx1/35/95b580d006ccfa063954e194114981bb/index.m3u8
