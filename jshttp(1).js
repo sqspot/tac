@@ -31,9 +31,8 @@
 ],
 "sites" : [
 {"key":"drpy","name":"🔥豆瓣(評分 0~10分) 本APP8️⃣月2️⃣5️⃣日更新 🚩２．５．０ 版","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
-{"key": "实验直播1","name": "第４台含台灣1️⃣　　本APP請更新 🚩２．５．０ ⃣版","type": 4,"api": "http://zhangqun1818.serv00.net/zh/224.php","searchable": 0,"changeable": 0,"ext": "1"},
-{"key": "实验直播3","name": "第４台含台灣2️⃣　　本APP請更新 🚩２．５．０ ⃣版","type": 4,"api": "http://zhangqun1818.serv00.net/zh/224.php","searchable": 0,"changeable": 0,"ext": "3"},
-{"key": "实验直播2","name": "第４台　全球　　本APP請更新 🚩２．５．０ 版","type": 4,"api": "http://zhangqun1818.serv00.net/zh/224.php","searchable": 0,"changeable": 0,"ext": "2"},
+{"key": "直播转点播x","name": "直播转点播","type": 1,"api": "http://127.0.0.1:10079/p/0/null/http://zhangqun1818.serv00.net/zh/2241-2.php","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "克隆合集x","name": "克隆合集","type": 1,"api": "http://127.0.0.1:10079/p/0/null/http://zhangqun1818.serv00.net/klhj.php","searchable": 1,"quickSearch": 1,"filterable": 0},   
 {"key":"Youtube2","name":"👉🔥Youtube台灣🎯👈","type":3,"api":"csp_Youtube","searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./youtube2.json","codecs":""},"style":{"type":"rect","ratio":1.5},"jar":"./pgYT.jar"},
 {"key":"Youtube","name":"🛗Youtube⏩","type":3,"api":"csp_Youtube","searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./youtube.json","type":"直播#新聞#劇集#電影#綜藝#紀錄片#音樂#體育#動物#風光#放鬆#4K#HDR#movie#music#documentary#bbcdocumentary#nationalgeographicdocumentary","keywords":"排行榜,HOT,TRENDS,熱門話題,熱門趨勢,熱門綜藝,熱門電影,熱門電視劇,小姐姐","codecs":""},"style":{"type":"rect","ratio":1.5},"jar":"./pgYT.jar"},
 {"key":"夜貓_drpy_xb","name":"👑小宝影视","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/小宝影院2.js","searchable":1,"changeable":1},
