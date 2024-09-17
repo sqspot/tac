@@ -10,6 +10,8 @@
 ],
 "sites":[
 {"key":"MissAV","name":"🔥MissAV1無碼ijk","type":3,"api":"csp_Miss","searchable":1,"filterable":1},
+{"key":"SeHuaTangx","name":"色花堂","type":3,"api":"csp_SeHuaTang","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"style":{"type":"rect","ratio":1.5}},
+{"key":"Taohuazux","name":"桃花族","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"http://thzl.cc/forum.php"},
 {"key": "探探🔞","name": "🔞|探探","type":0,"api": "https://apittzy.com/api.php/provide/vod/at/xml/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产自拍","欧美极品","日韩无码","AV明星","中文字幕","动漫精品","极骚萝莉","人妖视频","重咸口味","三级自慰","强奸乱伦","独家擂台格斗","辣椒GIGA","HEYZO","独家DMM","HEY诱惑","童颜巨乳","高潮喷吹","激情口交","绝美少女","首次亮相","AV明星1"]},
 {"key": "大地专场🔞","name": "🔞|大地","type":0,"api": "https://dadiapi.com/api.php","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["日韩无码","强奸乱伦","欧美精品","国产精品","人妻系列","中文字幕","动漫精品","伦理影片","日韩精品","制服诱惑","自拍偷拍","AV明星","3P合辑","巨乳系列","颜射系列","口交视频","自慰系列","SM重味","教师学生","大秀视频","AV明星1"]},
 {"key": "xne 🔞","name": "🔞|香奶儿","type":0,"api": "https://www.gdlsp.com/api/xml.php ","searchable": 1,"changeable": 1},
