@@ -36,9 +36,10 @@ function main(item) {
 		version = "20240705";
 	}
 	
+	const headers = {"User-Agent":"okhttp/4.12.0"};
     const config_url = `http://newapp.tv6868.com/${etoken}/${mac}/${uuid}/` + new Date().getTime() + `/${version}/config`;
-    const tvbox_live_url = JSON.parse(jz.get(config_url)).lives[0].url.replace("{uuid}", uuid).replace('{mac}', mac).replace('{etoken}', etoken);
-    const tvbox_playlist = JSON.parse(jz.get(tvbox_live_url));
+    const tvbox_live_url = JSON.parse(jz.get(config_url, headers)).lives[0].url.replace("{uuid}", uuid).replace('{mac}', mac).replace('{etoken}', etoken);
+    const tvbox_playlist = JSON.parse(jz.get(tvbox_live_url, headers));
     
     const groups = [];
     tvbox_playlist.forEach((tvbox_group) => {
@@ -48,7 +49,7 @@ function main(item) {
         tvbox_group.channel.forEach((tvbox_channel) => {
             let channel = {};
             channel.name = tvbox_channel.name;
-            channel.sources = [{url: tvbox_channel.urls[0]}];
+            channel.sources = [{url: tvbox_channel.urls[0], headers: headers}];
             group.channels.push(channel);
         })
         groups.push(group);

@@ -18,8 +18,12 @@ TV5MONDE Style,http://xg.52sw.top:5000/4gtv/178
 彩虹電影,https://0.m3u8
 
 驚艷台,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
+驚豔台,p3p://167.114.175.6:42803/60626a1b00010e3e6f5a5a4f018e5ebe
+驚艷台,p3p://108.181.32.169:31165/650b8b37000c4e8a8f1fb328756e4077
 潘多拉,http://18.svi-studio.com:8880/live/908957700097/132663288386/3.m3u8
+潘多拉,p3p://167.114.175.6:42803/5fe4450c000c918b829fca233c845311			
 香蕉台,http://18.svi-studio.com:8880/live/908957700097/132663288386/4.m3u8
+香蕉台,p3p://108.181.32.169:31165/650b8ae60005f36b8f1e751f68bd1c14
 松視1,http://18.svi-studio.com:8880/live/908957700097/132663288386/5.m3u8
 松視2,http://18.svi-studio.com:8880/live/908957700097/132663288386/6.m3u8
 松視3,http://18.svi-studio.com:8880/live/908957700097/132663288386/20205.m3u8
@@ -62,6 +66,12 @@ TV5MONDE Style,http://xg.52sw.top:5000/4gtv/178
 松視2,http://z88.ubtvfans.com/live/rx3/2906/786522c38e02f6af5fea35725319e11a/index.m3u8
 松視3,http://z88.ubtvfans.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
 松視3,http://z88.ubtvfans.com/live/rx3/2907/996ead584b34542d91ef9b92b8184d0a/index.m3u8
+松視1,p3p://167.114.175.6:42803/5fe445280008a40682a0367c343436bb			
+松視2,p3p://167.114.175.6:42803/60232b5f00007bc37850649979e379df			
+松視3,p3p://167.114.175.6:42803/6109e9590001f40bfd9b661109395f3b			
+松視1,p3p://108.181.32.169:31165/650b87f1000d765a8f12ea107fd81201			
+松視2,p3p://108.181.32.169:31165/650b8a51000ac6568f1c30530c503d72			
+松視3,p3p://108.181.32.169:31165/650b8a0e000007df8f1b27da75d42f65			
 玩美台,http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
 玩美台,https://epg.pw/stream/e5cc080f8b849ce451705d59802c6d1605c643995772f60896098fd840b10255.m3u8
 玩美台,http://z88.ubtvfans.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
@@ -72,10 +82,22 @@ TV5MONDE Style,http://xg.52sw.top:5000/4gtv/178
 彩虹k,http://z88.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
 彩虹電影,https://epg.pw/stream/8f647a29253c5b46f20972beade6fdda0a9b75d6e91b847c39c20b95ce97e78a.m3u8
 彩虹電影,http://z88.ubtvfans.com/live/rx3/413/f39876dcbac1ca67fd1c1015cfc2af27/index.m3u8
+彩虹E,p3p://108.181.32.169:31165/641a802000061354c0de38d050782a5d
+彩虹E,p3p://167.114.175.6:42803/6062716c0008efc86f76f0c44d55329f
+彩虹K,p3p://108.181.32.169:31165/650b896a000407bf8f18a840011e789a
+彩虹K,p3p://167.114.175.6:42803/63fd56ec000b5f0d26d4fe1b07963493
+彩虹電影,p3p://108.181.32.169:31165/650b89c6000280318f1a0f3c30b74958
+彩虹電影,p3p://167.114.175.6:42803/6253066c00049259f74b05224cf375e6
 極限,https://epg.pw/stream/a4a9b7e7603d96e605468df45eb0d14be5b022328f927957290b981f8c7f7a6c.m3u8
 極限,http://z88.ubtvfans.com/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
+極限,p3p://167.114.175.6:42803/6109e9bb0005fd87fd9ce5ea2c1f18d3
+極限,p3p://108.181.32.169:31165/650b8b700004037d8f208fb144ea7e3f
 Sex Girl,http://125.227.210.55:62698/VideoInput/play.ts
 
+Heyzo無碼,p3p://167.114.175.6:42803/5fe8014b0007228691371ed44a517e44
+直播1,p3p://108.181.32.169:31165/643f4642000eba1250834ce0704e60b0
+直播2,p3p://108.181.32.169:31165/643f462a0001fb665082ebdc599b5e74
+直播3,p3p://108.181.32.169:31165/64487f5100084a5c7489f3a771c078c4
 Babestv,http://z88.ubtvfans.com/live/rx3/458/48f056744305b13550c2f2b8b06c968d/index.m3u8
 HustLer,http://z88.ubtvfans.com/live/rx3/451/0beb7b22b55cbb81f36594df14b42858/index.m3u8
 Passie,http://z88.ubtvfans.com/live/rx3/461/5c00cfd7ef372e5376b3ad9bb5b48f4e/index.m3u8
@@ -3298,7 +3320,7 @@ l🐸12传媒01,https://10j991.cdnedge.live/file/avple-asserts/hls/639985bd2c279
 🐨12传媒42,https://je40u1.cdnedge.live/file/avple-asserts/hls/638aeb3cffe899487ff40e14/playlist.m3u8
 🐨12传媒43,https://w9n761.cdnedge.live/file/avple-asserts/hls/638ae8a3ffe899487ff40e13/playlist.m3u8
 🐨12传媒44,https://u89ey1.cdnedge.live/file/avple-asserts/hls/638ae7b4ffe899487ff40e12/playlist.m3u8
-🐨12传媒45,https://zo3921.cdnedge.live/file/avple-asserts/hls/638ae777ffe899487ff40e11/playlist.m3u8
+??12传媒45,https://zo3921.cdnedge.live/file/avple-asserts/hls/638ae777ffe899487ff40e11/playlist.m3u8
 🐨12传媒46,https://8bb881.cdnedge.live/file/avple-asserts/hls/638ae73effe899487ff40e10/playlist.m3u8
 🐨12传媒47,https://8bb881.cdnedge.live/file/avple-asserts/hls/638ae6c5ffe899487ff40e0f/playlist.m3u8
 🐨12传媒48,https://w9n761.cdnedge.live/file/avple-asserts/hls/638ae598ffe899487ff40e0e/playlist.m3u8
