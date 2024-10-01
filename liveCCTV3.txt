@@ -35,10 +35,6 @@ CCTV2,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv2
 CCTV2,http://222.223.118.222:2180/live/cctv2/index.m3u8
 CCTV2,http://183.92.4.163:4000/udp/228.0.0.2:6108
 CCTV2,http://222.241.154.37:9901/tsfile/live/23002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://60.6.255.8:2180/live/cctv3/index.m3u8
-CCTV3,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv3
-CCTV3,http://222.223.118.222:2180/live/cctv3/index.m3u8
-CCTV3,http://183.92.4.163:4000/udp/228.0.0.156:7156
 CCTV4,http://60.6.255.8:2180/live/cctv4/index.m3u8
 CCTV4,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv4
 CCTV4,http://222.223.118.222:2180/live/cctv4/index.m3u8
@@ -108,8 +104,6 @@ CCTV1,http://cookies.elementfx.com/ublive/ublive.php?id=2305
 CCTV1,http://cookies.elementfx.com/ublive/ublive.php?id=200
 CCTV2,http://cookies.elementfx.com/ublive/ublive.php?id=201
 CCTV2,http://cookies.elementfx.com/ublive/ublive.php?id=2763
-CCTV3,http://cookies.elementfx.com/ublive/ublive.php?id=202
-CCTV3,http://cookies.elementfx.com/ublive/ublive.php?id=2808
 CCTV4,http://cookies.elementfx.com/ublive/ublive.php?id=248
 CCTV4,http://cookies.elementfx.com/ublive/ublive.php?id=203
 CCTV4,http://cookies.elementfx.com/ublive/ublive.php?id=2764
