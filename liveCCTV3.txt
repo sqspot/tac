@@ -3,6 +3,9 @@ CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV3,http://222.241.154.37:9901/tsfile/live/23003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,p2p://generationnexxxt.com:19806/66c9a8eb00037d4353ff75f11760264e
+CCTV3,http://124.64.189.63:8888/rtp/239.3.1.172:8001
 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
@@ -36,7 +39,6 @@ CCTV3,http://60.6.255.8:2180/live/cctv3/index.m3u8
 CCTV3,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv3
 CCTV3,http://222.223.118.222:2180/live/cctv3/index.m3u8
 CCTV3,http://183.92.4.163:4000/udp/228.0.0.156:7156
-CCTV3,http://222.241.154.37:9901/tsfile/live/23003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://60.6.255.8:2180/live/cctv4/index.m3u8
 CCTV4,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv4
 CCTV4,http://222.223.118.222:2180/live/cctv4/index.m3u8
@@ -137,7 +139,6 @@ CCTV16,http://cookies.elementfx.com/ublive/ublive.php?id=2821
 CCTV17,http://cookies.elementfx.com/ublive/ublive.php?id=3260
 CCTV1,p2p://generationnexxxt.com:19806/cff3529e8cf64e3195f997c50b5052e6
 CCTV2,p2p://generationnexxxt.com:19806/66c9a8ea000bbdae53ff742c16d15c6f
-CCTV3,p2p://generationnexxxt.com:19806/66c9a8eb00037d4353ff75f11760264e
 CCTV4,p2p://generationnexxxt.com:19806/b76db7e51c6c481e812ff0a137cdbea4
 CCTV5,p2p://generationnexxxt.com:19806/38c87f18f93c440594b45fd7de89a768
 CCTV5+,p2p://generationnexxxt.com:19806/7ed1624a62004620bfecc83fe0b70935
@@ -153,7 +154,6 @@ CCTV14,p2p://generationnexxxt.com:19806/0170decf55974c7ca5439f8ae263aab4
 CCTV15,p2p://generationnexxxt.com:19806/7e9868749080472c8e75bbec62dc630f
 CCTV1,http://124.64.189.63:8888/rtp/239.3.1.129:8008
 CCTV2,http://124.64.189.63:8888/rtp/239.3.1.60:8084
-CCTV3,http://124.64.189.63:8888/rtp/239.3.1.172:8001
 CCTV4,http://124.64.189.63:8888/rtp/239.3.1.105:8092
 CCTV5,http://124.64.189.63:8888/rtp/239.3.1.173:8001
 CCTV6,http://124.64.189.63:8888/rtp/239.3.1.174:8001
