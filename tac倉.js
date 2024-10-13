@@ -1,6 +1,6 @@
 {"urls":[
 {"name":"(3)","url":"https://raw.githubusercontent.com/sqspot/tac/main/jshttp(1).js"},
-{"name":"(2)","url":"https://raw.githubusercontent.com/sqspot/tac/main/jshttp.js"},
+{"name":"(2)","url":"https://raw.githubusercontent.com/sqspot/tac/main/js_http.js"},
 {"name":"pg包","url":"https://raw.githubusercontent.com/sqspot/pg/main/jsm.json"},
 {"name":"zy","url":"https://raw.githubusercontent.com/sqspot/tac/main/zy.js"},
 {"name":"tac_js","url":"https://raw.githubusercontent.com/sqspot/tac/main/js.json"},
