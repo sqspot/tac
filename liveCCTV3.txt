@@ -4,7 +4,11 @@ CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV3,https://iptv.vip-tptv.xyz/cao.php?id=cctv3
+CCTV3,http://45.125.12.19:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
+CCTV3,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/migu.php?id=cctv3
 CCTV3,http://222.241.154.37:9901/tsfile/live/23003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv3
+CCTV3,http://eastscreen.tv/ooooo.php?id=CCTV3HD
 CCTV3,p2p://generationnexxxt.com:19806/66c9a8eb00037d4353ff75f11760264e
 CCTV3,http://124.64.189.63:8888/rtp/239.3.1.172:8001
 CCTV3,rtp://239.112.205.221:5140
