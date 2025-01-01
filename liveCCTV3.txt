@@ -5,6 +5,7 @@ CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV3,https://iptv.vip-tptv.xyz/cao.php?id=cctv3
 CCTV3,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000003/index.m3u8?
+CCTV3,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008883/index.m3u8?channel-id=bestzb&Contentid=5000000004000008883&livemode=1&stbId=3
 CCTV3,http://222.241.154.37:9901/tsfile/live/23003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://eastscreen.tv/ooooo.php?id=CCTV3HD
 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
@@ -181,3 +182,21 @@ CCTV14,rtp://239.112.205.91:5140
 CCTV15,rtp://239.112.205.214:5140
 CCTV16,rtp://239.111.205.133:5140
 CCTV17,rtp://239.112.205.211:5140
+CCTV1,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcV9kI5EmpJ_E1PK4dvZWotQ/ts
+CCTV2,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcTDgW6K_UsL810cg6cmua3o/ts
+CCTV3,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcY2Bi94efSwn8WowQfle8LE/ts
+CCTV4,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcSFtmsvuoxN42ppTs-7Iw5s/ts
+CCTV5,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcRseytZenMJS_5F3TDL6SnY/ts
+CCTV6,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQccP_pw_T10njoVR0KhxO7Lk/ts
+CCTV7,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcTe9oIRSRHT9PHQ67hFwr90/ts
+CCTV8,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcY8cgWSCtV8d7bd2w7F6ZaM/ts
+CCTV9,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcXmGcjVmpv3aeVp-Z-JDlGE/ts
+CCTV10,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcbUfrL1DtFPz52EdFwFBCK4/ts
+CCTV11,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcaD53mAGs4jDFaNou7FJfNI/ts
+CCTV12,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcbBsa16WuNk5OTkY2n1X_64/ts
+CCTV13,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcT6eqTkdrYtpyZPNVJRqRFo/ts
+CCTV14,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcetjJcZ_tOwRlfH1RHdGEJ0/ts
+CCTV15,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQccyf5ivqG5BjwNF_v2Oh6Gc/ts
+CCTV16,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcbfWzjaTFsjXngsredQrM84/ts
+CCTV17,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcSD7cp5cmNhM8vjaba0lVm4/ts
+CCTV5 Plus,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcfXNq0MYiT4VmMLdEwz0TVk/ts
