@@ -30,7 +30,7 @@
 
 ],
 "sites" : [
-{"key":"drpy","name":"🔥豆瓣(有評分 )　🎇財運如蛇，連綿不斷🎆２０２５🌻一定要平平安安呦✅","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
+{"key":"drpy","name":"🔥豆瓣(有評分 )　🎇財運如蛇,連綿不斷🎆2025🌻一定要平安呦✅","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key":"優質网","name":"🈚🔥優質zyk","type":0,"api":"https://api.1080zyku.com/inc/api.php","searchable":1,"changeable":1},
 {"key":"魔都XML","name":"🈚🔥魔都XML","type":0,"api":"https://www.mdzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
 {"key":"魔都JSON","name":"🈚🔥魔都JSON","type":1,"api":"https://www.mdzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1},
