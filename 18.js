@@ -15,7 +15,7 @@
 {"name":"直播","type":0,"url":"https://fongmi.cachefly.net/YanG-1989/m3u/main/XX.m3u"}
 ],
 "sites":[
-{"key":"MissAV","name":"🔥MissAV1無碼ijk","type":3,"api":"csp_Miss","searchable":1,"filterable":1,"style":{"type":"rect","ratio":1.77}},
+{"key":"MissAV","name":"🔥MissAV1無碼ijk","type":3,"api":"csp_Miss","searchable":1,"filterable":1,"style":{"type":"rect","ratio":1.77},"jar": "./fm-miss.jar"},
 {"key":"易看","name":"🌕易看♒yk","api":"https://api.yikanapi.com/api.php/provide/vod","type":1,"searchable":1,"changeable":1,"style":{"type":"rect","ratio":1.77}},
 {"key":"CK采集网","name":"😰CK采集网","type":1,"api":"https://ckzy.me/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"style":{"type":"rect","ratio":1.77}},
 {"key":"csp_Netflav","name":"Netflav","type":3,"api":"csp_Netflav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60,"style":{"type":"rect","ratio":1.77}},
@@ -68,15 +68,15 @@
 {"key":"kxgav.com","name":"成人22","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.77},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
 {"key":"shayuapi.com","name":"成人24","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.77},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
 {"key":"lbapi9.com","name":"成人26","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.77},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
-{"key":"Jable1","name":"Jable1","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"list","ratio":1.77}},
-{"key":"Jable2","name":"Jable2","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"rect","ratio":0.6}},
-{"key":"Jable3","name":"Jable3","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"rect","ratio":0.8}},
-{"key":"Jable4","name":"Jable4","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.0}},
-{"key":"Jable5","name":"Jable5","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.2}},
-{"key":"Jable7","name":"Jable6","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.3}},
-{"key":"Jable7","name":"Jable7","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.5}},
-{"key":"Jable8","name":"Jable8","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"rect","ratio":2.0}},
-{"key":"Jable9","name":"Jable9","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"rect","ratio":3.0}},
+{"key":"Jable1","name":"Jable1","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"oval","ratio":1.77}},
+{"key":"Jable2","name":"Jable2","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.3}},
+{"key":"Jable3","name":"Jable3","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.4}},
+{"key":"Jable4","name":"Jable4","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.5}},
+{"key":"Jable5","name":"Jable5","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.6}},
+{"key":"Jable6","name":"Jable6","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"oval","ratio":1.6}},
+{"key":"Jable7","name":"Jable7","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.7}},
+{"key":"Jable8","name":"Jable8","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"oval","ratio":0.2}},
+{"key":"Jable9","name":"Jable9","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"oval","ratio":0.1}},
 {"key": "Xojavpg🔞","name": "🔞|XOJav","type":3,"api": "csp_Xojav","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 0,"timeout": 60,"ext": "null$$$proxy","style": {"type": "rect","ratio": 1.5}}
     ],
 
