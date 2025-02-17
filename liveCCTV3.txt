@@ -2,6 +2,8 @@ CCTV,#genre#
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV3,http://113.140.86.162:8009/hls/3/index.m3u8
+CCTV3,http://183.66.15.146:60901/tsfile/live/0003_1.m3u8
 CCTV3,http://60.220.147.33:808/hls/3/index.m3u8
 CCTV3,http://27.46.95.28:808/hls/3/index.m3u8
 CCTV3,http://110.52.8.243:808/hls/3/index.m3u8
