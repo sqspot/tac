@@ -4,29 +4,7 @@
 //"spider":"./pg.jar",
 "logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 "lives":[
-
-{"name":"綜合版 ijk","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/4gtv.txt","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36","playerType":1,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ads":["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]},
-{"name":"綜合版 exo","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/4gtv.txt","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36","playerType":2,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ads":["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]},
-{"name":"smart ijk","boot":false,"pass":true,"url":"https://t4.doube.eu.org/smt.txt","logo":"https://live.fanmingming.com/tv/{name}.png","playerType":1,"header":{"CLIENT-IP":"127.0.0.1","X-FORWARDED-FOR":"127.0.0.1"}},
-{"name":"smart exo","boot":false,"pass":true,"url":"https://t4.doube.eu.org/smt.txt","logo":"https://live.fanmingming.com/tv/{name}.png","playerType":2,"header":{"CLIENT-IP":"127.0.0.1","X-FORWARDED-FOR":"127.0.0.1"}},
-{"name":"安博 ijk","type":0,"url":"https://tang.hz.cz/zb/anbo?token=cb70f1ae","playerType":1},	
-{"name":"安博 exo","type":0,"url":"https://tang.hz.cz/zb/anbo?token=cb70f1ae","playerType":2},	
-{"name":"台湾 ijk","type":0,"url":"https://raw.githubusercontent.com/shawn82/fm/main/lib/taiwan.m3u","playerType":1},	
-{"name":"台湾 exo","type":0,"url":"https://raw.githubusercontent.com/shawn82/fm/main/lib/taiwan.m3u","playerType":2},	
-{"name":"Gather ijk","type":0,"url":"https://tv.iill.top/m3u/Gather","playerType":1},
-{"name":"Gather exo","type":0,"url":"https://tv.iill.top/m3u/Gather","playerType":2},
-{"name":"美国","type":0,"url":"https://raw.githubusercontent.com/shawn82/fm/main/lib/us.m3u8","playerType":2},
-{"name":"飛龍影視","type":0,"playerType":1,"url":"https://gitlab.com/tvtg/vip/-/raw/main/fl2024.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
-{"name":"smt","type":0,"playerType":1,"url":"https://raw.githubusercontent.com/sqspot/tac/main/smt.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
-{"name":"4GTV豪華版 ijk",
-"type":0,
-"url":"https://raw.githubusercontent.com/sqspot/tac/main/4GTV豪華版.txt",
-"ua":"Mozilla/5.0 (Linux; Android 11; M2101K9C Build/RKQ1.201112.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 T7/12.16 SearchCraft/3.9.1 (Baidu; P1 11)",
-"playerType":1,
-"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"https://epg.112114.xyz/logo/{name}.png",
-"ads":["static-mozai.4gtv.tv",
-"s3t3d2y8.afcdn.net"]}
+{"name":"Anbox Channels ","type":0,"url":"http://tv.anbox.ip-ddns.com/live"}
 
 ],
 "sites" : [
