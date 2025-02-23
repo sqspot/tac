@@ -3,10 +3,6 @@
 "spider":"./fm.jar",
 //"spider":"./pg.jar",
 "logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
-"lives":[
-{"name":"Anbox Channels ","type":0,"url":"http://tv.anbox.ip-ddns.com/live"}
-
-],
 "sites" : [
 {"key":"drpy","name":"🔥豆瓣(有評分 )　２０２５👉財運如🪱,連綿不斷🌻一定要平平安安呦✅","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key":"ikanbotsq","name":"🈵爱看机器人sq","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbotsq.js","searchable":1,"changeable":1},
