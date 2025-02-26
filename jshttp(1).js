@@ -1,6 +1,7 @@
 {
 //Type 0-xml、 1-json 、2-爬虫源 、3-自定义爬虫 、4-服务器爬虫。
-"spider":"./fm.jar",
+"spider":"./f0223.jar",
+//"spider":"./fm.jar",
 //"spider":"./pg.jar",
 "logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 "lives":[
@@ -34,6 +35,17 @@
 {"key":"ikanbotsq","name":"🈵爱看机器人sq","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbotsq.js","searchable":1,"changeable":1},
 {"key":"lf_search","name":"🔎lf_搜索影片3","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js"},
 {"key":"drpy__豆瓣","name":"豆瓣🏛[DRPY]","type":3,"api":"./lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
+{"key":"文采","name":"💮文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1}, 
+{"key":"苹果","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1}, 
+{"key":"低端","name":"⏮️低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1}, 
+{"key":"原创","name":"☀原创","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1}, 
+{"key":"厂长","name":"📔厂长","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzyvideo.com/"}, 
+{"key":"糯米","name":"🍓糯米","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1}, 
+{"key":"白白","name":"🐟白白","type":3,"api":"csp_Sbaibai","playerType":2,"searchable":1,"quickSearch":1,"changeable":1}, 
+{"key":"神车","name":"🚎神车┃秒播","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"}, 
+{"key":"Lib","name": "🌟立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}}, 
+{"key":"zxzj","name":"🍊在线┃秒播","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"}, 
+{"key":"比特","name":"🍄比特┃秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1}, 
 {"key":"優質网","name":"🈚🔥優質zyk","type":0,"api":"https://api.1080zyku.com/inc/api.php","searchable":1,"changeable":1},
 {"key":"魔都XML","name":"🈚🔥魔都XML","type":0,"api":"https://www.mdzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
 {"key":"魔都JSON","name":"🈚🔥魔都JSON","type":1,"api":"https://www.mdzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1},
