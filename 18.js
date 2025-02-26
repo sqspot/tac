@@ -1,7 +1,8 @@
 {
 //"spider":"./新视觉.jar",
 //"spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;9060b67dfec8782aca6e79ba17c0979b",
-"spider":"./fm.jar",
+"spider":"./f0223.jar",
+//"spider":"./fm.0204jar",
 "logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 
 "lives":[
