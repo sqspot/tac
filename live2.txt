@@ -17,6 +17,24 @@ TV5MONDE Style,http://xg.52sw.top:5000/4gtv/178
 彩虹電,https://0.m3u8
 彩虹電影,https://0.m3u8
 
+香蕉,http://s.mrw.so/94E7W
+香蕉,http://s.mrw.so/94E7W
+驚豔,http://suo.im/8odLv
+驚豔,http://suo.im/8odLv
+潘多拉,http://suo.im/6TuSG
+潘多拉,http://suo.im/6TuSG
+彩虹電影,http://suo.im/9sOLD
+彩虹電影,http://suo.im/9sOLD
+松視1,http://suo.im/c4FP2
+松視1,http://suo.im/c4FP2
+松視2,http://b.mtw.so/6pAjsB
+松視2,http://b.mtw.so/6pAjsB
+松視3,http://suo.im/9wiS2
+松視3,http://suo.im/9wiS2
+pigoo,http://s.mrw.so/7DlBI
+pigoo,http://s.mrw.so/7DlBI
+極限臺,http://suo.im/aD7Ry
+極限臺,http://suo.im/aD7Ry
 驚艷台,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
 驚豔台,p3p://167.114.175.6:42803/60626a1b00010e3e6f5a5a4f018e5ebe
 驚艷台,p3p://108.181.32.169:31165/650b8b37000c4e8a8f1fb328756e4077
@@ -3979,7 +3997,7 @@ l🐸12传媒01,https://10j991.cdnedge.live/file/avple-asserts/hls/639985bd2c279
 🍾9传媒18,https://8bb88.cdnedge.live/file/avple-images/hls/632304f2223d14081c6ed4bc/playlist.m3u8
 🍾9传媒19,https://1xp60.cdnedge.live/file/avple-images/hls/632304b3223d14081c6ed4bb/playlist.m3u8
 🍾9传媒20,https://8bb88.cdnedge.live/file/avple-images/hls/63230400223d14081c6ed4b9/playlist.m3u8
-🍾9传媒21,https://8bb88.cdnedge.live/file/avple-images/hls/6323043b223d14081c6ed4ba/playlist.m3u8
+??9传媒21,https://8bb88.cdnedge.live/file/avple-images/hls/6323043b223d14081c6ed4ba/playlist.m3u8
 🍾9传媒22,https://je40u.cdnedge.live/file/avple-images/hls/6323025e223d14081c6ed4b8/playlist.m3u8
 🍾9传媒23,https://zo392.cdnedge.live/file/avple-images/hls/632487b675590f2b84022b8d/playlist.m3u8
 🍾9传媒24,https://je40u.cdnedge.live/file/avple-images/hls/632487b675590f2b84022b8c/playlist.m3u8
