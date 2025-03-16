@@ -1,0 +1,72 @@
+
+📺台灣電視特,#genre#
+🈲驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
+🍌香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
+三立臺灣臺,http://125.227.210.55:8160/VideoInput/play.ts
+👅奧視🔞3,http://125.227.210.55:8917/VideoInput/play.ts
+🔮奧視2,http://125.227.210.55:55643/VideoInput/play.ts
+大街,#genre#
+(大街)中視,rtmp://220.130.201.73/sat/tv091
+(大街)華視,rtmp://220.130.201.73/sat/tv111
+(大街)臺視,rtmp://220.130.201.73/sat/tv071
+(大街)民視,rtmp://220.130.201.73/sat/tv051
+(大街)緯來體育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+(大街)緯來體育,rtmp://220.130.201.73/sat/tv721
+(大街)緯來育樂,rtmp://220.130.201.73/sat/tv701
+(大街)緯來日本,rtmp://220.130.201.73/sat/tv771
+(大街)東森超視,rtmp://220.130.201.73/sat/tv331
+(大街)八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
+(大街)三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+(大街)中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
+(大街)AMC電影臺,http://61.221.215.25:8800/hls/43/index.m3u8
+(大街)鳳凰資訊,http://61.221.215.25:8800/hls/47/index.m3u8
+(大街)緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+(大街)49號,http://61.221.215.25:8800/hls/49/index.m3u8
+(大街)探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+(大街)八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+(大街)動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+(大街)八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
+其它_,#genre#
+精艳台,http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
+潘多拉完美,http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
+香蕉台,http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
+松1台,http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
+松2台,http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
+松3台,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
+
+極限,https://epg.pw/stream/a4a9b7e7603d96e605468df45eb0d14be5b022328f927957290b981f8c7f7a6c.m3u8
+玩美台,https://epg.pw/stream/e5cc080f8b849ce451705d59802c6d1605c643995772f60896098fd840b10255.m3u8
+彩虹電影,https://epg.pw/stream/8f647a29253c5b46f20972beade6fdda0a9b75d6e91b847c39c20b95ce97e78a.m3u8
+彩虹E,https://epg.pw/stream/39d8f414d724fb9b7c2b1d6ae39871850ff5cf78d9db0ef0a2b8eea8ed84a39a.m3u8
+playboy,https://epg.pw/stream/499ceff5e81c0d852819d255ecf010f48aae834721b9352edeaf3f0f0fcb4563.m3u8
+playboy,https://epg.pw/stream/385fd6d8c9a4ddfe5059d9366fe628c37c8a333396cade99f04d579e79b63505.m3u8
+playboyplus,https://epg.pw/stream/8e6610e5d455dee47a8885cf7806e59859bf8484069be8dc6fe9d678e3670333.m3u8
+brazzers tv europe,https://epg.pw/stream/4889879e69d295625a17ec3631eae1e954b195af383e34bb03f8f276ffbe9046.m3u8
+eromania 4k,https://epg.pw/stream/471d2c99f6e4ebd660ac257393d2d5f749bffda8cb45cc6d42a7f2ac50fd4bdf.m3u8
+barely legal,https://epg.pw/stream/14f678af31b42c5b884255f167f0faa3625f68d03d475a8ce58b13cf22854bd5.m3u8
+redlight hd,https://epg.pw/stream/6427c2f8d6182accb97736402bccf6e4413cc072063b72e67673558f1e22aea0.m3u8
+private tv,https://epg.pw/stream/c9e0674e7641bc52f5c9353d74825b674f55cdc5a365a3fc0f3ac42f2afb385b.m3u8
+dorcel tv hd,https://epg.pw/stream/8e9e09c65af2aeaea0925ad13d60ff0200a9c72dfbde41801ffc1fb0d38f8a73.m3u8
+o-la-la,https://epg.pw/stream/4a1cf11b203fba9a504c5f60070ef6b31defcf1955582ae87d2103481c835ed2.m3u8
+vivid red hd,https://epg.pw/stream/bde792b685628d8950301273920c33643e5ccd7b6f9765940f69adcbb788e9c8.m3u8
+exxxotica hd,https://epg.pw/stream/6260dfbd530c2e36b9f0b93754bf0a633d2abff4e4956e0998da56e1850b2807.m3u8
+xxl,https://epg.pw/stream/becee4c87dda5021e92cac7e9dd7ba49569559efce80140a4cde0884fba1be56.m3u8
+
+Hustler TVr,http://146.59.54.163/349/index.m3u8
+Extasy,http://146.59.54.163/350/tracks-v1a1/mono.m3u8
+Vividtv,http://146.59.54.163/361/tracks-v1a1/mono.m3u8
+Erox,http://146.59.54.163/363/tracks-v1a1/mono.m3u8
+Redlight HD,http://146.59.54.163/358/tracks-v1a1/mono.m3u8
+Pornbox0,http://cord-cutter.net:8080/YT6bvC/100111/159956
+Pornbox1,http://cord-cutter.net:8080/YT6bvC/100111/159951
+Pornbox2,http://cord-cutter.net:8080/YT6bvC/100111/159955
+Pornbox3,http://cord-cutter.net:8080/YT6bvC/100111/159958
+Pornbox4,http://cord-cutter.net:8080/YT6bvC/100111/159985
+Pornbox5,http://cord-cutter.net:8080/YT6bvC/100111/159962
+Pornbox6,http://cord-cutter.net:8080/YT6bvC/100111/159952
+Pornbox7,http://cord-cutter.net:8080/YT6bvC/100111/159965
+Pornbox8,http://cord-cutter.net:8080/YT6bvC/100111/159957
+Pornbox9,http://cord-cutter.net:8080/YT6bvC/100111/159963
+Miamitv,https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
+MiaMitv,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+
