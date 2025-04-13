@@ -1,17 +1,17 @@
 🔞🈲成人_,#genre#
-潘多拉,https://0.m3u8
-松視1,https://0.m3u8
-松視2,https://0.m3u8
-松視3,https://0.m3u8
-香蕉,https://0.m3u8
-驚艷,https://0.m3u8
-極限,https://0.m3u8
-免子,https://0.m3u8
-玩美,https://0.m3u8
-彩虹,https://0.m3u8
-彩虹E,https://0.m3u8
-彩虹E,https://0.m3u8
-彩虹K,https://0.m3u8
+//潘多拉,https://0.m3u8
+//松視1,https://0.m3u8
+//松視2,https://0.m3u8
+//松視3,https://0.m3u8
+//香蕉,https://0.m3u8
+//驚艷,https://0.m3u8
+//極限,https://0.m3u8
+//免子,https://0.m3u8
+//玩美,https://0.m3u8
+//彩虹,https://0.m3u8
+//彩虹E,https://0.m3u8
+//彩虹E,https://0.m3u8
+//彩虹K,https://0.m3u8
 
 潘多拉,p3p://173.208.176.178:31809/5fe4450c000c918b829fca233c845311
 潘多拉,p3p://167.114.175.6:55331/5fe4450c000c918b829fca233c845311
@@ -87,9 +87,6 @@
 極限,https://epg.pw/stream/a4a9b7e7603d96e605468df45eb0d14be5b022328f927957290b981f8c7f7a6c.m3u8
 極限,http://z88.ubtvfans.com/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
 極限,http://suo.im/aD7Ry
-玩美,https://epg.pw/stream/e5cc080f8b849ce451705d59802c6d1605c643995772f60896098fd840b10255.m3u8
-玩美,http://z88.ubtvfans.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
-免子 http://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
 彩虹,p3p://173.208.176.178:31809/63fd589300099ff426db7203798a21f9
 彩虹,p3p://173.208.176.178:31809/6253066c00049259f74b05224cf375e6
 彩虹,p3p://167.114.175.6:55331/63fd589300099ff426db7203798a21f9
@@ -110,6 +107,9 @@
 彩虹K,p3p://167.114.175.6:42803/63fd56ec000b5f0d26d4fe1b07963493
 彩虹K,p3p://108.181.32.169:31165/650b896a000407bf8f18a840011e789a
 彩虹K,http://z88.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
+玩美,https://epg.pw/stream/e5cc080f8b849ce451705d59802c6d1605c643995772f60896098fd840b10255.m3u8
+玩美,http://z88.ubtvfans.com/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
+免子 http://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
 SexGirl http://125.227.210.55:62698/VideoInput/play.ts
 happy p3p://167.114.175.6:55331/616b79be000a35b17ab2f7b84c325eeb
 happy p3p://173.208.176.178:31809/616b79be000a35b17ab2f7b84c325eeb
