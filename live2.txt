@@ -1,4 +1,4 @@
-🔞🈲成人_,#genre#
+🔞🈲成人,#genre#
 潘多拉,./0.m3u8
 松視1,./0.m3u8
 松視2,./0.m3u8
@@ -155,6 +155,40 @@ Pornbox8,http://cord-cutter.net:8080/YT6bvC/100111/159957
 Pornbox9,http://cord-cutter.net:8080/YT6bvC/100111/159963
 Miamitv,https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
 MiaMitv,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+
+🔞🈲108,#genre#
+松視1台,p3p://108.181.32.169:24423/650b87f1000d765a8f12ea107fd81201
+松視2台,p3p://108.181.32.169:24423/650b8a51000ac6568f1c30530c503d72
+松視3台,p3p://108.181.32.169:24423/650b8a0e000007df8f1b27da75d42f65
+HAPPY,p3p://108.181.32.169:24423/650b8915000b1a1b8f175e0765017f8a
+彩虹K,p3p://108.181.32.169:24423/650b896a000407bf8f18a840011e789a
+玩美台,p3p://108.181.32.169:24423/650b8a9900047f038f1d47f730bd5b7c
+ATV 香蕉台,p3p://108.181.32.169:24423/650b8ae60005f36b8f1e751f68bd1c14
+ATV 驚艷台,p3p://108.181.32.169:24423/650b8b37000c4e8a8f1fb328756e4077
+极限台HOT,p3p://108.181.32.169:24423/650b8b700004037d8f208fb144ea7e3f
+彩虹电影,p3p://108.181.32.169:24423/650b89c6000280318f1a0f3c30b74958
+粉紅台,p3p://108.181.32.169:24423/641a800b00087defc0dde7672f891ee4
+彩虹E,p3p://108.181.32.169:24423/641a802000061354c0de38d050782a5d
+彩虹电影频限,http://u3v.cn/5z1kHr
+彩虹依限频限,http://u3v.cn/63apMk
+彩虹奇限频限,http://u3v.cn/5GCcz9
+彩虹奇限频陆,p3p://108.181.32.169:24423/650b896a000407bf8f18a840011e789a
+彩虹依限频陆,p3p://108.181.32.169:24423/641a802000061354c0de38d050782a5d
+彩虹电影频陆,p3p://108.181.32.169:24423/650b89c6000280318f1a0f3c30b74958
+彩虹E,http://u3v.cn/63apMk
+彩虹k台,http://u3v.cn/5GCcz9
+彩虹E台,http://m6z.cn/635uQm
+彩虹电影台,http://m6z.cn/5VzhNh
+彩虹电影,http://suo.im/cuIoU
+彩虹E频道,http://m6z.cn/635uQm
+彩虹,http://suo.im/cuIoU
+彩虹e,http://s.mrw.so/aeQSZ
+彩虹k,http://s.mrw.so/aZtoi
+彩虹电影,http://suo.im/9sOLD
+彩虹E频道,http://b.mtw.so/5zCW9s
+彩虹k频道,http://b.mtw.so/6x6x6W
+彩虹F频道,http://s.mrw.so/7DlBI
+彩虹电影台,http://b.mtw.so/5ySEi9
 
 📺歐美色情,#genre#
 parse=1
@@ -3482,7 +3516,7 @@ l🐸12传媒01,https://10j991.cdnedge.live/file/avple-asserts/hls/639985bd2c279
 🍱11传媒03,https://u89ey1.cdnedge.live/file/avple-asserts/hls/63776305662a2810e815a96a/playlist.m3u8
 🍱11传媒04,https://zo3921.cdnedge.live/file/avple-asserts/hls/637763ba662a2810e815a96b/playlist.m3u8
 🍱11传媒05,https://e2fa61.cdnedge.live/file/avple-asserts/hls/637763ba662a2810e815a96c/playlist.m3u8
-🍱11传媒06,https://1xp601.cdnedge.live/file/avple-asserts/hls/63776252662a2810e815a969/playlist.m3u8
+??11传媒06,https://1xp601.cdnedge.live/file/avple-asserts/hls/63776252662a2810e815a969/playlist.m3u8
 🍱11传媒07,https://d862cp1.cdnedge.live/file/avple-asserts/hls/6377619e662a2810e815a968/playlist.m3u8
 🍱11传媒08,https://zo3921.cdnedge.live/file/avple-asserts/hls/6377619e662a2810e815a967/playlist.m3u8
 🍱11传媒09,https://q2cyl71.cdnedge.live/file/avple-asserts/hls/63776035662a2810e815a966/playlist.m3u8

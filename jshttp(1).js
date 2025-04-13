@@ -6,6 +6,8 @@
 //"spider":"./pg.jar",
 "logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 "lives":[
+{"name":"167p3p","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/167.txt","playerType": 2,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"173p3p","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/173.txt","playerType": 2,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {
     "name" : "🍼酸奶直播",
     "url" : "https://web.banye.tech:7777/tvbus/yogurtTv.txt",
@@ -32,6 +34,7 @@
 {"name":"美国","type":0,"url":"https://raw.githubusercontent.com/shawn82/fm/main/lib/us.m3u8","playerType":2},
 {"name":"飛龍影視","type":0,"playerType":1,"url":"https://gitlab.com/tvtg/vip/-/raw/main/fl2024.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"smt","type":0,"playerType":1,"url":"https://raw.githubusercontent.com/sqspot/tac/main/smt.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
+{"name":"自選","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/live2.txt","playerType": 2},
 {"name":"4GTV豪華版 ijk",
 "type":0,
 "url":"https://raw.githubusercontent.com/sqspot/tac/main/4GTV豪華版.txt",
