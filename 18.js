@@ -6,13 +6,14 @@
 "logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 
 "lives":[
-{"name":"自選","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/live2.txt","ua": "okhttp/3.15","playerType": 1,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ads": ["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]},
+{"name":"自選","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/live2.txt","playerType": 2},
+//{"name":"自選","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/live2.txt","ua": "okhttp/3.15","playerType": 1,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ads": ["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]},
 {"name":"YanG-1989_Adult","type":0,"url":"https://tv.iill.top/m3u/Adult","referer":"https://theav101.com/","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
-{"name":"小武哥","type":0,"url":"https://qu.ax/PEHy.txt"},
-{"name":"AV","type":0,"url":"./livex.m3u"},
-{"name":"初秋语","type":0,"url":"./listx.m3u"},
-{"name":"糖意","type":0,"url":"https://wp.weikete.cc/down.php/c3eecc14547f5e1e468718148c9f762f.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
-{"name":"YanG","type":0,"url":"https://tv.iill.top/m3u/Adult"},
+//{"name":"小武哥","type":0,"url":"https://qu.ax/PEHy.txt"},
+//{"name":"AV","type":0,"url":"./livex.m3u"},
+//{"name":"初秋语","type":0,"url":"./listx.m3u"},
+//{"name":"糖意","type":0,"url":"https://wp.weikete.cc/down.php/c3eecc14547f5e1e468718148c9f762f.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
+//{"name":"YanG","type":0,"url":"https://tv.iill.top/m3u/Adult"},
 {"name":"atsushi","type":0,"url":"https://fongmi.cachefly.net/atsushi444/iptv-epg/main/Adult.m3u"},
 {"name":"直播","type":0,"url":"https://fongmi.cachefly.net/YanG-1989/m3u/main/XX.m3u"}
 ],
