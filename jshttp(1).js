@@ -8,6 +8,7 @@
 "lives":[
 {"name":"167p3p","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/167.txt","playerType": 2,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"173p3p","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/173.txt","playerType": 2,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"108p3p","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/108.txt","playerType": 2,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {
     "name" : "🍼酸奶直播",
     "url" : "https://web.banye.tech:7777/tvbus/yogurtTv.txt",
