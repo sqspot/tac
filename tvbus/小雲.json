@@ -12,7 +12,7 @@
       "name": "yogurtTv",
       "url": "./yogurtTv.txt",
       "core": {
-        "auth": "..//tvbus",
+        "auth": "./tvbus",
         "name": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
         "pass": "https://epg.112114.xyz/logo/{name}.png",
         "resp": "{\"result_code\":\"0\",\"result\":\"ok\",\"keys\":{\"user_id\":\"0027000005f5c398\",\"peer_id\":\"0ec044591d9e1418\",\"session_key\":\"0a49662f37674af5\"}}",
@@ -25,7 +25,7 @@
       "name": "小云",
       "url": "./小云直播.txt",
       "core": {
-        "auth": "..//tvbus",
+        "auth": "./tvbus",
         "name": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
         "pass": "https://epg.112114.xyz/logo/{name}.png",
         "resp": "{\"result_code\":\"0\",\"result\":\"ok\",\"keys\":{\"user_id\":\"0027000005f5c398\",\"peer_id\":\"0ec044591d9e1418\",\"session_key\":\"0a49662f37674af5\"}}",
