@@ -3,6 +3,61 @@
 "spider":"./f0223.jar",
 //"spider":"./pg.jar",
 "logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
+"lives":[
+        {
+            "name": "LiTV[台湾节点]",
+            "type": 0,
+            "url": "http://xg.52sw.top/iptv/litv.php",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+                {
+            "name": "ofiii[台湾节点]",
+            "type": 0,
+            "url": "./ofiii.m3u",
+            "ua": "okhttp/3.15",
+            "epg": ""
+        },
+{"name":"167p3p","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/167.txt","playerType": 2,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"173p3p","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/173.txt","playerType": 2,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{
+    "name" : "🍼酸奶直播",
+    "url" : "https://web.banye.tech:7777/tvbus/yogurtTv.txt",
+    "core" : {
+      "auth" : "local://tvbus",
+      "name" : "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "pass" : "https://epg.112114.xyz/logo/{name}.png",
+      "resp" : "{\"result_code\":\"0\",\"result\":\"ok\",\"keys\":{\"user_id\":\"0027000005f5c398\",\"peer_id\":\"0ec044591d9e1418\",\"session_key\":\"0a49662f37674af5\"}}",
+      "so" : "https://web.banye.tech:7777/tvbus/tvbus.so",
+      "pkg" : "com.svc.vlive.home.ytv9x",
+      "sign" : "308203533082023ba00302010202042108f284300d06092a864886f70d01010b05003059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b06035504031304787879793020170d3139303332363038333233305a180f32313139303330323038333233305a3059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b060355040313047878797930820122300d06092a864886f70d01010105000382010f003082010a0282010100bb3298eb5910860b7ae30b6b874ca374667133fd08cbf42bb52d5c1a49e0fe4818fc768f5155a95eacc465d8649467c40ce632081297fb66c6838534ee4221e3d2b6b56060fdde5569e37465852f9daa3a987bff4f013981c9ff063b7e0ca7d52ccacfeddbe066bcc29780d78e929ad9dacc3b804f51c9eb0548aac4803b0d32764135d6d8d987381adea6d5ec34966aebdec717c95e064e203a3ba6d10bf8336eae43a01ca42406055c62312c6ed057afb386cd12b0b54ac1611e6e1fef8e71c8da0597a43f542e645f54e614c2603b58ce3690e69e0da24e944eecacdcf6faa2043ccce1f15860432527b706269510cd6bd8314999fa870fb8825a1e1805070203010001a321301f301d0603551d0e041604149fcb5d4d1dd5743459052b9ab79539ebc8924570300d06092a864886f70d01010b05000382010100658ddae3d7833e5b7cbf504cc016deda2cee97cb2b0bbdb889d06f19860389904ffcdf0f21966299d4c0e19d109065bdd769977f1a67d4928fecdee48eb3c7ce5fb4009653510b9897bdc66aa54a29930ed5c27cbd3a75c4362944afa4625a7c7f0d3e77bcaf8f23d9233ad9c83d33305c88f6110f6d50de9eec1c47135fff99826bc79c88355f99d41c00eb54a7292c44a340fb78d3ac1acf39ad0d13bccc2fdf69e1d86504ae4087a4b59a662986a4e03c0b379f92dce5c8c9da54e164f9480c8a9fed01bcc562640b78adaaa5adcfda0e03a477ea63ec136819298e55f428f74076c1b444556001b84cbd5d47b080b6aeb5f1a567c03ea6a64a9c2876e3b2"
+    }
+  },
+{"name":"綜合版 ijk","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/4gtv.txt","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36","playerType":1,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ads":["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]},
+{"name":"綜合版 exo","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/4gtv.txt","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36","playerType":2,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ads":["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]},
+{"name":"smart ijk","boot":false,"pass":true,"url":"https://t4.doube.eu.org/smt.txt","logo":"https://live.fanmingming.com/tv/{name}.png","playerType":1,"header":{"CLIENT-IP":"127.0.0.1","X-FORWARDED-FOR":"127.0.0.1"}},
+{"name":"smart exo","boot":false,"pass":true,"url":"https://t4.doube.eu.org/smt.txt","logo":"https://live.fanmingming.com/tv/{name}.png","playerType":2,"header":{"CLIENT-IP":"127.0.0.1","X-FORWARDED-FOR":"127.0.0.1"}},
+{"name":"安博 ijk","type":0,"url":"https://tang.hz.cz/zb/anbo?token=cb70f1ae","playerType":1},	
+{"name":"安博 exo","type":0,"url":"https://tang.hz.cz/zb/anbo?token=cb70f1ae","playerType":2},	
+{"name":"台湾 ijk","type":0,"url":"https://raw.githubusercontent.com/shawn82/fm/main/lib/taiwan.m3u","playerType":1},	
+{"name":"台湾 exo","type":0,"url":"https://raw.githubusercontent.com/shawn82/fm/main/lib/taiwan.m3u","playerType":2},	
+{"name":"Gather ijk","type":0,"url":"https://tv.iill.top/m3u/Gather","playerType":1},
+{"name":"Gather exo","type":0,"url":"https://tv.iill.top/m3u/Gather","playerType":2},
+{"name":"美国","type":0,"url":"https://raw.githubusercontent.com/shawn82/fm/main/lib/us.m3u8","playerType":2},
+{"name":"飛龍影視","type":0,"playerType":1,"url":"https://gitlab.com/tvtg/vip/-/raw/main/fl2024.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
+{"name":"smt","type":0,"playerType":1,"url":"https://raw.githubusercontent.com/sqspot/tac/main/smt.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
+{"name":"自選","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/live2.txt","playerType": 2},
+{"name":"4GTV豪華版 ijk",
+"type":0,
+"url":"https://raw.githubusercontent.com/sqspot/tac/main/4GTV豪華版.txt",
+"ua":"Mozilla/5.0 (Linux; Android 11; M2101K9C Build/RKQ1.201112.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 T7/12.16 SearchCraft/3.9.1 (Baidu; P1 11)",
+"playerType":1,
+"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+"logo":"https://epg.112114.xyz/logo/{name}.png",
+"ads":["static-mozai.4gtv.tv",
+"s3t3d2y8.afcdn.net"]}
+
+],
 "sites" : [
 {"key":"drpy","name":"🔥豆瓣(有評分 )　２０２５👉財運如🪱,連綿不斷🌻一定要平平安安呦✅","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
 {"key":"ikanbotsq","name":"🈵爱看机器人sq","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbotsq.js","searchable":1,"changeable":1},
