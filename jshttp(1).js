@@ -9,6 +9,20 @@
 {"name":"167p3p","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/167.txt","playerType": 2,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"173p3p","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/173.txt","playerType": 2,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"108p3p","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/108.txt","playerType": 2,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+        {
+            "name": "LiTV[台湾节点]",
+            "type": 0,
+            "url": "http://xg.52sw.top/iptv/litv.php",
+            "ua": "okhttp/3.15",
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+                {
+            "name": "ofiii[台湾节点]",
+            "type": 0,
+            "url": "./ofiii.m3u",
+            "ua": "okhttp/3.15",
+            "epg": ""
+        },
 {
     "name" : "🍼酸奶直播",
     "url" : "https://web.banye.tech:7777/tvbus/yogurtTv.txt",
