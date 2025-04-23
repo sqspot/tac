@@ -12,7 +12,7 @@
 {"name": "焦点(Focus TV)","type": 0,"url": "http://xg.52sw.top/jd/?ip=108.181.32.169","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"},
 {"name": "欧华(ouhua TV)","type": 0,"url": "http://xg.52sw.top/iptv/欧华.m3u","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"},
 {"name": "173源","type": 0,"url": "http://xg.52sw.top/play/bst/173.txt","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"},
-{"name": "ofiii[台湾节点]","type": 0,"url": "./ofiii.m3u","ua": "okhttp/3.15","epg": ""}],"hosts": ["cache.ott.*.itv.cmvideo.cn=itv.dns.52top.com.cn"],
-"rules": [{"name": "ofiii[台湾节点]","hosts": [    "www.ofiii.com"],
-"script": [    "const play=document.getElementsByClassName(\"play_icon\")[0];const event=new MouseEvent(\"click\",{bubbles:!0,cancelable:!0,view:window,screenX:100,screenY:100,clientX:50,clientY:50,button:0,shiftKey:!1,ctrlKey:!1,altKey:!1,metaKey:!1,modifierState:0});play.dispatchEvent(event);"]}]
+{"name": "ofiii[台湾节点]","type": 0,"url": "./ofiii.m3u","ua": "okhttp/3.15","epg": ""}],
+"hosts": ["cache.ott.*.itv.cmvideo.cn=itv.dns.52top.com.cn"],
+"rules": [{"name": "ofiii[台湾节点]","hosts": [    "www.ofiii.com"],"script": [    "const play=document.getElementsByClassName(\"play_icon\")[0];const event=new MouseEvent(\"click\",{bubbles:!0,cancelable:!0,view:window,screenX:100,screenY:100,clientX:50,clientY:50,button:0,shiftKey:!1,ctrlKey:!1,altKey:!1,metaKey:!1,modifierState:0});play.dispatchEvent(event);"]}]
 }
