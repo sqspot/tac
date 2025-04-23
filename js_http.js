@@ -1,6 +1,6 @@
 {
 //Type 0-xml、 1-json 、2-爬虫源 、3-自定义爬虫 、4-服务器爬虫。
-"spider":"./f0223.jar",
+"spider":"./fm.jar",
 //https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740249213752/f0223.txt
 //"spider":"./fm.jar",
 //"spider":"./pg.jar",
