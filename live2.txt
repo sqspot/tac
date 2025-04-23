@@ -13,6 +13,7 @@ happy,./0.m3u8
 玩美,./0.m3u8
 
 潘多拉,p3p://167.114.175.6:55331/5fe4450c000c918b829fca233c845311
+潘多拉,http://18.svi-studio.com:80/live/824908251669/532612644941/3.m3u8
 潘多拉,p3p://173.208.176.178:31809/5fe4450c000c918b829fca233c845311
 潘多拉,p3p://167.114.175.6:42803/5fe4450c000c918b829fca233c845311			
 潘多拉,http://18.svi-studio.com:8880/live/908957700097/132663288386/3.m3u8
@@ -21,6 +22,7 @@ happy,./0.m3u8
 潘多拉,http://18.svi-studio.com:8880/live/584830114073/800309151021/3.m3u8
 潘多拉,http://18.svi-studio.com:8880/live/271871095922/006886711863/3.m3u8
 潘多拉,http://suo.im/6TuSG
+松視1,http://18.svi-studio.com:80/live/824908251669/532612644941/5.m3u8
 松視1,http://18.svi-studio.com:8880/live/917952932058/953281067271/5.m3u8
 松視1,p3p://173.208.176.178:31809/5fe445280008a40682a0367c343436bb
 松視1,http://18.svi-studio.com:8880/live/908957700097/132663288386/5.m3u8
@@ -33,6 +35,7 @@ happy,./0.m3u8
 松視1,http://18.svi-studio.com:8880/live/271871095922/006886711863/5.m3u8
 松視1,http://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
 松視1,http://z88.ubtvfans.com/live/rx3/2905/daf5dc8e6ec09a9f9fa07764441d1ebc/index.m3u8
+松視2,http://18.svi-studio.com:80/live/824908251669/532612644941/6.m3u8
 松視2,http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
 松視2,p3p://173.208.176.178:31809/60232b5f00007bc37850649979e379df
 松視2,http://18.svi-studio.com:8880/live/908957700097/132663288386/6.m3u8
@@ -45,6 +48,7 @@ happy,./0.m3u8
 松視2,http://18.svi-studio.com:8880/live/271871095922/006886711863/6.m3u8
 松視2,http://b.mtw.so/6pAjsB
 松視2,http://z88.ubtvfans.com/live/rx3/2906/786522c38e02f6af5fea35725319e11a/index.m3u8
+松視3,http://18.svi-studio.com:80/live/824908251669/532612644941/20205.m3u8
 松視3,http://18.svi-studio.com:8880/live/917952932058/953281067271/20205.m3u8
 松視3,p3p://173.208.176.178:31809/6109e9590001f40bfd9b661109395f3b
 松視3,http://18.svi-studio.com:8880/live/908957700097/132663288386/20205.m3u8
@@ -60,6 +64,7 @@ happy,./0.m3u8
 happy,p3p://167.114.175.6:55331/616b79be000a35b17ab2f7b84c325eeb
 happy,p3p://173.208.176.178:31809/616b79be000a35b17ab2f7b84c325eeb
 香蕉,p3p://167.114.175.6:55331/60626a760005067e6f5bbecb5816771e
+香蕉,http://18.svi-studio.com:80/live/824908251669/532612644941/4.m3u8
 香蕉,p3p://173.208.176.178:31809/60626a760005067e6f5bbecb5816771e
 香蕉,p3p://108.181.32.169:31165/650b8ae60005f36b8f1e751f68bd1c14
 香蕉,http://125.227.210.55:8159/VideoInput/play.ts
@@ -114,6 +119,12 @@ look,p3p://167.114.175.6:55331/606271190002a1266f75aaee0463186a
 look,p3p://173.208.176.178:31809/606271190002a1266f75aaee0463186a
 look,http://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
 Heyzo無碼,p3p://167.114.175.6:42803/5fe8014b0007228691371ed44a517e44
+bluehustler,http://18.svi-studio.com:80/live/824908251669/532612644941/101422.m3u8
+hustlet,http://18.svi-studio.com:80/live/824908251669/532612644941/101423.m3u8
+private,http://18.svi-studio.com:80/live/824908251669/532612644941/101424.m3u8
+vividred,http://18.svi-studio.com:80/live/824908251669/532612644941/101425.m3u8
+vividtouch,http://18.svi-studio.com:80/live/824908251669/532612644941/101426.m3u8
+vividtv,http://18.svi-studio.com:80/live/824908251669/532612644941/101427.m3u8
 直播1,p3p://108.181.32.169:31165/643f4642000eba1250834ce0704e60b0
 直播2,p3p://108.181.32.169:31165/643f462a0001fb665082ebdc599b5e74
 直播3,p3p://108.181.32.169:31165/64487f5100084a5c7489f3a771c078c4
@@ -4003,7 +4014,7 @@ l🐸12传媒01,https://10j991.cdnedge.live/file/avple-asserts/hls/639985bd2c279
 🍷9传媒21,https://1xp60.cdnedge.live/file/avple-images/hls/632845158ad37673010a692f/playlist.m3u8
 🍷9传媒22,https://w9n76.cdnedge.live/file/avple-images/hls/63283e488ad37673010a692d/playlist.m3u8
 🍷9传媒23,https://1xp60.cdnedge.live/file/avple-images/hls/63283e0d8ad37673010a692c/playlist.m3u8
-🍷9传媒24,https://zo392.cdnedge.live/file/avple-images/hls/63283c2d1938f9491dbb506c/playlist.m3u8
+??9传媒24,https://zo392.cdnedge.live/file/avple-images/hls/63283c2d1938f9491dbb506c/playlist.m3u8
 🍷9传媒25,https://8bb88.cdnedge.live/file/avple-images/hls/632734b41938f9491dbb5069/playlist.m3u8
 🍷9传媒26,https://w9n76.cdnedge.live/file/avple-images/hls/6327361b1938f9491dbb506b/playlist.m3u8
 🍷9传媒27,https://je40u.cdnedge.live/file/avple-images/hls/632735701938f9491dbb506a/playlist.m3u8
