@@ -29,6 +29,7 @@
 {"name":"飛龍影視","type":0,"playerType":1,"url":"https://gitlab.com/tvtg/vip/-/raw/main/fl2024.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"smt","type":0,"playerType":1,"url":"https://raw.githubusercontent.com/sqspot/tac/main/smt.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"自選","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/live2.txt","playerType": 2},
+{"name":"測試","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/test.txt","playerType": 2},
 {"name":"4GTV豪華版 ijk","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/4GTV豪華版.txt","ua":"Mozilla/5.0 (Linux; Android 11; M2101K9C Build/RKQ1.201112.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 T7/12.16 SearchCraft/3.9.1 (Baidu; P1 11)","playerType":1,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ads":["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]}
 
 ],
