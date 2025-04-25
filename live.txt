@@ -1,155 +1,155 @@
-中天新聞,https://0.m3u8
-寰宇新聞,https://0.m3u8
-中視新聞,https://0.m3u8
-台視新聞,https://0.m3u8
-CNN,https://0.m3u8
-民視,https://0.m3u8
-人間衛視,https://0.m3u8
-台視,https://0.m3u8
-大愛,https://0.m3u8
-中視,https://0.m3u8
-霹靂台灣,https://0.m3u8
-華視,https://0.m3u8
-公視,https://0.m3u8
-公視臺語,https://0.m3u8
-好消息,https://0.m3u8
-原住民族電視,https://0.m3u8
-客家電視,https://0.m3u8
-BBC Earth,https://0.m3u8
-Discovery 頻道,https://0.m3u8
-TLC 旅遊生活頻道,https://0.m3u8
-動物星球頻道,https://0.m3u8
-CN卡通頻道,https://0.m3u8
-尼克兒童頻道,https://0.m3u8
-momo親子,https://0.m3u8
-東森幼幼,https://0.m3u8
-緯來綜合,https://0.m3u8
-八大第一,https://0.m3u8
-八大綜合,https://0.m3u8
-三立台灣,https://0.m3u8
-三立都會,https://0.m3u8
-韓國娛樂臺KMTV,https://0.m3u8
-東森綜合,https://0.m3u8
-超視,https://0.m3u8
-東森購物2,https://0.m3u8
-momo購物2,https://0.m3u8
-中天綜合,https://0.m3u8
-東風衛視,https://0.m3u8
-年代MUCH,https://0.m3u8
-中天娛樂,https://0.m3u8
-東森戲劇,https://0.m3u8
-八大戲劇,https://0.m3u8
-TVBS歡樂,https://0.m3u8
-緯來戲劇,https://0.m3u8
-高點電視,https://0.m3u8
-東森購物3,https://0.m3u8
-東森購物1,https://0.m3u8
-momo購物1,https://0.m3u8
-三立iNEWS,https://0.m3u8
-壹電視新聞,https://0.m3u8
-年代新聞,https://0.m3u8
-東森新聞,https://0.m3u8
-華視新聞資訊,https://0.m3u8
-民視新聞,https://0.m3u8
-三立新聞,https://0.m3u8
-TVBS新聞,https://0.m3u8
-TVBS,https://0.m3u8
-東森財經新聞,https://0.m3u8
-非凡新聞,https://0.m3u8
-viva購物1,https://0.m3u8
-東森購物5,https://0.m3u8
-CATCHPLAY電影,https://0.m3u8
-東森電影,https://0.m3u8
-緯來電影,https://0.m3u8
-LS龍祥電影,https://0.m3u8
-HBO,https://0.m3u8
-東森洋片,https://0.m3u8
-AXN,https://0.m3u8
-好萊塢電影,https://0.m3u8
-amc電影,https://0.m3u8
-CINEMAX,https://0.m3u8
-緯來育樂,https://0.m3u8
-緯來體育,https://0.m3u8
-DAZN 1,https://0.m3u8
-DAZN 2,https://0.m3u8
-MOMO綜合,https://0.m3u8
-博斯運動一,https://0.m3u8
-緯來日本,https://0.m3u8
-國興衛視,https://0.m3u8
-BBC Lifestyle,https://0.m3u8
-靖天購物一,https://0.m3u8
-Animax,https://0.m3u8
-信吉電視,https://0.m3u8
-JET 綜合,https://0.m3u8
-中台灣生活網頻道,https://0.m3u8
-鏡電視新聞,https://0.m3u8
-冠軍電視,https://0.m3u8
-Z頻道,https://0.m3u8
-ETtoday綜合,https://0.m3u8
-非凡商業,https://0.m3u8
-八大娛樂,https://0.m3u8
-運通財經,https://0.m3u8
-全球財經,https://0.m3u8
-誠心電視,https://0.m3u8
-華藝台灣,https://0.m3u8
-台灣綜合,https://0.m3u8
-海豚綜合,https://0.m3u8
-威達超舜生活,https://0.m3u8
-台灣藝術,https://0.m3u8
-樂視,https://0.m3u8
-華藏電視,https://0.m3u8
-十方法界電視,https://0.m3u8
-世界電視,https://0.m3u8
-佛衛慈悲,https://0.m3u8
-信大電視,https://0.m3u8
-全大電視,https://0.m3u8
-美麗人生購物,https://0.m3u8
-正德電視,https://0.m3u8
-天良綜合,https://0.m3u8
-番薯電視,https://0.m3u8
-富立電視,https://0.m3u8
-華視教育體育文化,https://0.m3u8
-冠軍夢想,https://0.m3u8
-新天地民俗,https://0.m3u8
-三聖電視,https://0.m3u8
-紅豆2,https://0.m3u8
-天美麗電視,https://0.m3u8
-雙子衛視,https://0.m3u8
-高雄都會,https://0.m3u8
-NHK,https://0.m3u8
-國會頻道1,https://0.m3u8
-國會頻道2,https://0.m3u8
-幸福空間居家,https://0.m3u8
-高點育樂,https://0.m3u8
-滾動力 rollor,https://0.m3u8
-MTV,https://0.m3u8
-智林體育,https://0.m3u8
-唯心電視,https://0.m3u8
-Global Trekker,https://0.m3u8
-ROCK Action,https://0.m3u8
-TRACE Sport Stars,https://0.m3u8
-美食星球頻道,https://0.m3u8
-寰宇財經,https://0.m3u8
-民視第一,https://0.m3u8
-民視台灣,https://0.m3u8
-中視菁採,https://0.m3u8
-台視財經,https://0.m3u8
-台視綜合,https://0.m3u8
-小公視(公視兒少臺),https://0.m3u8
-CARTOONITO,https://0.m3u8
-達文西頻道,https://0.m3u8
-寰宇新聞台灣,https://0.m3u8
-HGTV居家樂活頻道,https://0.m3u8
-MTV Live,https://0.m3u8
-TV5法式生活頻道,https://0.m3u8
-古典音樂,https://0.m3u8
-梅迪奇藝術頻道,https://0.m3u8
-大愛2,https://0.m3u8
-好消息2,https://0.m3u8
-TaiwanPlus,https://0.m3u8
-彭博財經頻道,https://0.m3u8
-CNBC Asia,https://0.m3u8
-BBC NEWS,https://0.m3u8
+中天新聞,http://
+寰宇新聞,http://
+中視新聞,http://
+台視新聞,http://
+CNN,http://
+民視,http://
+人間衛視,http://
+台視,http://
+大愛,http://
+中視,http://
+霹靂台灣,http://
+華視,http://
+公視,http://
+公視臺語,http://
+好消息,http://
+原住民族電視,http://
+客家電視,http://
+BBC Earth,http://
+Discovery 頻道,http://
+TLC 旅遊生活頻道,http://
+動物星球頻道,http://
+CN卡通頻道,http://
+尼克兒童頻道,http://
+momo親子,http://
+東森幼幼,http://
+緯來綜合,http://
+八大第一,http://
+八大綜合,http://
+三立台灣,http://
+三立都會,http://
+韓國娛樂臺KMTV,http://
+東森綜合,http://
+超視,http://
+東森購物2,http://
+momo購物2,http://
+中天綜合,http://
+東風衛視,http://
+年代MUCH,http://
+中天娛樂,http://
+東森戲劇,http://
+八大戲劇,http://
+TVBS歡樂,http://
+緯來戲劇,http://
+高點電視,http://
+東森購物3,http://
+東森購物1,http://
+momo購物1,http://
+三立iNEWS,http://
+壹電視新聞,http://
+年代新聞,http://
+東森新聞,http://
+華視新聞資訊,http://
+民視新聞,http://
+三立新聞,http://
+TVBS新聞,http://
+TVBS,http://
+東森財經新聞,http://
+非凡新聞,http://
+viva購物1,http://
+東森購物5,http://
+CATCHPLAY電影,http://
+東森電影,http://
+緯來電影,http://
+LS龍祥電影,http://
+HBO,http://
+東森洋片,http://
+AXN,http://
+好萊塢電影,http://
+amc電影,http://
+CINEMAX,http://
+緯來育樂,http://
+緯來體育,http://
+DAZN 1,http://
+DAZN 2,http://
+MOMO綜合,http://
+博斯運動一,http://
+緯來日本,http://
+國興衛視,http://
+BBC Lifestyle,http://
+靖天購物一,http://
+Animax,http://
+信吉電視,http://
+JET 綜合,http://
+中台灣生活網頻道,http://
+鏡電視新聞,http://
+冠軍電視,http://
+Z頻道,http://
+ETtoday綜合,http://
+非凡商業,http://
+八大娛樂,http://
+運通財經,http://
+全球財經,http://
+誠心電視,http://
+華藝台灣,http://
+台灣綜合,http://
+海豚綜合,http://
+威達超舜生活,http://
+台灣藝術,http://
+樂視,http://
+華藏電視,http://
+十方法界電視,http://
+世界電視,http://
+佛衛慈悲,http://
+信大電視,http://
+全大電視,http://
+美麗人生購物,http://
+正德電視,http://
+天良綜合,http://
+番薯電視,http://
+富立電視,http://
+華視教育體育文化,http://
+冠軍夢想,http://
+新天地民俗,http://
+三聖電視,http://
+紅豆2,http://
+天美麗電視,http://
+雙子衛視,http://
+高雄都會,http://
+NHK,http://
+國會頻道1,http://
+國會頻道2,http://
+幸福空間居家,http://
+高點育樂,http://
+滾動力 rollor,http://
+MTV,http://
+智林體育,http://
+唯心電視,http://
+Global Trekker,http://
+ROCK Action,http://
+TRACE Sport Stars,http://
+美食星球頻道,http://
+寰宇財經,http://
+民視第一,http://
+民視台灣,http://
+中視菁採,http://
+台視財經,http://
+台視綜合,http://
+小公視(公視兒少臺),http://
+CARTOONITO,http://
+達文西頻道,http://
+寰宇新聞台灣,http://
+HGTV居家樂活頻道,http://
+MTV Live,http://
+TV5法式生活頻道,http://
+古典音樂,http://
+梅迪奇藝術頻道,http://
+大愛2,http://
+好消息2,http://
+TaiwanPlus,http://
+彭博財經頻道,http://
+CNBC Asia,http://
+BBC NEWS,http://
 
 HBO Family,P2p://generationnexxxt.com:19806/8a0208ebdfa04b5eab112f0c8b01719c
 HBO Family,P2p://generationnexxxt.com:19806/924dad4bd6604751ba4c4ae69781784b
