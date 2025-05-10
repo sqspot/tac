@@ -119,12 +119,6 @@ look,p3p://167.114.175.6:55331/606271190002a1266f75aaee0463186a
 look,p3p://173.208.176.178:31809/606271190002a1266f75aaee0463186a
 look,http://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
 Heyzo無碼,p3p://167.114.175.6:42803/5fe8014b0007228691371ed44a517e44
-bluehustler,http://18.svi-studio.com:80/live/824908251669/532612644941/101422.m3u8
-hustlet,http://18.svi-studio.com:80/live/824908251669/532612644941/101423.m3u8
-private,http://18.svi-studio.com:80/live/824908251669/532612644941/101424.m3u8
-vividred,http://18.svi-studio.com:80/live/824908251669/532612644941/101425.m3u8
-vividtouch,http://18.svi-studio.com:80/live/824908251669/532612644941/101426.m3u8
-vividtv,http://18.svi-studio.com:80/live/824908251669/532612644941/101427.m3u8
 直播1,p3p://108.181.32.169:31165/643f4642000eba1250834ce0704e60b0
 直播2,p3p://108.181.32.169:31165/643f462a0001fb665082ebdc599b5e74
 直播3,p3p://108.181.32.169:31165/64487f5100084a5c7489f3a771c078c4
@@ -182,10 +176,14 @@ MiaMitv,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlis
 playboy,#genre#
 XXX: PLAYBOY TV,http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/75903
 XXX: Playboy,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/13353
-XXX: Playboy HD,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/30376
-PLAYBOY EUROPE,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/1993
-PLAYBOY,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/1994
-PLAYHOUSE,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/1992
+bluehustler,http://18.svi-studio.com:80/live/824908251669/532612644941/101422.m3u8
+hustlet,http://18.svi-studio.com:80/live/824908251669/532612644941/101423.m3u8
+private,http://18.svi-studio.com:80/live/824908251669/532612644941/101424.m3u8
+vividred,http://18.svi-studio.com:80/live/824908251669/532612644941/101425.m3u8
+vividtouch,http://18.svi-studio.com:80/live/824908251669/532612644941/101426.m3u8
+vividtv,http://18.svi-studio.com:80/live/824908251669/532612644941/101427.m3u8
+XXX: Hustler HD,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/30702
+XXX: BLUE HUSTLER HD,http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/75900
 XXX: Play House,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/14043
 XXX: Penthouse,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/13352
 PENTHOUSE BLACK,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/2036
@@ -194,13 +192,15 @@ Penthouse Gold,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/693185
 PENTHOUSE QUICKIES HD,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/2038
 HUSTLER HD,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/2039
 HUSTLER TV,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/2007
-XXX: Hustler HD,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/30702
-XXX: BLUE HUSTLER HD,http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/75900
 BLUE HUSTLER EUROPE,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/1942
 PRIVATE TV HD,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/2034
 XXX: PRIVATE HD,http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/75899
 P HD PRIVATE,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/1937
 PRIVE TV,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/1991
+XXX: Playboy HD,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/30376
+PLAYBOY EUROPE,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/1993
+PLAYBOY,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/1994
+PLAYHOUSE,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/1992
 Fake Taxi,http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/58036
 Female Fake Taxi,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/693199
 Fake Taxi 3,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/693200
