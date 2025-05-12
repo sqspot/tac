@@ -181,7 +181,7 @@ TVBS新聞,p3p://167.114.175.6:55331/621858e3000e70ad1217c0700d576ad0
 HBO原創,p3p://167.114.175.6:55331/623a6e38000091d497395ce957b27132
 HBO家庭,p3p://167.114.175.6:55331/623a706d0003edf59741fcc023dc0089
 HBO鉅獻,p3p://167.114.175.6:55331/623a700000069676974053b555b700d4
-HBO HD,p3p://167.114.175.6:55331/64e364fb000a0212a977a1cd342976da
+HBO,p3p://167.114.175.6:55331/64e364fb000a0212a977a1cd342976da
 美亞電影,p3p://167.114.175.6:55331/62883c4f000a4ca3c722d5ec04fb74e7
 年代Much,p3p://167.114.175.6:55331/65e4394b00052e1194b03760797b4570
 龍祥時代,p3p://167.114.175.6:55331/60115453000a238d32a1418142be77f7
@@ -318,10 +318,10 @@ Boomerang,p3p://167.114.175.6:55331/621e313f0005594c28ec88582a49029c
 衛視西片,p3p://167.114.175.6:55331/60c79e440000ec5bfaa9367854ba796d
 原住民電視,p3p://167.114.175.6:55331/64450b180002b23d3eeb784a0aa62e20
 公視戲劇,p3p://167.114.175.6:55331/64450cdd000b67ea3ef2640f773a7ec7
-EVE HD,p3p://167.114.175.6:55331/6445172e000920783f1aafee754f43e4
+EVE,p3p://167.114.175.6:55331/6445172e000920783f1aafee754f43e4
 HGTV,p3p://167.114.175.6:55331/644518fd0002d5953f21bedc56b6465f
 TVBS亞洲,p3p://167.114.175.6:55331/6484e089000a5e7a38440c1e1ace3b27
-TVN HD,p3p://167.114.175.6:55331/644f9623000a4051681a72d66bfc0191
+TVN,p3p://167.114.175.6:55331/644f9623000a4051681a72d66bfc0191
 Classica古典音樂,p3p://167.114.175.6:55331/6452b4f1000c38e8744ac80744c33d67
 Mezzo Live,p3p://167.114.175.6:55331/6452bcb000039d52746907f4476f5e7b
 豬哥亮歌廳秀,p3p://167.114.175.6:55331/6452bbf2000d02457466242b0e5c5ea2
@@ -406,7 +406,7 @@ CCTV體育賽事,p3p://167.114.175.6:55331/6323522b0000ad5c24e892c57ad041c7
 CHC高清電影,p3p://167.114.175.6:55331/63ec4caf00020428e445513c2d902fdb
 CHC家庭影院,p3p://167.114.175.6:55331/63ec4d000006b5ebe4468ed8604807ac
 CHC動作電影,p3p://167.114.175.6:55331/63ec4d4200074d64e44790cb67ae7b20
-新視覺 HD,p3p://167.114.175.6:55331/63ec4d870003e9f2e4489d7821254fbb
+新視覺,p3p://167.114.175.6:55331/63ec4d870003e9f2e4489d7821254fbb
 五星體育,p3p://167.114.175.6:55331/63ec4dc200075675e44984ca52f86245
 兵團衛視,p3p://167.114.175.6:55331/63ed2c99000b902be7affdb21e970038
 青田新聞綜合,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
@@ -451,7 +451,7 @@ CCTV體育,p3p://167.114.175.6:55331/62c2e10a000954acac332b30611a0e9d
 CCTV奧林匹克,p3p://167.114.175.6:55331/632350a5000deee324e2a2bc22a37dd9
 CCTV體育賽事,p3p://167.114.175.6:55331/6323522b0000ad5c24e892c57ad041c7
 廣東體育,p3p://167.114.175.6:55331/63ec4b8400036b28e440c19a1b512b44
-新視覺 HD,p3p://167.114.175.6:55331/63ec4d870003e9f2e4489d7821254fbb
+新視覺,p3p://167.114.175.6:55331/63ec4d870003e9f2e4489d7821254fbb
 五星體育,p3p://167.114.175.6:55331/63ec4dc200075675e44984ca52f86245
 博斯運動1,p3p://167.114.175.6:55331/61f02576000b2c0a80eb0552388d145e
 博斯運動2,p3p://167.114.175.6:55331/62639c49000784a03813882a6f5c7e5d
@@ -603,7 +603,7 @@ Sky Sport MotoGP,p3p://fccsen.dyndns.tv:29706/632924680004b369c9865b8446e26c14
 Sky Sport Football,p3p://fccsen.dyndns.tv:29706/6329271b000e5130c990e9333b502971
 Sky Sport NBA,p3p://fccsen.dyndns.tv:29706/632927fa0008e670c9944ee718793acf
 Sky Sports Golf,p3p://fccsen.dyndns.tv:29706/635b4acd000ce1ed8d6c360018c45953
-FightBox HD,p3p://fccsen.dyndns.tv:29706/61ea300b000f0d5feb9cff1e4a164352
+FightBox,p3p://fccsen.dyndns.tv:29706/61ea300b000f0d5feb9cff1e4a164352
 A Sports,p3p://fccsen.dyndns.tv:29706/61ea3047000e4bbceb9de94d39d6504b
 Sports Extreme,p3p://fccsen.dyndns.tv:29706/5d7e6dd2000b41daaf4713cf230c71eb
 PTV Sports,p3p://fccsen.dyndns.tv:29706/61ea318500087833eba2c1ff334012b1
@@ -702,7 +702,7 @@ News Nation,p3p://fccsen.dyndns.tv:29706/61e75df9000b02e1e09867c52f7d642e
 CNBC TV 18,p3p://fccsen.dyndns.tv:29706/5d6fe3f1000a0c1a767c8f1b021f54a3
 India Today,p3p://fccsen.dyndns.tv:29706/61e75a18000594f8e0893f7d2a735434
 Sun News,p3p://fccsen.dyndns.tv:29706/61f0af0a000def2104fd12f1607d0e7a
-Al Jazeera HD,p3p://fccsen.dyndns.tv:29706/61e75f22000ebc02e09cf0e15b826f36
+Al Jazeera,p3p://fccsen.dyndns.tv:29706/61e75f22000ebc02e09cf0e15b826f36
 少兒卡通,#genre#
 NOW ZooMoo,p3p://167.114.175.6:55331/65679bc200084412adeb40284be664e6
 Super Kids,p3p://167.114.175.6:55331/6506d285000b06bd33dad67a652e2bfd
@@ -800,8 +800,8 @@ CMC-ono,https://cmc-ono.amagi.tv/playlist.m3u8
 Norba TV,https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 Cmc TV,https://stream.cmctv.hr:49998/cmc/live.m3u8
 VH1,p3p://167.114.175.6:55331/64b25b320002edf8e9ea824c514e7979
-Frist Music HD,http://rtmp.one.by:1200
-Ru Frist Music HD,http://rtmp.one.by:2200
+Frist Music,http://rtmp.one.by:1200
+Ru Frist Music,http://rtmp.one.by:2200
 Trace Urban,p3p://167.114.175.6:55331/644fae930000fb9c6879e5f40cc63e7f
 MDIINORBA,https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 MDIICMC,https://cmc-ono.amagi.tv/playlist.m3u8
@@ -813,7 +813,7 @@ MDIImatypTB,https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 MDIIecable,https://stream.ecable.tv/afrobeats/index.m3u8
 MDIIXITE,https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
 MDIINEW,http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-MDII4HD,http://51.210.199.23/hls/stream.m3u8
+MDII4,http://51.210.199.23/hls/stream.m3u8
 MDIIatomic,https://atomic.streamnet.ro/atomictv.m3u8
 MDIIabanh,https://hls.avang.live/hls/stream.m3u8
 MDIIazahares,https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
