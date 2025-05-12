@@ -31,8 +31,8 @@ momo親子,http://
 韓國娛樂臺KMTV,http://
 東森綜合,http://
 超視,http://
-東森購物2,http://
-momo購物2,http://
+東森購物二,http://
+momo購物二,http://
 中天綜合,http://
 東風衛視,http://
 年代MUCH,http://
@@ -42,9 +42,9 @@ momo購物2,http://
 TVBS歡樂,http://
 緯來戲劇,http://
 高點電視,http://
-東森購物3,http://
-東森購物1,http://
-momo購物1,http://
+東森購物三,http://
+東森購物一,http://
+momo購物一,http://
 三立iNEWS,http://
 壹電視新聞,http://
 年代新聞,http://
@@ -56,8 +56,8 @@ TVBS新聞,http://
 TVBS,http://
 東森財經新聞,http://
 非凡新聞,http://
-viva購物1,http://
-東森購物5,http://
+viva購物一,http://
+東森購物五,http://
 CATCHPLAY電影,http://
 東森電影,http://
 緯來電影,http://
@@ -70,8 +70,8 @@ amc電影,http://
 CINEMAX,http://
 緯來育樂,http://
 緯來體育,http://
-DAZN 1,http://
-DAZN 2,http://
+DAZN 一,http://
+DAZN 二,http://
 MOMO綜合,http://
 博斯運動一,http://
 緯來日本,http://
@@ -81,90 +81,42 @@ BBC Lifestyle,http://
 Animax,http://
 信吉電視,http://
 JET 綜合,http://
-中台灣生活網頻道,http://
 鏡電視新聞,http://
 冠軍電視,http://
 Z頻道,http://
-ETtoday綜合,http://
+東森綜合,http://
 非凡商業,http://
 八大娛樂,http://
-運通財經,http://
-全球財經,http://
-誠心電視,http://
-華藝台灣,http://
-台灣綜合,http://
-海豚綜合,http://
-威達超舜生活,http://
-台灣藝術,http://
-樂視,http://
-華藏電視,http://
-十方法界電視,http://
-世界電視,http://
-佛衛慈悲,http://
-信大電視,http://
-全大電視,http://
-美麗人生購物,http://
-正德電視,http://
-天良綜合,http://
-番薯電視,http://
-富立電視,http://
 華視教育體育文化,http://
 冠軍夢想,http://
-新天地民俗,http://
-三聖電視,http://
-紅豆2,http://
-天美麗電視,http://
-雙子衛視,http://
-高雄都會,http://
-NHK,http://
-國會頻道1,http://
-國會頻道2,http://
-幸福空間居家,http://
 高點育樂,http://
-滾動力 rollor,http://
 MTV,http://
 智林體育,http://
-唯心電視,http://
-Global Trekker,http://
-ROCK Action,http://
-TRACE Sport Stars,http://
 美食星球頻道,http://
 寰宇財經,http://
 民視第一,http://
 民視台灣,http://
 中視菁採,http://
+中視精采,http://
 台視財經,http://
 台視綜合,http://
-小公視(公視兒少臺),http://
-CARTOONITO,http://
-達文西頻道,http://
-寰宇新聞台灣,http://
-HGTV居家樂活頻道,http://
-MTV Live,http://
-TV5法式生活頻道,http://
-古典音樂,http://
-梅迪奇藝術頻道,http://
-大愛2,http://
-好消息2,http://
-TaiwanPlus,http://
-彭博財經頻道,http://
 CNBC Asia,http://
 BBC NEWS,http://
 🔶🔶🔶🔶🔶🔶🔶🔶🔶,https://cf005.paopao.video:443/BC48C5030A85D533F789438C6602E18649796C81
 AMC電影,http://61.221.215.25:8800/hls/43/index.m3u8
 AXN,http://192.3.130.92:20008/stream/aktv2/axn/AKTV.m3u8
 CN卡通,http://108.181.20.197/livehttpplay?channel_id=20048
-ELEVENSPORTS1,http://108.181.20.197/livehttpplay?channel_id=10104
-ELEVENSPORTS2,http://108.181.20.197/livehttpplay?channel_id=10105
-ELTA體育1,http://108.181.20.197/livehttpplay?channel_id=20043
-ELTA體育2,http://108.181.20.197/livehttpplay?channel_id=20107
-ELTA體育3,rtmp://9hv9.mine.nu/sat/md011
-ELTA體育4,rtmp://9hv9.mine.nu/sat/md021
+ELEVENSPORTS一,http://108.181.20.197/livehttpplay?channel_id=10104
+ELEVENSPORTS二,http://108.181.20.197/livehttpplay?channel_id=10105
+ELTA體育一,http://108.181.20.197/livehttpplay?channel_id=20043
+ELTA體育二,http://108.181.20.197/livehttpplay?channel_id=20107
+ELTA體育三,rtmp://9hv9.mine.nu/sat/md011
+ELTA體育四,rtmp://9hv9.mine.nu/sat/md021
 Eleven體育,rtmp://f13h.mine.nu/sat/tv731
-Eleven體育1,rtmp://f13h.mine.nu/sat/tv741
+Eleven體育一,rtmp://f13h.mine.nu/sat/tv741
 HBO,http://50.7.234.10:8278/hbo_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
-HBO1,http://108.181.20.197/livehttpplay?channel_id=20093
-HBO2,http://108.181.20.197/livehttpplay?channel_id=20314
+HBO一,http://108.181.20.197/livehttpplay?channel_id=20093
+HBO二,http://108.181.20.197/livehttpplay?channel_id=20314
 HBOFAMILY,http://108.181.20.197/livehttpplay?channel_id=20092
 HBOHITS,http://108.181.20.197/livehttpplay?channel_id=20091
 HBO家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
@@ -254,11 +206,11 @@ TVBS精彩,http://108.181.20.197/livehttpplay?channel_id=20136
 國家地理頻道,http://50.7.234.10:8278/natgeo_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 壹新聞,http://108.181.20.197/livehttpplay?channel_id=20028
 大愛,http://50.7.234.10:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
-大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛1,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
-大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-大愛2,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+大愛一,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大愛一,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大愛一,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
+大愛二,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大愛二,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 大立,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 大立,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 大立,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -287,7 +239,7 @@ TVBS精彩,http://108.181.20.197/livehttpplay?channel_id=20136
 民視,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
 民視新聞,http://108.181.20.197/livehttpplay?channel_id=20097
 民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-愛爾達體育2,http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
+愛爾達體育二,http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
 寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
 環球電視,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 環球電視,http://zb.xzxwhcb.com:9999/hls/world.m3u8
@@ -430,8 +382,8 @@ Mezzo Live HD,http://4gtv.muni.rip:9877/79/4gtv-4gtv083/index.m3u8
 Mezzo Live,P2p://generationnexxxt.com:19806/1c1e90cd01934a5f917ec4fad5c97665
 Mezzo Live,P2p://generationnexxxt.com:19806/c87ec7818611487095699a6f5d65e9c4
 Mezzo Live,P2p://generationnexxxt.com:19806/c87ec7818611487095699a6f5d65e9c4
-MOMO購物1,https://z88.ubtvfans.com/live/rx6/1585/41413f47318acec62aa3e4c7331c0371/index.m3u8
-MOMO購物2,https://z88.ubtvfans.com/live/rx6/1586/6f15340ecd25670ca08605411b9c7b37/index.m3u8
+MOMO購物一,https://z88.ubtvfans.com/live/rx6/1585/41413f47318acec62aa3e4c7331c0371/index.m3u8
+MOMO購物二,https://z88.ubtvfans.com/live/rx6/1586/6f15340ecd25670ca08605411b9c7b37/index.m3u8
 MOMO親子,http://4gtv.mumi.rip:9877/231/4gtv-live107/index.m3u8
 MOMO親子,http://4gtv.muni.rip:9877/231/4gtv-live107/index.m3u8
 MOMO親子,https://z88.ubtvfans.com/live/rx3/1126/e784303c7c9eed38bde81d3a18ea6a7b/index.m3u8
@@ -484,7 +436,7 @@ RTHK34頻道,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/strea
 RTHK35頻道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 SBN全球財經,http://4gtv.mumi.rip:9877/224/4gtv-live060/index.m3u8
 SBN全球財經,http://4gtv.mumi.rip:9877/224/4gtv-live060/index.m3u8
-SKYLINK TELEVISION 2,http://extraott.com:80/live/7921751389/6097373662/473535.m3u8
+SKYLINK TELEVISION 二,http://extraott.com:80/live/7921751389/6097373662/473535.m3u8
 Smart知識,http://4gtv.mumi.rip:9877/297/litv-longturn19/index.m3u8
 Smart知識,http://4gtv.muni.rip:9877/297/litv-longturn19/index.m3u8
 Smart知識,https://www.ofiii.com/channel/watch/litv-longturn19
@@ -590,24 +542,24 @@ Z頻道,P2p://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
 愛爾達生活旅遊,http://4gtv.mumi.rip:9877/237/4gtv-live120/index.m3u8
 愛爾達四,P2p://generationnexxxt.com:19806/4c4be1e474784fdbbfb565b5046238f4
 愛爾達四,P2p://generationnexxxt.com:19806/4e215dc71da5483bae1a0316a8c4673e
-愛爾達體育1,P2p://generationnexxxt.com:19806/49de700b9bd64f49b6b877f188eb7845
-愛爾達體育1,P2p://generationnexxxt.com:19806/68e521d35c0247ddbc5073dee98245a3
-愛爾達體育1,P2p://generationnexxxt.com:19806/38729b9421044022a4d81ee0fe899dcd
-愛爾達體育1,P2p://generationnexxxt.com:19806/1180278580d04cb490450ec59b4edc6b
-愛爾達體育1,P2p://generationnexxxt.com:19806/a45037ddc0734fe58e4ab3e053d811dc
-愛爾達體育1,P2p://generationnexxxt.com:19806/db1725953e1d4256bcfab79f1873a727
-愛爾達體育2,P2p://generationnexxxt.com:19806/1ba2c7d7725f46a595dcb7df1741b5fb
-愛爾達體育2,P2p://generationnexxxt.com:19806/b63a56b3be724653802408c3b2044490
-愛爾達體育2,P2p://generationnexxxt.com:19806/d1f16ee235314a0fbc33742ab7af534b
-愛爾達體育2,P2p://generationnexxxt.com:19806/dc194c3738dd40448246b92172399ccd
-愛爾達體育3,P2p://generationnexxxt.com:19806/3ebc6b89559c44dca30c4c259a5646b9
-愛爾達體育3,P2p://generationnexxxt.com:19806/45f846eb465245d2aae9e7c34609f960
-愛爾達體育3,P2p://generationnexxxt.com:19806/90ea1d1ed6654b5d863053cfceb050e0
-愛爾達體育3,P2p://generationnexxxt.com:19806/c34b66fc16df4781baceff8a2f6430e4
-愛爾達體育4,P2p://generationnexxxt.com:19806/4c4be1e474784fdbbfb565b5046238f4
-愛爾達體育4,P2p://generationnexxxt.com:19806/4e215dc71da5483bae1a0316a8c4673e
-愛爾達體育4,P2p://generationnexxxt.com:19806/797d51a6805c4a5fac1b71a678228513
-愛爾達體育4,P2p://generationnexxxt.com:19806/df4f198dbe6347e1a084c79d208f227d
+愛爾達體育一,P2p://generationnexxxt.com:19806/49de700b9bd64f49b6b877f188eb7845
+愛爾達體育一,P2p://generationnexxxt.com:19806/68e521d35c0247ddbc5073dee98245a3
+愛爾達體育一,P2p://generationnexxxt.com:19806/38729b9421044022a4d81ee0fe899dcd
+愛爾達體育一,P2p://generationnexxxt.com:19806/1180278580d04cb490450ec59b4edc6b
+愛爾達體育一,P2p://generationnexxxt.com:19806/a45037ddc0734fe58e4ab3e053d811dc
+愛爾達體育一,P2p://generationnexxxt.com:19806/db1725953e1d4256bcfab79f1873a727
+愛爾達體育二,P2p://generationnexxxt.com:19806/1ba2c7d7725f46a595dcb7df1741b5fb
+愛爾達體育二,P2p://generationnexxxt.com:19806/b63a56b3be724653802408c3b2044490
+愛爾達體育二,P2p://generationnexxxt.com:19806/d1f16ee235314a0fbc33742ab7af534b
+愛爾達體育二,P2p://generationnexxxt.com:19806/dc194c3738dd40448246b92172399ccd
+愛爾達體育三,P2p://generationnexxxt.com:19806/3ebc6b89559c44dca30c4c259a5646b9
+愛爾達體育三,P2p://generationnexxxt.com:19806/45f846eb465245d2aae9e7c34609f960
+愛爾達體育三,P2p://generationnexxxt.com:19806/90ea1d1ed6654b5d863053cfceb050e0
+愛爾達體育三,P2p://generationnexxxt.com:19806/c34b66fc16df4781baceff8a2f6430e4
+愛爾達體育四,P2p://generationnexxxt.com:19806/4c4be1e474784fdbbfb565b5046238f4
+愛爾達體育四,P2p://generationnexxxt.com:19806/4e215dc71da5483bae1a0316a8c4673e
+愛爾達體育四,P2p://generationnexxxt.com:19806/797d51a6805c4a5fac1b71a678228513
+愛爾達體育四,P2p://generationnexxxt.com:19806/df4f198dbe6347e1a084c79d208f227d
 愛爾達一,P2p://generationnexxxt.com:19806/49de700b9bd64f49b6b877f188eb7845
 愛爾達一,P2p://generationnexxxt.com:19806/a45037ddc0734fe58e4ab3e053d811dc
 愛爾達一,P2p://generationnexxxt.com:19806/db1725953e1d4256bcfab79f1873a727
@@ -695,8 +647,8 @@ Z頻道,P2p://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
 博斯無限,P2p://generationnexxxt.com:19806/3f6a91a25f724acb9bc245c2eda7b04c
 博斯無限,P2p://generationnexxxt.com:19806/d0a027824de144fd88aef46f0fba7c99
 博斯無限,P2p://generationnexxxt.com:19806/f2973cfa7c2045e6b8a184f1bf18af7c
-博斯無限2,https://z88.ubtvfans.com/live/rx1/2798/e46d0bacdc54caf5b4cf76fc391a3f93/index.m3u8
-博斯無限2,https://z88.ubtvfans.com/live/rx3/426/3c369cddf1fcfc0c1fd8f490a39fef5e/index.m3u8
+博斯無限二,https://z88.ubtvfans.com/live/rx1/2798/e46d0bacdc54caf5b4cf76fc391a3f93/index.m3u8
+博斯無限二,https://z88.ubtvfans.com/live/rx3/426/3c369cddf1fcfc0c1fd8f490a39fef5e/index.m3u8
 博斯無限二,P2p://generationnexxxt.com:19806/65e1b653000eb97ec9f3741f6f4318a0
 博斯無限二,P2p://generationnexxxt.com:19806/6826c724c9c846d1bd63a204a39f106f
 博斯無限二,P2p://generationnexxxt.com:19806/6826c724c9c846d1bd63a204a39f106f
@@ -706,8 +658,8 @@ Z頻道,P2p://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
 博斯運動,P2p://generationnexxxt.com:19806/1939cbb0de3449739f1dd5738bfa99e4
 博斯運動,P2p://generationnexxxt.com:19806/1939cbb0de3449739f1dd5738bfa99e4
 博斯運動,P2p://generationnexxxt.com:19806/6293839c167e4b6393c745db434b2465
-博斯運動1,https://z88.ubtvfans.com/live/rx1/379/e713406601de52476d837004981af67e/index.m3u8
-博斯運動2,https://z88.ubtvfans.com/live/rx1/380/fd0d79577114e459f4ce4b2309da4750/index.m3u8
+博斯運動一,https://z88.ubtvfans.com/live/rx1/379/e713406601de52476d837004981af67e/index.m3u8
+博斯運動二,https://z88.ubtvfans.com/live/rx1/380/fd0d79577114e459f4ce4b2309da4750/index.m3u8
 博斯運動二,http://4gtv.mumi.rip:9877/299/litv-longturn08/index.m3u8
 博斯運動二,http://4gtv.mumi.rip:9877/2937/liv-longturn08/index.m3u8
 博斯運動二,P2p://generationnexxxt.com:19806/9b8a1167e7484391ab3945d2dcb29170
@@ -767,18 +719,18 @@ Z頻道,P2p://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
 大愛,P2p://generationnexxxt.com:19806/3a1fb2af7f384a148c57899bb1b50dfb
 大愛,P2p://generationnexxxt.com:19806/3a1fb2af7f384a148c57899bb1b50dfb
 大愛,P2p://generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
-大愛2,http://4gtv.mumi.rip:9877/230/4gtv-live106/index.m3u8
-大愛2,http://4gtv.mumi.rip:9877/230/4gtv-live106/index.m3u8
-大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-大愛2,P2p://generationnexxxt.com:19806/2036b83c58e344c782eb154b233c8c77
-大愛2,P2p://generationnexxxt.com:19806/c549d8292cd14ac6a77bf310fba08b65
-大愛2,P2p://generationnexxxt.com:19806/c549d8292cd14ac6a77bf310fba08b65
+大愛二,http://4gtv.mumi.rip:9877/230/4gtv-live106/index.m3u8
+大愛二,http://4gtv.mumi.rip:9877/230/4gtv-live106/index.m3u8
+大愛二,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大愛二,P2p://generationnexxxt.com:19806/2036b83c58e344c782eb154b233c8c77
+大愛二,P2p://generationnexxxt.com:19806/c549d8292cd14ac6a77bf310fba08b65
+大愛二,P2p://generationnexxxt.com:19806/c549d8292cd14ac6a77bf310fba08b65
 大陸尋奇,https://z88.ubtvfans.com/live/rx6/102/9e5a9c0636f4f9fbc9888e487df2058b/index.m3u8
 第1財經,https://www.ofiii.com/channel/watch/ofiii64
 第1商業,https://www.ofiii.com/channel/watch/4gtv-4gtv104
 第一名電視,https://z88.ubtvfans.com/live/rx6/216/9dd2225be1aacbfd3b6e5c1d6ee12e01/index.m3u8
-電影免費看 2,http://4gtv.mumi.rip:9877/245/4gtv-live005/index.m3u8
-電影免費看 2,http://4gtv.mumi.rip:9877/245/4gtv-live005/index.m3u8
+電影免費看 二,http://4gtv.mumi.rip:9877/245/4gtv-live005/index.m3u8
+電影免費看 二,http://4gtv.mumi.rip:9877/245/4gtv-live005/index.m3u8
 電影原聲臺CMusic,http://4gtv.mumi.rip:9877/218/4gtv-live031/index.m3u8
 電影原聲臺CMusic,http://4gtv.mumi.rip:9877/2187/4gtv-live031/index.m3u8
 東風衛視,http://extraott.com:80/live/7921751389/6097373662/5512.m3u8
@@ -803,25 +755,25 @@ Z頻道,P2p://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
 東森電影,P2p://generationnexxxt.com:19806/90fe82037af64fd3bfc08879b08f3e2f
 東森電影,P2p://generationnexxxt.com:19806/90fe82037af64fd3bfc08879b08f3e2f
 東森電影,P2p://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
-東森購物1,http://4gtv.mumi.rip:9877/173/4gtv-live047/index.m3u8
-東森購物1,http://4gtv.mumi.rip:9877/173/4gtv-live047/index.m3u8
-東森購物1,https://www.ofiii.com/channel/watch/4gtv-4gtv102
-東森購物1,https://z88.ubtvfans.com/live/rx6/1155/49f63742d532959a02171b3730b8164c/index.m3u8
-東森購物1,P2p://generationnexxxt.com:19806/21dbc6f9b1e141f4bbda7573d9af70a9
-東森購物1,P2p://generationnexxxt.com:19806/21dbc6f9b1e141f4bbda7573d9af70a9
-東森購物1,P2p://generationnexxxt.com:19806/eccc79da1c0a4b54b49a71277e1534a0
-東森購物2,http://4gtv.mumi.rip:9877/174/4gtv-live046/index.m3u8
-東森購物2,http://4gtv.mumi.rip:9877/174/4gtv-live046/index.m3u8
-東森購物2,https://www.ofiii.com/channel/watch/4gtv-4gtv103
-東森購物2,https://z88.ubtvfans.com/live/rx6/1156/6ac2cd40b881317511da83c5a10b8a92/index.m3u8
-東森購物2,P2p://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
-東森購物2,P2p://generationnexxxt.com:19806/50299f66ecb24fe1964c5c7818118527
-東森購物2,P2p://generationnexxxt.com:19806/50299f66ecb24fe1964c5c7818118527
-東森購物3,http://4gtv.mumi.rip:9877/287/4gtv-live048/index.m3u8
-東森購物3,http://4gtv.mumi.rip:9877/287/4gtv-live048/index.m3u8
-東森購物3,https://z88.ubtvfans.com/live/rx6/1584/c052bd4c50be7676f06709e917d4a793/index.m3u8
-東森購物4,http://4gtv.mumi.rip:9877/286/4gtv-live049/index.m3u8
-東森購物4,http://4gtv.mumi.rip:9877/286/4gtv-live049/index.m3u8
+東森購物一,http://4gtv.mumi.rip:9877/173/4gtv-live047/index.m3u8
+東森購物一,http://4gtv.mumi.rip:9877/173/4gtv-live047/index.m3u8
+東森購物一,https://www.ofiii.com/channel/watch/4gtv-4gtv102
+東森購物一,https://z88.ubtvfans.com/live/rx6/1155/49f63742d532959a02171b3730b8164c/index.m3u8
+東森購物一,P2p://generationnexxxt.com:19806/21dbc6f9b1e141f4bbda7573d9af70a9
+東森購物一,P2p://generationnexxxt.com:19806/21dbc6f9b1e141f4bbda7573d9af70a9
+東森購物一,P2p://generationnexxxt.com:19806/eccc79da1c0a4b54b49a71277e1534a0
+東森購物二,http://4gtv.mumi.rip:9877/174/4gtv-live046/index.m3u8
+東森購物二,http://4gtv.mumi.rip:9877/174/4gtv-live046/index.m3u8
+東森購物二,https://www.ofiii.com/channel/watch/4gtv-4gtv103
+東森購物二,https://z88.ubtvfans.com/live/rx6/1156/6ac2cd40b881317511da83c5a10b8a92/index.m3u8
+東森購物二,P2p://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
+東森購物二,P2p://generationnexxxt.com:19806/50299f66ecb24fe1964c5c7818118527
+東森購物二,P2p://generationnexxxt.com:19806/50299f66ecb24fe1964c5c7818118527
+東森購物三,http://4gtv.mumi.rip:9877/287/4gtv-live048/index.m3u8
+東森購物三,http://4gtv.mumi.rip:9877/287/4gtv-live048/index.m3u8
+東森購物三,https://z88.ubtvfans.com/live/rx6/1584/c052bd4c50be7676f06709e917d4a793/index.m3u8
+東森購物四,http://4gtv.mumi.rip:9877/286/4gtv-live049/index.m3u8
+東森購物四,http://4gtv.mumi.rip:9877/286/4gtv-live049/index.m3u8
 東森購物快閃,https://www.ofiii.com/channel/watch/ofiii87
 東森美洲,http://extraott.com:80/live/7921751389/6097373662/473538.m3u8
 東森美洲,http://extraott.com:80/live/7921751389/6097373662/473540.m3u8
@@ -902,10 +854,10 @@ Z頻道,P2p://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
 公視,P2p://generationnexxxt.com:19806/5bc9388122b840f1abd2ff73c85049a6
 公視,P2p://generationnexxxt.com:19806/345c7e0b5a7545cfacafed5319da0351
 公視,P2p://generationnexxxt.com:19806/345c7e0b5a7545cfacafed5319da0351
-公視3,https://z88.ubtvfans.com/live/rx1/1340/dcc7dbc7db74ed0b2c8cf08eff7c520f/index.m3u8
-公視3,P2p://generationnexxxt.com:19806/95f2ed538e044aac891abfe6a9ce6ba7
-公視3,P2p://generationnexxxt.com:19806/facf020d07f54fa8aef38a5c8b127758
-公視3,P2p://generationnexxxt.com:19806/facf020d07f54fa8aef38a5c8b127758
+公視三,https://z88.ubtvfans.com/live/rx1/1340/dcc7dbc7db74ed0b2c8cf08eff7c520f/index.m3u8
+公視三,P2p://generationnexxxt.com:19806/95f2ed538e044aac891abfe6a9ce6ba7
+公視三,P2p://generationnexxxt.com:19806/facf020d07f54fa8aef38a5c8b127758
+公視三,P2p://generationnexxxt.com:19806/facf020d07f54fa8aef38a5c8b127758
 公視金獎,https://www.ofiii.com/channel/watch/ofiii13
 公視臺語,P2p://generationnexxxt.com:19806/2bc76898bf1043f4b7eb62fa24759e09
 公視臺語,P2p://generationnexxxt.com:19806/2bc76898bf1043f4b7eb62fa24759e09
@@ -938,12 +890,12 @@ Z頻道,P2p://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
 好消息,P2p://generationnexxxt.com:19806/4d0ca895f6d94917a6d24019ab13bd5a
 好消息,P2p://generationnexxxt.com:19806/4d0ca895f6d94917a6d24019ab13bd5a
 好消息,P2p://generationnexxxt.com:19806/febf2282369d409d92d68514b72fc433
-好消息2,http://4gtv.mumi.rip:9877/8/litv-ftv17/index.m3u8
-好消息2,http://4gtv.muni.rip:9877/8/litv-ftv17/index.m3u8
-好消息2,https://z88.ubtvfans.com/live/rx1/363/4f45e054be8b9d43aef8e866812fd1dd/index.m3u8
-好消息2,P2p://generationnexxxt.com:19806/2b9f20946a6147dfba8f92373fbafee5
-好消息2,P2p://generationnexxxt.com:19806/75d2c136059342dca8535905bdbd3c19
-好消息2,P2p://generationnexxxt.com:19806/75d2c136059342dca8535905bdbd3c19
+好消息二,http://4gtv.mumi.rip:9877/8/litv-ftv17/index.m3u8
+好消息二,http://4gtv.muni.rip:9877/8/litv-ftv17/index.m3u8
+好消息二,https://z88.ubtvfans.com/live/rx1/363/4f45e054be8b9d43aef8e866812fd1dd/index.m3u8
+好消息二,P2p://generationnexxxt.com:19806/2b9f20946a6147dfba8f92373fbafee5
+好消息二,P2p://generationnexxxt.com:19806/75d2c136059342dca8535905bdbd3c19
+好消息二,P2p://generationnexxxt.com:19806/75d2c136059342dca8535905bdbd3c19
 花系列 經典劇場,http://4gtv.mumi.rip:9877/279/4gtv-live016/index.m3u8
 花系列 經典劇場,http://4gtv.muni.rip:9877/279/4gtv-live016/index.m3u8
 華納電影,https://z88.ubtvfans.com/live/rx1/83/baf111f9330624dce5003d1559e188ba/index.m3u8
@@ -1124,8 +1076,8 @@ Z頻道,P2p://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
 龍祥電影,P2p://generationnexxxt.com:19806/1c325d3c69ec458c852b173bf2e397a9
 龍祥電影,P2p://generationnexxxt.com:19806/78502c9b515845a7baca6a3a6ea88b8a
 龍翔時代,https://z88.ubtvfans.com/live/rx1/373/72ff9f42bc18b4d3f46d9a4a0847564e/index.m3u8
-美好購物1,https://z88.ubtvfans.com/live/rx6/1591/251f7b1927b38165f672891c6f8d4e78/index.m3u8
-美好購物2,https://z88.ubtvfans.com/live/rx6/1592/09072a18e84508c56729c0b6e2c80f02/index.m3u8
+美好購物一,https://z88.ubtvfans.com/live/rx6/1591/251f7b1927b38165f672891c6f8d4e78/index.m3u8
+美好購物二,https://z88.ubtvfans.com/live/rx6/1592/09072a18e84508c56729c0b6e2c80f02/index.m3u8
 美食星球,https://z88.ubtvfans.com/live/rx1/1360/87ea76a8fc524eb8b7d3bd41b531f834/index.m3u8
 美食星球,https://z88.ubtvfans.com/live/rx1/3073/d86b0ec21887580d706afa6f903a80d9/index.m3u8
 美食星球,P2p://generationnexxxt.com:19806/1baaeb6967434fee9bf4412904e573b0
@@ -1425,8 +1377,8 @@ Z頻道,P2p://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
 緯來綜合,P2p://generationnexxxt.com:19806/b936f6c565994dc88e2143be7af35c25
 緯來綜合,P2p://generationnexxxt.com:19806/b936f6c565994dc88e2143be7af35c25
 緯來綜合,P2p://generationnexxxt.com:19806/d40310ae8bba42569d3d90b4cf7d9928
-戲劇免費看 1,http://4gtv.mumi.rip:9877/270/4gtv-live010/index.m3u8
-戲劇免費看 2,http://4gtv.mumi.rip:9877/244/4gtv-live006/index.m3u8
+戲劇免費看 一,http://4gtv.mumi.rip:9877/270/4gtv-live010/index.m3u8
+戲劇免費看 二,http://4gtv.mumi.rip:9877/244/4gtv-live006/index.m3u8
 香蕉直擊,http://4gtv.mumi.rip:9877/94/4gtv-4gtv038/index.m3u8
 新唐人亞太,http://4gtv.mumi.rip:9877/223/4gtv-live050/index.m3u8
 新唐人亞太,http://4gtv.mumi.rip:9877/223/4gtv-live050/index.m3u8
@@ -1668,30 +1620,30 @@ DreamWorks 夢工廠動畫,http://4gtv.mumi.rip:9877/282/4gtv-live017/index.m3u8
 DW德國之聲,http://4gtv.mumi.rip:9877/226/4gtv-live071/index.m3u8
 DW德國之聲,http://4gtv.muni.rip:9877/226/4gtv-live071/index.m3u8
 DW德國之聲,http://125.227.210.55:42534/VideoInput/play.ts
-Eleven Sport 1,https://z88.ubtvfans.com/live/rx1/192/7bba77084aa0d15b60323cda284c402b/index.m3u8
-Eleven Sport 1,https://z88.ubtvfans.com/live/rx1/2729/7fea5fb664a75ca66a3da7b3287eb922/index.m3u8
-Eleven Sport 1,https://z88.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
-Eleven Sport 1,P2p://generationnexxxt.com:19806/686833968d4b45319a5942827b997e59
-Eleven Sport 1,P2p://generationnexxxt.com:19806/686833968d4b45319a5942827b997e59
-Eleven Sport 1,P2p://generationnexxxt.com:19806/fcfde35352d5464f9ed1c711ef2d05b1
-Eleven Sport 1,rtmp://f13h.mine.nu/sat/md051
-Eleven Sport 1,rtmp://f13h.mine.nu/sat/tv731
-Eleven Sport 1,rtmp://f13h.mine.nu/sat/tv731
-Eleven Sport 2,https://z88.ubtvfans.com/live/rx1/193/84b86c7de96affad08cef4b0bc0e316f/index.m3u8
-Eleven Sport 2,https://z88.ubtvfans.com/live/rx1/301/3ae8a172c4853bd07f0a1163c4cc1a4b/index.m3u8
-Eleven Sport 2,https://z88.ubtvfans.com/live/rx1/2730/97fe24b806fdddd91089df736dcb6904/index.m3u8
-Eleven Sport 2,P2p://generationnexxxt.com:19806/3efe7901f6354886b0c9fde9e22ebe44
-Eleven Sport 2,P2p://generationnexxxt.com:19806/057061c0da744aa7b035169dba5ebe2a
-Eleven Sport 2,rtmp://f13h.mine.nu/sat/md011
-Eleven Sport 2,rtmp://f13h.mine.nu/sat/md021
-Eleven Sport 2,rtmp://f13h.mine.nu/sat/tv741
-Eleven Sport 2,rtmp://f13h.mine.nu/sat/tv741
-Eleven Sport 2,P2p://generationnexxxt.com:19806/3efe7901f6354886b0c9fde9e22ebe44
-Eleven Sport 3,https://z88.ubtvfans.com/live/rx1/194/d9990b9bb94ee8fd70fc044ebb186f88/index.m3u8
-Eleven Sport 3,https://z88.ubtvfans.com/live/rx1/2731/f5cd20e3b291672ee4b5ff4f13f9d630/index.m3u8
-Eleven Sport 3,https://z88.ubtvfans.com/live/rx3/2722/b0560adafc9ad3997724565a440243db/index.m3u8
-Eleven Sport 3,rtmp://f13h.mine.nu/sat/md041
-Eleven Sport 4,https://z88.ubtvfans.com/live/rx1/2820/662425d9560b953880bbb1a9faa4bb32/index.m3u8
+Eleven Sport 一,https://z88.ubtvfans.com/live/rx1/192/7bba77084aa0d15b60323cda284c402b/index.m3u8
+Eleven Sport 一,https://z88.ubtvfans.com/live/rx1/2729/7fea5fb664a75ca66a3da7b3287eb922/index.m3u8
+Eleven Sport 一,https://z88.ubtvfans.com/live/rx1/3224/74a0fc69b6b226bf9aa0103a8a2ea5eb/index.m3u8
+Eleven Sport 一,P2p://generationnexxxt.com:19806/686833968d4b45319a5942827b997e59
+Eleven Sport 一,P2p://generationnexxxt.com:19806/686833968d4b45319a5942827b997e59
+Eleven Sport 一,P2p://generationnexxxt.com:19806/fcfde35352d5464f9ed1c711ef2d05b1
+Eleven Sport 一,rtmp://f13h.mine.nu/sat/md051
+Eleven Sport 一,rtmp://f13h.mine.nu/sat/tv731
+Eleven Sport 一,rtmp://f13h.mine.nu/sat/tv731
+Eleven Sport 二,https://z88.ubtvfans.com/live/rx1/193/84b86c7de96affad08cef4b0bc0e316f/index.m3u8
+Eleven Sport 二,https://z88.ubtvfans.com/live/rx1/301/3ae8a172c4853bd07f0a1163c4cc1a4b/index.m3u8
+Eleven Sport 二,https://z88.ubtvfans.com/live/rx1/2730/97fe24b806fdddd91089df736dcb6904/index.m3u8
+Eleven Sport 二,P2p://generationnexxxt.com:19806/3efe7901f6354886b0c9fde9e22ebe44
+Eleven Sport 二,P2p://generationnexxxt.com:19806/057061c0da744aa7b035169dba5ebe2a
+Eleven Sport 二,rtmp://f13h.mine.nu/sat/md011
+Eleven Sport 二,rtmp://f13h.mine.nu/sat/md021
+Eleven Sport 二,rtmp://f13h.mine.nu/sat/tv741
+Eleven Sport 二,rtmp://f13h.mine.nu/sat/tv741
+Eleven Sport 二,P2p://generationnexxxt.com:19806/3efe7901f6354886b0c9fde9e22ebe44
+Eleven Sport 三,https://z88.ubtvfans.com/live/rx1/194/d9990b9bb94ee8fd70fc044ebb186f88/index.m3u8
+Eleven Sport 三,https://z88.ubtvfans.com/live/rx1/2731/f5cd20e3b291672ee4b5ff4f13f9d630/index.m3u8
+Eleven Sport 三,https://z88.ubtvfans.com/live/rx3/2722/b0560adafc9ad3997724565a440243db/index.m3u8
+Eleven Sport 三,rtmp://f13h.mine.nu/sat/md041
+Eleven Sport 四,https://z88.ubtvfans.com/live/rx1/2820/662425d9560b953880bbb1a9faa4bb32/index.m3u8
 ELTA娛樂,https://z88.ubtvfans.com/live/rx1/351/2b3a1d012e72cc51d4e149ad3764d8b1/index.m3u8
 ELTA綜合,https://z88.ubtvfans.com/live/rx1/1137/1b0fe62ac4c7f524733c208ea6f0ed21/index.m3u8
 ELTV生活,P2p://generationnexxxt.com:19806/1a430b38978a4a0698ede6f842b3a265
@@ -1723,9 +1675,9 @@ fun探家娛樂,http://4gtv.mumi.rip:9877/2747/4gtv-live011/index.m3u8
 fun探索娛樂,http://4gtv.mumi.rip:9877/274/4gtv-live011/index.m3u8
 Focus風采戲劇,https://www.ofiii.com/channel/watch/ofiii1048
 Focus探索新知,https://www.ofiii.com/channel/watch/ofiii82
-France24,P2p://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
-France24,P2p://generationnexxxt.com:19806/cff5534d052046bf8a4d8b2047aaa7c0
-France24,P2p://generationnexxxt.com:19806/cff5534d052046bf8a4d8b2047aaa7c0
+France2四,P2p://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
+France2四,P2p://generationnexxxt.com:19806/cff5534d052046bf8a4d8b2047aaa7c0
+France2四,P2p://generationnexxxt.com:19806/cff5534d052046bf8a4d8b2047aaa7c0
 FRANCE24 英文,http://4gtv.mumi.rip:9877/316/4gtv-live146/index.m3u8
 FRANCE24 英文,http://4gtv.mumi.rip:9877/3167/4gtv-live146/index.m3u8
 GINX Esports TV,http://4gtv.mumi.rip:9877/179/4gtv-4gtv053/index.m3u8
@@ -1760,7 +1712,7 @@ TVBS新聞臺,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcfTArWknG0ij1O8sl
 臺視,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcbKzA0iTTwUoR5s7U8-rHtI/ts
 中視,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcQ4x_igzrQDNi4ZPjwZFEoo/ts
 華視,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcdriIPhoS8-e7ETHqVHsGp0/ts
-公視3,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcTnDCumJFcvPFAPjuNn5Ewc/ts
+公視三,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcTnDCumJFcvPFAPjuNn5Ewc/ts
 公視戲劇,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcdwUqCq3nO-483yO5-Dppbk/ts
 公視臺語,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcbJNWO6zW_ZBKdkZe2BIV0k/ts
 TVBS綜合,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcRUNa-tuNePQmRCHbrDDuTQ/ts
@@ -1819,11 +1771,11 @@ HITS頻道,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcdykJsX4kniVefVaiyln
 緯來電影,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcfmWGKEnr3LfOhdIAWtbh4Q/ts
 愛爾達體育1臺,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcZNtzjaRaQpLi4eKXUpMUJU/ts
 愛爾達體育2臺,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcVat0QnxdC2fg5qlGW2ClpY/ts
-愛爾達體育3,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcUpAkEoGjDv2CKvVfUDZuRs/ts
+愛爾達體育三,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcUpAkEoGjDv2CKvVfUDZuRs/ts
 愛爾達綜合,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcdnKjfoOZ2cMm0RFb50tO24/ts
 愛爾達影劇,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQccmuJ9vkkf5-Tgfw_acLFqA/ts
-ELEVEN體育 1,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcd428ZOoXIK3SOKFAppygtA/ts
-ELEVEN體育 2,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcRAkkr08b6oCYZdu4jbBk0k/ts
+ELEVEN體育 一,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcd428ZOoXIK3SOKFAppygtA/ts
+ELEVEN體育 二,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcRAkkr08b6oCYZdu4jbBk0k/ts
 JET綜合,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcSXxfapF2a1jiEW0JTsZWjo/ts
 亞洲美食,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcSVXnVUzmwAJeBIXqKO8mAw/ts
 動物星球,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcZPctBoPIiMNFR9usZXeXWo/ts
@@ -1834,7 +1786,7 @@ BBC Lifestyle,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcdZSPYg6ucHHLLlF5
 探索頻道,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcSZj6whJgd9AX6NEpfO_PJk/ts
 Discovery DMAX,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcVYJZ2rARHsgQe-U63lqI_8/ts
 美食星球,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcdoUzEVmLNsy91H8XcNUqas/ts
-歷史頻道 1,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcS_up59H6q5l0-y_jxk_pe4/ts
+歷史頻道 一,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcS_up59H6q5l0-y_jxk_pe4/ts
 Love Nature,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcZqWYkGbMeYgbcXd4YZbQY8/ts
 BBC Earth,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcVFsbCc1Uzi6-Usc0sYaqSI/ts
 Discovery EVE,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcV2FCDMf6o4HbKi4OgjPgGU/ts
@@ -1904,7 +1856,7 @@ CINEMAX,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cinemax_
 東森超視,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvsuper/playlist.m3u8
 東森財經新聞,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvcaijing_twn/playlist.m3u8
 寰宇財經,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/huanyutaiwan_twn/playlist.m3u8
-大愛1,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/daai_twn/playlist.m3u8
+大愛一,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/daai_twn/playlist.m3u8
 龍華戲劇 Lunghua Drama,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuaxiju_twn/playlist.m3u8
 龍華戲劇,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuaxiju_twn/playlist.m3u8
 龍華經典,http://148.135.34.95/mn.php?playurl=http://148.135/lunghuajingdian_twn/playlist.m3u8
@@ -1917,16 +1869,16 @@ AXN,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/axn_twn/play
 緯來綜合,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandzonghe/playlist.m3u8
 緯來育樂,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandyule/playlist.m3u8
 緯來精彩,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandspecial_twn/playlist.m3u8
-好消息 2,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/goods_twn/playlist.m3u8
-大愛2,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/catchplay_twn/playlist.m3u8
+好消息 二,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/goods_twn/playlist.m3u8
+大愛二,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/catchplay_twn/playlist.m3u8
 亞洲美食,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/afc_twn/playlist.m3u8
 美食星球,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/foodplanet_twn/playlist.m3u8
 亞洲旅遊,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tlc_twn/playlist.m3u8
 東森電影,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvmovie/playlist.m3u8
 阿里郎,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/arirang_twn/playlist.m3u8
-博斯運動 1,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosisport1_twn/playlist.m3u8
-博斯運動 2,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosisport2_twn/playlist.m3u8
-博斯高球2,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosigolf2_twn/playlist.m3u8
+博斯運動 一,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosisport1_twn/playlist.m3u8
+博斯運動 二,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosisport2_twn/playlist.m3u8
+博斯高球二,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosigolf2_twn/playlist.m3u8
 博斯網球,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bositennis_twn/playlist.m3u8
 東森洋片,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvwestern/playlist.m3u8
 龍華洋片,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuawestern_twn/playlist.m3u8
@@ -1944,10 +1896,10 @@ EYETV 戲劇,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eye
 愛爾達綜合,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltazonghe_twn/playlist.m3u8
 星衛電影,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/xingwei_movie/playlist.m3u8
 愛爾達影劇,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltayingju_twn/playlist.m3u8
-愛爾達體育2,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltasport2_twn/playlist.m3u8
-愛爾達體育3,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltasport3_twn/playlist.m3u8
+愛爾達體育二,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltasport2_twn/playlist.m3u8
+愛爾達體育三,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltasport3_twn/playlist.m3u8
 AFC 亞洲旅遊,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/asiatravel_twn/playlist.m3u8
-大愛2,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/catchplay_twn/playlist.m3u8
+大愛二,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/catchplay_twn/playlist.m3u8
 東森電影,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvmovie/playlist.m3u8
 東森洋片,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvwestern/playlist.m3u8
 龍華洋片,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuawestern_twn/playlist.m3u8

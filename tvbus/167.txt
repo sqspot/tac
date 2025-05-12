@@ -2,14 +2,14 @@
 中天新聞,http://
 寰宇新聞,http://
 中視新聞,http://
-臺視新聞,http://
+台視新聞,http://
 CNN,http://
 民視,http://
 人間衛視,http://
-臺視,http://
+台視,http://
 大愛,http://
 中視,http://
-霹靂臺灣,http://
+霹靂台灣,http://
 華視,http://
 公視,http://
 公視臺語,http://
@@ -27,13 +27,13 @@ momo親子,http://
 緯來綜合,http://
 八大第一,http://
 八大綜合,http://
-三立臺灣,http://
+三立台灣,http://
 三立都會,http://
 韓國娛樂臺KMTV,http://
 東森綜合,http://
 超視,http://
-東森購物2,http://
-momo購物2,http://
+東森購物二,http://
+momo購物二,http://
 中天綜合,http://
 東風衛視,http://
 年代MUCH,http://
@@ -43,9 +43,9 @@ momo購物2,http://
 TVBS歡樂,http://
 緯來戲劇,http://
 高點電視,http://
-東森購物3,http://
-東森購物1,http://
-momo購物1,http://
+東森購物三,http://
+東森購物一,http://
+momo購物一,http://
 三立iNEWS,http://
 壹電視新聞,http://
 年代新聞,http://
@@ -57,8 +57,8 @@ TVBS新聞,http://
 TVBS,http://
 東森財經新聞,http://
 非凡新聞,http://
-viva購物1,http://
-東森購物5,http://
+viva購物一,http://
+東森購物五,http://
 CATCHPLAY電影,http://
 東森電影,http://
 緯來電影,http://
@@ -71,8 +71,8 @@ amc電影,http://
 CINEMAX,http://
 緯來育樂,http://
 緯來體育,http://
-DAZN 1,http://
-DAZN 2,http://
+DAZN 一,http://
+DAZN 二,http://
 MOMO綜合,http://
 博斯運動一,http://
 緯來日本,http://
@@ -82,73 +82,25 @@ BBC Lifestyle,http://
 Animax,http://
 信吉電視,http://
 JET 綜合,http://
-中臺灣生活網頻道,http://
 鏡電視新聞,http://
 冠軍電視,http://
 Z頻道,http://
-ETtoday綜合,http://
+東森綜合,http://
 非凡商業,http://
 八大娛樂,http://
-運通財經,http://
-全球財經,http://
-誠心電視,http://
-華藝臺灣,http://
-臺灣綜合,http://
-海豚綜合,http://
-威達超舜生活,http://
-臺灣藝術,http://
-樂視,http://
-華藏電視,http://
-十方法界電視,http://
-世界電視,http://
-佛衛慈悲,http://
-信大電視,http://
-全大電視,http://
-美麗人生購物,http://
-正德電視,http://
-天良綜合,http://
-番薯電視,http://
-富立電視,http://
 華視教育體育文化,http://
 冠軍夢想,http://
-新天地民俗,http://
-三聖電視,http://
-紅豆2,http://
-天美麗電視,http://
-雙子衛視,http://
-高雄都會,http://
-NHK,http://
-國會頻道1,http://
-國會頻道2,http://
-幸福空間居家,http://
 高點育樂,http://
-滾動力 rollor,http://
 MTV,http://
 智林體育,http://
-唯心電視,http://
-Global Trekker,http://
-ROCK Action,http://
-TRACE Sport Stars,http://
 美食星球頻道,http://
 寰宇財經,http://
 民視第一,http://
-民視臺灣,http://
+民視台灣,http://
 中視菁採,http://
-臺視財經,http://
-臺視綜合,http://
-小公視(公視兒少臺),http://
-CARTOONITO,http://
-達文西頻道,http://
-寰宇新聞臺灣,http://
-HGTV居家樂活頻道,http://
-MTV Live,http://
-TV5法式生活頻道,http://
-古典音樂,http://
-梅迪奇藝術頻道,http://
-大愛2,http://
-好消息2,http://
-TaiwanPlus,http://
-彭博財經頻道,http://
+中視精采,http://
+台視財經,http://
+台視綜合,http://
 CNBC Asia,http://
 BBC NEWS,http://
 🔶🔶🔶🔶🔶🔶🔶🔶🔶,https://cf005.paopao.video:443/BC48C5030A85D533F789438C6602E18649796C81
@@ -171,8 +123,8 @@ TVBS新聞,p3p://167.114.175.6:55331/621858e3000e70ad1217c0700d576ad0
 三立inews,p3p://167.114.175.6:55331/643a6b71000a47fb156c2a403510409b
 東森財經,p3p://167.114.175.6:55331/61468bd70005123dea7373f226636dba
 非凡商業,p3p://167.114.175.6:55331/621dbc3b00051ea5272370aa6e685347
-博斯運動1,p3p://167.114.175.6:55331/61f02576000b2c0a80eb0552388d145e
-博斯運動2,p3p://167.114.175.6:55331/62639c49000784a03813882a6f5c7e5d
+博斯運動一,p3p://167.114.175.6:55331/61f02576000b2c0a80eb0552388d145e
+博斯運動二,p3p://167.114.175.6:55331/62639c49000784a03813882a6f5c7e5d
 智林體育,p3p://167.114.175.6:55331/62148d7e000079c103453a521daa6e9f
 民視,p3p://167.114.175.6:55331/6001ba8400051d89f5b151a63fa96419
 臺視,p3p://167.114.175.6:55331/612ee2240008f3db8e0578dc59406f9e
@@ -199,10 +151,10 @@ EYE旅遊,p3p://167.114.175.6:55331/64c105a500023b4e2333fd1453e42393
 EL生活英語,p3p://167.114.175.6:55331/624888bb000b784ace507da37b7906ea
 靖天卡通,p3p://167.114.175.6:55331/625b6d3800022fe9181c1ee5362c159d
 Z頻道,p3p://167.114.175.6:55331/64c7ce3f000afa423db36d3f378c386d
-博斯高球1,p3p://167.114.175.6:55331/626b4058000aaf3b55ebf11727dd34f5
-博斯高球2,p3p://167.114.175.6:55331/6258e1c9000c6f010e2b77e9601b5186
-博斯無限1,p3p://167.114.175.6:55331/647cba27000a6f78186e481d11013645
-博斯無限2,p3p://167.114.175.6:55331/6146901b0006875bea841df772893d7b
+博斯高球一,p3p://167.114.175.6:55331/626b4058000aaf3b55ebf11727dd34f5
+博斯高球二,p3p://167.114.175.6:55331/6258e1c9000c6f010e2b77e9601b5186
+博斯無限一,p3p://167.114.175.6:55331/647cba27000a6f78186e481d11013645
+博斯無限二,p3p://167.114.175.6:55331/6146901b0006875bea841df772893d7b
 Star World,p3p://167.114.175.6:55331/621dc4640002052a2743501031f65ed4
 Animax,p3p://167.114.175.6:55331/61e0f9f0000ec6db45a9e87848424184
 HITS,p3p://167.114.175.6:55331/6233e648000735057db6cf734adf440d
@@ -230,8 +182,8 @@ TLC臺灣,p3p://167.114.175.6:55331/5fe16de700083ba97787607e74d90cb5
 龍華日韓,p3p://167.114.175.6:55331/621e1d0e00085766289da9bb1d7120af
 靖天戲劇,p3p://167.114.175.6:55331/612db70e000298f98975294e4645098b
 影迷數位電影,p3p://167.114.175.6:55331/6223ae1b0007136f3e5c44280e3300fa
-Eleven 1,p3p://167.114.175.6:55331/6027f40400042e0d8b002a1b0af27e77
-Eleven 2,p3p://167.114.175.6:55331/6025f1d0000440c783278efb13a4147e
+Eleven 一,p3p://167.114.175.6:55331/6027f40400042e0d8b002a1b0af27e77
+Eleven 二,p3p://167.114.175.6:55331/6025f1d0000440c783278efb13a4147e
 Momo親子,p3p://167.114.175.6:55331/61e0ffbf000c4e3545c098666cb76c2d
 FTV影劇,p3p://167.114.175.6:55331/63ebf3c5000246e9e2e9ff2f72d22633
 FTV綜藝,p3p://167.114.175.6:55331/63ebf41d000b6335e2eb595050b6303b
@@ -239,7 +191,7 @@ FTV旅遊,p3p://167.114.175.6:55331/63ebf4b70008a733e2edb2296e997eb6
 龍華偶像,p3p://167.114.175.6:55331/609bb1b0000732744f174daa791d3b43
 龍華戲劇,p3p://167.114.175.6:55331/6214c295000a5fa204149eb30d3c30b4
 龍華經典,p3p://167.114.175.6:55331/6223b9d8000ef67e3e8a2073190e36d5
-東風37,p3p://167.114.175.6:55331/65e43760000a035494a8bab255152210
+東風3七,p3p://167.114.175.6:55331/65e43760000a035494a8bab255152210
 民視臺灣,p3p://167.114.175.6:55331/6388b888000de54e5f4c698049f16f53
 LoveNature,p3p://167.114.175.6:55331/6233fcfa000be8f27e0f78035e656379
 TVBS,p3p://167.114.175.6:55331/612ee5ef000f06f58e144b6727ec3efb
@@ -288,12 +240,12 @@ MTV臺灣,p3p://167.114.175.6:55331/621e1827000d7a3a288a84ae70c44b0d
 Life Time,p3p://167.114.175.6:55331/623a91f0000d3ab297c4e6e2101d46b4
 GOOD TV,p3p://167.114.175.6:55331/63ed9f4900046160e96ffb5b44333476
 民視旅遊,p3p://167.114.175.6:55331/61769f2d000d84d7a63c4df74f4f24c4
-愛爾達體育1,p3p://167.114.175.6:55331/623a8d50000c965397b2d5b26c7b25bd
-愛爾達體育2,p3p://167.114.175.6:55331/623a8d8d0001570d97b3c11a65640b68
-愛爾達體育3,p3p://167.114.175.6:55331/622e99e60004026169046fd918be6ed7
-愛爾達體育4,p3p://167.114.175.6:55331/6561b7fc0008015996e9acc674481614
+愛爾達體育一,p3p://167.114.175.6:55331/623a8d50000c965397b2d5b26c7b25bd
+愛爾達體育二,p3p://167.114.175.6:55331/623a8d8d0001570d97b3c11a65640b68
+愛爾達體育三,p3p://167.114.175.6:55331/622e99e60004026169046fd918be6ed7
+愛爾達體育四,p3p://167.114.175.6:55331/6561b7fc0008015996e9acc674481614
 歷史頻道,p3p://167.114.175.6:55331/6233e1a30007e08d7da4ab21717b3e79
-歷史頻道2,p3p://167.114.175.6:55331/6233e2240002d3af7da6a1bf693a1ed5
+歷史頻道二,p3p://167.114.175.6:55331/6233e2240002d3af7da6a1bf693a1ed5
 探索頻道,p3p://167.114.175.6:55331/62c759f2000bc06bbdab761176c927da
 Trace Sport,p3p://167.114.175.6:55331/644faccf000c7b6368730354764b17ed
 天映經典,p3p://167.114.175.6:55331/5fded422000d0eb46d5f29815c1d4155
@@ -333,8 +285,8 @@ Global Trekker,p3p://167.114.175.6:55331/644fb34f000f396e688c67ff6b147338
 Baby TV,p3p://167.114.175.6:55331/64bea3f00002bdf919e6522520650b26
 華藝綜合,p3p://167.114.175.6:55331/64c62137000746f437278510051625d8
 ELtoday綜合,p3p://167.114.175.6:55331/64c7d0cb0005131a3dbd5e9f3e8523f2
-國會頻道 1,p3p://167.114.175.6:55331/64ce0646000722d755fe479603e64ba8
-國會頻道 2,p3p://167.114.175.6:55331/64ce06980008b4f755ff884d646a56da
+國會頻道 一,p3p://167.114.175.6:55331/64ce0646000722d755fe479603e64ba8
+國會頻道 二,p3p://167.114.175.6:55331/64ce06980008b4f755ff884d646a56da
 SMART,p3p://167.114.175.6:55331/64e367a800053465a982145d191f168f
 寰宇財經,p3p://167.114.175.6:55331/64e36edf00052681a99e432a601547f5
 Rock Action,p3p://167.114.175.6:55331/65ad274400000b46bd92da681fce74f2
@@ -345,8 +297,8 @@ Rock Entertainmen,p3p://167.114.175.6:55331/65ad27c7000dfceebd94ddb20bec19f4
 番薯,p3p://167.114.175.6:55331/64c27b030001a1b728e6741548c32c95
 新唐人亞太,p3p://167.114.175.6:55331/64c0187c00055bf21f9595b742f56a64
 時尚運動,p3p://167.114.175.6:55331/644fc33200017f2468ca733749451091
-大愛1,p3p://167.114.175.6:55331/63ed9fff00076875e972c31c79f4152e
-大愛2,p3p://167.114.175.6:55331/63eda04a0001f6fae973e6a334696980
+大愛一,p3p://167.114.175.6:55331/63ed9fff00076875e972c31c79f4152e
+大愛二,p3p://167.114.175.6:55331/63eda04a0001f6fae973e6a334696980
 國興衛視,p3p://167.114.175.6:55331/64bbca22000912200ec3b2631bca27c7
 大陸MainLand,#genre#
 CCTV綜合,p3p://167.114.175.6:55331/62c200310006b7b2a8c4dade0fd02231
@@ -426,26 +378,26 @@ CGTN俄語,p3p://167.114.175.6:55331/60e648570006544872703d417386353f
 CGTN阿拉伯,p3p://167.114.175.6:55331/60e647e200033b4a726e736d14e93334
 體育SP,#genre#
 TVB Plus(低延時),p3p://167.114.175.6:55331/6649bce20008d56453eeebfc022701f1
-Now Golf 2,p3p://167.114.175.6:55331/65ac341b0001d490b9dd02ac4c2c28a0
-Now Golf 3,p3p://167.114.175.6:55331/65ac34bf000aaf51b9df85914abe0ec4
-Mytv Super18,p3p://167.114.175.6:55331/670b6a12000d5f9553274d8964ed18d1
-Now Sports 1,p3p://167.114.175.6:55331/63ed464b000b911be8145d035c4e0f21
-Now Sports 2,p3p://167.114.175.6:55331/63ed46be0002b99be8161bfd62d87e90
-Now Sports 3,p3p://167.114.175.6:55331/63ed4715000c1bffe81772386f5b27f7
-Now Sports 4,p3p://167.114.175.6:55331/63ed478e000a98f2e8194a7c2bdc7fe6
-Now Sports 5,p3p://167.114.175.6:55331/63ed98c2000122f4e9567b333a74077a
-Now Sports 6,p3p://167.114.175.6:55331/63ed98d90002f8f6e956d5822ff208b1
-Now Sports 7,p3p://167.114.175.6:55331/63ed990600010efde95784d4529f16d2
+Now Golf 二,p3p://167.114.175.6:55331/65ac341b0001d490b9dd02ac4c2c28a0
+Now Golf 三,p3p://167.114.175.6:55331/65ac34bf000aaf51b9df85914abe0ec4
+Mytv Super1八,p3p://167.114.175.6:55331/670b6a12000d5f9553274d8964ed18d1
+Now Sports 一,p3p://167.114.175.6:55331/63ed464b000b911be8145d035c4e0f21
+Now Sports 二,p3p://167.114.175.6:55331/63ed46be0002b99be8161bfd62d87e90
+Now Sports 三,p3p://167.114.175.6:55331/63ed4715000c1bffe81772386f5b27f7
+Now Sports 四,p3p://167.114.175.6:55331/63ed478e000a98f2e8194a7c2bdc7fe6
+Now Sports 五,p3p://167.114.175.6:55331/63ed98c2000122f4e9567b333a74077a
+Now Sports 六,p3p://167.114.175.6:55331/63ed98d90002f8f6e956d5822ff208b1
+Now Sports 七,p3p://167.114.175.6:55331/63ed990600010efde95784d4529f16d2
 Now Sports Prime,p3p://167.114.175.6:55331/644edbcc0004d5a765428da71f967a86
 NowSports plus,p3p://167.114.175.6:55331/65a442ed000e5f029ad7146558606385
 NowSports 英超,p3p://167.114.175.6:55331/65acf008000b26e4bcbb1adc24476b3f
 NOW 668跑馬,p3p://167.114.175.6:55331/6318b7730000b372fb7ca7e170c66e54
 Now NBA TV,p3p://167.114.175.6:55331/65a587500007bc039fca3566638e69af
-Now Sports 681,p3p://167.114.175.6:55331/66f1356e0005d8d3ecca2d7233da5500
+Now Sports 68一,p3p://167.114.175.6:55331/66f1356e0005d8d3ecca2d7233da5500
 智慧跑馬,p3p://167.114.175.6:55331/66e860ba000b17abca4b7ac11c665324
-Bein Sport 1,p3p://167.114.175.6:55331/667b10d1000e2b38149def9902d56b98
-Bein Sport 2,p3p://167.114.175.6:55331/667b119a00012c7814a0fd5f0a4144be
-Bein Sport 3,p3p://167.114.175.6:55331/667b130b000bb1a114a6a17a06ea671a
+Bein Sport 一,p3p://167.114.175.6:55331/667b10d1000e2b38149def9902d56b98
+Bein Sport 二,p3p://167.114.175.6:55331/667b119a00012c7814a0fd5f0a4144be
+Bein Sport 三,p3p://167.114.175.6:55331/667b130b000bb1a114a6a17a06ea671a
 Fight Sports,p3p://167.114.175.6:55331/65a4480e000eb9449aeb1d5a33663b73
 CCTV體育,p3p://167.114.175.6:55331/62c2e10a000954acac332b30611a0e9d
 CCTV奧林匹克,p3p://167.114.175.6:55331/632350a5000deee324e2a2bc22a37dd9
@@ -453,87 +405,87 @@ CCTV體育賽事,p3p://167.114.175.6:55331/6323522b0000ad5c24e892c57ad041c7
 廣東體育,p3p://167.114.175.6:55331/63ec4b8400036b28e440c19a1b512b44
 新視覺,p3p://167.114.175.6:55331/63ec4d870003e9f2e4489d7821254fbb
 五星體育,p3p://167.114.175.6:55331/63ec4dc200075675e44984ca52f86245
-博斯運動1,p3p://167.114.175.6:55331/61f02576000b2c0a80eb0552388d145e
-博斯運動2,p3p://167.114.175.6:55331/62639c49000784a03813882a6f5c7e5d
+博斯運動一,p3p://167.114.175.6:55331/61f02576000b2c0a80eb0552388d145e
+博斯運動二,p3p://167.114.175.6:55331/62639c49000784a03813882a6f5c7e5d
 Z頻道,p3p://167.114.175.6:55331/64c7ce3f000afa423db36d3f378c386d
-博斯高球1,p3p://167.114.175.6:55331/626b4058000aaf3b55ebf11727dd34f5
-博斯高球2,p3p://167.114.175.6:55331/6258e1c9000c6f010e2b77e9601b5186
-博斯無限1,p3p://167.114.175.6:55331/647cba27000a6f78186e481d11013645
-博斯無限2,p3p://167.114.175.6:55331/6146901b0006875bea841df772893d7b
-Eleven 1,p3p://167.114.175.6:55331/6027f40400042e0d8b002a1b0af27e77
-Eleven 2,p3p://167.114.175.6:55331/6025f1d0000440c783278efb13a4147e
+博斯高球一,p3p://167.114.175.6:55331/626b4058000aaf3b55ebf11727dd34f5
+博斯高球二,p3p://167.114.175.6:55331/6258e1c9000c6f010e2b77e9601b5186
+博斯無限一,p3p://167.114.175.6:55331/647cba27000a6f78186e481d11013645
+博斯無限二,p3p://167.114.175.6:55331/6146901b0006875bea841df772893d7b
+Eleven 一,p3p://167.114.175.6:55331/6027f40400042e0d8b002a1b0af27e77
+Eleven 二,p3p://167.114.175.6:55331/6025f1d0000440c783278efb13a4147e
 博斯網球,p3p://167.114.175.6:55331/6275f21d000aeb447fb1e83c30d60273
-愛爾達體育1,p3p://167.114.175.6:55331/623a8d50000c965397b2d5b26c7b25bd
-愛爾達體育2,p3p://167.114.175.6:55331/623a8d8d0001570d97b3c11a65640b68
-愛爾達體育3,p3p://167.114.175.6:55331/622e99e60004026169046fd918be6ed7
-愛爾達體育4,p3p://167.114.175.6:55331/6561b7fc0008015996e9acc674481614
+愛爾達體育一,p3p://167.114.175.6:55331/623a8d50000c965397b2d5b26c7b25bd
+愛爾達體育二,p3p://167.114.175.6:55331/623a8d8d0001570d97b3c11a65640b68
+愛爾達體育三,p3p://167.114.175.6:55331/622e99e60004026169046fd918be6ed7
+愛爾達體育四,p3p://167.114.175.6:55331/6561b7fc0008015996e9acc674481614
 緯來體育,p3p://167.114.175.6:55331/5fe16e4c000e45c17788ec964e9c5564
-Astro supersport1,p3p://167.114.175.6:55331/5ff7e55400052a7dcf48ff687a820e5c
-Astro supersport2,p3p://167.114.175.6:55331/5fded34c0008475b6d5be45731d55d06
-Astro supersport3,p3p://167.114.175.6:55331/5fded3620008eeb26d5c3a725b5a1adb
-Astro supersport4,p3p://167.114.175.6:55331/5fded3740003f8816d5c7f7d3e15547d
+Astro supersport一,p3p://167.114.175.6:55331/5ff7e55400052a7dcf48ff687a820e5c
+Astro supersport二,p3p://167.114.175.6:55331/5fded34c0008475b6d5be45731d55d06
+Astro supersport三,p3p://167.114.175.6:55331/5fded3620008eeb26d5c3a725b5a1adb
+Astro supersport四,p3p://167.114.175.6:55331/5fded3740003f8816d5c7f7d3e15547d
 W-Sport,p3p://167.114.175.6:55331/620c702d0008c6faef6d8abc762a3edd
-HUB premier1,p3p://167.114.175.6:55331/64bbb3db0000179e0e6caac365cb5ea7
-HUB premier2,p3p://167.114.175.6:55331/64bbb44c0002cfb40e6e64de0f652363
-HUB premier3,p3p://167.114.175.6:55331/64bbb4a20003920c0e6fb5005f03654a
-HUB premier4,p3p://167.114.175.6:55331/64bbb4e7000d13560e70c4f7058227b2
+HUB premier一,p3p://167.114.175.6:55331/64bbb3db0000179e0e6caac365cb5ea7
+HUB premier二,p3p://167.114.175.6:55331/64bbb44c0002cfb40e6e64de0f652363
+HUB premier三,p3p://167.114.175.6:55331/64bbb4a20003920c0e6fb5005f03654a
+HUB premier四,p3p://167.114.175.6:55331/64bbb4e7000d13560e70c4f7058227b2
 歐洲體育,p3p://167.114.175.6:55331/5fe6fc92000bb0078d3cad5824d31e8a
 SpoTV,p3p://167.114.175.6:55331/656f74ac00097859cc92688069041bb5
-SpoTV 2,p3p://167.114.175.6:55331/656f7589000dd70dcc95c8e80c56468e
+SpoTV 二,p3p://167.114.175.6:55331/656f7589000dd70dcc95c8e80c56468e
 Bein Sports,p3p://167.114.175.6:55331/5fe6fd5000061a148d3f921a327e3828
 Bein Sp Max,p3p://167.114.175.6:55331/5fe6c7e800036a868c6ef32902134116
-HUBsport1,p3p://167.114.175.6:55331/64bbbba7000905300e8b21e65c785e75
-HUBsport2,p3p://167.114.175.6:55331/64bbbbf60005e74b0e8c55b22fb43142
-HUBsport3,p3p://167.114.175.6:55331/64bbbc3f000774ab0e8d73402eb41ee6
-HUBsport4,p3p://167.114.175.6:55331/64bbbc97000012a50e8ec91c522d59af
-HUBsport5,p3p://167.114.175.6:55331/64bbbcde000394020e8fdf5a387a2bac
+HUBsport一,p3p://167.114.175.6:55331/64bbbba7000905300e8b21e65c785e75
+HUBsport二,p3p://167.114.175.6:55331/64bbbbf60005e74b0e8c55b22fb43142
+HUBsport三,p3p://167.114.175.6:55331/64bbbc3f000774ab0e8d73402eb41ee6
+HUBsport四,p3p://167.114.175.6:55331/64bbbc97000012a50e8ec91c522d59af
+HUBsport五,p3p://167.114.175.6:55331/64bbbcde000394020e8fdf5a387a2bac
 衛視體育,p3p://167.114.175.6:55331/6567988e0000e3a1addebb21084a3ba9
-衛視體育 2,p3p://167.114.175.6:55331/656b06be00029e16bb452713093c6af9
-Astro Arenabola 1,p3p://167.114.175.6:55331/64bd05ac0000680a139417f110dd4659
-Astro Arenabola 2,p3p://167.114.175.6:55331/64bd0692000e510013979df27f954b02
-Beinsport FR1,p3p://fccsen.dyndns.tv:29706/5ef28d5e000ea60a544bbad142d06817
-Beinsport FR2,p3p://fccsen.dyndns.tv:29706/5a98ef450005f615a10e26f24e4370bc
-Beinsport FR3,p3p://fccsen.dyndns.tv:29706/5a98ef60000d6566a10e9251042026f2
+衛視體育 二,p3p://167.114.175.6:55331/656b06be00029e16bb452713093c6af9
+Astro Arenabola 一,p3p://167.114.175.6:55331/64bd05ac0000680a139417f110dd4659
+Astro Arenabola 二,p3p://167.114.175.6:55331/64bd0692000e510013979df27f954b02
+Beinsport FR一,p3p://fccsen.dyndns.tv:29706/5ef28d5e000ea60a544bbad142d06817
+Beinsport FR二,p3p://fccsen.dyndns.tv:29706/5a98ef450005f615a10e26f24e4370bc
+Beinsport FR三,p3p://fccsen.dyndns.tv:29706/5a98ef60000d6566a10e9251042026f2
 UFC pass,p3p://fccsen.dyndns.tv:29706/5c4a5ad2000ba3f2fbdd8ccf71297ceb
 WWE,p3p://fccsen.dyndns.tv:29706/5b987ab5000ef7018744e50174a621bd
 Bein Sports USA,p3p://fccsen.dyndns.tv:29706/5c4a5e2a000ddac2fbea9d2420355926
 Bein Sport CA,p3p://fccsen.dyndns.tv:29706/5bd63729000b758e786c5e885c6634e3
 Fight Network,p3p://fccsen.dyndns.tv:29706/5b9878b100084486873d03b816881da0
-ESPN 1,p3p://fccsen.dyndns.tv:29706/59d24815000bb22cad7630914a1924b3
-ESPN 2,p3p://fccsen.dyndns.tv:29706/59bbf1fd000b428d563618b379a53086
+ESPN 一,p3p://fccsen.dyndns.tv:29706/59d24815000bb22cad7630914a1924b3
+ESPN 二,p3p://fccsen.dyndns.tv:29706/59bbf1fd000b428d563618b379a53086
 ESPN U,p3p://fccsen.dyndns.tv:29706/5a88cf44000028fc621142635fc84be5
 NBA TV US,p3p://fccsen.dyndns.tv:29706/5d45b702000419e9d1bd300979f803ab
 NBA Canada,p3p://fccsen.dyndns.tv:29706/5d45b6b600003de3d1bc062c6ca215ee
-Fox Sport 1,p3p://fccsen.dyndns.tv:29706/59bbf21600071468563679492664613f
-Fox Sport 2,p3p://fccsen.dyndns.tv:29706/59e2b81e00049c3eedabbfe568a9573b
+Fox Sport 一,p3p://fccsen.dyndns.tv:29706/59bbf21600071468563679492664613f
+Fox Sport 二,p3p://fccsen.dyndns.tv:29706/59e2b81e00049c3eedabbfe568a9573b
 Tennis,p3p://fccsen.dyndns.tv:29706/60b962030008c44344f88b155b45442f
 NFL Network,p3p://fccsen.dyndns.tv:29706/59bbf3f3000ef74f563dc29848a479f9
 NHL Network,p3p://fccsen.dyndns.tv:29706/5a4ae10a0001df28702715530b3e23dc
 CBS Sports,p3p://fccsen.dyndns.tv:29706/5a00e21b00058e784f1bc6f62dc403e6
 NBC Golf,p3p://fccsen.dyndns.tv:29706/5a6fa9f5000250ecffd7a5d26d0b1c97
 MLB Network,p3p://fccsen.dyndns.tv:29706/59bbf25c0002fe03563789ad321d31ef
-TSN 1,p3p://fccsen.dyndns.tv:29706/5d45b4440002e468d1b279875cc53184
-TSN 2,p3p://fccsen.dyndns.tv:29706/5d45b49f0004b838d1b3dd774be667a4
-TSN 3,p3p://fccsen.dyndns.tv:29706/5d45b529000804ebd1b5f9606eef3d87
-TSN 4,p3p://fccsen.dyndns.tv:29706/5d45b59600028129d1b7a1bf71b50a26
-TSN 5,p3p://fccsen.dyndns.tv:29706/5d45b5f9000516c8d1b92521608c3d5d
+TSN 一,p3p://fccsen.dyndns.tv:29706/5d45b4440002e468d1b279875cc53184
+TSN 二,p3p://fccsen.dyndns.tv:29706/5d45b49f0004b838d1b3dd774be667a4
+TSN 三,p3p://fccsen.dyndns.tv:29706/5d45b529000804ebd1b5f9606eef3d87
+TSN 四,p3p://fccsen.dyndns.tv:29706/5d45b59600028129d1b7a1bf71b50a26
+TSN 五,p3p://fccsen.dyndns.tv:29706/5d45b5f9000516c8d1b92521608c3d5d
 SportNet Onario,p3p://fccsen.dyndns.tv:29706/5a91a001000da01d8480975a091c2e97
 SportNet One,p3p://fccsen.dyndns.tv:29706/5a963c9e0005850496844a812ee772e1
 SportNet World,p3p://fccsen.dyndns.tv:29706/5bd63c310006787478800487439a602d
 SportNet 360,p3p://fccsen.dyndns.tv:29706/5a919d78000cca498476aff825dd1e95
 SportsNet Pacific,p3p://fccsen.dyndns.tv:29706/5a010fe5000bffa64fcea5b471a63932
-Sky Sport 1,p3p://fccsen.dyndns.tv:29706/59bbf34800086cb2563b24f202e31678
-Sky Sport 2,p3p://fccsen.dyndns.tv:29706/59bbf35f000c9fdb563b7fde3a4d1307
-Sky Sport 3,p3p://fccsen.dyndns.tv:29706/59bbf373000890ed563bccf43f3c5b45
-Sky Sport 4,p3p://fccsen.dyndns.tv:29706/59bbf38b00055cc7563c29e26168677c
-Sky Sport 5,p3p://fccsen.dyndns.tv:29706/59bbf3a100017e4d563c7ed4483777f8
-Sky Sport F1,p3p://fccsen.dyndns.tv:29706/59bbf3bc000ad51e563ceab13ecd1b97
+Sky Sport 一,p3p://fccsen.dyndns.tv:29706/59bbf34800086cb2563b24f202e31678
+Sky Sport 二,p3p://fccsen.dyndns.tv:29706/59bbf35f000c9fdb563b7fde3a4d1307
+Sky Sport 三,p3p://fccsen.dyndns.tv:29706/59bbf373000890ed563bccf43f3c5b45
+Sky Sport 四,p3p://fccsen.dyndns.tv:29706/59bbf38b00055cc7563c29e26168677c
+Sky Sport 五,p3p://fccsen.dyndns.tv:29706/59bbf3a100017e4d563c7ed4483777f8
+Sky Sport F一,p3p://fccsen.dyndns.tv:29706/59bbf3bc000ad51e563ceab13ecd1b97
 Sky Sp Football,p3p://fccsen.dyndns.tv:29706/5da52b34000c1b45469ab71b318b6093
 Sky Sp Mix,p3p://fccsen.dyndns.tv:29706/5da52b4b0009e11d469b106164071071
 Sky Sp News,p3p://fccsen.dyndns.tv:29706/5da88b06000cd6cd53c9039a2e9d468e
-BT Sport 1,p3p://fccsen.dyndns.tv:29706/59d2486d0006b186ad7787092c1d60d5
-BT Sport 2,p3p://fccsen.dyndns.tv:29706/59c67e480005fd5b7f6a09dd58e05390
-BT Sport 3,p3p://fccsen.dyndns.tv:29706/59c67ea30007574b7f6b6dad749b5b27
+BT Sport 一,p3p://fccsen.dyndns.tv:29706/59d2486d0006b186ad7787092c1d60d5
+BT Sport 二,p3p://fccsen.dyndns.tv:29706/59c67e480005fd5b7f6a09dd58e05390
+BT Sport 三,p3p://fccsen.dyndns.tv:29706/59c67ea30007574b7f6b6dad749b5b27
 Box Nation,p3p://fccsen.dyndns.tv:29706/5da88b680004bc7853ca80576e5749ab
 Boxing PPV,p3p://fccsen.dyndns.tv:29706/5bb2c40b00069f12edf2eebd5ee90f8e
 Sportsman,p3p://fccsen.dyndns.tv:29706/5bdb7bf8000ab3088d010e335cea74bd
@@ -541,22 +493,22 @@ Outdoor Channel,p3p://fccsen.dyndns.tv:29706/5f09429b000cd96facff9af478c91021
 BTN,p3p://fccsen.dyndns.tv:29706/5aaf028100050fa9f74917ca7a3253ae
 SEC Network,p3p://fccsen.dyndns.tv:29706/5bc2b56600073def2c39a4ba2dc5036b
 LongHorn Network,p3p://fccsen.dyndns.tv:29706/5bc2b10500008a6d2c2888161d4270ba
-Euro Sport 1,p3p://fccsen.dyndns.tv:29706/5a21d4d80004d603cfcfc43c12066d47
-Euro Sport 2,p3p://fccsen.dyndns.tv:29706/5a21d4ed00032238cfd015d5794173ae
+Euro Sport 一,p3p://fccsen.dyndns.tv:29706/5a21d4d80004d603cfcfc43c12066d47
+Euro Sport 二,p3p://fccsen.dyndns.tv:29706/5a21d4ed00032238cfd015d5794173ae
 MUTV,p3p://fccsen.dyndns.tv:29706/5f7b32e5000e762d6a11bc6c06985c05
-Bein Sport 1,p3p://fccsen.dyndns.tv:29706/5a1f68cc00061b05c659b5aa2f9847d2
-Bein Sport 2,p3p://fccsen.dyndns.tv:29706/5a1f68e5000d96d2c65a193c00820b97
-Bein Sport 3,p3p://fccsen.dyndns.tv:29706/5a1f68fb000eb809c65a6f77129c27b7
-Bein Sport 4,p3p://fccsen.dyndns.tv:29706/5a1f69110000604ec65ac1bb33b85661
-Bein Sport 5,p3p://fccsen.dyndns.tv:29706/5a1f692c0002560ec65b2bb32e51613a
-Bein Sport 6,p3p://fccsen.dyndns.tv:29706/5a1f6942000115e4c65b81511ddf34a7
-Bein Sport 7,p3p://fccsen.dyndns.tv:29706/5a1f6957000a184ac65bd5a807cf26bc
-Bein Sport Prem 1,p3p://fccsen.dyndns.tv:29706/5a1f696e0005f6a2c65c2e7110023294
-Bein Sport Prem 2,p3p://fccsen.dyndns.tv:29706/5a1f698100081e53c65c793717150202
-Bein Sport Prem 3,p3p://fccsen.dyndns.tv:29706/a1f69970005708ac65cce77777239ce
-Bein Sport En 1,p3p://fccsen.dyndns.tv:29706/5a1f69ad0007ff61c65d250f47281dca
-Bein Sport En 2,p3p://fccsen.dyndns.tv:29706/5ef11e1f000008b04eb1290024910156
-Bein Sport En 3,p3p://fccsen.dyndns.tv:29706/5d5f29ac0006d5de3524f92c68f87d9
+Bein Sport 一,p3p://fccsen.dyndns.tv:29706/5a1f68cc00061b05c659b5aa2f9847d2
+Bein Sport 二,p3p://fccsen.dyndns.tv:29706/5a1f68e5000d96d2c65a193c00820b97
+Bein Sport 三,p3p://fccsen.dyndns.tv:29706/5a1f68fb000eb809c65a6f77129c27b7
+Bein Sport 四,p3p://fccsen.dyndns.tv:29706/5a1f69110000604ec65ac1bb33b85661
+Bein Sport 五,p3p://fccsen.dyndns.tv:29706/5a1f692c0002560ec65b2bb32e51613a
+Bein Sport 六,p3p://fccsen.dyndns.tv:29706/5a1f6942000115e4c65b81511ddf34a7
+Bein Sport 七,p3p://fccsen.dyndns.tv:29706/5a1f6957000a184ac65bd5a807cf26bc
+Bein Sport Prem 一,p3p://fccsen.dyndns.tv:29706/5a1f696e0005f6a2c65c2e7110023294
+Bein Sport Prem 二,p3p://fccsen.dyndns.tv:29706/5a1f698100081e53c65c793717150202
+Bein Sport Prem 三,p3p://fccsen.dyndns.tv:29706/a1f69970005708ac65cce77777239ce
+Bein Sport En 一,p3p://fccsen.dyndns.tv:29706/5a1f69ad0007ff61c65d250f47281dca
+Bein Sport En 二,p3p://fccsen.dyndns.tv:29706/5ef11e1f000008b04eb1290024910156
+Bein Sport En 三,p3p://fccsen.dyndns.tv:29706/5d5f29ac0006d5de3524f92c68f87d9
 SuperSport Grandstand,p3p://fccsen.dyndns.tv:29706/5dbc731200013b91a18b6503780f38d0
 SuperSport PSL,p3p://fccsen.dyndns.tv:29706/5dbc73ba000d158aa18df84d33bd4bff
 SuperSport Pre League,p3p://fccsen.dyndns.tv:29706/5dbc73d500049208a18e5f9739337dfd
@@ -565,10 +517,10 @@ SuperSport Football,p3p://fccsen.dyndns.tv:29706/5dbc740a0006d936a18f2f3543ec57d
 SuperSport Action,p3p://fccsen.dyndns.tv:29706/5dbc741f000025baa18f7f8645924e7b
 SuperSport Rugby,p3p://fccsen.dyndns.tv:29706/5dbc7435000d2dd2a18fd8cc7a344674
 SuperSport Cricket,p3p://fccsen.dyndns.tv:29706/5dbc745300014275a1904aef433312fc
-SuperSport Variety 1,p3p://fccsen.dyndns.tv:29706/5dbc74710008621ba190c1f24c216128
-SuperSport Variety 2,p3p://fccsen.dyndns.tv:29706/5dbc748a0006d246a191233468e4297b
-SuperSport Variety 3,p3p://fccsen.dyndns.tv:29706/5dbc749d00080638a1916dba593e7aba
-SuperSport Variety 4,p3p://fccsen.dyndns.tv:29706/5dbc74c900008634a19217af0b863fd8
+SuperSport Variety 一,p3p://fccsen.dyndns.tv:29706/5dbc74710008621ba190c1f24c216128
+SuperSport Variety 二,p3p://fccsen.dyndns.tv:29706/5dbc748a0006d246a191233468e4297b
+SuperSport Variety 三,p3p://fccsen.dyndns.tv:29706/5dbc749d00080638a1916dba593e7aba
+SuperSport Variety 四,p3p://fccsen.dyndns.tv:29706/5dbc74c900008634a19217af0b863fd8
 SuperSport Golf,p3p://fccsen.dyndns.tv:29706/6054cab100024980bc0a712d07be2c17
 SuperSport Motorsport,p3p://fccsen.dyndns.tv:29706/6054cbf2000bd5e5bc0f59891d6e7c3a
 SuperSport Tennis,p3p://fccsen.dyndns.tv:29706/6054ca0c000ad56fbc07eed506db110e
@@ -576,29 +528,29 @@ SuperSport Blitz,p3p://fccsen.dyndns.tv:29706/5dbc74fe0008c0d2a192e8d33c6f6d51
 Willow,p3p://fccsen.dyndns.tv:29706/5a543545000aaa9994980d951f4c2f9e
 Ten Cricket,p3p://fccsen.dyndns.tv:29706/5bd26cbb000905b1699da03b0639484d
 Sony Six,p3p://fccsen.dyndns.tv:29706/5c50d53f000e5e5b152bc745689b1314
-Sony Sport 1,p3p://fccsen.dyndns.tv:29706/5c51efc90002ddfa197b6f6c0ab13797
-Sony Sport 2,p3p://fccsen.dyndns.tv:29706/5df15ff80000a3567048b32252e81d0d
-Sony Sport 3,p3p://fccsen.dyndns.tv:29706/5df16034000b13a17049a02e74d65fb6
-Star Sport 1,p3p://fccsen.dyndns.tv:29706/5c51f015000da131197c9b0e3693674d
-Star Sport 2,p3p://fccsen.dyndns.tv:29706/5c51f03100032ff1197d05c12f5e3263
-StarSportsSelect 1,p3p://fccsen.dyndns.tv:29706/5c51f049000813ac197d64c230595e26
-StarSportsSelect 2,p3p://fccsen.dyndns.tv:29706/5c51f0630000c718197dc8746136750f
+Sony Sport 一,p3p://fccsen.dyndns.tv:29706/5c51efc90002ddfa197b6f6c0ab13797
+Sony Sport 二,p3p://fccsen.dyndns.tv:29706/5df15ff80000a3567048b32252e81d0d
+Sony Sport 三,p3p://fccsen.dyndns.tv:29706/5df16034000b13a17049a02e74d65fb6
+Star Sport 一,p3p://fccsen.dyndns.tv:29706/5c51f015000da131197c9b0e3693674d
+Star Sport 二,p3p://fccsen.dyndns.tv:29706/5c51f03100032ff1197d05c12f5e3263
+StarSportsSelect 一,p3p://fccsen.dyndns.tv:29706/5c51f049000813ac197d64c230595e26
+StarSportsSelect 二,p3p://fccsen.dyndns.tv:29706/5c51f0630000c718197dc8746136750f
 Ginx eSports,p3p://167.114.175.6:55331/6452b6c900062fb47451fa3e235a3be3
 Red Bull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 Red Bull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-Bein Sport 1,p3p://167.114.175.6:55331/64c7d35f000973423dc771d134850696
-Bein Sport 2,p3p://167.114.175.6:55331/64c7d403000811b23dc9f21867c96847
-Bein Sport 3,p3p://167.114.175.6:55331/64c7d459000229c83dcb408552136006
+Bein Sport 一,p3p://167.114.175.6:55331/64c7d35f000973423dc771d134850696
+Bein Sport 二,p3p://167.114.175.6:55331/64c7d403000811b23dc9f21867c96847
+Bein Sport 三,p3p://167.114.175.6:55331/64c7d459000229c83dcb408552136006
 Sky Sports Racing,p3p://fccsen.dyndns.tv:29706/5da51e77000af0554668f4872a89003b
 Racing TV,p3p://fccsen.dyndns.tv:29706/5da88bb300039f0c53cba50744e74fe0
-Sport tv1,p3p://167.114.175.6:55331/645c8ade0007014d9ab6429c783c1a24
-Sport tv2,p3p://167.114.175.6:55331/645c8b6c0004f8669ab86cc86bb1015e
-Sport tv3,p3p://167.114.175.6:55331/645c8be7000828df9aba4e1134ff3d90
-Sport tv4,p3p://167.114.175.6:55331/645c8c360007e6399abb82991f650475
-Sport tv5,p3p://167.114.175.6:55331/645c8c87000b66189abcbfe6256e04a4
-Sport tv6,p3p://167.114.175.6:55331/645c8cd20008db0c9abde43843486dd7
+Sport tv一,p3p://167.114.175.6:55331/645c8ade0007014d9ab6429c783c1a24
+Sport tv二,p3p://167.114.175.6:55331/645c8b6c0004f8669ab86cc86bb1015e
+Sport tv三,p3p://167.114.175.6:55331/645c8be7000828df9aba4e1134ff3d90
+Sport tv四,p3p://167.114.175.6:55331/645c8c360007e6399abb82991f650475
+Sport tv五,p3p://167.114.175.6:55331/645c8c87000b66189abcbfe6256e04a4
+Sport tv六,p3p://167.114.175.6:55331/645c8cd20008db0c9abde43843486dd7
 Sport 1 DE,p3p://fccsen.dyndns.tv:29706/59c69b4a000e211f7fdb5bc5581660db
-Sky Sport F1,p3p://fccsen.dyndns.tv:29706/632925030006df29c988b98b40e91993
+Sky Sport F一,p3p://fccsen.dyndns.tv:29706/632925030006df29c988b98b40e91993
 Sky Sport MotoGP,p3p://fccsen.dyndns.tv:29706/632924680004b369c9865b8446e26c14
 Sky Sport Football,p3p://fccsen.dyndns.tv:29706/6329271b000e5130c990e9333b502971
 Sky Sport NBA,p3p://fccsen.dyndns.tv:29706/632927fa0008e670c9944ee718793acf
@@ -607,25 +559,25 @@ FightBox,p3p://fccsen.dyndns.tv:29706/61ea300b000f0d5feb9cff1e4a164352
 A Sports,p3p://fccsen.dyndns.tv:29706/61ea3047000e4bbceb9de94d39d6504b
 Sports Extreme,p3p://fccsen.dyndns.tv:29706/5d7e6dd2000b41daaf4713cf230c71eb
 PTV Sports,p3p://fccsen.dyndns.tv:29706/61ea318500087833eba2c1ff334012b1
-Now Sports 4K 1,p3p://167.114.175.6:55331/65acf4b6000043cbbccd5fc81780705e
-Now Sports 4K 2,p3p://167.114.175.6:55331/65acf562000835cabcd001b2621a3a98
-Now Sports 4K 3,p3p://167.114.175.6:55331/65acf5d800005568bcd1cc9e5b6053b6
-Now Sports 英超 1,p3p://167.114.175.6:55331/65acf67000097b14bcd420b61c625794
-Now Sports 英超 2,p3p://167.114.175.6:55331/65acf6f10009e7c7bcd618bb761d6a04
-Now Sports 英超 3,p3p://167.114.175.6:55331/65acf79400084f85bcd8950b07ac3a9c
-Now Sports 英超 4,p3p://167.114.175.6:55331/65acf8030004e3b7bcda45c377ed2ceb
-Now Sports 英超 5,p3p://167.114.175.6:55331/65acf86800013c78bcdbcf4d77120c33
-Now Sports 英超 6,p3p://167.114.175.6:55331/66c1c80e0005dd373387d38255275ffd
-Mytv super體育 1,p3p://167.114.175.6:55331/667fa8da00040970268fd02662eb3324
-Mytv super體育 2,p3p://167.114.175.6:55331/667faa2900020e5c2694ec3e747e381c
-Mytv super體育 3,p3p://167.114.175.6:55331/667faa81000a254726964610784d624a
-Mytv super體育 4,p3p://167.114.175.6:55331/66a3d08b0001bc7eb3ca2bc30ce10273
+Now Sports 4K 一,p3p://167.114.175.6:55331/65acf4b6000043cbbccd5fc81780705e
+Now Sports 4K 二,p3p://167.114.175.6:55331/65acf562000835cabcd001b2621a3a98
+Now Sports 4K 三,p3p://167.114.175.6:55331/65acf5d800005568bcd1cc9e5b6053b6
+Now Sports 英超 一,p3p://167.114.175.6:55331/65acf67000097b14bcd420b61c625794
+Now Sports 英超 二,p3p://167.114.175.6:55331/65acf6f10009e7c7bcd618bb761d6a04
+Now Sports 英超 三,p3p://167.114.175.6:55331/65acf79400084f85bcd8950b07ac3a9c
+Now Sports 英超 四,p3p://167.114.175.6:55331/65acf8030004e3b7bcda45c377ed2ceb
+Now Sports 英超 五,p3p://167.114.175.6:55331/65acf86800013c78bcdbcf4d77120c33
+Now Sports 英超 六,p3p://167.114.175.6:55331/66c1c80e0005dd373387d38255275ffd
+Mytv super體育 一,p3p://167.114.175.6:55331/667fa8da00040970268fd02662eb3324
+Mytv super體育 二,p3p://167.114.175.6:55331/667faa2900020e5c2694ec3e747e381c
+Mytv super體育 三,p3p://167.114.175.6:55331/667faa81000a254726964610784d624a
+Mytv super體育 四,p3p://167.114.175.6:55331/66a3d08b0001bc7eb3ca2bc30ce10273
 新聞News,#genre#
 TVB無線新聞,p3p://167.114.175.6:55331/66c9c0df00016a4852abc2d358ee0ccb
 TVB無線新聞,p3p://167.114.175.6:55331/653e4703000daead0c78dfb07723484e
-TVB無線新聞 H.265,p3p://167.114.175.6:55331/653e4818000b73240c7d19181340415e
+TVB無線新聞 H.26五,p3p://167.114.175.6:55331/653e4818000b73240c7d19181340415e
 TVB財體資訊,p3p://167.114.175.6:55331/5ffbee4900066c0ddf0b8b84423c06f3
-TVB財體資訊 H.265,p3p://167.114.175.6:55331/611d989d0005244a4a7f24d111282ffb
+TVB財體資訊 H.26五,p3p://167.114.175.6:55331/611d989d0005244a4a7f24d111282ffb
 香港國際財經,p3p://167.114.175.6:55331/64838620000cd8ed32fb0d6a414411f7
 HOY資訊,p3p://167.114.175.6:55331/655bd22c000147307fdff68936807320
 TVB娛樂新聞,p3p://167.114.175.6:55331/5fe7f68d000e73d9910d2a86341258f7
@@ -671,7 +623,7 @@ CNN International,p3p://fccsen.dyndns.tv:29706/5a20bffb0002906acb96445d76975880
 Euro News,p3p://fccsen.dyndns.tv:29706/5a5170cc000e8c1389c8a661433d15f1
 VOA,p3p://167.114.175.6:55331/63efed1a0002a9a6f26ff35e6ffb2470
 ESPN News,p3p://fccsen.dyndns.tv:29706/5c5ccceb00083b8d43eb3d9232165684
-CP 24,p3p://fccsen.dyndns.tv:29706/5a3f28c60004a8e1425f6bab71d42dee
+CP 2四,p3p://fccsen.dyndns.tv:29706/5a3f28c60004a8e1425f6bab71d42dee
 CTV News,p3p://fccsen.dyndns.tv:29706/5a7f4eaf000600fd3cf30e7429004ce6
 CBC News,p3p://fccsen.dyndns.tv:29706/5b101067000871df7266aed40b700bc5
 Business Network News,p3p://fccsen.dyndns.tv:29706/59bc1255000630ab56b46f2e44246d0b
@@ -685,10 +637,10 @@ FOX West,p3p://fccsen.dyndns.tv:29706/59bc11980000166e56b18b555ee76179
 CBS West,p3p://fccsen.dyndns.tv:29706/59bc11600005bced56b0b2076cdc03ae
 BBC America,p3p://fccsen.dyndns.tv:29706/5a01d8fc000a4ee752e0271350321283
 BBC World News,p3p://fccsen.dyndns.tv:29706/5a7f47a900027b963cd79e252e7d5f63
-BBC 1,p3p://fccsen.dyndns.tv:29706/5bb6bb320008c3b8fd705faa6a647667
-BBC 2,p3p://fccsen.dyndns.tv:29706/5bb6bb3f00077ecefd70921f13656e23
-BBC 3,p3p://fccsen.dyndns.tv:29706/59bc7fe40002bfa9586064da5fe27f17
-BBC 4,p3p://fccsen.dyndns.tv:29706/59bc801000090e075861125817955ece
+BBC 一,p3p://fccsen.dyndns.tv:29706/5bb6bb320008c3b8fd705faa6a647667
+BBC 二,p3p://fccsen.dyndns.tv:29706/5bb6bb3f00077ecefd70921f13656e23
+BBC 三,p3p://fccsen.dyndns.tv:29706/59bc7fe40002bfa9586064da5fe27f17
+BBC 四,p3p://fccsen.dyndns.tv:29706/59bc801000090e075861125817955ece
 ABC news  au,p3p://167.114.175.6:55331/616af6760009c76c78b2265b3bf645df
 Bloomberg,p3p://fccsen.dyndns.tv:29706/5a7e6aa2000db3e039783dac0a1c0882
 I24 News,p3p://fccsen.dyndns.tv:29706/5a5170e800076ff389c911f013481fb8
@@ -699,7 +651,7 @@ Indian News,p3p://fccsen.dyndns.tv:29706/61e75cad000c2018e09357322a3b2682
 ABP News,p3p://fccsen.dyndns.tv:29706/61e75c53000db5cae091f81253823372
 Zee News,p3p://fccsen.dyndns.tv:29706/61e75d9400019975e096dae246970f50
 News Nation,p3p://fccsen.dyndns.tv:29706/61e75df9000b02e1e09867c52f7d642e
-CNBC TV 18,p3p://fccsen.dyndns.tv:29706/5d6fe3f1000a0c1a767c8f1b021f54a3
+CNBC TV 1八,p3p://fccsen.dyndns.tv:29706/5d6fe3f1000a0c1a767c8f1b021f54a3
 India Today,p3p://fccsen.dyndns.tv:29706/61e75a18000594f8e0893f7d2a735434
 Sun News,p3p://fccsen.dyndns.tv:29706/61f0af0a000def2104fd12f1607d0e7a
 Al Jazeera,p3p://fccsen.dyndns.tv:29706/61e75f22000ebc02e09cf0e15b826f36
@@ -739,7 +691,7 @@ MTV臺灣,p3p://167.114.175.6:55331/621e1827000d7a3a288a84ae70c44b0d
 Classica古典音樂,p3p://167.114.175.6:55331/6452b4f1000c38e8744ac80744c33d67
 Mezzo Live,p3p://167.114.175.6:55331/6452bcb000039d52746907f4476f5e7b
 CMUSIC,p3p://167.114.175.6:55331/64e368dc000e5b23a986c9d62f9604df
-粵語金曲1974-1994,p3p://167.114.175.6:55331/607baa48000af0bad1fc291858a744b8
+粵語金曲1974-199四,p3p://167.114.175.6:55331/607baa48000af0bad1fc291858a744b8
 香港懷舊經典,p3p://167.114.175.6:55331/607db9e20001e99dda08a61e04f5596b
 90年代華語經典,p3p://167.114.175.6:55331/607c5f8b00003707d4c0340f09f85a6d
 00年代華語經典,p3p://167.114.175.6:55331/607db9a70001af65da07bf9703d25445
@@ -799,7 +751,7 @@ Radio M20,p3p://167.114.175.6:55331/64a5bd0c00046963b8a0e9554e440bfb
 CMC-ono,https://cmc-ono.amagi.tv/playlist.m3u8
 Norba TV,https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 Cmc TV,https://stream.cmctv.hr:49998/cmc/live.m3u8
-VH1,p3p://167.114.175.6:55331/64b25b320002edf8e9ea824c514e7979
+VH一,p3p://167.114.175.6:55331/64b25b320002edf8e9ea824c514e7979
 Frist Music,http://rtmp.one.by:1200
 Ru Frist Music,http://rtmp.one.by:2200
 Trace Urban,p3p://167.114.175.6:55331/644fae930000fb9c6879e5f40cc63e7f
@@ -813,7 +765,7 @@ MDIImatypTB,https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 MDIIecable,https://stream.ecable.tv/afrobeats/index.m3u8
 MDIIXITE,https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
 MDIINEW,http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-MDII4,http://51.210.199.23/hls/stream.m3u8
+MDII四,http://51.210.199.23/hls/stream.m3u8
 MDIIatomic,https://atomic.streamnet.ro/atomictv.m3u8
 MDIIabanh,https://hls.avang.live/hls/stream.m3u8
 MDIIazahares,https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
@@ -824,14 +776,14 @@ MDIIstrea,https://cloud.streamingconnect.tv/hls/bta/bta.m3u8
 MDIICompany,https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 MDIIdannce,https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8
 MDIIGETBACK,https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
-MDIIss3,https://ss3.domint.net:3120/dv6_str/digitalvision/playlist.m3u8
+MDIIss三,https://ss3.domint.net:3120/dv6_str/digitalvision/playlist.m3u8
 MDIIELSOL,https://rctvhd.net:8081/elsol105fm/index.m3u8
 MDIIfarra,http://159.203.148.226/live/farra.m3u8
-MDIIrds3,https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
+MDIIrds三,https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 MDIIgotv,http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 MDIIhits360,http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 MDIIimpact,http://tvradioimpact.go.ro:8080/tmp_hls/tvimpact/index.m3u8
-MDIIimpact2,https://online.tvimpact.live/hls/impact_tv.m3u8
+MDIIimpact二,https://online.tvimpact.live/hls/impact_tv.m3u8
 MDIIintv,http://tv1.intv.mk:1935/live/intv/index.m3u8
 MDIIiqtv,https://rtmp.info/iqtv/envivo/playlist.m3u8
 MDIIjazztv,https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
@@ -855,13 +807,13 @@ MDIImediacp,https://mediacp.us:8081/8002/index.m3u8
 MDIIventdelnord,http://ventdelnord.tv:8080/mola/directe.m3u8
 MDIIrmbox,https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 MDIIsmil,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-MDIImuzzik1,https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-MDIImuzzik2,https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-MDIImuzzik3,https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-MDIImuzzika4,https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-MDIImuzzika5,https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-MDIImuzzik6,https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-MDIImuzzik7,https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+MDIImuzzik一,https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+MDIImuzzik二,https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+MDIImuzzik三,https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+MDIImuzzika四,https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+MDIImuzzika五,https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+MDIImuzzik六,https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+MDIImuzzik七,https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 MDIImuzzone,https://muzzone-stream.daitsuna.net/muzzondvr/muzzone/playlist_dvr.m3u8
 MDIInavahang,https://hls.navahang.live/hls/stream.m3u8
 MDIIenhdtv,https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
@@ -874,7 +826,7 @@ MDIIpersiana,http://51.210.199.24/hls/stream.m3u8
 MDIIrap,https://persiana-rap.icdndhcp.com/hls/stream.m3u8
 MDIIonair,http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 MDIIplaytv,http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
-MDIIradio21,https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
+MDIIradio2一,https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
 MDIIservers,https://eu1.servers10.com:8081/8116/index.m3u8
 MDIIPiterpan,https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 MDIIU,https://1826200335.rsc.cdn77.org/1826200335/index.m3u8
@@ -887,7 +839,7 @@ MDIIstreamgato,https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
 MDIIstreamlock,https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 MDIITMA,http://hls.tmacaraibes.com/live/index.m3u8
 MDIItraceurban,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
-MDIIcloud3,https://cloud3.streaminglivehd.com:1936/8068/8068/playlist.m3u8
+MDIIcloud三,https://cloud3.streaminglivehd.com:1936/8068/8068/playlist.m3u8
 MDIIXiTE,https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
 MDIIZerouno,http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
 RTLBRO,https://streamcdnb6-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist.m3u8
@@ -897,7 +849,7 @@ RTLNEWS,https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S381
 Taormina,https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 KissKissNopoli,https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 KissKissCanale,https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
-Canale51,http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
+Canale5一,http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 Messatida,https://vod.streams.ovh:3037/stream/play.m3u8
 Ellas,http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 Deejay,https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
