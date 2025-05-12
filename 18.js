@@ -7,7 +7,7 @@
 "logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 
 "lives":[
-{"name":"自選","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/live2.txt","playerType": 2,"epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"自選","type":0,"url":"./live2.txt","playerType": 2,"epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 //{"name":"自選","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/live2.txt","ua": "okhttp/3.15","playerType": 1,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ads": ["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]},
 {"name":"YanG-1989_Adult","type":0,"url":"https://tv.iill.top/m3u/Adult","referer":"https://theav101.com/","ua":"okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 //{"name":"小武哥","type":0,"url":"https://qu.ax/PEHy.txt"},
