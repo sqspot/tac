@@ -805,7 +805,7 @@ Ru Frist Music,http://rtmp.one.by:2200
 Trace Urban,p3p://167.114.175.6:55331/644fae930000fb9c6879e5f40cc63e7f
 MDIINORBA,https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 MDIICMC,https://cmc-ono.amagi.tv/playlist.m3u8
-MDIICMCTV,https://stream.cmctv.hr:49998/cmc/live.m3u8
+MDIICM,https://stream.cmctv.hr:49998/cmc/live.m3u8
 MDIIFistmusic,http://hz1.teleport.cc/HLS/HD.m3u8
 MDIICTPAHA,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 MDIIStream,https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/playlist.m3u8
@@ -845,7 +845,7 @@ MDIImetrotv,https://emisoras.hn:8081/metrotv/index.m3u8
 MDIIkmusic,http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
 MDIIlovetv,https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
 MDIIm2tv,https://live.m2.tv/hls3/stream.m3u8
-MDIImagictv,https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+MDIImagi,https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 MDIImas23tv,https://mediacp.us:8081/mas23tv/index.m3u8
 MDIImasfm,https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 MDIItelevideo,https://stmv1.cnarlatam.com/televideo/televideo/playlist.m3u8
