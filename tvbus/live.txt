@@ -11,7 +11,7 @@ CNN,http://
 霹靂台灣,http://
 華視,http://
 公視,http://
-公視臺語,http://
+公視台語,http://
 好消息,http://
 原住民族電視,http://
 客家電視,http://
@@ -28,7 +28,7 @@ momo親子,http://
 八大綜合,http://
 三立台灣,http://
 三立都會,http://
-韓國娛樂臺KMTV,http://
+韓國娛樂台KMTV,http://
 東森綜合,http://
 超視,http://
 東森購物二,http://
@@ -486,8 +486,8 @@ TVBS精采,https://z88.ubtvfans.com/live/rx3/117/f48d0361091239ad170c5d8185ae50a
 TVBS精采,P2p://generationnexxxt.com:19806/0af9c12ec2a347b9b626002b0d10f37c
 TVBS精采,P2p://generationnexxxt.com:19806/2089afbec2474359add275658522922f
 TVBS食尚玩家,https://www.ofiii.com/channel/watch/ofiii31
-TVBS臺劇,http://4gtv.mumi.rip:9877/285/4gtv-live088/index.m3u8
-TVBS臺劇,http://4gtv.muni.rip:9877/285/4gtv-live088/index.m3u8
+TVBS台劇,http://4gtv.mumi.rip:9877/285/4gtv-live088/index.m3u8
+TVBS台劇,http://4gtv.muni.rip:9877/285/4gtv-live088/index.m3u8
 TVBS新聞,http://4gtv.mumi.rip:9877/291/4gtv-4gtv072/index.m3u8
 TVBS新聞,http://4gtv.mumi.rip:9877/291/4gtv-4gtv072/index.m3u8
 TVBS新聞,http://4gtv.mumi.rip:9877/291/4gtv-4gtv072/index.m3u8$LR•IPV4『線路7』
@@ -731,8 +731,8 @@ Z頻道,P2p://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
 第一名電視,https://z88.ubtvfans.com/live/rx6/216/9dd2225be1aacbfd3b6e5c1d6ee12e01/index.m3u8
 電影免費看 二,http://4gtv.mumi.rip:9877/245/4gtv-live005/index.m3u8
 電影免費看 二,http://4gtv.mumi.rip:9877/245/4gtv-live005/index.m3u8
-電影原聲臺CMusic,http://4gtv.mumi.rip:9877/218/4gtv-live031/index.m3u8
-電影原聲臺CMusic,http://4gtv.mumi.rip:9877/2187/4gtv-live031/index.m3u8
+電影原聲台CMusic,http://4gtv.mumi.rip:9877/218/4gtv-live031/index.m3u8
+電影原聲台CMusic,http://4gtv.mumi.rip:9877/2187/4gtv-live031/index.m3u8
 東風衛視,http://extraott.com:80/live/7921751389/6097373662/5512.m3u8
 東風衛視,https://z88.ubtvfans.com/live/rx1/3262/ecb1347dbef93804d7da43f50315d982/index.m3u8
 東森財經新聞,http://4gtv.mumi.rip:9877/293/4gtv-4gtv153/index.m3u8
@@ -859,9 +859,9 @@ Z頻道,P2p://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
 公視三,P2p://generationnexxxt.com:19806/facf020d07f54fa8aef38a5c8b127758
 公視三,P2p://generationnexxxt.com:19806/facf020d07f54fa8aef38a5c8b127758
 公視金獎,https://www.ofiii.com/channel/watch/ofiii13
-公視臺語,P2p://generationnexxxt.com:19806/2bc76898bf1043f4b7eb62fa24759e09
-公視臺語,P2p://generationnexxxt.com:19806/2bc76898bf1043f4b7eb62fa24759e09
-公視臺語,P2p://generationnexxxt.com:19806/6593a0f40009baf898efc82314242462
+公視台語,P2p://generationnexxxt.com:19806/2bc76898bf1043f4b7eb62fa24759e09
+公視台語,P2p://generationnexxxt.com:19806/2bc76898bf1043f4b7eb62fa24759e09
+公視台語,P2p://generationnexxxt.com:19806/6593a0f40009baf898efc82314242462
 公視戲劇,http://4gtv.mumi.rip:9877/7/4gtv-4gtv042/index.m3u8
 公視戲劇,http://4gtv.mumi.rip:9877/28/4gtv-4gtv042/index.m3u8
 公視戲劇,https://z88.ubtvfans.com/live/rx1/69/ecb55b32f14005528db930c685772f14/index.m3u8
@@ -1213,8 +1213,8 @@ Z頻道,P2p://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
 三立台灣,P2p://generationnexxxt.com:19806/82fb76c0b7d7487cb42604a970c4d2da
 三立台灣,P2p://generationnexxxt.com:19806/7554a57ea53f4c10ae4e219ac2d374c4
 三立台灣,P2p://generationnexxxt.com:19806/ff12e8f29f9b4f61a9b766709aa498f6
-三立臺灣,http://extraott.com:80/live/7921751389/6097373662/5505.m3u8$LR•IPV4『線路1』
-三立臺灣,p3p://108.181.20.159:23520/5fe2947f000c58a57c0623474ae64e07$LR•IPV4『線路2』
+三立台灣,http://extraott.com:80/live/7921751389/6097373662/5505.m3u8$LR•IPV4『線路1』
+三立台灣,p3p://108.181.20.159:23520/5fe2947f000c58a57c0623474ae64e07$LR•IPV4『線路2』
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
 三立戲劇,http://extraott.com:80/live/7921751389/6097373662/5504.m3u8
@@ -1581,7 +1581,7 @@ CLASSICA 古典樂,http://4gtv.mumi.rip:9877/80/4gtv-4gtv059/index.m3u8
 CLASSICA 古典樂,P2p://generationnexxxt.com:19806/133be9054bcd4fa68d2e34205004a51a
 CLASSICA 古典樂,P2p://generationnexxxt.com:19806/2671749a00774d36bd1afb569bd1edeb
 CLASSICA 古典樂,P2p://generationnexxxt.com:19806/2671749a00774d36bd1afb569bd1edeb
-CNA(亞洲新聞臺),https://www.channelnewsasia.com/watch
+CNA(亞洲新聞台),https://www.channelnewsasia.com/watch
 CNBC Asia 財經,http://4gtv.mumi.rip:9877/235/4gtv-live130/index.m3u8
 CNBC Asia 財經,http://4gtv.mumi.rip:9877/2357/4gtv-live130/index.m3u8
 CNBC,http://125.227.210.55:8152/VideoInput/play.ts
@@ -1689,32 +1689,32 @@ Globetrotter 環遊旅行家,http://4gtv.mumi.rip:9877/288/4gtv-4gtv016/index.m3
 Globetrotter（MOD),https://z88.ubtvfans.com/live/rx1/3259/3c1d3084b73e86371fff90636daaf98c/index.m3u8
 Globetrotter（環球旅遊),https://z88.ubtvfans.com/live/rx1/114/b486b29428a82907474eaa9d8924721b/index.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
-中天新聞臺,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcQmBbYquY4oExk2niXClR2U/ts
-東森新聞臺,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcTHoYNoi7tElQYMMJty0Ky8/ts
-TVBS新聞臺,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcfTArWknG0ij1O8sljRSpGQ/ts
-壹電視新聞臺,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcbQC7ECAt27n-XFH-JYJsTA/ts
+中天新聞,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcQmBbYquY4oExk2niXClR2U/ts
+東森新聞,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcTHoYNoi7tElQYMMJty0Ky8/ts
+TVBS新聞,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcfTArWknG0ij1O8sljRSpGQ/ts
+壹電視新聞,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcbQC7ECAt27n-XFH-JYJsTA/ts
 三立新聞,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcc2jGsVnP6UXlqWIPk_Fe2c/ts
 民視新聞,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcbYW3Csl7r79EckkRf4slVs/ts
-臺視新聞,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcW3pZ1997xMHg__wtd9wVx4/ts
-寰宇新聞臺,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcfYIEA38TjIalHxyLwKh2QQ/ts
-寰宇新聞臺灣臺,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQccvtwRfq40vkdvmRX6GY2uA/ts
+台視新聞,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcW3pZ1997xMHg__wtd9wVx4/ts
+寰宇新聞,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcfYIEA38TjIalHxyLwKh2QQ/ts
+寰宇新聞台灣,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQccvtwRfq40vkdvmRX6GY2uA/ts
 年代新聞,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcXeM7-2EwDuQPPi_kYMqlmg/ts
-非凡新聞臺,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcbstcVSisJ4UApbLHrs3O5Q/ts
+非凡新聞,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcbstcVSisJ4UApbLHrs3O5Q/ts
 鏡新聞,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcUeHjOQgPuOQngteWgCXaHE/ts
 東森財經新聞,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcQi4qIBkzVn02-fjq0YyNoo/ts
 寰宇財經,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcZkUA5E_gnsr67cilt8rEBQ/ts
 東森超視,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcUhZae_WofTxE5RtBL_cwdQ/ts
-臺視財經,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQceUut0aKcmbezpYgcta1u0k/ts
+台視財經,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQceUut0aKcmbezpYgcta1u0k/ts
 中視新聞,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcYWiUyvcj7HNQj2cnccQtxE/ts
 華視新聞,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcaIUCJdqgukEqKXHAsU_Rmc/ts
 三立INEWS,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcYdG0NNhUVotXGGj1CXyaQ0/ts
 民視,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcXi23xfbsFvpiO0MNXEVqtk/ts
-臺視,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcbKzA0iTTwUoR5s7U8-rHtI/ts
+台視,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcbKzA0iTTwUoR5s7U8-rHtI/ts
 中視,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcQ4x_igzrQDNi4ZPjwZFEoo/ts
 華視,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcdriIPhoS8-e7ETHqVHsGp0/ts
 公視三,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcTnDCumJFcvPFAPjuNn5Ewc/ts
 公視戲劇,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcdwUqCq3nO-483yO5-Dppbk/ts
-公視臺語,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcbJNWO6zW_ZBKdkZe2BIV0k/ts
+公視台語,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcbJNWO6zW_ZBKdkZe2BIV0k/ts
 TVBS綜合,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcRUNa-tuNePQmRCHbrDDuTQ/ts
 TVBS歡樂,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcbA7-pRVtVVXfkUhAaPxZKA/ts
 TVBS精采,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcbQedvaaVx9bPJ4ajRg9ms0/ts
@@ -1727,7 +1727,7 @@ TVBS精采,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcbQedvaaVx9bPJ4ajRg9
 中天娛樂,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcfsLR7EXdEqtLGhpLng885c/ts
 中天亞洲,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcbk_gA6dpiegxZkMGlyAUFU/ts
 三立綜合,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcaPE4Ubg4qNIrh655JwSZqM/ts
-三立臺灣,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcf09Jnr5JNk_1zqQ_qJLw1g/ts
+三立台灣,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcf09Jnr5JNk_1zqQ_qJLw1g/ts
 三立都會,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcUjNIcCBqAOBBvDXVTEgTzQ/ts
 三立戲劇,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcfYw1eO3tZUpU157CrJQBPo/ts
 三立國際,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcQLlb2Gib54eAcJK86vfmr0/ts
@@ -1737,7 +1737,7 @@ TVBS精采,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcbQedvaaVx9bPJ4ajRg9
 民視綜藝,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcaz1FICKIv1decNGeGEXiG0/ts
 民視第一,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcWxV94PjALHqN4g7DUhp27c/ts
 民視影劇,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcbb3EUpo_91bWHk5SwgLjNs/ts
-民視臺灣,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcZnkBXQwJfPeZuLzeKrA-So/ts
+民視台灣,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcZnkBXQwJfPeZuLzeKrA-So/ts
 美亞電影,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQccP-581hI5zQbLAvDbmURg8/ts
 HBO,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQccEvH21dgw1gJdf1a1gEqRU/ts
 HBO Signature,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcXgbzx5vdfIGez6DNa_0of0/ts
@@ -1746,8 +1746,8 @@ HBO Hits,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcdfGSAf0n-C4gZc23OV9A0
 Cinemax,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQccp4ovHc_Azhp8UGKmuOEEw/ts
 AXN,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcQ-owm34LOq38OkCYS1z_ow/ts
 CI 罪案偵查頻道,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcWdkohyPLHrb3Yik_ekRTKQ/ts
-CATCHPLAY電影臺,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcbYKFprDndL9aQ6XT4KJFNw/ts
-影迷數位電影臺,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcc6c59RW1SkgT1b7GECI5Cw/ts
+CATCHPLAY電影,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcbYKFprDndL9aQ6XT4KJFNw/ts
+影迷數位電影,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcc6c59RW1SkgT1b7GECI5Cw/ts
 影迷數位紀實,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcVFa4AT3QBJkJI4AgXu46mw/ts
 龍祥電影,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcYO3kkM4Aml9V_sC0A0AiR4/ts
 好萊塢電影,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcdj4Xnad6ZIXi4AqCI2pAXw/ts
@@ -1769,8 +1769,8 @@ HITS頻道,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcdykJsX4kniVefVaiyln
 緯來綜合,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQca8vbuoCy_xsvNNugXZhM4k/ts
 緯來戲劇,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcRTIQ0Wk0PolmqQiaEmeFMM/ts
 緯來電影,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcfmWGKEnr3LfOhdIAWtbh4Q/ts
-愛爾達體育1臺,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcZNtzjaRaQpLi4eKXUpMUJU/ts
-愛爾達體育2臺,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcVat0QnxdC2fg5qlGW2ClpY/ts
+愛爾達體育1,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcZNtzjaRaQpLi4eKXUpMUJU/ts
+愛爾達體育2,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcVat0QnxdC2fg5qlGW2ClpY/ts
 愛爾達體育三,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcUpAkEoGjDv2CKvVfUDZuRs/ts
 愛爾達綜合,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQcdnKjfoOZ2cMm0RFb50tO24/ts
 愛爾達影劇,http://iptvpro.pw:35451/play/zQa_YGfKuiPV806RD3jQccmuJ9vkkf5-Tgfw_acLFqA/ts
