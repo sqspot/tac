@@ -174,18 +174,20 @@ MiaMitv,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlis
 汗水潮喷无限怪物!,https://vod3.ttbfp5.com/20231124/Qv1WGuQt/index.m3u8
 
 playboy,#genre#
-XXX: PLAYBOY TV,http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/75903
-XXX: Playboy,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/13353
+Playboy FHD,http://x.cliente.tech:8080/070320/WerWcMP939/1877
+Playboy,http://x.cliente.tech:8080/070320/WerWcMP939/2296
+PLAYBOY TV,http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/75903
+Playboy,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/13353
 bluehustler,http://18.svi-studio.com:80/live/824908251669/532612644941/101422.m3u8
 hustlet,http://18.svi-studio.com:80/live/824908251669/532612644941/101423.m3u8
 private,http://18.svi-studio.com:80/live/824908251669/532612644941/101424.m3u8
 vividred,http://18.svi-studio.com:80/live/824908251669/532612644941/101425.m3u8
 vividtouch,http://18.svi-studio.com:80/live/824908251669/532612644941/101426.m3u8
 vividtv,http://18.svi-studio.com:80/live/824908251669/532612644941/101427.m3u8
-XXX: Hustler HD,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/30702
-XXX: BLUE HUSTLER HD,http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/75900
-XXX: Play House,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/14043
-XXX: Penthouse,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/13352
+Hustler HD,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/30702
+BLUE HUSTLER HD,http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/75900
+Play House,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/14043
+Penthouse,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/13352
 PENTHOUSE BLACK,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/2036
 PENTHOUSE GOLD HD,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/2037
 Penthouse Gold,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/693185
@@ -194,10 +196,10 @@ HUSTLER HD,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/2039
 HUSTLER TV,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/2007
 BLUE HUSTLER EUROPE,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/1942
 PRIVATE TV HD,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/2034
-XXX: PRIVATE HD,http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/75899
+PRIVATE HD,http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/75899
 P HD PRIVATE,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/1937
 PRIVE TV,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/1991
-XXX: Playboy HD,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/30376
+Playboy HD,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/30376
 PLAYBOY EUROPE,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/1993
 PLAYBOY,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/1994
 PLAYHOUSE,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/1992
@@ -207,8 +209,115 @@ Fake Taxi 3,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/693200
 Fake Taxi 2,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/693201
 Fake Agent,http://tvsoso.ottc.pro:80/FT9KZZP2G0/NXVDKW1NLQ/693203
 FAKE HOSTEL,http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/58054
+Sexy Hot FHD,http://x.cliente.tech:8080/070320/WerWcMP939/46046
+Sexy Hot HD,http://x.cliente.tech:8080/070320/WerWcMP939/24771
+Sexy Hot,http://x.cliente.tech:8080/070320/WerWcMP939/2299
+Sex Prive HD,http://x.cliente.tech:8080/070320/WerWcMP939/46045
+Sex Prive,http://x.cliente.tech:8080/070320/WerWcMP939/24772
+Venus,http://x.cliente.tech:8080/070320/WerWcMP939/1407
+Sextreme,http://x.cliente.tech:8080/070320/WerWcMP939/2298
+Hustler TV HD,http://x.cliente.tech:8080/070320/WerWcMP939/11418
+Brazzers TV Europe,http://x.cliente.tech:8080/070320/WerWcMP939/51042
+Brazzers 1,http://x.cliente.tech:8080/070320/WerWcMP939/76621
+Brazzers 2,http://x.cliente.tech:8080/070320/WerWcMP939/76622
+Brazzers 3,http://x.cliente.tech:8080/070320/WerWcMP939/76623
+Private HD,http://x.cliente.tech:8080/070320/WerWcMP939/51043
+Adult Hentai HD,http://x.cliente.tech:8080/070320/WerWcMP939/51045
+Redlight HD,http://x.cliente.tech:8080/070320/WerWcMP939/51044
+Vivid TV Europe,http://x.cliente.tech:8080/070320/WerWcMP939/51047
+A Casa das Brasileirinhas,http://x.cliente.tech:8080/070320/WerWcMP939/61276
+Brasileirinhas 4K,http://x.cliente.tech:8080/070320/WerWcMP939/11442
+Brasileirinhas,http://x.cliente.tech:8080/070320/WerWcMP939/86578
+Bisexual,http://x.cliente.tech:8080/070320/WerWcMP939/61738
+Lésbicas,http://x.cliente.tech:8080/070320/WerWcMP939/62084
+Homossexuais 1,http://x.cliente.tech:8080/070320/WerWcMP939/75835
+Homossexuais 2,http://x.cliente.tech:8080/070320/WerWcMP939/51048
+TransTV HD,http://x.cliente.tech:8080/070320/WerWcMP939/46729
+TransTV 2,http://x.cliente.tech:8080/070320/WerWcMP939/944190
+Caiu na Net,http://x.cliente.tech:8080/070320/WerWcMP939/62086
 OpenTV Fake Hostel,http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70715
-
+ADULTOS 24H,#genre#
+XXX 1,http://x.cliente.tech:8080/070320/WerWcMP939/2587
+XXX 2,http://x.cliente.tech:8080/070320/WerWcMP939/2588
+XXX 3,http://x.cliente.tech:8080/070320/WerWcMP939/2589
+XXX 4,http://x.cliente.tech:8080/070320/WerWcMP939/2590
+XXX 5,http://x.cliente.tech:8080/070320/WerWcMP939/2591
+XXX 6,http://x.cliente.tech:8080/070320/WerWcMP939/2592
+XXX 7,http://x.cliente.tech:8080/070320/WerWcMP939/2593
+XXX 8,http://x.cliente.tech:8080/070320/WerWcMP939/2594
+XXX 9,http://x.cliente.tech:8080/070320/WerWcMP939/2595
+XXX 10,http://x.cliente.tech:8080/070320/WerWcMP939/2596
+XXX 11,http://x.cliente.tech:8080/070320/WerWcMP939/2598
+XXX 12,http://x.cliente.tech:8080/070320/WerWcMP939/2599
+XXX 13,http://x.cliente.tech:8080/070320/WerWcMP939/2601
+XXX 14,http://x.cliente.tech:8080/070320/WerWcMP939/2605
+XXX 15,http://x.cliente.tech:8080/070320/WerWcMP939/2606
+XXX 16,http://x.cliente.tech:8080/070320/WerWcMP939/46047
+XXX 17,http://x.cliente.tech:8080/070320/WerWcMP939/46048
+XXX 18,http://x.cliente.tech:8080/070320/WerWcMP939/46049
+XXX 19,http://x.cliente.tech:8080/070320/WerWcMP939/46050
+XXX 20,http://x.cliente.tech:8080/070320/WerWcMP939/46051
+Adult Interracial Black,http://x.cliente.tech:8080/070320/WerWcMP939/916031
+Adult Vixen,http://x.cliente.tech:8080/070320/WerWcMP939/916132
+Adult Red XXX,http://x.cliente.tech:8080/070320/WerWcMP939/916030
+Adult Hustler HD (D),http://x.cliente.tech:8080/070320/WerWcMP939/916128
+Adult Redlight  (P),http://x.cliente.tech:8080/070320/WerWcMP939/916087
+Adult Penthouse 2 (D),http://x.cliente.tech:8080/070320/WerWcMP939/916146
+Adult MILF,http://x.cliente.tech:8080/070320/WerWcMP939/916010
+Adult Dorcel TV  (P),http://x.cliente.tech:8080/070320/WerWcMP939/916119
+Adult Blacked HD,http://x.cliente.tech:8080/070320/WerWcMP939/916133
+Adult Brazzers TV  (P),http://x.cliente.tech:8080/070320/WerWcMP939/916121
+Adult Threesome,http://x.cliente.tech:8080/070320/WerWcMP939/916004
+Adult Lesbian Brasil,http://x.cliente.tech:8080/070320/WerWcMP939/916012
+Adult Latina,http://x.cliente.tech:8080/070320/WerWcMP939/916013
+Adult Homossexuais 3,http://x.cliente.tech:8080/070320/WerWcMP939/916016
+Adult Big Tits,http://x.cliente.tech:8080/070320/WerWcMP939/916024
+Adult Asian,http://x.cliente.tech:8080/070320/WerWcMP939/916027
+Adult Anal,http://x.cliente.tech:8080/070320/WerWcMP939/916028
+Adult Mix,http://x.cliente.tech:8080/070320/WerWcMP939/916034
+Adult Interracial HD,http://x.cliente.tech:8080/070320/WerWcMP939/916038
+Adult Publick Agent (P),http://x.cliente.tech:8080/070320/WerWcMP939/916047
+Adult Mom XXX,http://x.cliente.tech:8080/070320/WerWcMP939/916052
+Adult Private,http://x.cliente.tech:8080/070320/WerWcMP939/916054
+Adult BlackOn Blondes HD,http://x.cliente.tech:8080/070320/WerWcMP939/916060
+Adult Pornbox,http://x.cliente.tech:8080/070320/WerWcMP939/916074
+Adult Pornochic,http://x.cliente.tech:8080/070320/WerWcMP939/916073
+Adult oung Sex Adults (P),http://x.cliente.tech:8080/070320/WerWcMP939/916082
+Adult Digital Playground,http://x.cliente.tech:8080/070320/WerWcMP939/916086
+Adult PlayBoy  (P),http://x.cliente.tech:8080/070320/WerWcMP939/916090
+Adult Dorcel XXX,http://x.cliente.tech:8080/070320/WerWcMP939/916102
+Adult Desire,http://x.cliente.tech:8080/070320/WerWcMP939/916115
+Adult Dusk  (P),http://x.cliente.tech:8080/070320/WerWcMP939/916118
+Adult Dorcel TV (P),http://x.cliente.tech:8080/070320/WerWcMP939/916127
+Adult Private TV  (D),http://x.cliente.tech:8080/070320/WerWcMP939/916131
+[24h] OnlyFans - Layz Rezende,http://x.cliente.tech:8080/070320/WerWcMP939/955808
+[24h] OnlyFans - Angel Steve,http://x.cliente.tech:8080/070320/WerWcMP939/955807
+[24h] OnlyFans - Aline Farias,http://x.cliente.tech:8080/070320/WerWcMP939/955806
+[24h] OnlyFans - Grazi Mourão 2,http://x.cliente.tech:8080/070320/WerWcMP939/955726
+[24h] OnlyFans - Grazi Mourão 1,http://x.cliente.tech:8080/070320/WerWcMP939/955725
+[24h] OnlyFans - Brenda Trindade,http://x.cliente.tech:8080/070320/WerWcMP939/955724
+[24h] OnlyFans - Cibelly Ferreira,http://x.cliente.tech:8080/070320/WerWcMP939/955723
+[24h] OnlyFans - Mercedes Blanche,http://x.cliente.tech:8080/070320/WerWcMP939/955722
+[24h] OnlyFans - Diosa Azteca,http://x.cliente.tech:8080/070320/WerWcMP939/955721
+[24h] OnlyFans - Francine Piaia,http://x.cliente.tech:8080/070320/WerWcMP939/955720
+[24h] OnlyFans - Bethany Morgan,http://x.cliente.tech:8080/070320/WerWcMP939/955719
+[24h] OnlyFans - Andressa Urach,http://x.cliente.tech:8080/070320/WerWcMP939/955718
+[24h] OnlyFans - Mc Mirella,http://x.cliente.tech:8080/070320/WerWcMP939/958726
+[24h] OnlyFans - Mc Pipokinha,http://x.cliente.tech:8080/070320/WerWcMP939/958727
+[24h] OnlyFans - Gia Nine,http://x.cliente.tech:8080/070320/WerWcMP939/958728
+[24h] OnlyFans - Jeangrey Bianca,http://x.cliente.tech:8080/070320/WerWcMP939/958729
+[24h] OnlyFans - Julieta Yanez,http://x.cliente.tech:8080/070320/WerWcMP939/958730
+[24h] OnlyFans - Vanessinha Vailatti,http://x.cliente.tech:8080/070320/WerWcMP939/958731
+[24h] Brasileirinhas 2024,http://x.cliente.tech:8080/070320/WerWcMP939/960286
+[24h] A Casa das Brasileirinhas 1,http://x.cliente.tech:8080/070320/WerWcMP939/960287
+[24h] A Casa das Brasileirinhas 2,http://x.cliente.tech:8080/070320/WerWcMP939/960288
+[24h] OnlyFans - Anastangel,http://x.cliente.tech:8080/070320/WerWcMP939/961285
+[24h] OnlyFans - Camila Araujo,http://x.cliente.tech:8080/070320/WerWcMP939/961286
+[24h] OnlyFans - Duda Monet,http://x.cliente.tech:8080/070320/WerWcMP939/961287
+[24h] OnlyFans - Lola,http://x.cliente.tech:8080/070320/WerWcMP939/961288
+[24h] OnlyFans - Miaz1234,http://x.cliente.tech:8080/070320/WerWcMP939/961289
+[24h] OnlyFans - Scarlett.,http://x.cliente.tech:8080/070320/WerWcMP939/961290
+[24h] Brazzers,http://x.cliente.tech:8080/070320/WerWcMP939/971975
 main.canale-romanesti,#genre#
 Super One,http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/50189
 XXX: ----- FOR ADULTS -----,http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/57856

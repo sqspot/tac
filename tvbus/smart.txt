@@ -1,0 +1,531 @@
+中天新聞,http://
+寰宇新聞,http://
+中視新聞,http://
+台視新聞,http://
+CNN,http://
+民視,http://
+人間衛視,http://
+台視,http://
+大愛,http://
+中視,http://
+霹靂台灣,http://
+華視,http://
+公視,http://
+公視台語,http://
+好消息,http://
+原住民族電視,http://
+客家電視,http://
+BBC Earth,http://
+Discovery 頻道,http://
+TLC 旅遊生活頻道,http://
+動物星球頻道,http://
+CN卡通頻道,http://
+尼克兒童頻道,http://
+momo親子,http://
+東森幼幼,http://
+緯來綜合,http://
+八大第一,http://
+八大綜合,http://
+三立台灣,http://
+三立都會,http://
+韓國娛樂台KMTV,http://
+東森綜合,http://
+超視,http://
+東森購物二,http://
+momo購物二,http://
+中天綜合,http://
+東風衛視,http://
+年代MUCH,http://
+中天娛樂,http://
+東森戲劇,http://
+八大戲劇,http://
+TVBS歡樂,http://
+緯來戲劇,http://
+高點電視,http://
+東森購物三,http://
+東森購物一,http://
+momo購物一,http://
+三立iNEWS,http://
+壹電視新聞,http://
+年代新聞,http://
+東森新聞,http://
+華視新聞資訊,http://
+民視新聞,http://
+三立新聞,http://
+TVBS新聞,http://
+TVBS,http://
+東森財經新聞,http://
+非凡新聞,http://
+viva購物一,http://
+東森購物五,http://
+CATCHPLAY電影,http://
+東森電影,http://
+緯來電影,http://
+LS龍祥電影,http://
+HBO,http://
+東森洋片,http://
+AXN,http://
+好萊塢電影,http://
+amc電影,http://
+CINEMAX,http://
+緯來育樂,http://
+緯來體育,http://
+DAZN 一,http://
+DAZN 二,http://
+MOMO綜合,http://
+博斯運動一,http://
+緯來日本,http://
+國興衛視,http://
+BBC Lifestyle,http://
+靖天購物一,http://
+Animax,http://
+信吉電視,http://
+JET 綜合,http://
+鏡電視新聞,http://
+冠軍電視,http://
+Z頻道,http://
+東森綜合,http://
+非凡商業,http://
+八大娛樂,http://
+華視教育體育文化,http://
+冠軍夢想,http://
+高點育樂,http://
+MTV,http://
+智林體育,http://
+美食星球頻道,http://
+寰宇財經,http://
+民視第一,http://
+民視台灣,http://
+中視菁採,http://
+中視精采,http://
+台視財經,http://
+台視綜合,http://
+CNBC Asia,http://
+BBC NEWS,http://
+🔶🔶🔶🔶🔶🔶🔶🔶🔶,https://cf005.paopao.video:443/BC48C5030A85D533F789438C6602E18649796C81
+公視,http://150.138.77.132:10037/xxw/Smartv.php?id=ctv_taiwan
+台視,http://150.138.77.132:10037/xxw/Smartv.php?id=ttv_taiwan
+中視,http://150.138.77.132:10037/xxw/Smartv.php?id=zhongshihd_twn
+民視,http://150.138.77.132:10037/xxw/Smartv.php?id=ftvhd_taiwan
+華視,http://150.138.77.132:10037/xxw/Smartv.php?id=ctshd_twn
+大愛二,http://150.138.77.132:10037/xxw/Smartv.php?id=catchplay_twn
+TVBS,http://150.138.77.132:10037/xxw/Smartv.php?id=tvbs
+TVBS新聞,http://150.138.77.132:10037/xxw/Smartv.php?id=tvbs_n
+TVBS歡樂,http://150.138.77.132:10037/xxw/Smartv.php?id=tvbshuanle_twn
+年代新聞,http://150.138.77.132:10037/xxw/Smartv.php?id=niandainews_twn
+中天新聞,http://150.138.77.132:10037/xxw/Smartv.php?id=ctinews
+中天娛樂 ,http://150.138.77.132:10037/xxw/Smartv.php?id=ctient
+中天綜合,http://150.138.77.132:10037/xxw/Smartv.php?id=ctizhonghe
+中天亞洲,http://150.138.77.132:10037/xxw/Smartv.php?id=ctiasia_twn
+台視新聞,http://150.138.77.132:10037/xxw/Smartv.php?id=ttvnews_twn
+台視綜合,http://150.138.77.132:10037/xxw/Smartv.php?id=ttvzhonghe_twn
+中視經典,http://http://150.138.77.132:10037/xxw/Smartv.php?id=zhongshi_twn
+中視新聞,http://150.138.77.132:10037/xxw/Smartv.php?id=zhongshinews_twn
+非凡新聞,http://http://150.138.77.132:10037/xxw/Smartv.php?id=feifannews_twn
+民視新聞,http://150.138.77.132:10037/xxw/Smartv.php?id=ftvnew_taiwan
+民視台灣,http://150.138.77.132:10037/xxw/Smartv.php?id=ftvtaiwan_twn
+八大第一,http://150.138.77.132:10037/xxw/Smartv.php?id=badafirst
+八大綜合,http://150.138.77.132:10037/xxw/Smartv.php?id=badazhonghe
+八大戲劇,http://150.138.77.132:10037/xxw/Smartv.php?id=badadrama
+八大娛樂,http://150.138.77.132:10037/xxw/Smartv.php?id=badaentertain
+三立台灣,http://150.138.77.132:10037/xxw/Smartv.php?id=sanlitaiwan
+三立綜合,http://150.138.77.132:10037/xxw/Smartv.php?id=sanlizhonghe
+三立戲劇,http://150.138.77.132:10037/xxw/Smartv.php?id=sanlixiju_twn
+三立新聞,http://150.138.77.132:10037/xxw/Smartv.php?id=inews_twn
+東森綜合,http://150.138.77.132:10037/xxw/Smartv.php?id=ettvzhonghe
+東森超視,http://150.138.77.132:10037/xxw/Smartv.php?id=ettvsuper
+東森戲劇,http://150.138.77.132:10037/xxw/Smartv.php?id=ettvdrama
+東森財經,http://150.138.77.132:10037/xxw/Smartv.php?id=ettvcaijing_twn
+東森電影,http://150.138.77.132:10037/xxw/Smartv.php?id=ettvmovie
+東森洋片,http://150.138.77.132:10037/xxw/Smartv.php?id=ettvwestern
+東森幼幼,http://150.138.77.132:10037/xxw/Smartv.php?id=yoyo_twn
+龍華洋片,http://150.138.77.132:10037/xxw/Smartv.php?id=lunghuawestern_twn
+龍詳時代,http://150.138.77.132:10037/xxw/Smartv.php?id=lungxiangtime_twn
+龍華戲劇,http://150.138.77.132:10037/xxw/Smartv.php?id=lunghuaxiju_twn
+龍華偶像,http://150.138.77.132:10037/xxw/Smartv.php?id=lunghuaidol_twn
+龍華卡通,http://150.138.77.132:10037/xxw/Smartv.php?id=jingtiancartoon_twn
+靖天卡通,http://150.138.77.132:10037/xxw/Smartv.php?id=jingtiancartoon_twn
+靖天國際,http://150.138.77.132:10037/xxw/Smartv.php?id=jingtianintl_twn
+探索亞洲,http://150.138.77.132:10037/xxw/Smartv.php?id=discoverytwn_twn
+衛視中文,http://150.138.77.132:10037/xxw/Smartv.php?id=weishichinese_twn
+衛視電影,http://150.138.77.132:10037/xxw/Smartv.php?id=weishimovie_twn
+美亞電影,http://150.138.77.132:10037/xxw/Smartv.php?id=meiyamovie_twn
+星衛電影,http://150.138.77.132:10037/xxw/Smartv.php?id=xingwei_movie
+旅遊生活,http://150.138.77.132:10037/xxw/Smartv.php?id=tlc_twn
+亞洲旅遊,http://150.138.77.132:10037/xxw/Smartv.php?id=asiatravel_twn
+亞洲美食,http://150.138.77.132:10037/xxw/Smartv.php?id=afc_twn
+美食星球,http://150.138.77.132:10037/xxw/Smartv.php?id=foodplanet_twn
+動物星球,http://150.138.77.132:10037/xxw/Smartv.php?id=AnimalPlanet
+動物星球一,http://150.138.77.132:10037/xxw/Smartv.php?id=animalplanet_twn
+博斯網球,http://150.138.77.132:10037/xxw/Smartv.php?id=bositennis_twn
+博斯運動一,http://150.138.77.132:10037/xxw/Smartv.php?id=bosisport1_twn
+博斯高球二,http://150.138.77.132:10037/xxw/Smartv.php?id=bosigolf2_twn
+博斯運動二,http://150.138.77.132:10037/xxw/Smartv.php?id=bosisport2_twn
+國家地理,http://150.138.77.132:10037/xxw/Smartv.php?id=natgeohd_twn
+野生動物,http://150.138.77.132:10037/xxw/Smartv.php?id=natgeowild_twn
+地理野生,http://150.138.77.132:10037/xxw/Smartv.php?id=natgeowildtamil_raj
+EYETV戲劇,http://150.138.77.132:10037/xxw/Smartv.php?id=eyetvxiju_twn
+EYETV旅遊,http://150.138.77.132:10037/xxw/Smartv.php?id=?id=eyetvtravel_twn
+好萊塢電影,http://150.138.77.132:10037/xxw/Smartv.php?id=hollywoodmovies_twn
+愛爾達體育二,http://150.138.77.132:10037/xxw/Smartv.php?id=eltasport2_twn
+愛爾達體育三,http://150.138.77.132:10037/xxw/Smartv.php?id=eltasport3_twn
+Natgeo_,http://150.138.77.132:10037/xxw/Smartv.php?id=natgeohd_twn
+NatGeo_Wild,http://150.138.77.132:10037/xxw/Smartv.php?id=natgeowild_twn
+Animal_Planet,http://150.138.77.132:10037/xxw/Smartv.php?id=animalplanet_twn
+Discovery Asia,http://150.138.77.132:10037/xxw/Smartv.php?id=discoverytwn_twn
+CI,http://150.138.77.132:10037/xxw/Smartv.php?id=ci_twn
+Asia Travel,http://150.138.77.132:10037/xxw/Smartv.php?id=asiatravel_twn
+Discovery,http://150.138.77.132:10037/xxw/Smartv.php?id=discoveryhd_twn
+NatGeo,http://150.138.77.132:10037/xxw/Smartv.php?id=Natgeo
+Fashion TV,http://150.138.77.132:10037/xxw/Smartv.php?id=fashiontv_twn
+History,http://150.138.77.132:10037/xxw/Smartv.php?id=History 
+BBC Earth,http://150.138.77.132:10037/xxw/Smartv.php?id=bbcearth_twn
+BBC Earth Lifestyle,http://150.138.77.132:10037/xxw/Smartv.php?id=bbclifestyle_twn
+MTV Live,http://150.138.77.132:10037/xxw/Smartv.php?id=mtvhd_twn
+NatGeo Wild,http://150.138.77.132:10037/xxw/Smartv.php?id=Natgeowild
+Animal Planet (Eng),http://150.138.77.132:10037/xxw/Smartv.php?id=AnimalPlanet
+TLC,http://150.138.77.132:10037/xxw/Smartv.php?id=Tlc
+Foodnetwork,http://150.138.77.132:10037/xxw/Smartv.php?id=Foodnetwork_mega
+Sun TV,http://150.138.77.132:10037/xxw/Smartv.php?id=Suntv
+Star Vijay,http://150.138.77.132:10037/xxw/Smartv.php?id=Starvijay
+Colors Tamil,http://150.138.77.132:10037/xxw/Smartv.php?id=Colorstam_mega
+Sun Music,http://150.138.77.132:10037/xxw/Smartv.php?id=Sunmusic
+Astro Sunlife,http://150.138.77.132:10037/xxw/Smartv.php?id=Sunlife
+Astro Vaanavil,http://150.138.77.132:10037/xxw/Smartv.php?id=Vaanavil
+Zee Tamil,http://150.138.77.132:10037/xxw/Smartv.php?id=Zeetamil
+Zee Business,http://150.138.77.132:10037/xxw/Smartv.php?id=Zeebusiness
+News 18 Tamil,http://150.138.77.132:10037/xxw/Smartv.php?id=news18tamil_raj
+Adithya,http://150.138.77.132:10037/xxw/Smartv.php?id=Adithya
+Thanthi TV,http://150.138.77.132:10037/xxw/Smartv.php?id=thanthitv
+Makkal TV,http://150.138.77.132:10037/xxw/Smartv.php?id=Makkaltv
+Zee Action,http://150.138.77.132:10037/xxw/Smartv.php?id=Zeeaction
+KTV UK,http://150.138.77.132:10037/xxw/Smartv.php?id=ktvuk_tamil
+Zee TV,http://150.138.77.132:10037/xxw/Smartv.php?id=Zeetvhd Zee
+Cinema,http://150.138.77.132:10037/xxw/Smartv.php?id=Zeecinemahd
+Color,http://150.138.77.132:10037/xxw/Smartv.php?id=Colorhd
+Picture,http://150.138.77.132:10037/xxw/Smartv.php?id=Npicture Zee
+News,107.http://172.63.16:9630/Smartv.php?id=Zeenews
+Asianet,http://150.138.77.132:10037/xxw/Smartv.php?id=asianet_raj
+Asianet News,http://150.138.77.132:10037/xxw/Smartv.php?id=asianetnews_raj
+Times Now,http://150.138.77.132:10037/xxw/Smartv.php?id=timesnow_mega
+BBC Earth Tamil,http://150.138.77.132:10037/xxw/Smartv.php?id=bbcearthtam_raj
+DiscoveryWorld Tamil,http://150.138.77.132:10037/xxw/Smartv.php?id=discoveryworldtam_raj
+History Tamil,http://150.138.77.132:10037/xxw/Smartv.php?id=historytam_raj
+NatGeo Tamil,http://150.138.77.132:10037/xxw/Smartv.php?id=natgeotamil_raj
+Natgeo Wild Tamil,http://150.138.77.132:10037/xxw/Smartv.php?id=natgeowildtamil_raj
+Cartoon Network Tamil,http://150.138.77.132:10037/xxw/Smartv.php?id=cntamil_raj
+Discovery Tamil,http://150.138.77.132:10037/xxw/Smartv.php?id=discoverytamil_raj
+Sony Yay Tamil,http://150.138.77.132:10037/xxw/Smartv.php?id=sonyyaytam_raj
+Sun TV India,http://150.138.77.132:10037/xxw/Smartv.php?id=suntv_raj
+Starmaa,http://150.138.77.132:10037/xxw/Smartv.php?id=starmaa_raj
+Starmaa Movies,http://150.138.77.132:10037/xxw/Smartv.php?id=starmaamovies_raj
+Bollyone,http://150.138.77.132:10037/xxw/Smartv.php?id=Bollyone
+Sony Pix,http://150.138.77.132:10037/xxw/Smartv.php?id=sonypix_mega
+TVRI National,http://150.138.77.132:10037/xxw/Smartv.php?id=TVRI
+RCTI,http://150.138.77.132:10037/xxw/Smartv.php?id=Rcti Kompass
+TV,http://150.138.77.132:10037/xxw/Smartv.php?id=Kompass
+Berita Satu,http://150.138.77.132:10037/xxw/Smartv.php?id=BeritaSatu_eko
+Indosiar,http://150.138.77.132:10037/xxw/Smartv.php?id=Indosiar
+AnTV,http://150.138.77.132:10037/xxw/Smartv.php?id=Antv
+MNC TV,http://150.138.77.132:10037/xxw/Smartv.php?id=Mnctv
+Trans 7,http://150.138.77.132:10037/xxw/Smartv.php?id=Trans7_eko
+Transtv,http://150.138.77.132:10037/xxw/Smartv.php?id=Transtv
+JTV,http://150.138.77.132:10037/xxw/Smartv.php?id=JTV_eko Metro
+TV,http://150.138.77.132:10037/xxw/Smartv.php?id=metrotv_eko
+Cinemax,http://150.138.77.132:10037/xxw/Smartv.php?id=Cinemax
+SCTV,http://150.138.77.132:10037/xxw/Smartv.php?id=SCTV
+Tvone,http://150.138.77.132:10037/xxw/Smartv.php?id=Tvone
+TVMU,http://150.138.77.132:10037/xxw/Smartv.php?id=TVMU_eko
+GTV,http://150.138.77.132:10037/xxw/Smartv.php?id=Gtv
+RTV,http://150.138.77.132:10037/xxw/Smartv.php?id=Rtv
+Jak TV,http://150.138.77.132:10037/xxw/Smartv.php?id=JakTV
+iNews TV,http://150.138.77.132:10037/xxw/Smartv.php?id=Inewstv
+Daai TV,http://150.138.77.132:10037/xxw/Smartv.php?id=DaaiTV
+Animax,http://150.138.77.132:10037/xxw/Smartv.php?id=Animax
+EWTN,http://150.138.77.132:10037/xxw/Smartv.php?id=Ewtn
+Tawaf TV,http://150.138.77.132:10037/xxw/Smartv.php?id=TawafTV
+Muslim TV,http://150.138.77.132:10037/xxw/Smartv.php?id=MuslimTV
+Music TV,http://150.138.77.132:10037/xxw/Smartv.php?id=MusicTV
+Lifestyle&Fashion,http://150.138.77.132:10037/xxw/Smartv.php?id=Lifestyle
+Entertain,http://150.138.77.132:10037/xxw/Smartv.php?id=Entertain
+Hits,http://150.138.77.132:10037/xxw/Smartv.php?id=Hits Warner
+TV,http://150.138.77.132:10037/xxw/Smartv.php?id=WarnerTV
+SCM,http://150.138.77.132:10037/xxw/Smartv.php?id=Weishimovie
+Thrill,http://150.138.77.132:10037/xxw/Smartv.php?id=Thrill Fight
+Sports,http://150.138.77.132:10037/xxw/Smartv.php?id=Fs Beinsports
+,http://150.138.77.132:10037/xxw/Smartv.php?id=Bein2hd
+One,http://150.138.77.132:10037/xxw/Smartv.php?id=One_mega
+HitsMovie,http://150.138.77.132:10037/xxw/Smartv.php?id=Hitsmovie
+tvN Movie,http://150.138.77.132:10037/xxw/Smartv.php?id=Tvnmovie
+Celestial Movies,http://150.138.77.132:10037/xxw/Smartv.php?id=Celestialindo
+Rock Actions,http://150.138.77.132:10037/xxw/Smartv.php?id=Rockaction
+Rock Entertainment,http://150.138.77.132:10037/xxw/Smartv.php?id=Rockentertain 
+NHK-総合-二,http://150.138.77.132:10037/xxw/Smartv.php?id=nhkg_japan
+NHK-E,http://150.138.77.132:10037/xxw/Smartv.php?id=nhke_japan
+Asahi TV,http://150.138.77.132:10037/xxw/Smartv.php?id=asahitv_japan
+JET 綜合,http://150.138.77.132:10037/xxw/Smartv.php?id=jettv_japan
+テレビ東京,http://150.138.77.132:10037/xxw/Smartv.php?id=tokyotv_japan
+TOKYOMX,http://150.138.77.132:10037/xxw/Smartv.php?id=tokyomx_japan
+NHKBS一,http://150.138.77.132:10037/xxw/Smartv.php?id=nhkbs1_japan
+NHKBSプレミアPremium,http://150.138.77.132:10037/xxw/Smartv.php?id=nhkpremium_japan
+BSジャパン,http://150.138.77.132:10037/xxw/Smartv.php?id=bs181_japan
+BSフジ BS Fuji,http://150.138.77.132:10037/xxw/Smartv.php?id=bsfuji_japan
+CNA Japan,http://150.138.77.132:10037/xxw/Smartv.php?id=cna_japan
+BS-TBS,http://150.138.77.132:10037/xxw/Smartv.php?id=bstbs_japan
+NHK Oaska,http://150.138.77.132:10037/xxw/Smartv.php?id=nhkosaka_japan
+Boomerang,http://150.138.77.132:10037/xxw/Smartv.php?id=Boomerang
+Disney Taiwan,http://150.138.77.132:10037/xxw/Smartv.php?id=disneytwn_twn
+Momo TV,http://150.138.77.132:10037/xxw/Smartv.php?id=momo1_twn
+Animax,http://150.138.77.132:10037/xxw/Smartv.php?id=Animax
+Boomerang Taiwan,http://150.138.77.132:10037/xxw/Smartv.php?id=boomerang_twn
+Baby TV,http://150.138.77.132:10037/xxw/Smartv.php?id=babytv_twn
+MiaoMi,http://150.138.77.132:10037/xxw/Smartv.php?id=MiaoMi
+Cartoon Network,http://150.138.77.132:10037/xxw/Smartv.php?id=Cn
+Nickelodeon,http://150.138.77.132:10037/xxw/Smartv.php?id=Nickelodeon
+Nick Jr,http://150.138.77.132:10037/xxw/Smartv.php?id=Nickjr
+Arirang,http://150.138.77.132:10037/xxw/Smartv.php?id=arirang_korea
+Yonhap News,http://150.138.77.132:10037/xxw/Smartv.php?id=yonhapnews_korea
+CBS,http://150.138.77.132:10037/xxw/Smartv.php?id=cbs_korea
+EBS 一,http://150.138.77.132:10037/xxw/Smartv.php?id=ebs1_korea
+EBS二,http://150.138.77.132:10037/xxw/Smartv.php?id=ebs2_korea
+EBS Plus二,http://150.138.77.132:10037/xxw/Smartv.php?id=ebsplus2_korea
+YTN,http://150.138.77.132:10037/xxw/Smartv.php?id=ytn_korea
+KBS World 24,http://150.138.77.132:10037/xxw/Smartv.php?id=kbsworld24_korea
+YTN Science,http://150.138.77.132:10037/xxw/Smartv.php?id=ytnscience_korea
+YTN Korean,http://150.138.77.132:10037/xxw/Smartv.php?id=ytnkorean_korea
+Apps TV,http://150.138.77.132:10037/xxw/Smartv.php?id=appongoogle_korea
+All the Kpop,http://150.138.77.132:10037/xxw/Smartv.php?id=allthekpop_korea
+J the Kpop,http://150.138.77.132:10037/xxw/Smartv.php?id=jthekpop_korea
+EBS Kids,http://150.138.77.132:10037/xxw/Smartv.php?id=ebskids_korea
+TV一,http://150.138.77.132:10037/xxw/Smartv.php?id=TV1
+TV二,http://150.138.77.132:10037/xxw/Smartv.php?id=TV2
+TV三,http://150.138.77.132:10037/xxw/Smartv.php?id=TV3
+TV3 backup,http://150.138.77.132:10037/xxw/Smartv.php?id=tv3_twn
+NTV7,http://150.138.77.132:10037/xxw/Smartv.php?id=NTV7
+TV8,http://150.138.77.132:10037/xxw/Smartv.php?id=TV8
+TV9,http://150.138.77.132:10037/xxw/Smartv.php?id=TV9
+Warna,http://150.138.77.132:10037/xxw/Smartv.php?id=Warna-O
+Ria,http://150.138.77.132:10037/xxw/Smartv.php?id=Ria-0
+Ria backup,http://150.138.77.132:10037/xxw/Smartv.php?id=Ri
+Al-Hijrah,http://150.138.77.132:10037/xxw/Smartv.php?id=Alhijrah
+Al-Hijrah backup,http://150.138.77.132:10037/xxw/Smartv.php?id=Alhijrah_backup
+Awani,http://150.138.77.132:10037/xxw/Smartv.php?id=Awani
+Bernama,http://150.138.77.132:10037/xxw/Smartv.php?id=Bernama
+Prima,http://150.138.77.132:10037/xxw/Smartv.php?id=Prima-0 Prima
+backup,http://150.138.77.132:10037/xxw/Smartv.php?id=Prima_xue
+Ceria,http://150.138.77.132:10037/xxw/Smartv.php?id=Ceria
+Mecca Live,http://150.138.77.132:10037/xxw/Smartv.php?id=quran_mido
+Madinah,http://150.138.77.132:10037/xxw/Smartv.php?id=sunnah_mido
+Oasis,http://150.138.77.132:10037/xxw/Smartv.php?id=Oasis HBO
+Hits,http://150.138.77.132:10037/xxw/Smartv.php?id=Hbohits
+HBO,http://150.138.77.132:10037/xxw/Smartv.php?id=Hbo
+HBO Signature,http://150.138.77.132:10037/xxw/Smartv.php?id=Hbosignature
+NatGeo Wild,http://150.138.77.132:10037/xxw/Smartv.php?id=Natgeowild
+Cartoon Network,http://150.138.77.132:10037/xxw/Smartv.php?id=Cn
+Nickelodeon,http://150.138.77.132:10037/xxw/Smartv.php?id=Nickelodeon
+Nick Jr,107.http://172.63.16:9630/Smartv.php?id=Nickjr
+Dreamworks,http://150.138.77.132:10037/xxw/Smartv.php?id=Dreamworks
+Citra,http://150.138.77.132:10037/xxw/Smartv.php?id=Citra_xue
+Sensasi,http://150.138.77.132:10037/xxw/Smartv.php?id=Sensasi
+Aura,http://150.138.77.132:10037/xxw/Smartv.php?id=Aura
+Rania,http://150.138.77.132:10037/xxw/Smartv.php?id=Rani
+Boo,http://150.138.77.132:10037/xxw/Smartv.php?id=Boo
+Awesome TV,http://150.138.77.132:10037/xxw/Smartv.php?id=Dsangat
+Sony,http://150.138.77.132:10037/xxw/Smartv.php?id=SetOne
+KBS World,http://150.138.77.132:10037/xxw/Smartv.php?id=KBS
+TvN,http://150.138.77.132:10037/xxw/Smartv.php?id=TVN
+Astro Premier,http://150.138.77.132:10037/xxw/Smartv.php?id=Astropremier
+AEC,http://150.138.77.132:10037/xxw/Smartv.php?id=AEC
+華麗,http://150.138.77.132:10037/xxw/Smartv.php?id=Wlt
+歡喜,http://150.138.77.132:10037/xxw/Smartv.php?id=Huahee
+歡喜台 backup,http://150.138.77.132:10037/xxw/Smartv.php?id=Huahee_backup
+Astro QJ,http://150.138.77.132:10037/xxw/Smartv.php?id=Quanjia
+AOD,http://150.138.77.132:10037/xxw/Smartv.php?id=AodHD
+One,http://150.138.77.132:10037/xxw/Smartv.php?id=One_mega
+愛奇藝 iQiyi,http://150.138.77.132:10037/xxw/Smartv.php?id=Qiyi
+Animal Planet (Eng),http://150.138.77.132:10037/xxw/Smartv.php?id=AnimalPlanet
+tvN Movie,http://150.138.77.132:10037/xxw/Smartv.php?id=Tvnmovie
+CNN backup,http://150.138.77.132:10037/xxw/Smartv.php?id=cnn_twn Celestial
+Classic,http://150.138.77.132:10037/xxw/Smartv.php?id=Celestial2
+CNBC,http://150.138.77.132:10037/xxw/Smartv.php?id=cnbc_twn
+Arena,http://150.138.77.132:10037/xxw/Smartv.php?id=Arena
+TLC,http://150.138.77.132:10037/xxw/Smartv.php?id=Tlc
+CNA,http://150.138.77.132:10037/xxw/Smartv.php?id=cna
+BBC World News,http://150.138.77.132:10037/xxw/Smartv.php?id=bbcnews_twn
+Foodnetwork,http://150.138.77.132:10037/xxw/Smartv.php?id=Foodnetwork_mega
+HGTV,http://150.138.77.132:10037/xxw/Smartv.php?id=HGTV
+Goshop,http://150.138.77.132:10037/xxw/Smartv.php?id=Goshop
+Celestial Movies,http://150.138.77.132:10037/xxw/Smartv.php?id=Celestial_megaArena 二,
+http://150.138.77.132:10037/xxw/Smartv.php?id=Arena2
+Axn,http://150.138.77.132:10037/xxw/Smartv.php?id=Axn Paramount
+Network,http://150.138.77.132:10037/xxw/Smartv.php?id=Paramountnetwork
+Astrol Kplus,http://150.138.77.132:10037/xxw/Smartv.php?id=Kplus Rock
+Actions,http://150.138.77.132:10037/xxw/Smartv.php?id=Rockaction
+Bloomberg News,http://150.138.77.132:10037/xxw/Smartv.php?id=bloomberg_twn
+Al-Jazeera,http://150.138.77.132:10037/xxw/Smartv.php?id=aljazeera_twn
+Rock Entertainment,http://150.138.77.132:10037/xxw/Smartv.php?id=Rockentertain
+Showcase,http://150.138.77.132:10037/xxw/Smartv.php?id=Showcase_mega
+RTM Sports,http://150.138.77.132:10037/xxw/Smartv.php?id=Rtmsport
+BolaArena 一,http://150.138.77.132:10037/xxw/Smartv.php?id=Bolaarena1
+HBO_,http://150.138.77.132:10037/xxw/Smartv.php?id=hbohd_twn
+HBO_HITS,http://150.138.77.132:10037/xxw/Smartv.php?id=hbohits_twn
+Hollywood Movies,http://150.138.77.132:10037/xxw/Smartv.php?id=hollywoodmovies_twn
+CINEMAX,http://150.138.77.132:10037/xxw/Smartv.php?id=cinemax_twn
+Cinemax,http://150.138.77.132:10037/xxw/Smartv.php?id=Cinemax
+AXN Taiwan,http://150.138.77.132:10037/xxw/Smartv.php?id=axn_twn
+Animax,http://150.138.77.132:10037/xxw/Smartv.php?id=Animax
+Movies Now,http://150.138.77.132:10037/xxw/Smartv.php?id=moviesnow_raj
+Star Movies,http://150.138.77.132:10037/xxw/Smartv.php?id=starmovies_raj
+HBO Family,http://150.138.77.132:10037/xxw/Smartv.php?id=Hbofamily
+HBO Hits,http://150.138.77.132:10037/xxw/Smartv.php?id=Hbohits
+HBO,107.http://172.63.16:9630/Smartv.php?id=Hbo
+HBO Signature,http://150.138.77.132:10037/xxw/Smartv.php?id=Hbosignature
+Hits,http://150.138.77.132:10037/xxw/Smartv.php?id=Hits
+Warner TV,http://150.138.77.132:10037/xxw/Smartv.php?id=WarnerTV
+SCM,107.http://172.63.16:9630/Smartv.php?id=Weishimovie
+Thrill,http://150.138.77.132:10037/xxw/Smartv.php?id=Thrill
+One,http://150.138.77.132:10037/xxw/Smartv.php?id=One_mega
+Hits Movie,http://150.138.77.132:10037/xxw/Smartv.php?id=Hitsmovie
+tvN Movie,107.http://172.63.16:9630/Smartv.php?id=Tvnmovie
+Celestial Classic,http://150.138.77.132:10037/xxw/Smartv.php?id=Celestial2
+Celestial Movies,http://150.138.77.132:10037/xxw/Smartv.php?id=Celestialindo
+Axn,http://150.138.77.132:10037/xxw/Smartv.php?id=Axn Paramount
+Network,http://150.138.77.132:10037/xxw/Smartv.php?id=Paramountnetwork
+Astrol Kplus,http://150.138.77.132:10037/xxw/Smartv.php?id=Kplus
+Rock Actions,http://150.138.77.132:10037/xxw/Smartv.php?id=Rockaction
+Rock Entertainment,http://150.138.77.132:10037/xxw/Smartv.php?id=Rockentertain
+Sony Pix,http://150.138.77.132:10037/xxw/Smartv.php?id=sonypix_mega
+Skynews,http://150.138.77.132:10037/xxw/Smartv.php?id=skynews_antik
+ABC News,http://150.138.77.132:10037/xxw/Smartv.php?id=abcnews_glo
+CBS,http://150.138.77.132:10037/xxw/Smartv.php?id=cbshd_glo
+CBSN,http://150.138.77.132:10037/xxw/Smartv.php?id=cbsn_glo
+France 24,http://150.138.77.132:10037/xxw/Smartv.php?id=france24_twn
+DW (Deutsch),http://150.138.77.132:10037/xxw/Smartv.php?id=dw_twn
+NHK World,http://150.138.77.132:10037/xxw/Smartv.php?id=nhkworld_japan
+Fox News,http://150.138.77.132:10037/xxw/Smartv.php?id=foxnews_twn
+CGTN,http://150.138.77.132:10037/xxw/Smartv.php?id=CGTN
+CNN International,http://150.138.77.132:10037/xxw/Smartv.php?id=Cnn
+CNN backup,http://150.138.77.132:10037/xxw/Smartv.php?id=cnn_twn
+CNBC,http://150.138.77.132:10037/xxw/Smartv.php?id=cnbc_twn
+CNA,http://150.138.77.132:10037/xxw/Smartv.php?id=cna
+BBC World News,http://150.138.77.132:10037/xxw/Smartv.php?id=bbcnews_twn
+BBC World News,http://150.138.77.132:10037/xxw/Smartv.php?id=Bbcnews
+Bloomberg News,http://150.138.77.132:10037/xxw/Smartv.php?id=bloomberg_twn
+Al-Jazeera,http://150.138.77.132:10037/xxw/Smartv.php?id=aljazeera_twn
+Channel 5,http://150.138.77.132:10037/xxw/Smartv.php?id=Channel5HD
+Ch 5 backup,http://150.138.77.132:10037/xxw/Smartv.php?id=Ch5_mega
+Channel 8,http://150.138.77.132:10037/xxw/Smartv.php?id=Channel8HD
+Channel 8 backup,http://150.138.77.132:10037/xxw/Smartv.php?id=Ch8_mega
+Suria,http://150.138.77.132:10037/xxw/Smartv.php?id=Suria Suria
+backup,http://150.138.77.132:10037/xxw/Smartv.php?id=Suria_backup
+Channel U,http://150.138.77.132:10037/xxw/Smartv.php?id=ChannelU
+Channel U backup,http://150.138.77.132:10037/xxw/Smartv.php?id=ChU_mega
+Vasantham,http://150.138.77.132:10037/xxw/Smartv.php?id=Vasantham
+backup,http://150.138.77.132:10037/xxw/Smartv.php?id=Vasantham_mega
+CNA,http://150.138.77.132:10037/xxw/Smartv.php?id=cna
+CNA backup,http://150.138.77.132:10037/xxw/Smartv.php?id=cna_twn
+Supersports 一,http://150.138.77.132:10037/xxw/Smartv.php?id=Assp1
+Supersports 1 backup,http://150.138.77.132:10037/xxw/Smartv.php?id=go_assp1
+Supersportq 1 backup二,http://150.138.77.132:10037/xxw/Smartv.php?id=Assp1_mega
+Supersports 二,http://150.138.77.132:10037/xxw/Smartv.php?id=Assp2
+Supersports 2 backup,http://150.138.77.132:10037/xxw/Smartv.php?id=go_assp2
+Supersports 三,http://150.138.77.132:10037/xxw/Smartv.php?id=Assp3
+Supersports 3 backup,http://150.138.77.132:10037/xxw/Smartv.php?id=go_assp3
+Supersports 3 backup二,http://150.138.77.132:10037/xxw/Smartv.php?id=Assp3_mega
+Supersports 4,http://150.138.77.132:10037/xxw/Smartv.php?id=Assp4_mega
+Supersports 4 backup,http://150.138.77.132:10037/xxw/Smartv.php?id=go_assp4
+Supersports 5,http://150.138.77.132:10037/xxw/Smartv.php?id=go_assp5
+Bein 二,http://150.138.77.132:10037/xxw/Smartv.php?id=Beinhd
+Beinsports,http://150.138.77.132:10037/xxw/Smartv.php?id=Besports
+Champion 5EPL,http://150.138.77.132:10037/xxw/Smartv.php?id=Champion5epl
+WWE,http://150.138.77.132:10037/xxw/Smartv.php?id=Wwe
+Champion 6 EPL,http://150.138.77.132:10037/xxw/Smartv.php?id=Champion6epl
+Fight Sports,http://150.138.77.132:10037/xxw/Smartv.php?id=Fs UFC
+Network,http://150.138.77.132:10037/xxw/Smartv.php?id=ufc_mega
+NBA TV,http://150.138.77.132:10037/xxw/Smartv.php?id=nbatv_twn
+Astro Cricket,http://150.138.77.132:10037/xxw/Smartv.php?id=Acricket_mega
+Astro Golf,http://150.138.77.132:10037/xxw/Smartv.php?id=Agolf
+TNT Sports 一,http://150.138.77.132:10037/xxw/Smartv.php?id=beeone
+TNT Sports 二,http://150.138.77.132:10037/xxw/Smartv.php?id=beetwo
+TNT Sports 三,http://150.138.77.132:10037/xxw/Smartv.php?id=beethree
+TNT Sports 4,http://150.138.77.132:10037/xxw/Smartv.php?id=beefour
+Sony Ten 一,http://150.138.77.132:10037/xxw/Smartv.php?id=ten1_raj
+Sony Ten 二,http://150.138.77.132:10037/xxw/Smartv.php?id=ten2_raj
+Sony Ten 三,http://150.138.77.132:10037/xxw/Smartv.php?id=ten3_raj
+Sony Six,http://150.138.77.132:10037/xxw/Smartv.php?id=sonysix_raj
+SPOTV 一,http://150.138.77.132:10037/xxw/Smartv.php?id=go_spotv
+SPO TV 二,http://150.138.77.132:10037/xxw/Smartv.php?id=go_spotv2
+Beinsports 二,http://http://150.138.77.132:10037/xxw/Smartv.php?id=Bein2hd
+Skysports Arena,http://150.138.77.132:10037/xxw/Smartv.php?id=tiankongarena
+Skysports F一,http://150.138.77.132:10037/xxw/Smartv.php?id=tiankongf1
+Skysports Cricket,http://150.138.77.132:10037/xxw/Smartv.php?id=tiankongcricket
+Skysports EPL,http://150.138.77.132:10037/xxw/Smartv.php?id=tiankongepl
+Skysports Football,http://150.138.77.132:10037/xxw/Smartv.php?id=tiankongfootball
+Skysports Golf,http://150.138.77.132:10037/xxw/Smartv.php?id=tiankonggolf
+Skysports Main Event,http://150.138.77.132:10037/xxw/Smartv.php?id=tiankongmain
+Skysports News,http://150.138.77.132:10037/xxw/Smartv.php?id=tiankongnews
+Skysports NFL,http://150.138.77.132:10037/xxw/Smartv.php?id=tiankongnfl
+Skysports Racing,http://150.138.77.132:10037/xxw/Smartv.php?id=tiankongracing
+Skysports Mix,http://150.138.77.132:10037/xxw/Smartv.php?id=tiankongmix
+Arena,http://150.138.77.132:10037/xxw/Smartv.php?id=Arena
+Beins 1 English,http://150.138.77.132:10037/xxw/Smartv.php?id=bein1eng_mega
+Bein3 English,http://150.138.77.132:10037/xxw/Smartv.php?id=bein3eng_mega
+Bein 4 Sports,http://150.138.77.132:10037/xxw/Smartv.php?id=bein4_mega
+Arena 二,http://150.138.77.132:10037/xxw/Smartv.php?id=Arena2
+Bein 5 Sports,http://150.138.77.132:10037/xxw/Smartv.php?id=bein5_mega
+Bein 1 Premium,http://150.138.77.132:10037/xxw/Smartv.php?id=bein1pre_mega
+Bein 2 Premium,http://150.138.77.132:10037/xxw/Smartv.php?id=bein2pre_mega
+Bein 3 Premium,http://150.138.77.132:10037/xxw/Smartv.php?id=bein3pre_mega
+RTM Sports,http://150.138.77.132:10037/xxw/Smartv.php?id=Rtmsport
+BolaArena 一,http://150.138.77.132:10037/xxw/Smartv.php?id=Bolaarena1
+Bein 1 Xtra,http://150.138.77.132:10037/xxw/Smartv.php?id=bein1xtra_mega
+Rugby Pass TV,http://150.138.77.132:10037/xxw/Smartv.php?id=Rugbypasstv
+Beinsports Rugby,http://150.138.77.132:10037/xxw/Smartv.php?id=go_beinsrugby
+Thairath,http://150.138.77.132:10037/xxw/Smartv.php?id=thairath_pat
+tpbs,http://150.138.77.132:10037/xxw/Smartv.php?id=tpbs_pat
+Workpoint,http://150.138.77.132:10037/xxw/Smartv.php?id=workpoint_pat
+Gmm Channel,http://150.138.77.132:10037/xxw/Smartv.php?id=gmmchannel_pat
+Nation,http://150.138.77.132:10037/xxw/Smartv.php?id=nation_pat
+Tnn24,http://150.138.77.132:10037/xxw/Smartv.php?id=tnn24_pat
+Nbt,http://150.138.77.132:10037/xxw/Smartv.php?id=nbt_pat
+New,http://150.138.77.132:10037/xxw/Smartv.php?id=new_pat
+TPTV,http://150.138.77.132:10037/xxw/Smartv.php?id=tptv_pat
+BBC 1http://,http://150.138.77.132:10037/xxw/Smartv.php?id=bbc1_antik
+BBC 二,http://150.138.77.132:10037/xxw/Smartv.php?id=bbc2_antik
+CBBC,http://150.138.77.132:10037/xxw/Smartv.php?id=cbbc_antik
+More4,http://150.138.77.132:10037/xxw/Smartv.php?id=more4_antik
+Freesports,http://150.138.77.132:10037/xxw/Smartv.php?id=freesports_antik
+Skynews,http://150.138.77.132:10037/xxw/Smartv.php?id=skynews_antik
+Pick TV,http://150.138.77.132:10037/xxw/Smartv.php?id=picktv_antik
+itv 一,http://150.138.77.132:10037/xxw/Smartv.php?id=itv1
+antik itv 二,http://150.138.77.132:10037/xxw/Smartv.php?id=itv2
+antik Euronews,http://150.138.77.132:10037/xxw/Smartv.php?id=euronews_antik
+Channel 4,http://150.138.77.132:10037/xxw/Smartv.php?id=channel4_antik
+NatGeo,http://150.138.77.132:10037/xxw/Smartv.php?id=Natgeo
+CBeebies,http://150.138.77.132:10037/xxw/Smartv.php?id=Cbeebies
+History,http://150.138.77.132:10037/xxw/Smartv.php?id=History
+Kids TV,http://150.138.77.132:10037/xxw/Smartv.php?id=KidsTV
+France 24,http://150.138.77.132:10037/xxw/Smartv.php?id=france24_twn
+DW (Deutsch),http://150.138.77.132:10037/xxw/Smartv.php?id=dw_twn
+Boomerang,http://150.138.77.132:10037/xxw/Smartv.php?id=Boomerang
+BBC Earth,http://150.138.77.132:10037/xxw/Smartv.php?id=bbcearth_twn
+BBC Earth Lifestyle,http://150.138.77.132:10037/xxw/Smartv.php?id=bbclifestyle_twn
+MTV Live,http://150.138.77.132:10037/xxw/Smartv.php?id=mtvhd_twn
+Star Movies,http://150.138.77.132:10037/xxw/Smartv.php?id=starmovies_raj
+NHK World,http://150.138.77.132:10037/xxw/Smartv.php?id=nhkworld_japan
+HBO Hits,http://150.138.77.132:10037/xxw/Smartv.php?id=Hbohits
+HBO,http://150.138.77.132:10037/xxw/Smartv.php?id=Hbo NatGeo
+Wild,http://150.138.77.132:10037/xxw/Smartv.php?id=Natgeowild
+Warner TV,http://150.138.77.132:10037/xxw/Smartv.php?id=WarnerTV
+Nickelodeon,http://150.138.77.132:10037/xxw/Smartv.php?id=Nickelodeon
+Nick Jr,http://150.138.77.132:10037/xxw/Smartv.php?id=Nickjr
+Thrill,http://150.138.77.132:10037/xxw/Smartv.php?id=Thrill
+CGTN,http://150.138.77.132:10037/xxw/Smartv.php?id=CGTN
+Skysports F一,http://150.138.77.132:10037/xxw/Smartv.php?id=tiankongf1
+Skysports Cricket,http://150.138.77.132:10037/xxw/Smartv.php?id=tiankongcricket
+Skysports EPL,http://150.138.77.132:10037/xxw/Smartv.php?id=tiankongepl
+Skysports Football,http://150.138.77.132:10037/xxw/Smartv.php?id=tiankongfootball
+Skysports Golf,http://150.138.77.132:10037/xxw/Smartv.php?id=tiankonggolf
+Skysports Main Event,http://150.138.77.132:10037/xxw/Smartv.php?id=tiankongmain
+Skysports News,http://150.138.77.132:10037/xxw/Smartv.php?id=tiankongnews
+Hits Movie,http://150.138.77.132:10037/xxw/Smartv.php?id=Hitsmovie
