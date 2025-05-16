@@ -1,5 +1,5 @@
 {
-"spider":"./fm.jar",
+"spider":"./f0223.jar",
 "wallpaper":"https://api.btstu.cn/sjbz/api.php","logo":"http://rihou.cc:567/1.gif",
 "lives":[{"name":"外置测试","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/sln654360/itv/refs/heads/main/itv.txt","ua":"okhttp/3.15","epg":"https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}}],
 "headers":[{"host":"gslbserv.itv.cmvideo.cn","header":{"User-Agent":"okhttp/3.12.13"}}],
@@ -8,11 +8,13 @@
 "ads":["static-mozai.4gtv.tv"],
 "sites":[
 {"key":"drpy","name":"🔥豆瓣(有評分 )　２０２５👉財運如🪱,連綿不斷🌻一定要平平安安呦✅","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
-{"key":"csp_Bili短剧","name":"B站短剧","api":"csp_Bili","type":3,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.liucn.cc/box/libs/jar/XYQH.jar","ext":"https://raw.liucn.cc/box/libs/xyq/Bili短剧.json"},
-{"key":"瓜子短劇","name":"瓜子短劇","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"jar":"http://rihou.cc:555/jar/nzk.jar","changeable":0},
-{"key":"cpsx阿里","name":"阿里短劇","type":3,"playerType":2,"changeable":0,"api":"csp_Wwys","jar":"http://rihou.cc:555/jar/nzk.jar","ext":"https://www.wwgz.cn/"},
-{"key":"cspxSuBaiBai","name":"SuBaiBai","type":3,"api":"csp_SuBaiBai","playerType":2,"jar":"http://rihou.cc:555/jar/nzk.jar","ext":"https://subaibai.com/"},
-{"key":"cspxJPYY","name":"csp_JPYY","type":3,"searchable":1,"changeable":1,"api":"csp_Jpyy","playerType":2,"filterable":1,"jar":"http://rihou.cc:555/jar/nzk.jar","ext":""}
+//{"key":"csp_Bili短剧","name":"B站短剧","api":"csp_Bili","type":3,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./XYQH.jar","ext":"./js/Bili短剧.json"},
+//{"key":"瓜子短劇","name":"瓜子短劇","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"jar":"./nzk.jar","changeable":0},
+{"key":"csp_Bili短剧","name":"B站短剧2","api":"csp_Bili","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/Bili短剧.json"},
+{"key":"瓜子短劇","name":"瓜子短劇2","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0},
+{"key":"cpsx阿里","name":"旺旺短劇","type":3,"playerType":2,"changeable":0,"api":"csp_Wwys","ext":"https://www.wwgz.cn/#"},
+{"key":"cspxSuBaiBai","name":"SuBaiBai","type":3,"api":"csp_SuBaiBai","playerType":2,"jar":"./nzk.jar","ext":"https://subaibai.com/"},
+{"key":"cspxJPYY","name":"csp_JPYY","type":3,"searchable":1,"changeable":1,"api":"csp_Jpyy","playerType":2,"filterable":1,"jar":"./nzk.jar","ext":""}
 ],
 "parses":[
 {"name":"T并发","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"
