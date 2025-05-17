@@ -1931,4 +1931,5 @@ cctv-3-综艺,http://106.52.196.79:80/TV/mui.php?id=cctv3
 cctv-3-综艺,http://congtou.top:9292/rtp/239.77.0.169:5146
 cctv-3-综艺,p3p://173.208.176.178:31809/62be83ea0001dbed9b27d7bb43427d30
 cctv-3-综艺,p3p://167.114.175.6:55331/62be83ea0001dbed9b27d7bb43427d30
+cctv-3-综艺,http://39.164.180.36:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 
