@@ -30,7 +30,7 @@ DreamWorks 夢工廠動畫,https://www.4gtv.tv/channel/4gtv-live017?set=1&ch=282
 i-Fun動漫台,https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=60
 MOMO親子台,https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
 東森購物一台,https://www.4gtv.tv/channel/4gtv-live047?set=1&ch=173
-鏡電視新聞台,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
+鏡新聞台,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
 東森新聞台,https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
 華視新聞,https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34
 民視新聞台,https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31

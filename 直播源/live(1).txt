@@ -1021,7 +1021,7 @@ DreamWorks 夢工廠動畫,https://www.4gtv.tv/channel/4gtv-live017?set=1&ch=282
 i-Fun動漫台,https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=60
 MOMO親子台,https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
 東森購物一台,https://www.4gtv.tv/channel/4gtv-live047?set=1&ch=173
-鏡電視新聞台,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
+鏡新聞台,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
 東森新聞台,https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
 華視新聞,https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34
 民視新聞台,https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31
@@ -1151,7 +1151,7 @@ DreamWorks 夢工廠動畫,video://https://www.4gtv.tv/channel/4gtv-live017?set=
 i-Fun動漫台,video://https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=22
 MOMO親子台,video://https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=22
 東森購物一台,video://https://www.4gtv.tv/channel/4gtv-live047?set=1&ch=22
-鏡電視新聞台,video://https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=22
+鏡新聞台,video://https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=22
 東森新聞台,video://https://www.4gtv.tv/channel/4gtv-live114?set=1&ch=22
 華視新聞,video://https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=22
 民視新聞台,video://https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=22
@@ -1398,7 +1398,7 @@ ELTA生活英語, http://xg.52sw.top:5000/litv/litv-longturn20
 東森財經新聞, http://xg.52sw.top:5000/litv/4gtv-4gtv153
 非凡新聞台, http://xg.52sw.top:5000/litv/4gtv-4gtv010
 非凡商業台, http://xg.52sw.top:5000/litv/4gtv-4gtv048
-鏡電視新聞台, http://xg.52sw.top:5000/litv/4gtv-4gtv075
+鏡新聞台, http://xg.52sw.top:5000/litv/4gtv-4gtv075
 CNBC Asia 財經台, http://xg.52sw.top:5000/4gtv/235
 亞洲旅遊台, http://xg.52sw.top:5000/litv/litv-longturn17
 GINX Esports TV, http://xg.52sw.top:5000/litv/4gtv-4gtv053

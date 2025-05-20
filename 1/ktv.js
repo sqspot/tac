@@ -1,7 +1,7 @@
 // https://github.com/leosam1024/tvbox-mv
 {
-"spider":"./fm.jar",
-//"spider":"./pg.jar",
+"spider":"./jar/fm.jar",
+//"spider":"./jar/pg.jar",
 "logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 "lives":[{"name":"KTV","type":0,"url":"./KTV.txt"}],
 "sites":[

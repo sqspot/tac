@@ -1,5 +1,5 @@
 {
-"spider":"./pg.jar",
+"spider":"./jar/pg.jar",
 "logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 "lives":[
 {"name":"youtube",

@@ -1,7 +1,4 @@
-
 4GTV豪華套餐,#genre#
-parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
 民視台灣台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
 民視,https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
@@ -33,7 +30,7 @@ DreamWorks 夢工廠動畫,https://www.4gtv.tv/channel/4gtv-live017?set=1&ch=282
 i-Fun動漫台,https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=60
 MOMO親子台,https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
 東森購物一台,https://www.4gtv.tv/channel/4gtv-live047?set=1&ch=173
-鏡電視新聞台,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
+鏡新聞台,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
 東森新聞台,https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
 華視新聞,https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34
 民視新聞台,https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31
@@ -196,9 +193,7 @@ Mainu臺,http://125.227.210.55:51359/VideoInput/play.ts
 NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
 
 📺歐飛嗅探,#genre#
-parse=1 
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-台視,https://www.ofiii.com/channel/watch/4gtv-4gtv066
+ 台視,https://www.ofiii.com/channel/watch/4gtv-4gtv066
 中視,https://www.ofiii.com/channel/watch/4gtv-4gtv040
 華視,https://www.ofiii.com/channel/watch/4gtv-4gtv041
 公視金獎,https://www.ofiii.com/channel/watch/ofiii13
@@ -325,8 +320,6 @@ TITV 原住民族電視台,https://www.ipcf.org.tw/zh-TW/Vod/Home
 CNA(亞洲新聞台),https://www.channelnewsasia.com/watch
 
 📺四季嗅探,#genre#
-parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 民視第一台,video://https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=22
 民視台灣台,video://https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=22
 民視,video://https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=22
@@ -358,7 +351,7 @@ DreamWorks 夢工廠動畫,video://https://www.4gtv.tv/channel/4gtv-live017?set=
 i-Fun動漫台,video://https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=22
 MOMO親子台,video://https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=22
 東森購物一台,video://https://www.4gtv.tv/channel/4gtv-live047?set=1&ch=22
-鏡電視新聞台,video://https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=22
+鏡新聞台,video://https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=22
 東森新聞台,video://https://www.4gtv.tv/channel/4gtv-live114?set=1&ch=22
 華視新聞,video://https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=22
 民視新聞台,video://https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=22
@@ -653,7 +646,6 @@ Smart知识台,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn19
 龙华经典,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn21
 台湾戏剧台,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn22
 
-
 中華電信電視,#genre#
 TVBS,http://61.224.69.212:9088/udp/224.1.4.153:11111
 TVBS,http://61.224.69.212:9088/udp/224.1.4.24:11111
@@ -769,8 +761,8 @@ Warner TV,http://61.224.69.212:9088/udp/230.1.2.68:11111
 華視,http://61.224.69.212:9088/udp/230.1.2.229:11111
 華視教育體育文化台,http://61.224.69.212:9088/udp/224.1.4.223:11111
 華視教育體育文化台,http://61.224.69.212:9088/udp/224.1.4.96:11111
-華視新聞資訊台,http://61.224.69.212:9088/udp/224.1.4.55:11111
-華視新聞資訊台,http://61.224.69.212:9088/udp/230.1.2.248:11111
+華視新聞台,http://61.224.69.212:9088/udp/224.1.4.55:11111
+華視新聞台,http://61.224.69.212:9088/udp/230.1.2.248:11111
 華藏衛視,http://61.224.69.212:9088/udp/224.1.4.181:11111
 華藏衛視,http://61.224.69.212:9088/udp/224.1.4.90:11111
 好消息衛星電視台,http://61.224.69.212:9088/udp/224.1.4.4:11111
@@ -906,8 +898,8 @@ KLT-靖天國際台,http://61.224.69.212:9088/udp/224.1.4.220:11111
 寰宇新聞台,http://61.224.69.212:9088/udp/230.1.2.252:11111
 寰宇新聞台灣台,http://61.224.69.212:9088/udp/224.1.4.101:11111
 寰宇新聞台灣台,http://61.224.69.212:9088/udp/230.1.2.147:11111
-鏡電視新聞台,http://61.224.69.212:9088/udp/224.1.4.126:11111
-鏡電視新聞台,http://61.224.69.212:9088/udp/230.1.2.138:11111
+鏡新聞台,http://61.224.69.212:9088/udp/224.1.4.126:11111
+鏡新聞台,http://61.224.69.212:9088/udp/230.1.2.138:11111
 amc電影台,http://61.224.69.212:9088/udp/224.1.4.43:11111
 amc電影台,http://61.224.69.212:9088/udp/230.1.2.157:11111
 Animax,http://61.224.69.212:9088/udp/224.1.4.237:11111

@@ -50,7 +50,7 @@ momo購物一,http://
 壹電視新聞,http://
 年代新聞,http://
 東森新聞,http://
-華視新聞資訊,http://
+華視新聞,http://
 民視新聞,http://
 三立新聞,http://
 TVBS新聞,http://
@@ -82,7 +82,7 @@ BBC Lifestyle,http://
 Animax,http://
 信吉電視,http://
 JET 綜合,http://
-鏡電視新聞,http://
+鏡新聞,http://
 冠軍電視,http://
 Z頻道,http://
 東森綜合,http://

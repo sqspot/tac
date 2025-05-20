@@ -49,7 +49,7 @@ momo購物1,https://
 壹電視新聞,https://
 年代新聞,https://
 東森新聞,https://
-華視新聞資訊,https://
+華視新聞,https://
 民視新聞,https://
 三立新聞,https://
 TVBS新聞,https://
@@ -82,7 +82,7 @@ Animax,https://
 信吉電視,https://
 JET 綜合,https://
 中台灣生活網頻道,https://
-鏡電視新聞,https://
+鏡新聞,https://
 冠軍電視,https://
 Z頻道,https://
 ETtoday綜合,https://
@@ -794,13 +794,13 @@ Z頻道,P2p://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
 經典電影,http://4gtv.muni.rip:9877/201/4gtv-live021/index.m3u8
 經典卡通,http://4gtv.mumi.rip:9877/202/4gtv-live022/index.m3u8
 經典卡通,http://4gtv.mumi.rip:9877/2027/4gtv-live022/index.m3u8
-鏡電視新聞,http://4gtv.mumi.rip:9877/268/4gtv-4gtv075/index.m3u8
-鏡電視新聞,http://4gtv.mumi.rip:9877/268/4gtv-4gtv075/index.m3u8
-鏡電視新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o&fmt=37
-鏡電視新聞,https://z88.ubtvfans.com/live/rx6/463/afaae728b5cba11234acb1b96059aedf/index.m3u8
-鏡電視新聞,P2p://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
-鏡電視新聞,P2p://generationnexxxt.com:19806/65372d81bcb84ef4b76dd34a6f0e32bc
-鏡電視新聞,P2p://generationnexxxt.com:19806/65372d81bcb84ef4b76dd34a6f0e32bc
+鏡新聞,http://4gtv.mumi.rip:9877/268/4gtv-4gtv075/index.m3u8
+鏡新聞,http://4gtv.mumi.rip:9877/268/4gtv-4gtv075/index.m3u8
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o&fmt=37
+鏡新聞,https://z88.ubtvfans.com/live/rx6/463/afaae728b5cba11234acb1b96059aedf/index.m3u8
+鏡新聞,P2p://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
+鏡新聞,P2p://generationnexxxt.com:19806/65372d81bcb84ef4b76dd34a6f0e32bc
+鏡新聞,P2p://generationnexxxt.com:19806/65372d81bcb84ef4b76dd34a6f0e32bc
 靖天電影,http://4gtv.mumi.rip:9877/82/4gtv-4gtv061/index.m3u8
 靖天電影,http://4gtv.muni.rip:9877/82/4gtv-4gtv061/index.m3u8
 靖天電影,https://z88.ubtvfans.com/live/rx1/110/9f1bd22a531aa9ee1549daf10b3f4f72/index.m3u8

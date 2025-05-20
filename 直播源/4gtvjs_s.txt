@@ -1,7 +1,4 @@
-
 4GTV豪華套餐,#genre#
-parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
 民視台灣台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
 民視,https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
@@ -196,9 +193,7 @@ Mainu臺,http://125.227.210.55:51359/VideoInput/play.ts
 NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
 
 📺歐飛嗅探,#genre#
-parse=1 
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-台視,https://www.ofiii.com/channel/watch/4gtv-4gtv066
+ 台視,https://www.ofiii.com/channel/watch/4gtv-4gtv066
 中視,https://www.ofiii.com/channel/watch/4gtv-4gtv040
 華視,https://www.ofiii.com/channel/watch/4gtv-4gtv041
 公視金獎,https://www.ofiii.com/channel/watch/ofiii13
@@ -325,8 +320,6 @@ TITV 原住民族電視台,https://www.ipcf.org.tw/zh-TW/Vod/Home
 CNA(亞洲新聞台),https://www.channelnewsasia.com/watch
 
 📺四季嗅探,#genre#
-parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 民視第一台,video://https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=22
 民視台灣台,video://https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=22
 民視,video://https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=22
@@ -653,7 +646,6 @@ Smart知识台,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn19
 龙华经典,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn21
 台湾戏剧台,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn22
 
-
 中華電信電視,#genre#
 TVBS,http://61.224.69.212:9088/udp/224.1.4.153:11111
 TVBS,http://61.224.69.212:9088/udp/224.1.4.24:11111
@@ -769,8 +761,8 @@ Warner TV,http://61.224.69.212:9088/udp/230.1.2.68:11111
 華視,http://61.224.69.212:9088/udp/230.1.2.229:11111
 華視教育體育文化台,http://61.224.69.212:9088/udp/224.1.4.223:11111
 華視教育體育文化台,http://61.224.69.212:9088/udp/224.1.4.96:11111
-華視新聞資訊台,http://61.224.69.212:9088/udp/224.1.4.55:11111
-華視新聞資訊台,http://61.224.69.212:9088/udp/230.1.2.248:11111
+華視新聞台,http://61.224.69.212:9088/udp/224.1.4.55:11111
+華視新聞台,http://61.224.69.212:9088/udp/230.1.2.248:11111
 華藏衛視,http://61.224.69.212:9088/udp/224.1.4.181:11111
 華藏衛視,http://61.224.69.212:9088/udp/224.1.4.90:11111
 好消息衛星電視台,http://61.224.69.212:9088/udp/224.1.4.4:11111
@@ -4339,7 +4331,7 @@ l🐸12传媒01,https://10j991.cdnedge.live/file/avple-asserts/hls/639985bd2c279
 🍿11传媒27,https://d862cp1.cdnedge.live/file/avple-asserts/hls/638062f946750654bfdb8eb4/playlist.m3u8
 🍿11传媒28,https://u89ey1.cdnedge.live/file/avple-asserts/hls/6380620a46750654bfdb8eb2/playlist.m3u8
 🍿11传媒29,https://q2cyl71.cdnedge.live/file/avple-asserts/hls/6380628046750654bfdb8eb3/playlist.m3u8
-??11传媒30,https://q2cyl71.cdnedge.live/file/avple-asserts/hls/638061cf46750654bfdb8eb1/playlist.m3u8
+🍿11传媒30,https://q2cyl71.cdnedge.live/file/avple-asserts/hls/638061cf46750654bfdb8eb1/playlist.m3u8
 🍿11传媒31,https://je40u1.cdnedge.live/file/avple-asserts/hls/6380615646750654bfdb8eb0/playlist.m3u8
 🍿11传媒32,https://u89ey1.cdnedge.live/file/avple-asserts/hls/638060dc46750654bfdb8eaf/playlist.m3u8
 🍿11传媒33,https://je40u1.cdnedge.live/file/avple-asserts/hls/6380606546750654bfdb8eae/playlist.m3u8
@@ -6050,7 +6042,7 @@ l🐸12传媒01,https://10j991.cdnedge.live/file/avple-asserts/hls/639985bd2c279
 🍓5传媒144,https://je40u.cdnedge.live/file/avple-images/hls/627676e63847697e5124b6d9/playlist.m3u8
 🍓5传媒145,https://w9n76.cdnedge.live/file/avple-images/hls/6276766c3847697e5124b6d8/playlist.m3u8
 🍓5传媒146,https://d862cp.cdnedge.live/file/avple-images/hls/6276757c3847697e5124b6d7/playlist.m3u8
-🍓5传媒147,https://w9n76.cdnedge.live/file/avple-images/hls/627675043847697e5124b6d6/playlist.m3u8
+??5传媒147,https://w9n76.cdnedge.live/file/avple-images/hls/627675043847697e5124b6d6/playlist.m3u8
 🍓5传媒148,https://1xp60.cdnedge.live/file/avple-images/hls/62764bc63847697e5124b6d4/playlist.m3u8
 🍓5传媒149,https://1xp60.cdnedge.live/file/avple-images/hls/62764bc73847697e5124b6d5/playlist.m3u8
 🍓5传媒150,https://e2fa6.cdnedge.live/file/avple-images/hls/6275225cefd05a44b0f87e97/playlist.m3u8
@@ -6304,7 +6296,7 @@ l🐸12传媒01,https://10j991.cdnedge.live/file/avple-asserts/hls/639985bd2c279
 🍓3传媒15,https://u89ey.cdnedge.live/file/avple-images/hls/622d470ae5f4997685910d12/playlist.m3u8
 🍓3传媒16,https://w9n76.cdnedge.live/file/avple-images/hls/622b643b99043721e41f4770/playlist.m3u8
 🍓3传媒17,https://d862cp.cdnedge.live/file/avple-images/hls/622b616c99043721e41f476c/playlist.m3u8
-🍓3传媒18,https://8bb88.cdnedge.live/file/avple-images/hls/622b5fc699043721e41f4769/playlist.m3u8
+??3传媒18,https://8bb88.cdnedge.live/file/avple-images/hls/622b5fc699043721e41f4769/playlist.m3u8
 🍓3传媒19,https://1xp60.cdnedge.live/file/avple-images/hls/622b661b99043721e41f4772/playlist.m3u8
 🍓3传媒20,https://u89ey.cdnedge.live/file/avple-images/hls/622b656699043721e41f4771/playlist.m3u8
 🍓3传媒21,https://d862cp.cdnedge.live/file/avple-images/hls/622b634a99043721e41f476f/playlist.m3u8
@@ -6739,7 +6731,7 @@ l🐸12传媒01,https://10j991.cdnedge.live/file/avple-asserts/hls/639985bd2c279
 🍓12传媒41,https://e2fa6.cdnedge.live/file/avple-images/hls/61accd44779a324ef83699bb/playlist.m3u8
 🍓12传媒42,https://e2fa6.cdnedge.live/file/avple-images/hls/61accd41779a324ef83699b7/playlist.m3u8
 🍓12传媒43,https://e2fa6.cdnedge.live/file/avple-images/hls/61accd3d779a324ef83699b1/playlist.m3u8
-🍓12传媒44,https://zo392.cdnedge.live/file/avple-images/hls/61accd3b779a324ef83699ae/playlist.m3u8
+??12传媒44,https://zo392.cdnedge.live/file/avple-images/hls/61accd3b779a324ef83699ae/playlist.m3u8
 🍓12传媒45,https://w9n76.cdnedge.live/file/avple-images/hls/61accd3a779a324ef83699ab/playlist.m3u8
 🍓12传媒46,https://8bb88.cdnedge.live/file/avple-images/hls/61accd38779a324ef83699a9/playlist.m3u8
 🍓12传媒47,https://zo392.cdnedge.live/file/avple-images/hls/61accd33779a324ef83699a3/playlist.m3u8
@@ -7070,7 +7062,7 @@ l🐸12传媒01,https://10j991.cdnedge.live/file/avple-asserts/hls/639985bd2c279
 🍎何苗02,https://8bb88.cdnedge.live/file/avple-images/hls/60e6f101295d6915521367be/playlist.m3u8
 🍎何苗03,https://e2fa6.cdnedge.live/file/avple-images/hls/60ddd96d41b32117d66a0b90/playlist.m3u8
 🍎何苗04,https://je40u.cdnedge.live/file/avple-images/hls/60c5b53151c874535ee1f596/playlist.m3u8
-🍎何苗05,https://1xp60.cdnedge.live/file/avple-images/hls/60c479059ca4d00ccdb17dd3/playlist.m3u8
+??何苗05,https://1xp60.cdnedge.live/file/avple-images/hls/60c479059ca4d00ccdb17dd3/playlist.m3u8
 🍎何苗06,https://10j99.cdnedge.live/file/avple-images/hls/60ba17adecb87a1b5b8fa845/playlist.m3u8
 🍎何苗07,https://u89ey.cdnedge.live/file/avple-images/hls/6092c3d9caa9c843e1f9864e/playlist.m3u8
 🍎何苗08,https://u89ey.cdnedge.live/file/avple-images/hls/6092c3d9caa9c843e1f9864e/video_1.m3u8
@@ -7373,7 +7365,6 @@ l🐸12传媒01,https://10j991.cdnedge.live/file/avple-asserts/hls/639985bd2c279
 🍶30,https://fc.imgscloud.com/g/hchsisdcch/hchsisdcch.m3u8
 🍶32,https://fc.imgscloud.com/c/voutcatdbd/voutcatdbd.m3u8
 🍶33,https://fc.imgscloud.com/h/tbacaassut/tbacaassut.m3u8
-
 中華電信🔞,#genre#
 JStar極限台電影頻道,http://61.224.69.212:9088/udp/230.1.2.152:11111
 JStar極限台電影頻道,http://61.224.69.212:9088/udp/230.1.2.32:11111

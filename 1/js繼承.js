@@ -1,7 +1,7 @@
 //clan://localhost/drpy/js繼承.json
 
 {
-
+"spider":"./jar/fm.jar",
     "sites" : [
 {'key':'drpy','name':'豆瓣2🔎','type':3,'api':'clan://drpy/lib/drpy2.min.js','ext':'clan://drpy/js/drpy.js'},
 {"key" : "量子影视2","name" : "量子影视","type" : 3,"api" : "clan://drpy/lib/drpy2.min.js","ext" : "clan://drpy/繼承/量子影视.js"},
