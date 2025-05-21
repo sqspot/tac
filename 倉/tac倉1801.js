@@ -698,7 +698,7 @@
 {"url":"https://api.niaoyun.us/18/jsm.json","name":"鸟云18"},
 {"url":"https://raw.githubusercontent.com/chenhao963/TVBOX/main/18+參考網頁.json","name":"老王18"},
 {"url":"https://raw.githubusercontent.com/Rehe350/18/main/hlgg.json","name":"黑料瓜哥"},
-{"url":"https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json","name":"零骚"},
+{"url":"https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json","name":"零骚"},
 {"url":"https://raw.githubusercontent.com/hus888yu/app/main/18.json","name":"hus888yu"},
 {"url": "https://raw.githubusercontent.com/xzqcsa/ysc/master/xzqzy/18.json","name":"xzqcsa/ysc"},
 
