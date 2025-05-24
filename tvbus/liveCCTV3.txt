@@ -1,9 +1,13 @@
 較快,#genre#
 CCTV3綜藝01,http://106.52.196.79:80/TV/mui.php?id=cctv3
 CCTV3綜藝01,http://106.52.196.79:80/TV/mui.php?id=cctv3
-CCTV3綜藝01,http://106.52.196.79:80/TV/mui.php?id=cctv3
 CCTV3綜藝02,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv3
-CCTV3綜藝03,http://60.29.124.66:6080/hls/14/index.m3u8
+CCTV3綜藝02,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv3
+CCTV3綜藝03,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
+CCTV3綜藝03,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
+CCTV3綜藝04,http://60.29.124.66:6080/hls/14/index.m3u8
+CCTV3綜藝04,http://60.29.124.66:6080/hls/14/index.m3u8
+
 可看,#genre#
 CCTV3綜藝11,http://congtou.top:9292/rtp/239.77.0.169:5146
 CCTV3綜藝12,http://140.250.221.187:4022/udp/239.21.2.45:5002
