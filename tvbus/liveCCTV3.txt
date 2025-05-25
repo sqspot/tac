@@ -7,10 +7,13 @@ CCTV3綜藝150,http://150.158.112.123/公众号玉玉应用笔记/php/综合/mig
 CCTV3綜藝150,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv3
 CCTV3綜藝(小畫面),http://60.29.124.66:6080/hls/14/index.m3u8
 CCTV3綜藝(小畫面),http://60.29.124.66:6080/hls/14/index.m3u8
+CCTV3綜藝kbtv,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.231:5540
 
 可看,#genre#
 CCTV3綜藝11,http://congtou.top:9292/rtp/239.77.0.169:5146
 CCTV3綜藝12,http://140.250.221.187:4022/udp/239.21.2.45:5002
+CCTV3綜藝13,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226720/1.m3u8
+
 慢速,#genre#
 CCTV3綜藝21,http://39.164.180.36:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3綜藝22,p3p://173.208.176.178:31809/62be83ea0001dbed9b27d7bb43427d30
