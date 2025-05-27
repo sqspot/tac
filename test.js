@@ -6,6 +6,12 @@
 "spider":"./jar/f0223.jar",
 "logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 "lives":[
+    {
+      "name": "本地litv直播(python)",
+      "type": 3,
+      "api": "./tvbus/live_litv.py",
+      "ext": {}
+    },
 {"name":"🔥59 高解析 🇹🇼x","api":"csp_MQiTV","ext":"https://59.125.210.231:4433","jar":"./jar/fmMQiTV.jar","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name": "立視 LiTV 🇹🇼","type": 0,"url": "http://xg.52sw.top/iptv/litv.php","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},    
 {"name": "(抖音号) 🇹🇼","type": 0,"url": "http://www.52sw.top/play/douyin.php?id=spot.100.100","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},    

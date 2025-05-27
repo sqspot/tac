@@ -8,7 +8,7 @@
 {"name":"只有CCTV3 🇨🇳","url":"./tvbus/liveCCTV3.txt","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"Anboxgo 🇹🇼 🇨🇳","url":"http://ott.anbox118.workers.dev/","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"AnboxII 🇹🇼 🇨🇳","url":"http://firebase.anbox118.workers.dev/","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
-{"name":"live 🇹🇼 🇨🇳","url":"./tvbus/live.txt","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
+{"name":"live 🇹🇼","url":"./tvbus/live.txt","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"173 🇹🇼 🇨🇳","url":"./tvbus/173.txt","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"167 🇹🇼 🇨🇳","url":"./tvbus/167.txt","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"斯瑪特 🇹🇼","url":"./tvbus/smart.txt","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
