@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="SUPER FREE", SUPER FREE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0737b75ee8906c00bb7bb8f666da72a0:15f515458cdb5107452f943a111cbe89
+https://json.doube.eu.org/Doubebly/MyTvSuper/GetData.php?pid=CWIN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="SUPER FREE", 黃金翡翠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8fe3db1a24969694ae3447f26473eb9f:5cce95833568b9e322f17c61387b306f
+https://json.doube.eu.org/Doubebly/MyTvSuper/GetData.php?pid=TVG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="SUPER FREE", 翡翠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
+https://json.doube.eu.org/Doubebly/MyTvSuper/GetData.php?pid=J
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="SUPER FREE", TVB Plus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
+https://json.doube.eu.org/Doubebly/MyTvSuper/GetData.php?pid=B
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="SUPER FREE", 無綫新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90a0bd01d9f6cbb39839cd9b68fc26bc:51546d1f2af0547f0e961995b60a32a1
+https://json.doube.eu.org/Doubebly/MyTvSuper/GetData.php?pid=C
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="SUPER FREE", 明珠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e04facdd91354deee318c674993b74c1:8f97a629de680af93a652c3102b65898
+https://json.doube.eu.org/Doubebly/MyTvSuper/GetData.php?pid=P
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="SUPER FREE", 娛樂新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fa0e47750b5e2fb6adf9b9a0ac431a3:a256220e6c2beaa82f4ca5fba4ec1f95
+https://json.doube.eu.org/Doubebly/MyTvSuper/GetData.php?pid=CTVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="SUPER FREE", 創世電視
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adef00c5ba927d01642b1e6f3cedc9fb:b45d912fec43b5bbd418ea7ea1fbcb60
+https://json.doube.eu.org/Doubebly/MyTvSuper/GetData.php?pid=CRE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="SUPER FREE", 中央電視台綜合頻道 (港澳版)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e50b18fee7cab76b9f2822e2ade8773a:2e2e8602b6d835ccf10ee56a9a7d91a2
+https://json.doube.eu.org/Doubebly/MyTvSuper/GetData.php?pid=CC1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="SUPER FREE", 鳳凰衛視中文台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bca0771ba9205edb5d467ce2fdf0162:eb19c7e3cea34dc90645e33f983b15ab
+https://json.doube.eu.org/Doubebly/MyTvSuper/GetData.php?pid=PCC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="SUPER FREE", 鳳凰衛視資訊台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83f7d313adfc0a5b978b9efa0421ce25:ecdc8065a46287bfb58e9f765e4eec2b
+https://json.doube.eu.org/Doubebly/MyTvSuper/GetData.php?pid=PIN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="SUPER FREE", 鳳凰衛視香港台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cde62e1056eb3615dab7a3efd83f5eb4:b8685fbecf772e64154630829cf330a3
+https://json.doube.eu.org/Doubebly/MyTvSuper/GetData.php?pid=PHK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="SUPER FREE", 翡翠台4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
+https://json.doube.eu.org/Doubebly/MyTvSuper/GetData.php?pid=JUHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="SUPER FREE", SUPER獎門人
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=977869c9cd6aa804921a2e20724b9e6c:16f76fa19ae5199c920de5cfc1a6ca1e
+https://json.doube.eu.org/Doubebly/MyTvSuper/GetData.php?pid=SVAR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="SUPER FREE", SUPER EYT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c83f061a8685a0071fc62c65b6ab7af3:b8cf98951b940dca9174230430faf10d
+https://json.doube.eu.org/Doubebly/MyTvSuper/GetData.php?pid=SEYT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="SUPER FREE", SUPER識食
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2370118ce3d6fafe17502b0176abf9ae:357c7b5a9d01c25d8e30e46cc396de08
+https://json.doube.eu.org/Doubebly/MyTvSuper/GetData.php?pid=SFOO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="SUPER FREE", SUPER識嘆
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=206a559933b51efbba226fe939040d68:c671ac5afccd7f2d26839e6d9b91d130
+https://json.doube.eu.org/Doubebly/MyTvSuper/GetData.php?pid=STRA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="SUPER FREE", SUPER Music
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d321fc47b49372df79500c8b7a5e9fc:0c4be4e8f7ccedced7de0b7434493be4
+https://json.doube.eu.org/Doubebly/MyTvSuper/GetData.php?pid=SMUS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="SUPER FREE", SUPER金曲
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c
+https://json.doube.eu.org/Doubebly/MyTvSuper/GetData.php?pid=SGOL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="SUPER FREE", SUPER煲劇
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=203638a2e2fd4786190a58393640de54:97e1ec12dda5ee64561e072d9825e3b0
+https://json.doube.eu.org/Doubebly/MyTvSuper/GetData.php?pid=SSIT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="SUPER FREE", SUPER劇場
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6c020768505fa6c7910726b8ca302f0:4b5cba6d27559e6f28a232791f068824
+https://json.doube.eu.org/Doubebly/MyTvSuper/GetData.php?pid=STVM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="SUPER FREE", SUPER話當年
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=248ed59a4671da39b3bb71f860760b91:b0bd7d1495e3df963ae21790551094e1
+https://json.doube.eu.org/Doubebly/MyTvSuper/GetData.php?pid=SDOC

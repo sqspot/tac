@@ -8,9 +8,11 @@
 "lives":[
 {"name":"🔥59 高解析 🇹🇼x","api":"csp_MQiTV","ext":"https://59.125.210.231:4433","jar":"./jar/fmMQiTV.jar","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"4GTV豪華版 ijk","url":"./tvbus/4GTV豪華版.txt","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36","playerType":3,"epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ads":["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]},
-{"name": "立視 LiTV 🇹🇼(本地)","type": 3,"api": "./tvbus/live_litv.py","ext": {},"epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name": "立視 LiTV 🇹🇼","type": 3,"api": "./tvbus/live_litv.py","ext": {},"epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"四季線上4gtv 🇹🇼","url":"./tvbus/4gtv直播源.txt","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"SMT直播 🇹🇼","type":3,"api":"./py/live_smt.py","ext":{},"epg":"http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"只有CCTV3 🇨🇳","url":"./tvbus/liveCCTV3.txt","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
+{"name":"Bee運動","type":3,"api":"https://json.doube.eu.org/python/live_beesport.py","ext":{},"header":{"Referer":"https://p.m82xg4z0cdbz7.com/"},"epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"AnboxII 🇹🇼 🇨🇳","url":"http://firebase.anbox118.workers.dev/","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"live 🇹🇼 🇨🇳","url":"./tvbus/live.txt","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"167 🇹🇼 🇨🇳x","url":"./tvbus/167.txt","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
@@ -46,6 +48,8 @@
 "hosts": ["cache.ott.*.itv.cmvideo.cn=itv.dns.52top.com.cn"],
 "sites" : [
 {"key":"drpy","name":"🔥豆瓣(有評分 )　２０２５👉財運如🪱,連綿不斷🌻一定要平平安安呦✅","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
+{"key": "py_jianpian","name": "荐片(T3)","type": 3,"api": "./py/py_jianpian.py","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0},
+{"key":"色直播","name":"色直播聚合","type":3,"api":"./py/色播.py","searchable":1,"filterable":0,"changeable":0},
 {"key":"ikanbotsq","name":"🈵爱看机器人sq","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbotsq.js","searchable":1,"changeable":1},
 {"key":"瓜子短劇","name":"🧾瓜子短劇","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"jar":"./jar/nzk.jar","changeable":0},
 {"key":"csp_Bili短剧","name":"B站短剧_s","api":"csp_Bili","type":3,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQH.jar","ext":"./js/Bili短剧.json"},
