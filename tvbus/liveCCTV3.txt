@@ -9,6 +9,7 @@ CCTV3綜藝(小畫面),http://60.29.124.66:6080/hls/14/index.m3u8
 CCTV3綜藝(小畫面),http://60.29.124.66:6080/hls/14/index.m3u8
 CCTV3綜藝kbtv,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.231:5540
 CCTV3綜藝bkpcp,http://z.b.bkpcp.top/m.php?id=cctv3
+CCTV3綜藝wanjiatv,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/cctv3/playlist.m3u8
 可看,#genre#
 CCTV3綜藝11,http://congtou.top:9292/rtp/239.77.0.169:5146
 CCTV3綜藝12,http://140.250.221.187:4022/udp/239.21.2.45:5002
