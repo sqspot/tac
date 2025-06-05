@@ -1,109 +1,208 @@
+SmartTV-台灣wanjiatv,#genre#
+TVBS News 新闻台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tvbs_n/playlist.m3u8
+TVBS 欢乐台 （备份）,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8
+TVBS HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tvbs/playlist.m3u8
+中天新闻 HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ctinews/playlist.m3u8
+中天娱乐 CTI Entertaiment,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ctient/playlist.m3u8
+中天综合 CTI Metro,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ctizhonghe/playlist.m3u8
+中天亚洲台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8
+台视 TTV HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ttv_taiwan/playlist.m3u8
+台视新闻台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ttvnews_twn/playlist.m3u8
+台视综合台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ttvzhonghe_twn/playlist.m3u8
+中视 HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8
+中视新闻台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/zhongshinews_twn/playlist.m3u8
+民视 HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8
+民视新闻台 FTV News,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8
+民视台湾台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8
+华视 CTS HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ctshd_twn/playlist.m3u8
+公视 CTV,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8
+八大第一 GTV First,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/badafirst/playlist.m3u8
+八大综合 GTV Metro,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/badazhonghe/playlist.m3u8
+八大戏剧 GTV Drama,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/badadrama/playlist.m3u8
+八大娱乐 GTV Entertainment,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/badaentertain/playlist.m3u8
+HBO_HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/hbohd_twn/playlist.m3u8
+HBO_HITS,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/hbohits_twn/playlist.m3u8
+Hollywood Movies,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8
+三立台湾 Sanli Taiwan,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8
+三立戏剧台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8
+三立综合 Sanli Metro,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/sanlizhonghe/playlist.m3u8
+三立都会台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/sanlidouhui/playlist.m3u8
+东森新闻 ETTV News,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvnews/playlist.m3u8
+CINEMAX,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/cinemax_twn/playlist.m3u8
+东森综合 ETTV Metro,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8
+东森戏剧 ETTV Drama,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvdrama/playlist.m3u8
+东森超视,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvsuper/playlist.m3u8
+东森财经新闻 ETTV Business,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8
+寰宇财经,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/huanyutaiwan_twn/playlist.m3u8
+寰宇新闻台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/huanyuxinwen_twn/playlist.m3u8
+大爱1台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/daai_twn/playlist.m3u8
+非凡新闻台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/feifannews_twn/playlist.m3u8
+龙华戏剧 Lunghua Drama,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/lunghuaxiju_twn/playlist.m3u8
+龙华戏剧台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/lunghuaxiju_twn/playlist.m3u8
+龙华经典台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8
+龙华偶像,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/lunghuaidol_twn/playlist.m3u8
+AXN Taiwan,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/axn_twn/playlist.m3u8
+靖天国际台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/jingtianintl_twn/playlist.m3u8
+年代新闻,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/niandainews_twn/playlist.m3u8
+纬来日本台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/videolandjapan/playlist.m3u8
+纬来电影台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/videolandmovie_twn/playlist.m3u8
+纬来体育台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/videolandsport/playlist.m3u8
+纬来综合台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/videolandzonghe/playlist.m3u8
+纬来育乐,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/videolandyule/playlist.m3u8
+纬来精彩,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/videolandspecial_twn/playlist.m3u8
+好消息 2,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/goods_twn/playlist.m3u8
+大爱2台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/catchplay_twn/playlist.m3u8
+亚洲美食,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/afc_twn/playlist.m3u8
+美食星球,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/foodplanet_twn/playlist.m3u8
+亚洲旅游 TLC Asia,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tlc_twn/playlist.m3u8
+东森电影 ETTV Movie,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvmovie/playlist.m3u8
+阿里郎 Arirang,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/arirang_twn/playlist.m3u8
+博斯运动 1,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bosisport1_twn/playlist.m3u8
+博斯运动 2,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bosisport2_twn/playlist.m3u8
+博斯高球2 HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bosigolf2_twn/playlist.m3u8
+博斯网球 HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bositennis_twn/playlist.m3u8
+东森洋片 ETTV Western,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvwestern/playlist.m3u8
+龙华洋片 Lunghua Western,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/lunghuawestern_twn/playlist.m3u8
+博斯无限,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bosiunlimited_twn/playlist.m3u8
+MTV Live,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/mtvhd_twn/playlist.m3u8
+龙详时代,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8
+EYETV 旅游,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/eyetvtravel_twn/playlist.m3u8
+靖天卡通台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/jingtiancartoon_twn/playlist.m3u8
+EYETV 戏剧,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/eyetvxiju_twn/playlist.m3u8
+卫视中文台 Star Movies Chinese,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/weishichinese_twn/playlist.m3u8
+东森幼幼 Yoyo TV,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/yoyo_twn/playlist.m3u8
+卫视电影台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/weishimovie_twn/playlist.m3u8
+美亚电影,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8
+爱尔达影剧台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/eltayingju_twn/playlist.m3u8
+爱尔达综合台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/eltazonghe_twn/playlist.m3u8
+星卫电影,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/xingwei_movie/playlist.m3u8
+爱尔达影剧,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/eltayingju_twn/playlist.m3u8
+爱尔达体育2台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8
+爱尔达体育3台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/eltasport3_twn/playlist.m3u8
+AFC 亚洲旅游台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8
+SmartTV-電影,#genre#
+HBO_HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/hbohd_twn/playlist.m3u8
+HBO_HITS,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/hbohits_twn/playlist.m3u8
+Hollywood Movies,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8
+CCTV-6,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/cctv6/playlist.m3u8
+CINEMAX,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/cinemax_twn/playlist.m3u8
+Cinemax,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Cinemax/playlist.m3u8
+AXN Taiwan,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/axn_twn/playlist.m3u8
+大爱2台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/catchplay_twn/playlist.m3u8
+东森电影 ETTV Movie,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvmovie/playlist.m3u8
+东森洋片 ETTV Western,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvwestern/playlist.m3u8
+龙华洋片 Lunghua Western,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/lunghuawestern_twn/playlist.m3u8
+龙详时代,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8
+Animax,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Animax/playlist.m3u8
+Movies Now HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/moviesnow_raj/playlist.m3u8
+Star Movies HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/starmovies_raj/playlist.m3u8
+卫视中文台 Star Movies Chinese,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/weishichinese_twn/playlist.m3u8
+HBO Family,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Hbofamily/playlist.m3u8
+卫视电影台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/weishimovie_twn/playlist.m3u8
+HBO HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Hbo/playlist.m3u8
+Hits,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Hits/playlist.m3u8
+Warner TV,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/WarnerTV/playlist.m3u8
+美亚电影,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8
+HBO Signature,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Hbosignature/playlist.m3u8
+HBO Hits,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Hbohits/playlist.m3u8
+星卫电影,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/xingwei_movie/playlist.m3u8
+SCM,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Weishimovie/playlist.m3u8
+Thrill,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Thrill/playlist.m3u8
+Hits Movie,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Hitsmovie/playlist.m3u8
+One,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/One_mega/playlist.m3u8
+tvN Movie,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Tvnmovie/playlist.m3u8
+Celestial Classic,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Celestial2/playlist.m3u8
+Celestial Movies HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Celestialindo/playlist.m3u8
+Axn HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Axn/playlist.m3u8
+Paramount Network,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Paramountnetwork/playlist.m3u8
+Astrol Kplus,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Kplus/playlist.m3u8
+Rock Actions,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Rockaction/playlist.m3u8
+Rock Entertainment,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Rockentertain/playlist.m3u8
+Sony Pix HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/sonypix_mega/playlist.m3u8
+SmartTV-運動,#genre#
+Supersports 1,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Assp1/playlist.m3u8
+Supersports 1 backup,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/go_assp1/playlist.m3u8
+Supersportq 1 backup2,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Assp1_mega/playlist.m3u8
+Supersports 2,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Assp2/playlist.m3u8
+Supersports 2 backup,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/go_assp2/playlist.m3u8
+Supersports 3,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Assp3/playlist.m3u8
+Supersports 3 backup,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/go_assp3/playlist.m3u8
+Supersports 3 backup2,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Assp3_mega/playlist.m3u8
+Supersports 4,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Assp4_mega/playlist.m3u8
+Supersports 4 backup,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/go_assp4/playlist.m3u8
+Supersports 5,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/go_assp5/playlist.m3u8
+Bein 2HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Beinhd/playlist.m3u8
+Beinsports HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Besports/playlist.m3u8
+Champion 5 EPL,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Champion5epl/playlist.m3u8
+WWE,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Wwe/playlist.m3u8
+Champion 6 EPL,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Champion6epl/playlist.m3u8
+Fight Sports,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Fs/playlist.m3u8
+UFC Network,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ufc_mega/playlist.m3u8
+NBA TV,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/nbatv_twn/playlist.m3u8
+Astro Cricket,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Acricket_mega/playlist.m3u8
+Astro Golf,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Agolf/playlist.m3u8
+TNT Sports 1,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/beeone/playlist.m3u8
+TNT Sports 2,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/beetwo/playlist.m3u8
+TNT Sports 3,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/beethree/playlist.m3u8
+TNT Sports 4,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/beefour/playlist.m3u8
+Sony Ten 1,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ten1_raj/playlist.m3u8
+Sony Ten 2,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ten2_raj/playlist.m3u8
+Sony Ten 3,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ten3_raj/playlist.m3u8
+SPOTV 1 HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/go_spotv/playlist.m3u8
+SPO TV 2,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/go_spotv2/playlist.m3u8
+Beinsports 2 HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Bein2hd/playlist.m3u8
+Skysports Arena,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tiankongarena/playlist.m3u8
+Skysports F1,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tiankongf1/playlist.m3u8
+Skysports Cricket,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tiankongcricket/playlist.m3u8
+Skysports EPL,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tiankongepl/playlist.m3u8
+Skysports Football,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tiankongfootball/playlist.m3u8
+Skysports Golf,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tiankonggolf/playlist.m3u8
+Skysports Main Event,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tiankongmain/playlist.m3u8
+Skysports News,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tiankongnews/playlist.m3u8
+Skysports NFL,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tiankongnfl/playlist.m3u8
+Skysports Racing,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tiankongracing/playlist.m3u8
+Skysports Mix,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tiankongmix/playlist.m3u8
+CCTV-5 体育频道,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/cctv5/playlist.m3u8
+CCTV-5+ 体育赛事 HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/cctv5plus/playlist.m3u8
+爱尔达体育2台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8
+爱尔达体育3台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/eltasport3_twn/playlist.m3u8
+RTM Sports HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Rtmsport/playlist.m3u8
+Arena,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Arena/playlist.m3u8
+Arena 2,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Arena2/playlist.m3u8
+BolaArena 1,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Bolaarena1/playlist.m3u8
+Bein 1 Sports,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bein1_mega/playlist.m3u8
+Bein 2 Sports,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bein2_mega/playlist.m3u8
+Bein 3 Sports,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bein3_mega/playlist.m3u8
+Bein 4 Sports,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bein4_mega/playlist.m3u8
+Bein 5 Sports,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bein5_mega/playlist.m3u8
+Bein 6 Sports,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bein6_mega/playlist.m3u8
+Bein 7 Sports,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bein7_mega/playlist.m3u8
+Rugby Pass TV,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Rugbypasstv/playlist.m3u8
+BolaArena 2,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Bolaarena2/playlist.m3u8
+SmartTV-記錄美食,#genre#
+Natgeo_HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/natgeohd_twn/playlist.m3u8
+NatGeo_Wild HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/natgeowild_twn/playlist.m3u8
+Animal_Planet,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8
+Discovery Asia,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/discoverytwn_twn/playlist.m3u8
+CI,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ci_twn/playlist.m3u8
+Asia Travel,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8
+Discovery HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8
+亚洲美食,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/afc_twn/playlist.m3u8
+美食星球,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/foodplanet_twn/playlist.m3u8
+亚洲旅游 TLC Asia,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tlc_twn/playlist.m3u8
+NatGeo HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Natgeo/playlist.m3u8
+Fashion TV,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/fashiontv_twn/playlist.m3u8
+History,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/History/playlist.m3u8
+BBC Earth HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bbcearth_twn/playlist.m3u8
+BBC Earth Lifestyle,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bbclifestyle_twn/playlist.m3u8
+MTV Live,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/mtvhd_twn/playlist.m3u8
+NatGeo Wild HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Natgeowild/playlist.m3u8
+Animal Planet (Eng),http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/AnimalPlanet/playlist.m3u8
+TLC,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Tlc/playlist.m3u8
+AFC 亚洲旅游台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8
+Foodnetwork Hd,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Foodnetwork_mega/playlist.m3u8
+HGTV,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/HGTV/playlist.m3u8
 SmartTV-台灣150,#genre#
-中天新聞,http://
-寰宇新聞,http://
-中視新聞,http://
-台視新聞,http://
-CNN,http://
-民視,http://
-人間衛視,http://
-台視,http://
-大愛,http://
-中視,http://
-霹靂台灣,http://
-華視,http://
-公視,http://
-公視台語,http://
-好消息,http://
-原住民族電視,http://
-客家電視,http://
-BBC Earth,http://
-Discovery 頻道,http://
-TLC 旅遊生活頻道,http://
-動物星球頻道,http://
-CN卡通頻道,http://
-尼克兒童頻道,http://
-momo親子,http://
-東森幼幼,http://
-緯來綜合,http://
-八大第一,http://
-八大綜合,http://
-三立台灣,http://
-三立都會,http://
-韓國娛樂台KMTV,http://
-東森綜合,http://
-超視,http://
-東森購物二,http://
-momo購物二,http://
-中天綜合,http://
-東風衛視,http://
-年代MUCH,http://
-中天娛樂,http://
-東森戲劇,http://
-八大戲劇,http://
-TVBS歡樂,http://
-緯來戲劇,http://
-高點電視,http://
-東森購物三,http://
-東森購物一,http://
-momo購物一,http://
-三立iNEWS,http://
-壹電視新聞,http://
-年代新聞,http://
-東森新聞,http://
-華視新聞,http://
-民視新聞,http://
-三立新聞,http://
-TVBS新聞,http://
-TVBS,http://
-東森財經新聞,http://
-非凡新聞,http://
-viva購物一,http://
-東森購物五,http://
-CATCHPLAY電影,http://
-東森電影,http://
-緯來電影,http://
-LS龍祥電影,http://
-HBO,http://
-東森洋片,http://
-AXN,http://
-好萊塢電影,http://
-amc電影,http://
-CINEMAX,http://
-緯來育樂,http://
-緯來體育,http://
-DAZN 一,http://
-DAZN 二,http://
-MOMO綜合,http://
-博斯運動一,http://
-緯來日本,http://
-國興衛視,http://
-BBC Lifestyle,http://
-靖天購物一,http://
-Animax,http://
-信吉電視,http://
-JET 綜合,http://
-鏡新聞,http://
-冠軍電視,http://
-Z頻道,http://
-東森綜合,http://
-非凡商業,http://
-八大娛樂,http://
-華視教育體育文化,http://
-冠軍夢想,http://
-高點育樂,http://
-MTV,http://
-智林體育,http://
-美食星球頻道,http://
-寰宇財經,http://
-民視第一,http://
-民視台灣,http://
-中視菁採,http://
-中視精采,http://
-台視財經,http://
-台視綜合,http://
-CNBC Asia,http://
-BBC NEWS,http://
-🔶🔶🔶🔶🔶🔶🔶🔶🔶,https://cf005.paopao.video:443/BC48C5030A85D533F789438C6602E18649796C81
 公視,http://150.138.77.132:10037/xxw/Smartv.php?id=ctv_taiwan
 台視,http://150.138.77.132:10037/xxw/Smartv.php?id=ttv_taiwan
 中視,http://150.138.77.132:10037/xxw/Smartv.php?id=zhongshihd_twn
@@ -530,207 +629,3 @@ Skysports Golf,http://150.138.77.132:10037/xxw/Smartv.php?id=tiankonggolf
 Skysports Main Event,http://150.138.77.132:10037/xxw/Smartv.php?id=tiankongmain
 Skysports News,http://150.138.77.132:10037/xxw/Smartv.php?id=tiankongnews
 Hits Movie,http://150.138.77.132:10037/xxw/Smartv.php?id=Hitsmovie
-SmartTV-台灣wanjiatv,#genre#
-TVBS News 新闻台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tvbs_n/playlist.m3u8
-TVBS 欢乐台 （备份）,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8
-TVBS HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tvbs/playlist.m3u8
-中天新闻 HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ctinews/playlist.m3u8
-中天娱乐 CTI Entertaiment,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ctient/playlist.m3u8
-中天综合 CTI Metro,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ctizhonghe/playlist.m3u8
-中天亚洲台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8
-台视 TTV HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ttv_taiwan/playlist.m3u8
-台视新闻台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ttvnews_twn/playlist.m3u8
-台视综合台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ttvzhonghe_twn/playlist.m3u8
-中视 HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8
-中视新闻台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/zhongshinews_twn/playlist.m3u8
-民视 HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8
-民视新闻台 FTV News,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8
-民视台湾台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8
-华视 CTS HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ctshd_twn/playlist.m3u8
-公视 CTV,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8
-八大第一 GTV First,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/badafirst/playlist.m3u8
-八大综合 GTV Metro,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/badazhonghe/playlist.m3u8
-八大戏剧 GTV Drama,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/badadrama/playlist.m3u8
-八大娱乐 GTV Entertainment,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/badaentertain/playlist.m3u8
-HBO_HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/hbohd_twn/playlist.m3u8
-HBO_HITS,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/hbohits_twn/playlist.m3u8
-Hollywood Movies,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8
-三立台湾 Sanli Taiwan,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8
-三立戏剧台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8
-三立综合 Sanli Metro,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/sanlizhonghe/playlist.m3u8
-三立都会台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/sanlidouhui/playlist.m3u8
-东森新闻 ETTV News,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvnews/playlist.m3u8
-CINEMAX,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/cinemax_twn/playlist.m3u8
-东森综合 ETTV Metro,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8
-东森戏剧 ETTV Drama,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvdrama/playlist.m3u8
-东森超视,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvsuper/playlist.m3u8
-东森财经新闻 ETTV Business,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8
-寰宇财经,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/huanyutaiwan_twn/playlist.m3u8
-寰宇新闻台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/huanyuxinwen_twn/playlist.m3u8
-大爱1台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/daai_twn/playlist.m3u8
-非凡新闻台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/feifannews_twn/playlist.m3u8
-龙华戏剧 Lunghua Drama,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/lunghuaxiju_twn/playlist.m3u8
-龙华戏剧台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/lunghuaxiju_twn/playlist.m3u8
-龙华经典台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8
-龙华偶像,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/lunghuaidol_twn/playlist.m3u8
-AXN Taiwan,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/axn_twn/playlist.m3u8
-靖天国际台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/jingtianintl_twn/playlist.m3u8
-年代新闻,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/niandainews_twn/playlist.m3u8
-纬来日本台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/videolandjapan/playlist.m3u8
-纬来电影台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/videolandmovie_twn/playlist.m3u8
-纬来体育台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/videolandsport/playlist.m3u8
-纬来综合台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/videolandzonghe/playlist.m3u8
-纬来育乐,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/videolandyule/playlist.m3u8
-纬来精彩,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/videolandspecial_twn/playlist.m3u8
-好消息 2,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/goods_twn/playlist.m3u8
-大爱2台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/catchplay_twn/playlist.m3u8
-亚洲美食,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/afc_twn/playlist.m3u8
-美食星球,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/foodplanet_twn/playlist.m3u8
-亚洲旅游 TLC Asia,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tlc_twn/playlist.m3u8
-东森电影 ETTV Movie,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvmovie/playlist.m3u8
-阿里郎 Arirang,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/arirang_twn/playlist.m3u8
-博斯运动 1,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bosisport1_twn/playlist.m3u8
-博斯运动 2,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bosisport2_twn/playlist.m3u8
-博斯高球2 HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bosigolf2_twn/playlist.m3u8
-博斯网球 HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bositennis_twn/playlist.m3u8
-东森洋片 ETTV Western,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvwestern/playlist.m3u8
-龙华洋片 Lunghua Western,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/lunghuawestern_twn/playlist.m3u8
-博斯无限,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bosiunlimited_twn/playlist.m3u8
-MTV Live,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/mtvhd_twn/playlist.m3u8
-龙详时代,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8
-EYETV 旅游,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/eyetvtravel_twn/playlist.m3u8
-靖天卡通台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/jingtiancartoon_twn/playlist.m3u8
-EYETV 戏剧,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/eyetvxiju_twn/playlist.m3u8
-卫视中文台 Star Movies Chinese,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/weishichinese_twn/playlist.m3u8
-东森幼幼 Yoyo TV,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/yoyo_twn/playlist.m3u8
-卫视电影台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/weishimovie_twn/playlist.m3u8
-美亚电影,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8
-爱尔达影剧台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/eltayingju_twn/playlist.m3u8
-爱尔达综合台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/eltazonghe_twn/playlist.m3u8
-星卫电影,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/xingwei_movie/playlist.m3u8
-爱尔达影剧,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/eltayingju_twn/playlist.m3u8
-爱尔达体育2台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8
-爱尔达体育3台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/eltasport3_twn/playlist.m3u8
-AFC 亚洲旅游台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8
-SmartTV-電影,#genre#
-HBO_HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/hbohd_twn/playlist.m3u8
-HBO_HITS,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/hbohits_twn/playlist.m3u8
-Hollywood Movies,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8
-CCTV-6,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/cctv6/playlist.m3u8
-CINEMAX,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/cinemax_twn/playlist.m3u8
-Cinemax,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Cinemax/playlist.m3u8
-AXN Taiwan,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/axn_twn/playlist.m3u8
-大爱2台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/catchplay_twn/playlist.m3u8
-东森电影 ETTV Movie,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvmovie/playlist.m3u8
-东森洋片 ETTV Western,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvwestern/playlist.m3u8
-龙华洋片 Lunghua Western,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/lunghuawestern_twn/playlist.m3u8
-龙详时代,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8
-Animax,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Animax/playlist.m3u8
-Movies Now HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/moviesnow_raj/playlist.m3u8
-Star Movies HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/starmovies_raj/playlist.m3u8
-卫视中文台 Star Movies Chinese,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/weishichinese_twn/playlist.m3u8
-HBO Family,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Hbofamily/playlist.m3u8
-卫视电影台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/weishimovie_twn/playlist.m3u8
-HBO HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Hbo/playlist.m3u8
-Hits,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Hits/playlist.m3u8
-Warner TV,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/WarnerTV/playlist.m3u8
-美亚电影,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8
-HBO Signature,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Hbosignature/playlist.m3u8
-HBO Hits,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Hbohits/playlist.m3u8
-星卫电影,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/xingwei_movie/playlist.m3u8
-SCM,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Weishimovie/playlist.m3u8
-Thrill,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Thrill/playlist.m3u8
-Hits Movie,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Hitsmovie/playlist.m3u8
-One,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/One_mega/playlist.m3u8
-tvN Movie,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Tvnmovie/playlist.m3u8
-Celestial Classic,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Celestial2/playlist.m3u8
-Celestial Movies HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Celestialindo/playlist.m3u8
-Axn HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Axn/playlist.m3u8
-Paramount Network,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Paramountnetwork/playlist.m3u8
-Astrol Kplus,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Kplus/playlist.m3u8
-Rock Actions,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Rockaction/playlist.m3u8
-Rock Entertainment,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Rockentertain/playlist.m3u8
-Sony Pix HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/sonypix_mega/playlist.m3u8
-SmartTV-運動,#genre#
-Supersports 1,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Assp1/playlist.m3u8
-Supersports 1 backup,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/go_assp1/playlist.m3u8
-Supersportq 1 backup2,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Assp1_mega/playlist.m3u8
-Supersports 2,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Assp2/playlist.m3u8
-Supersports 2 backup,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/go_assp2/playlist.m3u8
-Supersports 3,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Assp3/playlist.m3u8
-Supersports 3 backup,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/go_assp3/playlist.m3u8
-Supersports 3 backup2,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Assp3_mega/playlist.m3u8
-Supersports 4,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Assp4_mega/playlist.m3u8
-Supersports 4 backup,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/go_assp4/playlist.m3u8
-Supersports 5,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/go_assp5/playlist.m3u8
-Bein 2HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Beinhd/playlist.m3u8
-Beinsports HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Besports/playlist.m3u8
-Champion 5 EPL,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Champion5epl/playlist.m3u8
-WWE,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Wwe/playlist.m3u8
-Champion 6 EPL,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Champion6epl/playlist.m3u8
-Fight Sports,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Fs/playlist.m3u8
-UFC Network,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ufc_mega/playlist.m3u8
-NBA TV,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/nbatv_twn/playlist.m3u8
-Astro Cricket,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Acricket_mega/playlist.m3u8
-Astro Golf,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Agolf/playlist.m3u8
-TNT Sports 1,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/beeone/playlist.m3u8
-TNT Sports 2,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/beetwo/playlist.m3u8
-TNT Sports 3,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/beethree/playlist.m3u8
-TNT Sports 4,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/beefour/playlist.m3u8
-Sony Ten 1,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ten1_raj/playlist.m3u8
-Sony Ten 2,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ten2_raj/playlist.m3u8
-Sony Ten 3,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ten3_raj/playlist.m3u8
-SPOTV 1 HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/go_spotv/playlist.m3u8
-SPO TV 2,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/go_spotv2/playlist.m3u8
-Beinsports 2 HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Bein2hd/playlist.m3u8
-Skysports Arena,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tiankongarena/playlist.m3u8
-Skysports F1,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tiankongf1/playlist.m3u8
-Skysports Cricket,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tiankongcricket/playlist.m3u8
-Skysports EPL,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tiankongepl/playlist.m3u8
-Skysports Football,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tiankongfootball/playlist.m3u8
-Skysports Golf,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tiankonggolf/playlist.m3u8
-Skysports Main Event,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tiankongmain/playlist.m3u8
-Skysports News,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tiankongnews/playlist.m3u8
-Skysports NFL,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tiankongnfl/playlist.m3u8
-Skysports Racing,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tiankongracing/playlist.m3u8
-Skysports Mix,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tiankongmix/playlist.m3u8
-CCTV-5 体育频道,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/cctv5/playlist.m3u8
-CCTV-5+ 体育赛事 HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/cctv5plus/playlist.m3u8
-爱尔达体育2台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8
-爱尔达体育3台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/eltasport3_twn/playlist.m3u8
-RTM Sports HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Rtmsport/playlist.m3u8
-Arena,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Arena/playlist.m3u8
-Arena 2,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Arena2/playlist.m3u8
-BolaArena 1,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Bolaarena1/playlist.m3u8
-Bein 1 Sports,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bein1_mega/playlist.m3u8
-Bein 2 Sports,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bein2_mega/playlist.m3u8
-Bein 3 Sports,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bein3_mega/playlist.m3u8
-Bein 4 Sports,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bein4_mega/playlist.m3u8
-Bein 5 Sports,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bein5_mega/playlist.m3u8
-Bein 6 Sports,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bein6_mega/playlist.m3u8
-Bein 7 Sports,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bein7_mega/playlist.m3u8
-Rugby Pass TV,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Rugbypasstv/playlist.m3u8
-BolaArena 2,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Bolaarena2/playlist.m3u8
-SmartTV-記錄美食,#genre#
-Natgeo_HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/natgeohd_twn/playlist.m3u8
-NatGeo_Wild HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/natgeowild_twn/playlist.m3u8
-Animal_Planet,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8
-Discovery Asia,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/discoverytwn_twn/playlist.m3u8
-CI,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ci_twn/playlist.m3u8
-Asia Travel,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8
-Discovery HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8
-亚洲美食,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/afc_twn/playlist.m3u8
-美食星球,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/foodplanet_twn/playlist.m3u8
-亚洲旅游 TLC Asia,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tlc_twn/playlist.m3u8
-NatGeo HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Natgeo/playlist.m3u8
-Fashion TV,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/fashiontv_twn/playlist.m3u8
-History,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/History/playlist.m3u8
-BBC Earth HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bbcearth_twn/playlist.m3u8
-BBC Earth Lifestyle,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bbclifestyle_twn/playlist.m3u8
-MTV Live,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/mtvhd_twn/playlist.m3u8
-NatGeo Wild HD,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Natgeowild/playlist.m3u8
-Animal Planet (Eng),http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/AnimalPlanet/playlist.m3u8
-TLC,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Tlc/playlist.m3u8
-AFC 亚洲旅游台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8
-Foodnetwork Hd,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Foodnetwork_mega/playlist.m3u8
-HGTV,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/HGTV/playlist.m3u8
