@@ -4,10 +4,10 @@
 "lives":[
 {"name":"59高解析🇹🇼","api":"csp_MQiTV","ext":"https://59.125.210.231:4433","jar":"./jar/fmMQiTV.jar","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YouTube🇹🇼","type": 0,"url": "./tvbus/YouTube(1).txt","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},    
+{"name":"只有CCTV3🇨🇳(本地)","url":"./tvbus/liveCCTV3.txt","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"立視LiTV🇹🇼(本地)","type": 3,"api": "./py/live_litv.py","ext": {},"epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"四季線上4gtv🇹🇼(本地)","url":"./tvbus/4gtv直播源.txt","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"SMT直播🇹🇼🇨🇳(本地)","type":3,"api":"./py/live_smt.py","ext":{},"epg":"http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"只有CCTV3🇨🇳(本地)","url":"./tvbus/liveCCTV3.txt","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"立視 4gtv🇹🇼","type": 0,"url": "http://xg.52sw.top/iptv/litv.php","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},    
 {"name":"judy綜合🇹🇼🇨🇳(本地)","type": 0,"url":"./tvbus/merged_judy.m3u","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  {"name":"AnboxII🇹🇼🇨🇳","url":"http://firebase.anbox118.workers.dev/","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"judy綜合🇹🇼🇨🇳","type": 0,"url":"https://smart.pendy.dpdns.org/m3u/merged_judy.m3u","ua": "okhttp/3.15","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
