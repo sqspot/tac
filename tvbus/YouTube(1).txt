@@ -1,6 +1,5 @@
 中文新闻,#genre#
-cctv4,https://www.youtube.com/watch?v=SdzewdkJa-o
-cctv4美洲,https://www.youtube.com/watch?v=_JHbJc71p9Q
+4K,https://www.youtube.com/watch?v=vQP8AwAFzI8
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新闻,https://www.youtube.com/watch?v=Ej3LQM_lTEw
 寰宇新闻°,https://www.youtube.com/watch?v=w87VGpgd90U
@@ -20,11 +19,9 @@ cctv4美洲,https://www.youtube.com/watch?v=_JHbJc71p9Q
 tvbsNews,https://www.youtube.com/watch?v=2mCSYvcfhtc
 tvbs News,https://www.youtube.com/watch?v=m_dhMSvUCIc
 tvbs選新聞,https://www.youtube.com/watch?v=o_-hSMgpAzs
+cctv4,https://www.youtube.com/watch?v=SdzewdkJa-o
+cctv4美洲,https://www.youtube.com/watch?v=_JHbJc71p9Q
 影视综艺,#genre#
-4K,https://www.youtube.com/watch?v=vQP8AwAFzI8
-四季線上,https://www.youtube.com/watch?v=sdtaF2gH9gc
-四季线上,https://www.youtube.com/watch?v=GjXBXz5dl6E
-4G缐上,https://www.youtube.com/live/sdtaF2gH9gc
 大愛,https://www.youtube.com/watch?v=MIqUplvSRWA
 大愛2,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 中視綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
@@ -36,6 +33,8 @@ tvbs選新聞,https://www.youtube.com/watch?v=o_-hSMgpAzs
 綜藝大熱門,https://www.youtube.com/watch?v=cpsP1wd-HgM
 台視時光,https://www.youtube.com/watch?v=MEdYt10b2mc
 三立電視,https://www.youtube.com/watch?v=0EgZW36EUZw
+意難忘,https://www.youtube.com/watch?v=sdtaF2gH9gc
+親戚不計較,https://www.youtube.com/watch?v=GjXBXz5dl6E
 恶作剧之吻,https://www.youtube.com/watch?v=6lKL5znyZkc
 現代嘉慶君,https://www.youtube.com/watch?v=E-SNFemPCrQ
 天才衝衝衝,https://www.youtube.com/watch?v=QUcOMgw4srY

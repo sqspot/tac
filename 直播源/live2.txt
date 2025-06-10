@@ -1,8 +1,6 @@
 🔞🈲成人,#genre#
-潘朵啦,p3p://167.114.175.6:55331/5fe4450c000c918b829fca233c845311
+潘朵啦,p3p://167.114.175.6:55331/5fe4450c000c918b829fca233c845311#p3p://173.208.176.178:31809/5fe4450c000c918b829fca233c845311
 潘朵啦,http://18.svi-studio.com:80/live/824908251669/532612644941/3.m3u8
-潘朵啦,p3p://173.208.176.178:31809/5fe4450c000c918b829fca233c845311
-潘朵啦,p3p://167.114.175.6:42803/5fe4450c000c918b829fca233c845311			
 潘朵啦,http://18.svi-studio.com:8880/live/908957700097/132663288386/3.m3u8
 潘朵啦,http://18.svi-studio.com:8880/live/917952932058/953281067271/3.m3u8
 潘朵啦,http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
@@ -11,6 +9,7 @@
 潘朵啦,http://suo.im/6TuSG
 松視1,https://18.svi-studio.com/live/656570054361/567275863459/5.m3u8
 松視1,http://18.svi-studio.com:80/live/824908251669/532612644941/5.m3u8
+松視1,p3p://167.114.175.6:55331/5fe445280008a40682a0367c343436bb#p3p://173.208.176.178:31809/5fe445280008a40682a0367c343436bb
 松視1,http://18.svi-studio.com:8880/live/917952932058/953281067271/5.m3u8
 松視1,p3p://173.208.176.178:31809/5fe445280008a40682a0367c343436bb
 松視1,http://18.svi-studio.com:8880/live/908957700097/132663288386/5.m3u8
@@ -54,8 +53,7 @@
 松視3,http://suo.im/9wiS2
 松視3,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
 松視4,http://push-rtmp-hs-spe-f5.douyincdn.com/live/stream-4405704878-4405704878-bc06834db35c51078ec2940ac4e0bd13-4225727750-10057-A-0-1.flv
-happy,p3p://167.114.175.6:55331/616b79be000a35b17ab2f7b84c325eeb
-happy,p3p://173.208.176.178:31809/616b79be000a35b17ab2f7b84c325eeb
+happy,p3p://173.208.176.178:31809/616b79be000a35b17ab2f7b84c325eeb#p3p://167.114.175.6:55331/616b79be000a35b17ab2f7b84c325eeb
 香蕉,p3p://167.114.175.6:55331/60626a760005067e6f5bbecb5816771e
 香蕉,p3p://167.114.175.6:55331/60626a760005067e6f5bbecb5816771e#p3p://173.208.176.178:31809/60626a760005067e6f5bbecb5816771e
 香蕉,http://18.svi-studio.com:80/live/824908251669/532612644941/4.m3u8
@@ -69,7 +67,7 @@ happy,p3p://173.208.176.178:31809/616b79be000a35b17ab2f7b84c325eeb
 香蕉,http://18.svi-studio.com:8880/live/271871095922/006886711863/4.m3u8
 香蕉,https://z88.ubtvfans.com:443/live/rx3/2930/3bd19ceb41bccf7790ee168b92b69985/index.m3u8
 香蕉,http://s.mrw.so/94E7W
-驚艷,p3p://167.114.175.6:55331/60626a1b00010e3e6f5a5a4f018e5ebe
+驚艷,p3p://167.114.175.6:55331/60626a1b00010e3e6f5a5a4f018e5ebe#p3p://173.208.176.178:31809/60626a1b00010e3e6f5a5a4f018e5ebe
 驚艷,p3p://167.114.175.6:42803/60626a1b00010e3e6f5a5a4f018e5ebe
 驚艷,p3p://108.181.32.169:31165/650b8b37000c4e8a8f1fb328756e4077
 驚艷,http://125.227.210.55:8156/VideoInput/play.ts
@@ -96,7 +94,7 @@ JStar極限,https://epg.pw/stream/a4a9b7e7603d96e605468df45eb0d14be5b022328f9279
 彩虹電影,p3p://173.208.176.178:31809/6253066c00049259f74b05224cf375e6
 彩虹電影,p3p://167.114.175.6:55331/63fd589300099ff426db7203798a21f9
 彩虹電影,p3p://167.114.175.6:55331/6253066c00049259f74b05224cf375e6
-彩虹E,p3p://173.208.176.178:31809/6062716c0008efc86f76f0c44d55329f
+彩虹E,p3p://173.208.176.178:31809/6062716c0008efc86f76f0c44d55329f#p3p://167.114.175.6:55331/6062716c0008efc86f76f0c44d55329f
 彩虹E,p3p://167.114.175.6:55331/6062716c0008efc86f76f0c44d55329f
 彩虹E,p3p://167.114.175.6:42803/6062716c0008efc86f76f0c44d55329f
 彩虹E,p3p://108.181.32.169:31165/641a802000061354c0de38d050782a5d
@@ -165,7 +163,7 @@ HAPPY,p3p://167.114.175.6:55331/616b79be000a35b17ab2f7b84c325eeb
 彩虹K,p3p://167.114.175.6:55331/63fd56ec000b5f0d26d4fe1b07963493
 彩虹電影,p3p://167.114.175.6:55331/6253066c00049259f74b05224cf375e6
 彩虹頻道,p3p://167.114.175.6:55331/63fd589300099ff426db7203798a21f9
-極限電影,p3p://167.114.175.6:55331/6109e9bb0005fd87fd9ce5ea2c1f18d3
+極限電影,p3p://167.114.175.6:55331/6109e9bb0005fd87fd9ce5ea2c1f18d3#p3p://173.208.176.178:31809/6109e9bb0005fd87fd9ce5ea2c1f18d3
 西方OFFICE場景,p3p://167.114.175.6:55331/6403cb9f0003a839400cad904b301253
 西方黑白大戰,p3p://167.114.175.6:55331/6403cc0d0000f97a400e5a9115f012f3
 中字有碼1,p3p://167.114.175.6:55331/5fe790790005783d8f7e6a1d2f8774e6
@@ -258,7 +256,41 @@ HOT,tvbus://888v7qzrdgpEFVmqE3zdPLSVSkR3f4S99kmZts8psraWUriy5E#tvbus://8XF9CAYhE
 18 ADULT 10,tvbus://87T8HQD1NpY5fWwt73PwY36eqdoL9uDLLNN9pJ2UFLnMoRciQB#tvbus://7y8dURAYKJP9z6HEpYWhxLjJiEgMKcbbRZ1ykLjvt5Jq9Sj7sN#tvbus://7Y64NToifRU7vUWGgYSPdPytbRSmuN2wY8RE9Ar6Wxhdg85Mk7#tvbus://8iX1W5zCjG3XyFirSkQCUtpYLHtn8ByVE72frTMiD9JSomcKdH#tvbus://7qztEyuEAx6Bw9dwbzdHQG5FkP6b8rBk74Dhg9quyNzx3TcXFL#tvbus://8RXJm5EzPJht2EbZA8ZEaHU3UMshJLLP2c75WjLGPh3eL3Ff26#tvbus://5u6tz6mWigrNmUGjA9y4deRpkSK3sfAo1LB7ZnfBK6TnkbBQzQEHjwZZVBVuS
 18 ADULT 9,tvbus://7iS15LS31ADWbYWAWyWf1jUWaPVsFyckm5wMwwfAKj4HM5hRYV#tvbus://6qaLjzmFDK2c6MUWtQFheGYbPo6T18VC9a6JdxaipYXtHgszpZ#tvbus://8ip8KdVSkKFgKUutLdXgqwqxbcqwuMrdPuzXQbVDtc6yax9Vjh#tvbus://8L8EFftX8hqxKKbXnD6kPtWLCuWwVScEemc5gyMp7zJhVkkZXm#tvbus://7dmGyUYLHkN2BbvwaW6wtBCtz2VndGn2pUULvgUdKD4iUUrQmq#tvbus://8cGyBeyMAEcvJF1CPru5iny59VXcSr7Vc3qEjpwY3s4wHEwzdd#tvbus://6ZYiUkDiwDiHgicmSE3Z1MUs7FGrtAtXExn73vHzcCgDGNs4gYbpWWcr2YQPQ
 18 ADULT 8,tvbus://8bpFLdwsD1eK42EDEvZW7t5YUGiyTp2ZAJZABBHxCiqq19Ym3J#tvbus://7Rt2EWKCBcgjpLFXy7VF8nGr9ddzo23Nt7vJy1Sz9MzaHAS2Z5#tvbus://8ZfAHnWQxsGfB4q3LtQN91VcojXknC1ey67uqUT33yni2JBEuF#tvbus://6sRVdev89rm1YokPzjfXS4aZsuattrPANNy43wm7r9xyDcyuZF#tvbus://7CLNSXSaLCHb29MhSKDUHCAWYivVAG5wwg9pZXPydsbBLNLi36#tvbus://8Q3Y6iACBxdY3eex43LSjBJPTSgBUWFweX7adqUE9cQDedtg4T#tvbus://5RRXmAQ9SJzx684gvqPosvd3SNDsjbZcTLH3sanisSnxWNQVRbh7y94LNurpg
-
+robyang,#genre#
+松視3,http://robyang.serv00.net/ublive.php?id=404
+潘朵拉完美,http://robyang.serv00.net/ublive.php?id=410
+HAPPY,http://robyang.serv00.net/ublive.php?id=2908
+JStar,http://robyang.serv00.net/ublive.php?id=2909
+彩虹E,http://robyang.serv00.net/ublive.php?id=406
+彩虹E,http://robyang.serv00.net/ublive.php?id=2935
+彩虹K,http://robyang.serv00.net/ublive.php?id=415
+Brazzers TV,http://robyang.serv00.net/ublive.php?id=3076
+Erox,http://robyang.serv00.net/ublive.php?id=3079
+Babes XXX,http://robyang.serv00.net/ublive.php?id=3085
+Hustler XXX TV,http://robyang.serv00.net/ublive.php?id=3087
+BABES,http://robyang.serv00.net/ublive.php?id=3088
+BABES UNLEASHED,http://robyang.serv00.net/ublive.php?id=3089
+BAEB Perv City,http://robyang.serv00.net/ublive.php?id=3090
+BRATTY SIS,http://robyang.serv00.net/ublive.php?id=3091
+BRAZZERS EN ESPANOL,http://robyang.serv00.net/ublive.php?id=3092
+BUSTY LOVER,http://robyang.serv00.net/ublive.php?id=3093
+CUM 4K,http://robyang.serv00.net/ublive.php?id=3094
+Blue Hustler,http://robyang.serv00.net/ublive.php?id=3077
+潘朵拉完美,http://robyang.serv00.net/ublive.php?id=2932
+Banana香蕉,http://robyang.serv00.net/ublive.php?id=2930
+LOOK,http://robyang.serv00.net/ublive.php?id=2933
+極限電影,http://robyang.serv00.net/ublive.php?id=405
+Midnigh(KR),http://robyang.serv00.net/ublive.php?id=2913
+Playboy(KR),http://robyang.serv00.net/ublive.php?id=2912
+彩虹频道,http://robyang.serv00.net/ublive.php?id=2914
+奥视频道,http://robyang.serv00.net/ublive.php?id=2915
+奥视频道2,http://robyang.serv00.net/ublive.php?id=2916
+EXXXTRA SMALL,http://robyang.serv00.net/ublive.php?id=3099
+DAUGHTER SWAP,http://robyang.serv00.net/ublive.php?id=3095
+DIGITAL PLAYGROUND,http://robyang.serv00.net/ublive.php?id=3097
+EROTIC SPICE,http://robyang.serv00.net/ublive.php?id=3098
+FAKE AGENT,http://robyang.serv00.net/ublive.php?id=3100
+FAKE COP,http://robyang.serv00.net/ublive.php?id=3102
 喷包集合,#genre#
 桃花村直播-stripchat-xiaoyusan,https://edge-hls.doppiocdn.com/hls/150487583/master/150487583_720p.m3u8
 最佳喷包集合第4部分,http://1465.vod.redtraffic.xyz/ph5b3873d509bd2/play.m3u8
