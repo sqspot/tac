@@ -1928,6 +1928,34 @@ AMC電影,http://61.221.215.25:8800/hls/43/index.m3u8
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 MOMOTV,rtmp://f13h.mine.nu/sat/tv761
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
+极速台湾,#genre#
+//http://kkk.888.3116598.xyz/user/HKTV.txt
+中天亚洲,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=siBuwN&tk=dBAimq8rrVFZ
+中天综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Uax61k&tk=dBAimq8rrVFZ
+中天娱乐,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=u6rRio&tk=dBAimq8rrVFZ
+中天亚洲(备),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vYKxX9&tk=dBAimq8rrVFZ
+民视第一,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=osQxbv&tk=dBAimq8rrVFZ
+民视台湾,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CuGicN&tk=dBAimq8rrVFZ
+美亚电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5zGQzg&tk=dBAimq8rrVFZ
+东森超视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=s4nb4J&tk=dBAimq8rrVFZ
+东森综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tYRdpQ&tk=dBAimq8rrVFZ
+八大第一,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZXrNof&tk=dBAimq8rrVFZ
+八大综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=e3C47I&tk=dBAimq8rrVFZ
+爱尔达娱乐,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jl8Fx9&tk=dBAimq8rrVFZ
+Channel5HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=69a6K1&tk=dBAimq8rrVFZ
+Channel8HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=D0NXs7&tk=dBAimq8rrVFZ
+ChannelUHD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Lt8tjJ&tk=dBAimq8rrVFZ
+八度空間,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jRZN6b&tk=dBAimq8rrVFZ
+TVBS台剧台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zjLiwd&tk=dBAimq8rrVFZ
+TVBS综艺台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RMZBWO&tk=dBAimq8rrVFZ
+猪哥亮歌秀厅,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PwBY9s&tk=dBAimq8rrVFZ
+寰宇新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CSJOJE&tk=dBAimq8rrVFZ
+中天新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zjasdC&tk=dBAimq8rrVFZ
+中天新闻2,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YeFClV&tk=dBAimq8rrVFZ
+中视新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=83Tx6X&tk=dBAimq8rrVFZ
+TVBS HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=TWnwqK&tk=dBAimq8rrVFZ
+台视新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=43UnDv&tk=dBAimq8rrVFZ
+动物星球,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=IqBZFk&tk=dBAimq8rrVFZ
 
 台灣robyang,#genre#
 民視,http://robyang.serv00.net/ublive.php?id=336

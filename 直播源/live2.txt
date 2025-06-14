@@ -150,6 +150,21 @@ Pornbox8,http://cord-cutter.net:8080/YT6bvC/100111/159957
 Pornbox9,http://cord-cutter.net:8080/YT6bvC/100111/159963
 Miamitv,https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
 MiaMitv,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+极限体验,#genre#
+//http://kkk.888.3116598.xyz/user/HKTV.txt
+松视1台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Qu5nLU&tk=dBAimq8rrVFZ
+松视2台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NmgRrW&tk=dBAimq8rrVFZ
+松视3台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=x4QnxS&tk=dBAimq8rrVFZ
+彩虹e台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zeA64I&tk=dBAimq8rrVFZ
+K 頻道,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3j82t3&tk=dBAimq8rrVFZ
+彩虹电影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=OV0ijW&tk=dBAimq8rrVFZ
+潘朵啦玩美台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JMqIUp&tk=dBAimq8rrVFZ
+惊艳成人电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FimCOJ&tk=dBAimq8rrVFZ
+香蕉台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=leyqCh&tk=dBAimq8rrVFZ
+Happy,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=omIFMv&tk=dBAimq8rrVFZ
+JStar极限电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PB4yef&tk=dBAimq8rrVFZ
+香蕉视频,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=&tk=dBAimq8rrVFZ2,https://qqyfhe.peihansu.com/20250528/9EEGidEP/9766kb/hls/index.m3u8
+
 167,#genre#
 潘多拉完美,p3p://167.114.175.6:55331/5fe4450c000c918b829fca233c845311
 香蕉,p3p://167.114.175.6:55331/60626a760005067e6f5bbecb5816771e
