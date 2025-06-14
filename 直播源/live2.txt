@@ -164,6 +164,14 @@ K 頻道,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3j82t3&tk=dBAimq8rrVFZ
 Happy,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=omIFMv&tk=dBAimq8rrVFZ
 JStar极限电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PB4yef&tk=dBAimq8rrVFZ
 香蕉视频,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=&tk=dBAimq8rrVFZ2,https://qqyfhe.peihansu.com/20250528/9EEGidEP/9766kb/hls/index.m3u8
+ali.hlspull,#genre#
+//http://go8.myartsonline.com/zx/0/TVBTV.txt
+松視1,http://ali.hlspull.yximgs.com/live/52f274c1bedf4791f95ab9601f0700ac.flv
+松視2,http://ali.hlspull.yximgs.com/live/d46ef0cd7365e99f126ed5431bd2af97.flv
+松視3,http://ali.hlspull.yximgs.com/live/d19ca6e6b19c9bf461d861dafaf356c6.flvm/live/d19ca6e6b19c9bf461d861dafaf356c6.flv
+松视3,http://ali.hlspull.yximgs.com:80/live/d19ca6e6b19c9bf461d861dafaf356c6.flv
+彩虹e,http://ali.hlspull.yximgs.com:80/live/0377d6869f56f7af77f91da3714f3e84.flv
+happy,http://ali.hlspull.yximgs.com:80/live/98f94700935912b511a14422039d3d05.flv
 
 167,#genre#
 潘多拉完美,p3p://167.114.175.6:55331/5fe4450c000c918b829fca233c845311
