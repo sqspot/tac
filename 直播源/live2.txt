@@ -115,41 +115,6 @@ K頻道,p3p://167.114.175.6:55331/63fd56ec000b5f0d26d4fe1b07963493
 K頻道,p3p://167.114.175.6:42803/63fd56ec000b5f0d26d4fe1b07963493
 look,p3p://167.114.175.6:55331/606271190002a1266f75aaee0463186a
 Heyzo無碼,p3p://167.114.175.6:42803/5fe8014b0007228691371ed44a517e44
-robyang,#genre#
-松視3,http://robyang.serv00.net/ublive.php?id=404
-潘朵拉完美,http://robyang.serv00.net/ublive.php?id=410
-HAPPY,http://robyang.serv00.net/ublive.php?id=2908
-JStar,http://robyang.serv00.net/ublive.php?id=2909
-彩虹E,http://robyang.serv00.net/ublive.php?id=406
-彩虹E,http://robyang.serv00.net/ublive.php?id=2935
-彩虹K,http://robyang.serv00.net/ublive.php?id=415
-Brazzers TV,http://robyang.serv00.net/ublive.php?id=3076
-Erox,http://robyang.serv00.net/ublive.php?id=3079
-Babes XXX,http://robyang.serv00.net/ublive.php?id=3085
-Hustler XXX TV,http://robyang.serv00.net/ublive.php?id=3087
-BABES,http://robyang.serv00.net/ublive.php?id=3088
-BABES UNLEASHED,http://robyang.serv00.net/ublive.php?id=3089
-BAEB Perv City,http://robyang.serv00.net/ublive.php?id=3090
-BRATTY SIS,http://robyang.serv00.net/ublive.php?id=3091
-BRAZZERS EN ESPANOL,http://robyang.serv00.net/ublive.php?id=3092
-BUSTY LOVER,http://robyang.serv00.net/ublive.php?id=3093
-CUM 4K,http://robyang.serv00.net/ublive.php?id=3094
-Blue Hustler,http://robyang.serv00.net/ublive.php?id=3077
-潘朵拉完美,http://robyang.serv00.net/ublive.php?id=2932
-Banana香蕉,http://robyang.serv00.net/ublive.php?id=2930
-LOOK,http://robyang.serv00.net/ublive.php?id=2933
-極限電影,http://robyang.serv00.net/ublive.php?id=405
-Midnigh(KR),http://robyang.serv00.net/ublive.php?id=2913
-Playboy(KR),http://robyang.serv00.net/ublive.php?id=2912
-彩虹频道,http://robyang.serv00.net/ublive.php?id=2914
-奥视频道,http://robyang.serv00.net/ublive.php?id=2915
-奥视频道2,http://robyang.serv00.net/ublive.php?id=2916
-EXXXTRA SMALL,http://robyang.serv00.net/ublive.php?id=3099
-DAUGHTER SWAP,http://robyang.serv00.net/ublive.php?id=3095
-DIGITAL PLAYGROUND,http://robyang.serv00.net/ublive.php?id=3097
-EROTIC SPICE,http://robyang.serv00.net/ublive.php?id=3098
-FAKE AGENT,http://robyang.serv00.net/ublive.php?id=3100
-FAKE COP,http://robyang.serv00.net/ublive.php?id=3102
 
 极限体验,#genre#
 //http://kkk.888.3116598.xyz/user/HKTV.txt
@@ -165,26 +130,6 @@ K 頻道,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3j82t3&tk=dBAimq8rrVFZ
 Happy,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=omIFMv&tk=dBAimq8rrVFZ
 JStar极限电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PB4yef&tk=dBAimq8rrVFZ
 香蕉视频,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=&tk=dBAimq8rrVFZ2,https://qqyfhe.peihansu.com/20250528/9EEGidEP/9766kb/hls/index.m3u8
-tvbus,#genre#
-松視3臺,tvbus://8V6ax5wximJSbDbRyRkLJ9uKsbZBtHzKkkHyheRYsCDQn1NkyZ#tvbus://8XsbtMB89TVonaQMEQGmRfDjjYgSHKjGpRhCfJp2Zx85gma3se#tvbus://8GFSfbeh9R8nSXj2QeKGziq6bkdhp1cQiF4tzuiYhG64fScPPk#tvbus://7YZ2B4dPCvHZrBib9Ku2XAUzBXDGSYM3GMFj33mF26KeGDUgJw#tvbus://7AqfZxzZiivqNSbCdpX5KDaWkNT14igZQab1iRcdYgqqL8auEN#tvbus://7JhRTQfAbTGq4EiLw2UMyGov8KkW5dDLMNLAmxQtsRDPeW9zwB#tvbus://5bWfo1ynFo4tmhThbh1FQoq8Jra16aZfxfb3GLmkLHp1Asm85oM58femW7eAw
-松視2臺,tvbus://7Fvko3o3z1zbb8r8EdRVft1FvBpGmsfJbvRY6f8DwF5veGQgoo#tvbus://7zDcYB6twwQVZi2E7eDH1Vs3izvHveD5MdZRDVB6NCkbUtRPPB#tvbus://7aa6tnS6acC5vDBbwAEQGSML1hueHKpr2Gp7D5XQMBY1U2ygTS#tvbus://8SnbhnzDXD8mGyQkMphxo4xGpC8Kp4uZtoLgiDijQU4xcUu2oi#tvbus://6uxnc9PU1jEvgGEbkjYsKgVPDgRCacVbTQtcRQrKPzNR5UAbRY#tvbus://7sJLmCdXZrXXfCkoFYuZ95vaZMSZQkFzSMpzGW8UdNCYfDvEUk#tvbus://5V4yiwguQWZdTVgDu7bsKmcsr7U7YNHy468Ne42kDtdp3kY3BJmRKxpSMRsYu
-松視1臺,tvbus://8QVYgbvvCmRA3JyAKsv451Qth5jdbRJWzmejsxrKShFtmRmwdw#tvbus://7VvSfBAFW3d1GZHizWvkQfsrQzNz9cujGtccHwgxEEQhtd7aYM#tvbus://7Bft8oDmVXvpnBuUsbd49oboHFqMtqZ3VZMiS9mQ5FUcBYa7GG#tvbus://72ttM3vKb1oxdwEKnxgL3KTCbeEeP6stiyygYTNduvieM5JfXg#tvbus://6zpnzu3sy73nBzqJwALsg7eAj8zvD4zjeANs9McFCW5UZUstDv#tvbus://7KFjoSXqboBxnvAq3gr8yGtT2bV4UZTQEfnFmV5UNMAByEyy2b#tvbus://6We3nbhZgwMKHCZpzXM2BQChyaw9cQNFwWQBEfQUAJcAkeDTgq6zxQShiRELo
-彩虹MOIVE,tvbus://8PRce5vS1sLBTQgucqGPq1p7o9hmgaiH6sa6Ui3FavQYkd79nG#tvbus://8kWjP8sTZmPRxrp1wB2XGzH7sU1vhtDhAeVDb4uQhWgQtkTZxY#tvbus://89wtQ69m98huFKKpyj6cVVJHrkUpvCCoKvoWnAD8BHSQ1eWXA9#tvbus://7Giq9PC7334Z5SgdwMHdqfY3FnDKgPyEhtEGu4pDuAd51pXmNf#tvbus://7z2fKnAvSQjsHhEWa5McyAxiUTAiU5GQtut3VaPF5q4enhs2Pe#tvbus://8NcFvipG7zE8Y6r4B3rMjowhCafQUfUR3eWCkErJ5i3yJpCgDu#tvbus://5UnVfpMTEDqPb4v4ooPzJPrzM6jQrqPq6wa7iSrzvrFFzcRsWn6KuWJEniXBL
-彩虹e臺,tvbus://886X3enkj3aVyfRZeCCPGh9tcy7RjYZX3YipwEEqW8B5N8HP9V#tvbus://7F2x4EsgCXvwYfqyfAvkMC8Qzqr5JtJLUsF6pCNhibib5NRCXz#tvbus://7phjBHmARawsNbdv829wnMhupdfzgt82TRboDXtTvNE9Lreizf#tvbus://6qvhoxy8fB1CgLS6RCBpLDpSr4vZGvtHCmVfi7nQc1MLpjeQqh#tvbus://7UfTUerdagvn1mPttMQntkhEC5VFcihPfioiN3x66A8FNgaZHt#tvbus://8LhcrP8k71gbNeBP3mj63yZmnkZPZPehFrntA2z2oYHP71ZocK#tvbus://5U9EF6CDqN51CZN5nM6pyNNGfsGxiQH1xG795PMpg5ktX8GC49j8SgJCbgc21
-K頻道,tvbus://8GwyVVSjAdtbXuVsv5ogcKS1jEZA9FahAvgYoDs4nf45E5zdJ8#tvbus://7pH9MVdqRHtWFaou2nDmjQQD8Zy9cHUwD9VJZ1ht6JzDVYsYJ4#tvbus://8XKn7ChgpzvRC8K7XpR1ye4pkJntkZmLpRABNiPALWKQG3Q8Tx#tvbus://7d7YkH7yvJmns3XNwrhgGtY3bw7pNQyGfdWsYb5bJih2Jw1gTa#tvbus://8SuQcAuyEpa1jnnB1YW1cPUv8e7t1uyecEdxEGQbCFtdfef7eR#tvbus://8a7fp8Hw2cWuJREJf9DUpmmiQcR3m5wP97VmkDQpt7kL4r4btW#tvbus://6YwzzeFPEcMZ1XKEbdZYt6TTnSUqq5CbPFVc3aHsjKGqTqFpicZFneA2R56Ya
-HOT,tvbus://888v7qzrdgpEFVmqE3zdPLSVSkR3f4S99kmZts8psraWUriy5E#tvbus://8XF9CAYhEgtBaAq7egfgPFoXMTtiipDVoaZPCFZji7WBcAsv8H#tvbus://8h3QBLpXGK6RBkTSiaiiDFvfFwLZFsjsMDuDEXd7i5ZTddiiqF#tvbus://83rPBCgKg8NuMBzPDs3kPZb7zFS9yxjXJ8uYb2bpPXQ6bfPTA8#tvbus://7PUpYYhEXycXwbrV6bg2iWxePFjerV7e52p5jRGQSn3Ys1bip2#tvbus://8RG9hP2JMsf4sx5E3ZmGBUDQbtsAddYyUL9DsGETdivF7WMLdi#tvbus://6FCzqSCmRXm5vYrVJKEsanw2MNQe6GdGXDBxtUhCNfMT3pD4fVpTWfA2rYK4F
-香蕉臺,tvbus://8DCHFc63w71ST1AqD22poPoDkoBpy4swXb5jfun4pCYqMJcJPH#tvbus://7rTz1esvq94jL9YAEnfGU69ZQWpEEs6wPHyR1TQTkMYs4Fh6HD#tvbus://88NxJ5Kav3Fxc33VSXPh7bQRC6L4dNHz1VThsq7m3BzZaV4Zxz#tvbus://7AGoPuCv4u7nfoA7YAkyRV5msmU2n1hcQiLyCuQwoLchtPnTG5#tvbus://8aSJxZhzeZi9X1ui1qEqCcWpG15Vn2XeaoSD3aUxmKPYnNviSp#tvbus://8NeSPzk3JGLqMPLT9URMjf2FQLRK6UcS3fR9jnUVeq6xstYfBv#tvbus://6VaB8kdxjDxxUcYpg5SRwU6xdFXFpSCmFp1riAHxczseBiEaDCozL7RpDz9GK
-潘多拉粉紅,tvbus://7LPAET8LPKSb8B6PxhyNckv5XJd7bRKpyLRuKa4cXMQHUEshBj#tvbus://8bAfhBvMjS2TSZnAz1nQ1ScNyaVx7VRdpChqA43DciC35TvdDd#tvbus://8mDszDLpuZWe4FXjZ2hf6Mmqk8XPaBifQnQxS311eBmwGHi9Kh#tvbus://71WgrHdshUoAHySfkws3M7F2UmCNiV6nNvV6D2sWiHZe61WB4P#tvbus://7EGcfHRR971Ps4LVmR6u9AnLthm4jCjrTY7Wz2GYef8oqtCg8E#tvbus://8JjsawEKet8BRSza1hrwK63yCGifrhZsH1h7eweyVaa6ym1Cic#tvbus://5LwU9oBkAXyfSJC22UX2JjrwR3S14Yg45aQc473jshCnHTTm9A34qdBucAxGH
-潘多拉玩美,tvbus://7d5w2TrSYS6Cwo4T35WoQem6j4uSXZCdLbf1gfHv2Katv9eb4s#tvbus://759nxecyVy3REKt6UGoCMrMkNdUZg3pjrkTrD4nVMdsNDCkBTT#tvbus://6y5cF8zjvpkcDgM7CdGyEpNjANx4jxyNnaxzbcu3gCxp3pWEM9#tvbus://8aQWUWTaW8A4Vugnasn1QJhAAZXz8Uy5X1DMpCenqypj8G4CKE#tvbus://7hssmowvCdsMSqdw7CxceFwzVhAhfjhSViJbLurnLHUhPgdtLp#tvbus://8eJ9uaq2mp8ixtrJqw1i9n9ytisRiWBU7iW5ZY7cKKu2gRwZiT#tvbus://5d2iaF7JJUWYMpbRBuvZMTGAGkcVYpUBUnFv3AADgVp65QA8gpiCe6A5a1htL
-18 ADULT 7,tvbus://8iZJUbYEJBu7ZNBKEnsaeag4Lc6jJQtsrPpjPSxcKjM32Z2Yex#tvbus://6x36bQBdjUwUyjS3WJ8hi9iXnpA2ZzAQYMAPPj96Q4s6RtvgYP#tvbus://7m8ZN2PirtdmB2ZiFXi5KCQwGPqoHwmVY6b7UAab1snoxtDjNB#tvbus://8NWkoDWsHon6EV8Ag4p65XivKAJZoKpHGcg2y4EZDPjPfRduyW#tvbus://8AhmdrqmEMa57jfDCFsd1oexPbjHH5ipocc2N7N7cnoKEt2uQU#tvbus://7a53QRi1iDj1aNh6cdD4sfLDwrVkKFFu89rXbFRXg2xUYveym8#tvbus://5vmwWUdQhc7pq5dxe1LKKmizB1k68AyaJZjbQGCqsMZkMjNnw4WJ4Vfq31HB4
-18 ADULT 6,tvbus://8CWh3LkPS2yyT4MUwhXDmRxD5bRwCiJE5gKU8cPPBJnWWhvTMs#tvbus://7So7hnAFa8RQX7Prk6Z2fRqoWa88zVPqzn8PbCtJsngYyuNvh6#tvbus://7FoBUztMdgPSXxfbi6Sjqgy3xBXmczBMEARXTmX93uagusrEEY#tvbus://8MXVKWr1FQNvPLP3mQuXobs2iQhZwwmncbbQNkDJrMbYoEL8d5#tvbus://72dgeuxm3ptRTGGAw5Vgf7jCgGTw9BL3Sf2UvfjDCkKGLJAiST#tvbus://7qLBLVuQ5V8i4Rw6jBHnX2ot12GRLQxYdnparnK2YEMMsQZfba#tvbus://6LGyQFQuGLxP7uP28tMSLeF2MxjPoUXNB8dLAVWTk4Ak63S985m7btzJVBZXb
-18 ADULT 5,tvbus://7mNf75nkcyCRAVnmxM8ear6xhWmtRM94quxG6363cgYRR35oGh#tvbus://8fcvFxZzarRRWe9PNdB78MoZDY2UcAsPXPbBsWCckbByHttJaE#tvbus://7bGxujtPq62FYUVzT9eGSFyMb9638EBxaoSM4bou7bYnwme7XC#tvbus://7m5soJvJX3x5ifvPEYKuDZFMGHj95824SqcBhSxpKhi4nf9JB4#tvbus://7XJrUYjHmw75AttgvraftJ25gAvzQ9DhBHNNnrjmM6YPekyVP2#tvbus://8Vyjp2zzDxYp777V5acKtBxcs1A7D3FoEx2DB6D6PJWR2aa15L#tvbus://5tpsin8vmm8zXBMSnWDYGghDQgUqFnpXiakuHGCtTz1D3qTLhENuXmpDVFXkn
-18 ADULT 4,tvbus://8AsN1XFgZnwQy7P2jJxMrmTjmZxx57g3ujjmmSPDoAkHThn7ej#tvbus://7yGjPYDc8hLVV6kiPobgMjXm6UWNUTDN2BzTi7crxr2qvyVb4f#tvbus://7b9r3kJTLxTfD4oGCtfBEJK8f2KHRv6qM5fvYZasLQpsfxjuuJ#tvbus://7R726bcuPocYJN2UDPYjNR3VuCQDjAsgVpKxf8wVqp6YyP4gLS#tvbus://8Ec1it3SnUFbjqE8p9Xk8K6gYXNhmCmbxBuCR5Sn7QbiLwg33P#tvbus://7GfFpyTntZESTtV4AJbzofWZPjdmid7bS1ZTNsYiFMKkz6nTFa#tvbus://6GNfZzuwtjPT9NPvoWRnHd3Jtspgs5qmSLK4kVbNgdbJUnejwokrZSjND6Tvg
-18 ADULT 3,tvbus://7N9JJtRoH94woNz3YJrUS8YqVqnTskDbFjdSgBHXNUd6fWbx8A#tvbus://7KVkUQyeZLiSAJhTnSH8EcXegXR4EACPVkGrS9XtgFEtQCBRat#tvbus://8HmjCNXY555W9SQZaHSyy2AfdiFrU2R6ZWEkkCXPPmdEYWpG4M#tvbus://8dEy73iP74m184Sq7tvSYNmFsNyEhqo1fdoBYjdovUnUaHkTaW#tvbus://7GGFu5daptNS1UfF7DP3aKw7kZdiaDPpKnYkxrqGUDcB3VS2GR#tvbus://8TFz1Cdrfihhba9d1KCi4t1qBUyDDfq5fQWVewYBX3gWzYobaj#tvbus://6MunL3eZZXmNbv9iV3DccfDsGNtHPeY83m8arnM3ZgTTsUagg1fm657qNYGVZ
-18 ADULT 2,tvbus://7eEKJY5RzJsHCcajJ9b8ay7kPgPUqLi3Hzg3N9g4ULQcXGJHnp#tvbus://8SEnzmmcrTrT7m8VXErbTp77X67e5k8KQnc9SK9vLHboUsZC8B#tvbus://7NQsRX68nZtLsYn6BgCzU11cBDnz7kPYdkF2xKknLpdcWRkggo#tvbus://7WMZxMyfjRitmBXYkF6PhUPLUNNYHtEuQDjJBK5PmdWdipZpDi#tvbus://8TmKsN62VEg1rayTS5Mm4A3WwBLED4TZ7sfhKadeKgKTKtB4tp#tvbus://86qwAxhP64mjP9zBG7fLJtpf2ZAJbdffXq1B7LU7MKoag3VwbU#tvbus://69qaqnP9x8vAqQJQH5WsDQx6R2uci7dkXvVeYjndgBF4oQkTvczZ7i8r3Rin3
-18 ADULT 10,tvbus://87T8HQD1NpY5fWwt73PwY36eqdoL9uDLLNN9pJ2UFLnMoRciQB#tvbus://7y8dURAYKJP9z6HEpYWhxLjJiEgMKcbbRZ1ykLjvt5Jq9Sj7sN#tvbus://7Y64NToifRU7vUWGgYSPdPytbRSmuN2wY8RE9Ar6Wxhdg85Mk7#tvbus://8iX1W5zCjG3XyFirSkQCUtpYLHtn8ByVE72frTMiD9JSomcKdH#tvbus://7qztEyuEAx6Bw9dwbzdHQG5FkP6b8rBk74Dhg9quyNzx3TcXFL#tvbus://8RXJm5EzPJht2EbZA8ZEaHU3UMshJLLP2c75WjLGPh3eL3Ff26#tvbus://5u6tz6mWigrNmUGjA9y4deRpkSK3sfAo1LB7ZnfBK6TnkbBQzQEHjwZZVBVuS
-18 ADULT 9,tvbus://7iS15LS31ADWbYWAWyWf1jUWaPVsFyckm5wMwwfAKj4HM5hRYV#tvbus://6qaLjzmFDK2c6MUWtQFheGYbPo6T18VC9a6JdxaipYXtHgszpZ#tvbus://8ip8KdVSkKFgKUutLdXgqwqxbcqwuMrdPuzXQbVDtc6yax9Vjh#tvbus://8L8EFftX8hqxKKbXnD6kPtWLCuWwVScEemc5gyMp7zJhVkkZXm#tvbus://7dmGyUYLHkN2BbvwaW6wtBCtz2VndGn2pUULvgUdKD4iUUrQmq#tvbus://8cGyBeyMAEcvJF1CPru5iny59VXcSr7Vc3qEjpwY3s4wHEwzdd#tvbus://6ZYiUkDiwDiHgicmSE3Z1MUs7FGrtAtXExn73vHzcCgDGNs4gYbpWWcr2YQPQ
-18 ADULT 8,tvbus://8bpFLdwsD1eK42EDEvZW7t5YUGiyTp2ZAJZABBHxCiqq19Ym3J#tvbus://7Rt2EWKCBcgjpLFXy7VF8nGr9ddzo23Nt7vJy1Sz9MzaHAS2Z5#tvbus://8ZfAHnWQxsGfB4q3LtQN91VcojXknC1ey67uqUT33yni2JBEuF#tvbus://6sRVdev89rm1YokPzjfXS4aZsuattrPANNy43wm7r9xyDcyuZF#tvbus://7CLNSXSaLCHb29MhSKDUHCAWYivVAG5wwg9pZXPydsbBLNLi36#tvbus://8Q3Y6iACBxdY3eex43LSjBJPTSgBUWFweX7adqUE9cQDedtg4T#tvbus://5RRXmAQ9SJzx684gvqPosvd3SNDsjbZcTLH3sanisSnxWNQVRbh7y94LNurpg
 鹿鼎记【成人版】,#genre#
 第01集,https://1080p.huyall.com/play/vbm0vora/index.m3u8 
 第02集,https://1080p.huyall.com/play/QbYY33Kb/index.m3u8 
