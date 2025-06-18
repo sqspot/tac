@@ -6,6 +6,18 @@ ali.hlspull,#genre#
 松视3,http://ali.hlspull.yximgs.com:80/live/d19ca6e6b19c9bf461d861dafaf356c6.flv
 彩虹e,http://ali.hlspull.yximgs.com:80/live/0377d6869f56f7af77f91da3714f3e84.flv
 happy,http://ali.hlspull.yximgs.com:80/live/98f94700935912b511a14422039d3d05.flv
+秘密花園,#genre#
+happy,http://ali.hlspull.yximgs.com:80/live/02036fea3bcdf0055e6c58e01a6bc790.flv
+香蕉,http://ali.hlspull.yximgs.com:80/live/5f9475d108a8dc2a4c6f3645b54363bc.flv
+惊艳,http://ali.hlspull.yximgs.com:80/live/8380a44e9972f6ba846596ad36d48ca2.flv
+潘朵拉,http://ali.hlspull.yximgs.com:80/live/17a80b1d82886ec94058d087e01e9232.flv
+彩虹电影,http://ali.hlspull.yximgs.com:80/live/29da97373c682cfe7543b56b4af69f72.flv
+k频道,http://ali.hlspull.yximgs.com:80/live/a883fa9e384f665cb33a360a69dfa78c.flv
+e频道,http://ali.hlspull.yximgs.com:80/live/3a20c0dd0c998405433f239d72b2fbcd.flv
+松3,http://ali.hlspull.yximgs.com:80/live/d57390d7b1dd11ba61d9b3343390ac64.flv
+松1,http://ali.hlspull.yximgs.com:80/live/c71885f5a6b7ac11130fd9373a3a63d4.flv
+pigoo,https://luong.utako.moe/pigoo/index.m3u8 
+极限,http://ali.hlspull.yximgs.com:80/live/6ffde209fa7870ede4b47df54704017a.flv
 
 167(new),#genre#
 潘多拉完美,p3p://167.114.175.6:55331/5fe4450c000c918b829fca233c845311
@@ -151,6 +163,18 @@ JStar极限电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PB4yef&tk=dBAimq8
 第18集,https://1080p.huyall.com/play/zbqpzz2a/index.m3u8 
 第19集,https://1080p.huyall.com/play/xbonxwKa/index.m3u8 
 第20集,https://1080p.huyall.com/play/QdJK332e/index.m3u8
+午夜频道,#genre#
+pigo,http://ali.hlspull.yximgs.com:80/live/5bcf75a5e2b0610a5abc7d8e448d63b7.flv
+日本映画専門チャンネル,https://stream02.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+東映チャンネル,https://stream02.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d
+东映チャンネルhttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+チャンネルNECO,https://stream02.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+动物世界,http://v2.catcast.tv/content/40546/index.m3u8
+Кино 18+ International,https://v2.catcast.tv/content/40381/index.m3u8
+私房写真,https://luong.utako.moe/pigoo/index.m3u8
+Zoom tvhttp://185.236.229.62:9981/play/a02a
+3https://live.iptvxxx.net/siptarskaGOVNA.m3u8
+
 喷包集合,#genre#
 桃花村直播-stripchat-xiaoyusan,https://edge-hls.doppiocdn.com/hls/150487583/master/150487583_720p.m3u8
 最佳喷包集合第4部分,http://1465.vod.redtraffic.xyz/ph5b3873d509bd2/play.m3u8

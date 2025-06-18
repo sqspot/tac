@@ -41,6 +41,8 @@
 {"key":"低端","name":"✅低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1}, 
 {"key":"zxzj","name":"✅韓劇在线","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"}, 
 {"key":"白白","name":"✅白白","type":3,"api":"csp_Sbaibai","playerType":2,"searchable":1,"quickSearch":1,"changeable":1}, 
+{"key": "iQIYIx","name": "iQIYI","type": 1,"api": "https://www.iqiyizyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1},
+{"key": "电影天堂x","name": "电影天堂","type": 1,"api": "http://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1}
 {"key":"優質网","name":"🈚🔥優質zyk","type":0,"api":"https://api.1080zyku.com/inc/api.php","searchable":1,"changeable":1},
 {"key":"魔都XML","name":"🈚🔥魔都XML","type":0,"api":"https://www.mdzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
 {"key":"魔都JSON","name":"🈚🔥魔都JSON","type":1,"api":"https://www.mdzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1},
