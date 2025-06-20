@@ -1,24 +1,3 @@
-ali.hlspull,#genre#
-//http://go8.myartsonline.com/zx/0/TVBTV.txt
-松視1,http://ali.hlspull.yximgs.com/live/52f274c1bedf4791f95ab9601f0700ac.flv
-松視2,http://ali.hlspull.yximgs.com/live/d46ef0cd7365e99f126ed5431bd2af97.flv
-松視3,http://ali.hlspull.yximgs.com/live/d19ca6e6b19c9bf461d861dafaf356c6.flvm/live/d19ca6e6b19c9bf461d861dafaf356c6.flv
-松视3,http://ali.hlspull.yximgs.com:80/live/d19ca6e6b19c9bf461d861dafaf356c6.flv
-彩虹e,http://ali.hlspull.yximgs.com:80/live/0377d6869f56f7af77f91da3714f3e84.flv
-happy,http://ali.hlspull.yximgs.com:80/live/98f94700935912b511a14422039d3d05.flv
-秘密花園,#genre#
-happy,http://ali.hlspull.yximgs.com:80/live/02036fea3bcdf0055e6c58e01a6bc790.flv
-香蕉,http://ali.hlspull.yximgs.com:80/live/5f9475d108a8dc2a4c6f3645b54363bc.flv
-惊艳,http://ali.hlspull.yximgs.com:80/live/8380a44e9972f6ba846596ad36d48ca2.flv
-潘朵拉,http://ali.hlspull.yximgs.com:80/live/17a80b1d82886ec94058d087e01e9232.flv
-彩虹电影,http://ali.hlspull.yximgs.com:80/live/29da97373c682cfe7543b56b4af69f72.flv
-k频道,http://ali.hlspull.yximgs.com:80/live/a883fa9e384f665cb33a360a69dfa78c.flv
-e频道,http://ali.hlspull.yximgs.com:80/live/3a20c0dd0c998405433f239d72b2fbcd.flv
-松3,http://ali.hlspull.yximgs.com:80/live/d57390d7b1dd11ba61d9b3343390ac64.flv
-松1,http://ali.hlspull.yximgs.com:80/live/c71885f5a6b7ac11130fd9373a3a63d4.flv
-pigoo,https://luong.utako.moe/pigoo/index.m3u8 
-极限,http://ali.hlspull.yximgs.com:80/live/6ffde209fa7870ede4b47df54704017a.flv
-
 167(new),#genre#
 潘多拉完美,p3p://167.114.175.6:55331/5fe4450c000c918b829fca233c845311
 香蕉,p3p://167.114.175.6:55331/60626a760005067e6f5bbecb5816771e
@@ -128,20 +107,6 @@ K頻道,p3p://167.114.175.6:42803/63fd56ec000b5f0d26d4fe1b07963493
 look,p3p://167.114.175.6:55331/606271190002a1266f75aaee0463186a
 Heyzo無碼,p3p://167.114.175.6:42803/5fe8014b0007228691371ed44a517e44
 
-极限体验,#genre#
-//http://kkk.888.3116598.xyz/user/HKTV.txt
-松视1台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Qu5nLU&tk=dBAimq8rrVFZ
-松视2台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NmgRrW&tk=dBAimq8rrVFZ
-松视3台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=x4QnxS&tk=dBAimq8rrVFZ
-彩虹e台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zeA64I&tk=dBAimq8rrVFZ
-K 頻道,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3j82t3&tk=dBAimq8rrVFZ
-彩虹电影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=OV0ijW&tk=dBAimq8rrVFZ
-潘朵啦玩美台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JMqIUp&tk=dBAimq8rrVFZ
-惊艳成人电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FimCOJ&tk=dBAimq8rrVFZ
-香蕉台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=leyqCh&tk=dBAimq8rrVFZ
-Happy,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=omIFMv&tk=dBAimq8rrVFZ
-JStar极限电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PB4yef&tk=dBAimq8rrVFZ
-香蕉视频,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=&tk=dBAimq8rrVFZ2,https://qqyfhe.peihansu.com/20250528/9EEGidEP/9766kb/hls/index.m3u8
 鹿鼎记【成人版】,#genre#
 第01集,https://1080p.huyall.com/play/vbm0vora/index.m3u8 
 第02集,https://1080p.huyall.com/play/QbYY33Kb/index.m3u8 
@@ -175,23 +140,7 @@ pigo,http://ali.hlspull.yximgs.com:80/live/5bcf75a5e2b0610a5abc7d8e448d63b7.flv
 Zoom tvhttp://185.236.229.62:9981/play/a02a
 3https://live.iptvxxx.net/siptarskaGOVNA.m3u8
 
-喷包集合,#genre#
-桃花村直播-stripchat-xiaoyusan,https://edge-hls.doppiocdn.com/hls/150487583/master/150487583_720p.m3u8
-最佳喷包集合第4部分,http://1465.vod.redtraffic.xyz/ph5b3873d509bd2/play.m3u8
-最佳涌现喷水编译。亲爱的第1卷,http://6122.vod.adultiptv.net/ph569334ffc06ba/play.m3u8
-最终喷彙编-如此他妈的热-不停喷,http://13216.vod.redtraffic.xyz/ph5a429b8700dc7/play.m3u8
-按摩室天然大山雀亚洲美女喷出高潮,http://21470.vod.adultiptv.net/ph593e778bc8219/play.m3u8
-按摩室第一次美丽的皮肤白皙的妈妈喷著,http://10238.vod.redtraffic.xyz/ph56fabdddb0dc4/play.m3u8
-并在她不能停止卡明的沙发上喷水,http://60106.vod.redtraffic.xyz/ph5badb1155a4d9/play.m3u8
-（AlexisFawx）满脸乌龟喷,http://1465.vod.adultiptv.net/ph59d77605eb334/play.m3u8
-噴子facefucked和貓砰的一聲,http://13216.vod.adultiptv.net/ph567fae4020ab0/play.m3u8
-噴射視覺！性高潮的貓噴在你的臉上（你的近距離POV）,http://12204.vod.redtraffic.xyz/ph5760137a6b2d0/play.m3u8
-噴水編譯時顫動,http://60106.vod.redtraffic.xyz/ph581caab8ef2b8/play.m3u8
-噴處女,http://12204.vod.adultiptv.net/ph570fa1df46d2f/play.m3u8
-汗水潮喷无限怪物!,https://vod3.ttbfp5.com/20231124/Qv1WGuQt/index.m3u8
-
 playboy,#genre#
-Playboy FHD,http://x.cliente.tech:8080/070320/WerWcMP939/1877
 Playboy,http://x.cliente.tech:8080/070320/WerWcMP939/2296
 PLAYBOY TV,http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/75903
 Playboy,http://stklatino.dynns.com:2082/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/13353
