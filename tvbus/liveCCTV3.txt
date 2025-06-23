@@ -5,5 +5,6 @@ CCTV3綜藝wanjiatv,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10
 CCTV3綜藝150,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv3
 CCTV3綜藝106,http://106.52.196.79:80/TV/mui.php?id=cctv3
 CCTV3綜藝(221),http://221.226.4.10:85/tsfile/live/0003_1.m3u8?key=txiptv
-CCTV3綜藝(小畫面),http://60.29.124.66:6080/hls/14/index.m3u8
+CCTV3綜藝(60),http://60.29.124.66:6080/hls/14/index.m3u8
 CCTV3綜藝(061899),http://t.061899.xyz/tl/tl.php?id=cctv3
+CCTV3綜藝(122),http://122.114.169.205:3333/migu.php?id=cctv3
