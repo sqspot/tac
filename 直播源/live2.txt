@@ -106,6 +106,86 @@ K頻道,p3p://167.114.175.6:55331/63fd56ec000b5f0d26d4fe1b07963493
 K頻道,p3p://167.114.175.6:42803/63fd56ec000b5f0d26d4fe1b07963493
 look,p3p://167.114.175.6:55331/606271190002a1266f75aaee0463186a
 Heyzo無碼,p3p://167.114.175.6:42803/5fe8014b0007228691371ed44a517e44
+hls-gateway.vpst,#genre#
+HAPPY,https://hls-gateway.vpstv.net/streams/709091.m3u8
+极限,https://hls-gateway.vpstv.net/streams/709086.m3u8
+彩虹K台,https://hls-gateway.vpstv.net/streams/709040.m3u8
+潘朵拉,https://hls-gateway.vpstv.net/streams/709042.m3u8
+松視1臺,https://hls-gateway.vpstv.net/streams/709043.m3u8
+松視2台,https://hls-gateway.vpstv.net/streams/709044.m3u8
+彩虹e臺,https://hls-gateway.vpstv.net/streams/709039.m3u8
+彩虹電影,https://hls-gateway.vpstv.net/streams/709038.m3u8
+松視3台,https://hls-gateway.vpstv.net/streams/709084.m3u8
+驚艷,https://hls-gateway.vpstv.net/streams/709041.m3u8
+完美台,https://hls-gateway.vpstv.net/streams/476375.m3u8
+Playboy,https://hls-gateway.vpstv.net/streams/476376.m3u8
+Dorcel,https://hls-gateway.vpstv.net/streams/476377.m3u8
+HAPPY CHANNEL,https://hls-gateway.vpstv.net/streams/709085.m3u8
+erox,https://hls-gateway.vpstv.net/streams/644724.m3u8
+eroxxx,https://hls-gateway.vpstv.net/streams/644725.m3u8
+brazzers,https://hls-gateway.vpstv.net/streams/644730.m3u8
+HAPPY,https://hls-gateway.vpstv.net/streams/709091.m3u8
+极限,https://hls-gateway.vpstv.net/streams/709086.m3u8
+彩虹K台,https://hls-gateway.vpstv.net/streams/709040.m3u8
+潘朵拉,https://hls-gateway.vpstv.net/streams/709042.m3u8
+松視1臺,https://hls-gateway.vpstv.net/streams/709043.m3u8
+松視2台,https://hls-gateway.vpstv.net/streams/709044.m3u8
+彩虹e臺,https://hls-gateway.vpstv.net/streams/709039.m3u8
+彩虹電影,https://hls-gateway.vpstv.net/streams/709038.m3u8
+松視3台,https://hls-gateway.vpstv.net/streams/709084.m3u8
+驚艷,https://hls-gateway.vpstv.net/streams/709041.m3u8
+完美台,https://hls-gateway.vpstv.net/streams/476375.m3u8
+pigo,http://ali.hlspull.yximgs.com:80/live/5bcf75a5e2b0610a5abc7d8e448d63b7.flv
+日本映画専門チャンネル,https://stream02.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+東映チャンネル,https://stream02.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d
+チャンネルNECO,https://stream02.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+动物世界,http://v2.catcast.tv/content/40546/index.m3u8
+Кино 18+ International,https://v2.catcast.tv/content/40381/index.m3u8
+私房写真,https://luong.utako.moe/pigoo/index.m3u8
+极限,http://ali.hlspull.yximgs.com:80/live/9fc887bd595d19d54702ddf4ae66fae0.flv
+成人综合频道x,#genre#
+潘多拉,p3p://167.114.175.6:55331/5fe4450c000c918b829fca233c845311
+香蕉,p3p://167.114.175.6:55331/60626a760005067e6f5bbecb5816771e
+松1,p3p://167.114.175.6:55331/5fe445280008a40682a0367c343436bb
+松2,p3p://167.114.175.6:55331/60232b5f00007bc37850649979e379df
+松3,p3p://167.114.175.6:55331/6109e9590001f40bfd9b661109395f3b
+惊艳,p3p://167.114.175.6:55331/60626a1b00010e3e6f5a5a4f018e5ebe
+look,p3p://167.114.175.6:55331/606271190002a1266f75aaee0463186a
+happy,p3p://167.114.175.6:55331/616b79be000a35b17ab2f7b84c325eeb
+彩虹E,p3p://167.114.175.6:55331/6062716c0008efc86f76f0c44d55329f
+彩虹K,p3p://167.114.175.6:55331/63fd56ec000b5f0d26d4fe1b07963493
+彩虹电影,p3p://167.114.175.6:55331/6253066c00049259f74b05224cf375e6
+彩虹频道,p3p://167.114.175.6:55331/63fd589300099ff426db7203798a21f9极限电影,p3p://167.114.175.6:55331/6109e9bb0005fd87fd9ce5ea2c1f18d3
+松视1,p3p://173.208.176.178:31809/5fe445280008a40682a0367c343436bb
+松视2,p3p://173.208.176.178:31809/60232b5f00007bc37850649979e379df
+松视3,p3p://173.208.176.178:31809/6109e9590001f40bfd9b661109395f3b
+潘多拉,p3p://173.208.176.178:31809/5fe4450c000c918b829fca233c845311
+香蕉,p3p://173.208.176.178:31809/60626a760005067e6f5bbecb5816771e
+惊艳,p3p://173.208.176.178:31809/60626a1b00010e3e6f5a5a4f018e5ebe
+look,p3p://173.208.176.178:31809/606271190002a1266f75aaee0463186a
+happy,p3p://173.208.176.178:31809/616b79be000a35b17ab2f7b84c325eeb
+彩虹E,p3p://173.208.176.178:31809/6062716c0008efc86f76f0c44d55329f
+彩虹K,p3p://173.208.176.178:31809/63fd56ec000b5f0d26d4fe1b07963493
+彩虹电影,p3p://173.208.176.178:31809/6253066c00049259f74b05224cf375e6
+彩虹频道,p3p://173.208.176.178:31809/63fd589300099ff426db7203798a21f9
+极限电影,p3p://173.208.176.178:31809/6109e9bb0005fd87fd9ce5ea2c1f18d3
+松视CRx,#genre#
+🎄松视1,p3p://167.114.175.6:55331/5fe445280008a40682a0367c343436bb
+🎄松视2,p3p://167.114.175.6:55331/60232b5f00007bc37850649979e379df
+🎄松视3,p3p://167.114.175.6:55331/6109e9590001f40bfd9b661109395f3b
+🎄松视4台,https://u.kstore.space/download/8504/%E8%8B%B9%E6%9E%9C%E9%A6%992.mp4
+潘多拉完美,p3p://167.114.175.6:55331/5fe4450c000c918b829fca233c845311
+🍌香蕉,p3p://167.114.175.6:55331/60626a760005067e6f5bbecb5816771e
+惊艳,p3p://167.114.175.6:55331/60626a1b00010e3e6f5a5a4f018e5ebe
+LOOK,p3p://167.114.175.6:55331/606271190002a1266f75aaee0463186a
+HAPPY,p3p://167.114.175.6:55331/616b79be000a35b17ab2f7b84c325eeb
+🌈彩虹e,p3p://167.114.175.6:55331/6062716c0008efc86f76f0c44d55329f
+🌈彩虹K,p3p://167.114.175.6:55331/63fd56ec000b5f0d26d4fe1b07963493
+🌈彩虹电影,p3p://167.114.175.6:55331/6253066c00049259f74b05224cf375e6
+🌈彩虹频道,p3p://167.114.175.6:55331/63fd589300099ff426db7203798a21f9
+极限电影,p3p://167.114.175.6:55331/6109e9bb0005fd87fd9ce5ea2c1f18d3
+HAPPY CHANNEL,https://hls-gateway.vpstv.net/streams/709085.m3u8
+erox,https://hls-gateway.vpstv.net/streams/644724.m3u8
 
 Play boy,#genre# 
 Playboy KR,p3p://167.114.175.6:55331/646fa54000041fa7e554fbe50f3b3077
@@ -220,6 +300,14 @@ PENTHOUSE,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/5011/index.m3u8
 в  осеннем  лесу-,https://v215178.cdn-d1.com/a98567b9b4cfb4e139bf15ffff29f127b5e8da99/video.drive-movie.com/contents/videos/12000/12942/12942fhd.mp4
 свежем  воздухе-,https://v88188.cdn-d1.com/a98567b9b4cfb4e139bf955377851dfcef86f0cd/video.drive-movie.com/contents/videos/12000/12918/12918fhd.mp4
 трах-,https://v6260.cdn-d1.com/a98567b9b4cfb4e139bf69da0f779f738f4c6c85/video.drive-movie.com/contents/videos/6000/6751/6751.mp4
+八蜜凛,#genre#
+八蜜凛1,https://surrit.com/0435ab78-c497-44f1-a16c-448cf122255b/playlist.m3u8
+八蜜凛2,https://surrit.com/9021fa41-6968-4ae4-8e82-b2d6febacaa2/playlist.m3u8
+八蜜凛3,https://surrit.com/0a6b325b-ef37-4afd-8a58-89336fa359ff/playlist.m3u8
+八蜜凛4,https://surrit.com/7ad64459-d564-4714-a6c9-435a1b9ec07d/playlist.m3u8
+八蜜凛5,https://surrit.com/784fe9d1-26b2-4dd6-b879-64696f4816af/playlist.m3u8
+八蜜凛6,https://surrit.com/db665ab6-833b-43c3-bf8b-c392e31becad/playlist.m3u8
+八蜜凛7,https://surrit.com/18672c5d-0205-43a1-a143-d4f8ec3424c4/playlist.m3u8
 【水果派】,#genre#
 【水果派】叔父遇上女仆装,https://askzybf.com/20230211/ggzFjBId/index.m3u8
 【水果派】叔父遇上女仆装,https://vip2.slbfsl.com/20230208/lkSOD9b3/index.m3u8

@@ -8,3 +8,6 @@ CCTV3綜藝(221),http://221.226.4.10:85/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV3綜藝(60),http://60.29.124.66:6080/hls/14/index.m3u8
 CCTV3綜藝(061899),http://t.061899.xyz/tl/tl.php?id=cctv3
 CCTV3綜藝(122),http://122.114.169.205:3333/migu.php?id=cctv3
+CCTV3綜藝(hls-gateway),https://hls-gateway.vpstv.net/streams/476883.m3u8
+CCTV3綜藝(咪咕),http://119.36.194.123:32432/migu/624878271?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
+CCTV3綜藝(smart),https://smart.pendy.dpdns.org/Smart.php?id=cctv3

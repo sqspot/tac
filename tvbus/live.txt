@@ -1928,6 +1928,222 @@ AMC電影,http://61.221.215.25:8800/hls/43/index.m3u8
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 MOMOTV,rtmp://f13h.mine.nu/sat/tv761
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
+hls-gateway.vpst,#genre#
+民視 HD,https://hls-gateway.vpstv.net/streams/476986.m3u8
+人间卫视 HD,https://hls-gateway.vpstv.net/streams/488957.m3u8
+台視 HD,https://hls-gateway.vpstv.net/streams/476982.m3u8
+大愛電視 HD,https://hls-gateway.vpstv.net/streams/477082.m3u8
+中視 HD,https://hls-gateway.vpstv.net/streams/476983.m3u8
+霹雳台湾 HD,https://hls-gateway.vpstv.net/streams/488941.m3u8
+华視 HD,https://hls-gateway.vpstv.net/streams/476985.m3u8
+公視 HD,https://hls-gateway.vpstv.net/streams/476984.m3u8
+幸福空間居家台 HD,https://hls-gateway.vpstv.net/streams/488986.m3u8
+好消息,https://hls-gateway.vpstv.net/streams/476227.m3u8
+原住民頻道,https://hls-gateway.vpstv.net/streams/476228.m3u8
+客家電視台 HD,https://hls-gateway.vpstv.net/streams/476229.m3u8
+BBC Earth,https://hls-gateway.vpstv.net/streams/477040.m3u8
+Discovery,https://hls-gateway.vpstv.net/streams/476277.m3u8
+TLC旅遊台,https://hls-gateway.vpstv.net/streams/488939.m3u8
+動物星球,https://hls-gateway.vpstv.net/streams/477088.m3u8
+CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
+Nickjr卡通台,https://hls-gateway.vpstv.net/streams/477025.m3u8
+MOMO親子台,https://hls-gateway.vpstv.net/streams/477060.m3u8
+东森幼幼 HD,https://hls-gateway.vpstv.net/streams/476246.m3u8
+纬来綜合 HD,https://hls-gateway.vpstv.net/streams/477086.m3u8
+八大第1台 HD,https://hls-gateway.vpstv.net/streams/477071.m3u8
+八大綜合台 HD,https://hls-gateway.vpstv.net/streams/477069.m3u8
+三立台湾台 HD,https://hls-gateway.vpstv.net/streams/477050.m3u8
+三立都會台 HD,https://hls-gateway.vpstv.net/streams/476232.m3u8
+韓國娛樂台 HD,https://hls-gateway.vpstv.net/streams/708919.m3u8
+東森綜合 HD,https://hls-gateway.vpstv.net/streams/476987.m3u8
+東森超視 HD,https://hls-gateway.vpstv.net/streams/476234.m3u8
+東森購物2,https://hls-gateway.vpstv.net/streams/488988.m3u8
+東森亞洲衛視 HD,https://hls-gateway.vpstv.net/streams/476264.m3u8
+中天綜合 HD,https://hls-gateway.vpstv.net/streams/477084.m3u8
+中天亞洲台,https://hls-gateway.vpstv.net/streams/476241.m3u8
+TVBS精彩台,https://hls-gateway.vpstv.net/streams/477075.m3u8
+中天娱乐 HD,https://hls-gateway.vpstv.net/streams/476996.m3u8
+東森戲劇 HD,https://hls-gateway.vpstv.net/streams/476994.m3u8
+八大戏剧台 HD,https://hls-gateway.vpstv.net/streams/488934.m3u8
+TVBS歡樂台,https://hls-gateway.vpstv.net/streams/477068.m3u8
+纬來戲劇 HD,https://hls-gateway.vpstv.net/streams/477067.m3u8
+八大精彩台,https://hls-gateway.vpstv.net/streams/477035.m3u8
+MOMOTV HD,https://hls-gateway.vpstv.net/streams/476239.m3u8
+東森購物3,https://hls-gateway.vpstv.net/streams/488989.m3u8
+東森購物1,https://hls-gateway.vpstv.net/streams/488987.m3u8
+三立財經新聞 HD,https://hls-gateway.vpstv.net/streams/488992.m3u8
+壹新聞 HD,https://hls-gateway.vpstv.net/streams/488993.m3u8
+年代新闻 HD,https://hls-gateway.vpstv.net/streams/709037.m3u8
+東森新聞 HD,https://hls-gateway.vpstv.net/streams/476998.m3u8
+中天新聞,https://hls-gateway.vpstv.net/streams/477695.m3u8
+民視新聞 HD,https://hls-gateway.vpstv.net/streams/479210.m3u8
+三立新聞 HD,https://hls-gateway.vpstv.net/streams/492922.m3u8
+TVBS新闻台,https://hls-gateway.vpstv.net/streams/708927.m3u8
+TVBS綜合,https://hls-gateway.vpstv.net/streams/477042.m3u8
+東森財經新聞 HD,https://hls-gateway.vpstv.net/streams/477062.m3u8
+非凡新聞,https://hls-gateway.vpstv.net/streams/477083.m3u8
+華視新聞 HD,https://hls-gateway.vpstv.net/streams/476266.m3u8
+东森购物5,https://hls-gateway.vpstv.net/streams/493136.m3u8
+美亞電影台,https://hls-gateway.vpstv.net/streams/709286.m3u8
+東森電影 HD,https://hls-gateway.vpstv.net/streams/476995.m3u8
+纬来电影 HD,https://hls-gateway.vpstv.net/streams/477063.m3u8
+龍祥時代 HD,https://hls-gateway.vpstv.net/streams/476295.m3u8
+HBO HD,https://hls-gateway.vpstv.net/streams/476278.m3u8
+東森洋片 HD,https://hls-gateway.vpstv.net/streams/476997.m3u8
+AXN壹湾,https://hls-gateway.vpstv.net/streams/476296.m3u8
+Hollywood HD,https://hls-gateway.vpstv.net/streams/477065.m3u8
+壹电影 HD,https://hls-gateway.vpstv.net/streams/476280.m3u8
+CINEMAX,https://hls-gateway.vpstv.net/streams/476283.m3u8
+纬來育樂,https://hls-gateway.vpstv.net/streams/477081.m3u8
+纬来体育 HD,https://hls-gateway.vpstv.net/streams/477026.m3u8
+DAZN 1,https://hls-gateway.vpstv.net/streams/639643.m3u8
+DAZN 2,https://hls-gateway.vpstv.net/streams/476991.m3u8
+MOMO綜合台,https://hls-gateway.vpstv.net/streams/488940.m3u8
+壹綜合 HD,https://hls-gateway.vpstv.net/streams/709284.m3u8
+纬来日本 HD,https://hls-gateway.vpstv.net/streams/477039.m3u8
+國興衛視,https://hls-gateway.vpstv.net/streams/476971.m3u8
+BBC Lifestyle HD,https://hls-gateway.vpstv.net/streams/476671.m3u8
+三立綜合台,https://hls-gateway.vpstv.net/streams/476257.m3u8
+Z频道 HD,https://hls-gateway.vpstv.net/streams/525785.m3u8
+ANIMAX,https://hls-gateway.vpstv.net/streams/477583.m3u8
+纬来精彩 HD,https://hls-gateway.vpstv.net/streams/476286.m3u8
+寰宇新聞台,https://hls-gateway.vpstv.net/streams/476270.m3u8
+寰宇财经台,https://hls-gateway.vpstv.net/streams/488994.m3u8
+历史频道,https://hls-gateway.vpstv.net/streams/525779.m3u8
+EYE戲劇台,https://hls-gateway.vpstv.net/streams/476287.m3u8
+八大娛樂台 HD,https://hls-gateway.vpstv.net/streams/477064.m3u8
+三立戲劇台,https://hls-gateway.vpstv.net/streams/476288.m3u8
+非凡商业台,https://hls-gateway.vpstv.net/streams/488936.m3u8
+達文西頻道,https://hls-gateway.vpstv.net/streams/493134.m3u8
+探索亞洲,https://hls-gateway.vpstv.net/streams/476978.m3u8
+探索科学,https://hls-gateway.vpstv.net/streams/489008.m3u8
+華納電影,https://hls-gateway.vpstv.net/streams/476301.m3u8
+美食星球,https://hls-gateway.vpstv.net/streams/476263.m3u8
+HGTV居家樂活,https://hls-gateway.vpstv.net/streams/476328.m3u8
+彭博财经台,https://hls-gateway.vpstv.net/streams/493132.m3u8
+公視三台 HD,https://hls-gateway.vpstv.net/streams/493131.m3u8
+大爱二台 HD,https://hls-gateway.vpstv.net/streams/493133.m3u8
+亞洲旅遊,https://hls-gateway.vpstv.net/streams/476274.m3u8
+寰宇新聞台湾台,https://hls-gateway.vpstv.net/streams/708931.m3u8
+高点综合 HD,https://hls-gateway.vpstv.net/streams/709645.m3u8
+第一商業,https://hls-gateway.vpstv.net/streams/709648.m3u8
+民視第一台 HD,https://hls-gateway.vpstv.net/streams/476243.m3u8
+民視台湾台 HD,https://hls-gateway.vpstv.net/streams/476244.m3u8
+中視菁采 HD,https://hls-gateway.vpstv.net/streams/476260.m3u8
+中視新聞 HD,https://hls-gateway.vpstv.net/streams/476269.m3u8
+台視新聞 HD,https://hls-gateway.vpstv.net/streams/476268.m3u8
+台視財經 HD,https://hls-gateway.vpstv.net/streams/476271.m3u8
+AMC HD,https://hls-gateway.vpstv.net/streams/477058.m3u8
+HBO HiTS,https://hls-gateway.vpstv.net/streams/476972.m3u8
+HBO family,https://hls-gateway.vpstv.net/streams/476973.m3u8
+生命电视,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts\u0026cpid=admin\u0026size=1920X1080
+台湾番薯電視台,https://hls-gateway.vpstv.net/streams/495096.m3u8
+唯心电视,https://hls-gateway.vpstv.net/streams/709571.m3u8
+博斯運動,https://hls-gateway.vpstv.net/streams/477034.m3u8
+博斯高球1,https://hls-gateway.vpstv.net/streams/477089.m3u8
+博斯高球2,https://hls-gateway.vpstv.net/streams/477073.m3u8
+博斯魅力,https://hls-gateway.vpstv.net/streams/477598.m3u8
+博斯網球,https://hls-gateway.vpstv.net/streams/477602.m3u8
+博斯無限,https://hls-gateway.vpstv.net/streams/477603.m3u8
+博斯運動 2,https://hls-gateway.vpstv.net/streams/477029.m3u8
+博斯無限 Ⅱ,https://hls-gateway.vpstv.net/streams/477604.m3u8
+镜新闻news,https://hls-gateway.vpstv.net/streams/476272.m3u8
+龍華动画,https://hls-gateway.vpstv.net/streams/493135.m3u8
+龙华洋片 HD,https://hls-gateway.vpstv.net/streams/477076.m3u8
+龍華日韓,https://hls-gateway.vpstv.net/streams/476231.m3u8
+龍華經典,https://hls-gateway.vpstv.net/streams/476294.m3u8
+龍華電影,https://hls-gateway.vpstv.net/streams/476300.m3u8
+龍華戲劇,https://hls-gateway.vpstv.net/streams/476293.m3u8
+靖天國際台,https://hls-gateway.vpstv.net/streams/476254.m3u8
+CCM 天映经典,https://hls-gateway.vpstv.net/streams/476310.m3u8
+天映频道,https://hls-gateway.vpstv.net/streams/636710.m3u8
+靖天電影台,https://hls-gateway.vpstv.net/streams/476290.m3u8
+靖天映画台,https://hls-gateway.vpstv.net/streams/476302.m3u8
+靖天卡通台,https://hls-gateway.vpstv.net/streams/476249.m3u8
+靖天日本台,https://hls-gateway.vpstv.net/streams/476256.m3u8
+靖天歡樂台,https://hls-gateway.vpstv.net/streams/476253.m3u8
+靖天育樂台,https://hls-gateway.vpstv.net/streams/481789.m3u8
+靖天資訊台,https://hls-gateway.vpstv.net/streams/476258.m3u8
+靖天綜合台,https://hls-gateway.vpstv.net/streams/476259.m3u8
+智林體育台,https://hls-gateway.vpstv.net/streams/488984.m3u8
+ELTA影劇 HD,https://hls-gateway.vpstv.net/streams/476282.m3u8
+ELTA 體育1台,https://hls-gateway.vpstv.net/streams/477037.m3u8
+ELTA綜合 HD,https://hls-gateway.vpstv.net/streams/477041.m3u8
+ELTA体育2台,https://hls-gateway.vpstv.net/streams/477079.m3u8
+ELTA 體育3台,https://hls-gateway.vpstv.net/streams/483407.m3u8
+ELTA体育4,https://hls-gateway.vpstv.net/streams/708875.m3u8
+搜索亚洲,https://hls-gateway.vpstv.net/streams/476238.m3u8
+靖洋戲劇,https://hls-gateway.vpstv.net/streams/476285.m3u8
+靖洋卡通,https://hls-gateway.vpstv.net/streams/476248.m3u8
+搜索EVE,https://hls-gateway.vpstv.net/streams/476251.m3u8
+搜索動力DMAX,https://hls-gateway.vpstv.net/streams/476252.m3u8
+民視綜藝,https://hls-gateway.vpstv.net/streams/476242.m3u8
+民视旅遊,https://hls-gateway.vpstv.net/streams/476240.m3u8
+EYE 旅游,https://hls-gateway.vpstv.net/streams/476276.m3u8
+探索世界,https://hls-gateway.vpstv.net/streams/476976.m3u8
+HBO Signature,https://hls-gateway.vpstv.net/streams/476634.m3u8
+HBO East,https://hls-gateway.vpstv.net/streams/476633.m3u8
+视纳华仁纪实台,https://hls-gateway.vpstv.net/streams/493137.m3u8
+AXN 亞洲,https://hls-gateway.vpstv.net/streams/476299.m3u8
+公視戲劇,https://hls-gateway.vpstv.net/streams/476298.m3u8
+公視台语,https://hls-gateway.vpstv.net/streams/476235.m3u8
+中視經典 HD,https://hls-gateway.vpstv.net/streams/476362.m3u8
+Love Nature台湾,https://hls-gateway.vpstv.net/streams/708756.m3u8
+Boomerang台湾,https://hls-gateway.vpstv.net/streams/708786.m3u8
+CatchPlay HD,https://hls-gateway.vpstv.net/streams/708881.m3u8
+MTVHD,https://hls-gateway.vpstv.net/streams/708883.m3u8
+華視體育文化教育,https://hls-gateway.vpstv.net/streams/708890.m3u8
+SBN全球財經台HD,https://hls-gateway.vpstv.net/streams/708894.m3u8
+CinemaWord,https://hls-gateway.vpstv.net/streams/708895.m3u8
+我的歐洲電影HD,https://hls-gateway.vpstv.net/streams/708896.m3u8
+Discovery Asia,https://hls-gateway.vpstv.net/streams/708899.m3u8
+Discovery DMAX,https://hls-gateway.vpstv.net/streams/708900.m3u8
+Discovery Science,https://hls-gateway.vpstv.net/streams/708903.m3u8
+amc最爱电影HD,https://hls-gateway.vpstv.net/streams/708906.m3u8
+影迷數位電影台HD,https://hls-gateway.vpstv.net/streams/708907.m3u8
+數位影迷紀實HD,https://hls-gateway.vpstv.net/streams/708908.m3u8
+彩昌电影台HD,https://hls-gateway.vpstv.net/streams/708909.m3u8
+尼克兒童頻道,https://hls-gateway.vpstv.net/streams/708915.m3u8
+i-Fun動漫台,https://hls-gateway.vpstv.net/streams/708917.m3u8
+Lifetime,https://hls-gateway.vpstv.net/streams/708920.m3u8
+Dreamworks台湾,https://hls-gateway.vpstv.net/streams/708932.m3u8
+ROCK Entertainment,https://hls-gateway.vpstv.net/streams/708933.m3u8
+ROCK Extreme,https://hls-gateway.vpstv.net/streams/708934.m3u8
+ROCK Action 台湾,https://hls-gateway.vpstv.net/streams/708935.m3u8
+龍華偶像HD,https://hls-gateway.vpstv.net/streams/708930.m3u8
+Travel Channel台湾,https://hls-gateway.vpstv.net/streams/708936.m3u8
+ELTV英語學習頻道,https://hls-gateway.vpstv.net/streams/708950.m3u8
+ABC互動英語頻道,https://hls-gateway.vpstv.net/streams/708951.m3u8
+Smart知識台,https://hls-gateway.vpstv.net/streams/708952.m3u8
+GINX Esport TV,https://hls-gateway.vpstv.net/streams/708954.m3u8
+华藏卫星电视台,https://hls-gateway.vpstv.net/streams/708959.m3u8
+佛卫慈悲台,https://hls-gateway.vpstv.net/streams/708961.m3u8
+愛爾達娛樂台HD,https://hls-gateway.vpstv.net/streams/708922.m3u8
+TVBS HD,https://hls-gateway.vpstv.net/streams/708925.m3u8
+TVBS綜藝台,https://hls-gateway.vpstv.net/streams/708955.m3u8
+TVBS台劇台,https://hls-gateway.vpstv.net/streams/708956.m3u8
+ELTA体育 1MAX,https://hls-gateway.vpstv.net/streams/709010.m3u8
+ELTA 体育 2MAX,https://hls-gateway.vpstv.net/streams/709011.m3u8
+ELTA体育 3MAX,https://hls-gateway.vpstv.net/streams/709012.m3u8
+ELTA体育 4MAX,https://hls-gateway.vpstv.net/streams/709013.m3u8
+台视综合HD,https://hls-gateway.vpstv.net/streams/708885.m3u8
+好消息电视2台,https://hls-gateway.vpstv.net/streams/708962.m3u8
+八大綜藝台,https://hls-gateway.vpstv.net/streams/708948.m3u8
+公視2,https://hls-gateway.vpstv.net/streams/708888.m3u8
+tvN台湾,https://hls-gateway.vpstv.net/streams/708937.m3u8
+客家電視台 HD,https://hls-gateway.vpstv.net/streams/476229.m3u8
+電影原聲台Cmusic,https://hls-gateway.vpstv.net/streams/708938.m3u8
+Pet Club TV,https://hls-gateway.vpstv.net/streams/708939.m3u8
+TV5MONDESTYLEHD生活時尚,https://hls-gateway.vpstv.net/streams/708940.m3u8
+Global Trekke台湾,https://hls-gateway.vpstv.net/streams/708941.m3u8
+History 台湾,https://hls-gateway.vpstv.net/streams/708942.m3u8
+LUXE TV Channel,https://hls-gateway.vpstv.net/streams/708943.m3u8
+CI 罪案偵查頻道,https://hls-gateway.vpstv.net/streams/708944.m3u8
+民視戲劇台,https://hls-gateway.vpstv.net/streams/708947.m3u8
+INULTRA HD,https://hls-gateway.vpstv.net/streams/709061.m3u8
+MagellanTV,https://hls-gateway.vpstv.net/streams/709062.m3u8
+美食星球,https://hls-gateway.vpstv.net/streams/709110.m3u8
+
 极速台湾,#genre#
 //http://kkk.888.3116598.xyz/user/HKTV.txt
 中天亚洲,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=siBuwN&tk=dBAimq8rrVFZ
