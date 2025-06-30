@@ -11,6 +11,7 @@ CCTV3綜藝(bailudz),http://bailudz.top:1236/111/hahahaha.php?id=cctv3
 CCTV3綜藝(122),http://122.114.169.205:3333/migu.php?id=cctv3
 CCTV3綜藝(123),http://123.160.242.40:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0$线路19
 CCTV3綜藝(59),http://59.35.185.200:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&down=1$线路47
+CCTV3綜藝(zqh2333),http://zqh2333.top:2222/rtp/239.93.24.150:5140
 CCTV3綜藝(咪咕),http://119.36.194.123:32432/migu/624878271?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
 CCTV3綜藝(60),http://60.29.124.66:6080/hls/14/index.m3u8
 CCTV3綜藝(ygbh),http://ygbh.site/php/bfgd.php?id=062
