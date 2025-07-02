@@ -9998,6 +9998,7 @@
 剧情片-借眼,https://v1.qrssv.com/202308/19/Fyu8aZ4dcJ2/video/index.m3u8
 剧情片-信徒,https://v1.qrssv.com/202308/19/MW8AG6ZG4w2/video/index.m3u8
 剧情片-信号 长期未解决事件搜查组 剧场版,https://v1.qrssv.com/202308/19/SK1QkQjqM42/video/index.m3u8
+剧情片20,#genre#
 剧情片-倒影,https://v1.qrssv.com/202308/19/bk4mxKVkzf2/video/index.m3u8
 剧情片-候燕,https://v1.qrssv.com/202308/19/0SwQX4M1zW2/video/index.m3u8
 剧情片-借脸,https://v1.qrssv.com/202308/19/wmsh9VECt62/video/index.m3u8
@@ -20686,6 +20687,7 @@
 剧情片-重案实录纸醉金迷,https://v1.qrssv.com/202308/20/M3kin7mKEh2/video/index.m3u8
 剧情片-重案实录之污点证人,https://v1.qrssv.com/202308/20/nUaQ2n8PMG2/video/index.m3u8
 剧情片-重案行动之捣毒任务,https://v1.qrssv.com/202308/20/d3baMhdQXG2/video/index.m3u8
+剧情片3,#genre#
 剧情片-野人,https://v1.qrssv.com/202308/19/Lqm1paqDcw2/video/index.m3u8
 剧情片-野火,https://v1.qrssv.com/202308/19/tVYfAdU0662/video/index.m3u8
 剧情片-野马,https://v1.qrssv.com/202308/19/aYz8jWjHrr2/video/index.m3u8

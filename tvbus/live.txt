@@ -2144,6 +2144,82 @@ INULTRA HD,https://hls-gateway.vpstv.net/streams/709061.m3u8
 MagellanTV,https://hls-gateway.vpstv.net/streams/709062.m3u8
 美食星球,https://hls-gateway.vpstv.net/streams/709110.m3u8
 
+61代理,#genre#
+台視HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1047
+中視HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1048
+華視HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1049
+民視HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1050
+公視,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1201
+人間衛視,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1198
+大愛電視,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1216
+好消息GOOD TV,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1669
+Trace Sport Stars,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1003
+DISCOVERY,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1002
+旅遊生活,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1005
+動物星球,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1004
+亞洲旅遊,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1219
+MOMO親子台,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1007
+東森幼幼HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1008
+龍華卡通台,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1670
+緯來綜合HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1044
+八大第一HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1043
+八大綜合HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1019
+三立台灣HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1021
+三立都會HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1020
+韓國娛樂台,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1024
+東森綜合HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1041
+超視HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1180
+中天綜合HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1022
+中天娛樂HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1023
+東風衛視,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1195
+MUCH TV,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1189
+東森戲劇HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1042
+八大戲劇HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1057
+TVBS歡樂HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1018
+緯來戲劇,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1186
+龍華戲劇台,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1671
+龍華日韓劇,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1672
+龍華偶像劇,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1673
+緯來日本HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1026
+Taiwan Plus,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1674
+年代新聞,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1192
+東森新聞HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1014
+中天新聞,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1675
+民視新聞,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1204
+三立新聞HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1016
+TVBS新聞HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1052
+TVBS HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1668
+非凡新聞HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1013
+非凡商業HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1012
+東森財經HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1017
+寰宇新聞,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1222
+壹新聞,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1676
+Bloomberg News,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1066
+NHK世界HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1027
+鏡電視新聞台,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1031
+好萊塢電影HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1025
+緯來電影HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1183
+龍華電影台,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1677
+HBO,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1029
+AXN,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1054
+CINEMAX HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1030
+AMC 電影台,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1032
+寵物頻道,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1040
+緯來育樂HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1045
+緯來體育HD,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1011
+博斯運動一,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1678
+momo綜合台,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1225
+DAZN 1,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1069
+DAZN 2,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1072
+廈門衛視,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1033
+CCTV4-中央衛視,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1034
+海峽衛視,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1035
+浙江衛視,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1036
+東方衛視,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1037
+湖南衛視,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1038
+鳯凰衛視資訊,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1666
+鳯凰衛視中文,http://ccczb.top/mk2.php?ip=61.216.180.81:1888&id=live1213
+
 极速台湾,#genre#
 //http://kkk.888.3116598.xyz/user/HKTV.txt
 中天亚洲,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=siBuwN&tk=dBAimq8rrVFZ
