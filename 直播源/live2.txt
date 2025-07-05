@@ -188,183 +188,6 @@ HAPPY,p3p://167.114.175.6:55331/616b79be000a35b17ab2f7b84c325eeb
 极限电影,p3p://167.114.175.6:55331/6109e9bb0005fd87fd9ce5ea2c1f18d3
 HAPPY CHANNEL,https://hls-gateway.vpstv.net/streams/709085.m3u8
 erox,https://hls-gateway.vpstv.net/streams/644724.m3u8
-
-Play boy,#genre# 
-Playboy KR,p3p://167.114.175.6:55331/646fa54000041fa7e554fbe50f3b3077
-Playboy LA,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/6280/manifest.m3u8
-Playboy Plus HD,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/6242/manifest.m3u8
-Playboy1,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/527/index.m3u8
-Playboy2,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/12135/manifest.m3u8
-PLAYBOY TV,http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/75903
-花花公子-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6260/index.m3u8
-花花公子-2,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6260/manifest.m3u8
-花花公子-3,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/6260/index.m3u8
-花花公子-4,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6260/index.m3u8
-花花公子-7,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/6260/index.m3u8
-花花公子a-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/12135/index.m3u8
-花花公子a-2,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/12135/index.m3u8
-花花公子a-3,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12135/index.m3u8
-花花公子a-6,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/12135/index.m3u8
-花花公子a-7,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6280/index.m3u8
-花花公子a-8,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6280/manifest.m3u8
-花花公子a-9,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/6280/index.m3u8
-花花公子a-10,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6280/index.m3u8
-花花公子a-12,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/6280/index.m3u8
-花花公子c-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6242/index.m3u8
-花花公子c-2,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6242/manifest.m3u8
-花花公子c-3,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/6242/index.m3u8
-花花公子c-4,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6242/index.m3u8
-花花公子c-7,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/6242/index.m3u8
-花花公子d-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/527/index.m3u8
-花花公子d-2,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/527/index.m3u8
-花花公子d-5,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/527/index.m3u8
-花花公子e-1,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/527/index.m3u8
-Hustler,#genre#
-Hustler HD-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/244/index.m3u8
-Hustler HD-2,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/9065/index.m3u8
-Hustler HD-3,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/244/index.m3u8
-Hustler HD-4,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/9065/index.m3u8
-Hustler HD-10,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/244/index.m3u8
-Hustler HD-11,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/9065/index.m3u8
-HUSTLER Blue-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/1064/index.m3u8
-HUSTLER Blue-2,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/1064/index.m3u8
-HUSTLER Blue-6,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/1064/index.m3u8
-HUSTLER Blue-7,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38940.m3u8
-HUSTLER HD-2,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/244/index.m3u8
-HUSTLER Blue-898,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/1064/index.m3u8
-HUSTLER Blue-899,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/1064/index.m3u8
-HUSTLER Blue-906,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/1064/index.m3u8
-HUSTLER Blue-907,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38940.m3u8
-Hustler HD-909,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/244/index.m3u8
-Hustler HD-910,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/9065/index.m3u8
-Hustler HD-911,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/244/index.m3u8
-Hustler HD-912,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/9065/index.m3u8
-HUSTLER HD-917,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/244/index.m3u8
-Hustler HD-924,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/244/index.m3u8
-Hustler HD-925,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/9065/index.m3u8
-Hustler HD-926,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/244/index.m3u8
-Hustler HD-927,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/9065/index.m3u8
-Penthouse,#genre# 
-PENTHOUSE Gold-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/5011/index.m3u8
-PENTHOUSE Gold-2,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/5011/index.m3u8
-PENTHOUSE Gold-5,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/5011/index.m3u8
-PENTHOUSE PASS,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/5010/index.m3u8
-PENTHOUSE REALITY TV-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/5012/index.m3u8
-PENTHOUSE REALITY TV-2,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/5013/index.m3u8
-PENTHOUSE REALITY TV-3,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/5012/index.m3u8
-PENTHOUSE REALITY TV-4,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/5013/index.m3u8
-PENTHOUSE REALITY TV-8,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/5012/index.m3u8PENTHOUSE REALITY TV-9,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/5013/index.m3u8
-PENTHOUSE REALITY TV-10,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/5012/index.m3u8
-PENTHOUSE REALITY TV-11,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/5013/index.m3u8
-PENTHOUSE REALITY TV-12,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/5013/index.m3u8
-PENTHOUSE,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/5011/index.m3u8
-PENTHOUSE Gold-1219,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/5011/index.m3u8
-PENTHOUSE Gold-1222,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/5011/index.m3u8
-PENTHOUSE Gold-1225,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/5011/index.m3u8
-PENTHOUSE Gold-1226,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/5011/index.m3u8
-PENTHOUSE PASS-1228,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/5010/index.m3u8
-PENTHOUSE PASS-1229,http://rhsbjv7k.tvclub.xyz/iptv/YMQV89SPM8ATDUGNGRH7HMRZ/5010/index.m3u8
-PENTHOUSE REALITY TV-1231,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/5012/index.m3u8
-PENTHOUSE REALITY TV-1232,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/5013/index.m3u8
-PENTHOUSE REALITY TV-1233,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/5012/index.m3u8
-PENTHOUSE REALITY TV-1234,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/5013/index.m3u8
-PENTHOUSE REALITY TV-1237,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/5012/index.m3u8
-PENTHOUSE REALITY TV-1238,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/5013/index.m3u8
-PENTHOUSE REALITY TV-1244,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/5012/index.m3u8
-PENTHOUSE REALITY TV-1245,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/5013/index.m3u8
-PENTHOUSE REALITY TV-1246,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/5012/index.m3u8
-PENTHOUSE REALITY TV-1247,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/5013/index.m3u8
-PENTHOUSE-1250,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/5011/index.m3u8
-PENTHOUSE2-1253,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/5013/index.m3u8
-FAKE TAXI,#genre#
-FAKE TAXI-1,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/6202/index.m3u8
-FAKE TAXI-3,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6202/index.m3u8
-FAKE TAXI-4,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/6202/index.m3u8
-FAKE TAXI-5,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/6202/index.m3u8
-squirt-,http://live.mycamtv.com/squirt.m3u8
-Meiden Van,#genre#
-Meiden Van Holland-1,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/12134/index.m3u8
-Meiden Van Holland-4,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12125/index.m3u8
-Meiden Van Holland-5,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12134/index.m3u8
-Meiden Van Holland-6,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/12125/index.m3u8
-Meiden Van Holland-7,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/12134/index.m3u8
-Meiden Van Holland-8,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/12125/index.m3u8
-Meiden Van Holland-9,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/12134/index.m3u8
-Кино 18+,#genre#
-Кино 18+ HD-2,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/18075/index.m3u8
-Кино 18+ HD-5,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/18075/index.m3u8
-Кино 18+ HD-6,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/18075/index.m3u8
-Кино 18+ HD-7,http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18075/index.m3u8
-Кино 18+ HD-1847,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/18075/index.m3u8
-Кино 18+ HD-1850,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/18075/index.m3u8
-Кино 18+ HD-1851,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/18075/index.m3u8
-Кино 18+ HD-1852,http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18075/index.m3u8
-ЛесбисKenzie Madison-1866,https://v180163.cdn-d1.com/a98567b9b4cfb4e139bfa03a2af963a46ecc89e9/video.drive-movie.com/contents/videos/6000/6743/6743.mp4
-ЛесбисJazmin Luv-,https://v148173.cdn-d1.com/a98567b9b4cfb4e139bf750a4e37a40eec84f198/video.drive-movie.com/contents/videos/6000/6748/6748.mp4
-ЛесбисKenzie Madison-,https://v180163.cdn-d1.com/a98567b9b4cfb4e139bfa03a2af963a46ecc89e9/video.drive-movie.com/contents/videos/6000/6743/6743.mp4
-ОХ-АХ HD-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/11068/index.m3u8
-ОХ-АХ HD-2,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/11068/index.m3u8
-ОХ-АХ HD-3,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/11068/index.m3u8
-ОХ-АХ HD-5,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/11068/index.m3u8
-ОХ-АХ HD-6,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/11068/index.m3u8
-ОХ-АХ HD-1868,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/11068/index.m3u8
-ОХ-АХ HD-1870,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/11068/index.m3u8
-ОХ-АХ HD-1873,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/11068/index.m3u8
-ОХ-АХ HD-1874,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/11068/index.m3u8
-в  осеннем  лесу-1878,https://v215178.cdn-d1.com/a98567b9b4cfb4e139bf15ffff29f127b5e8da99/video.drive-movie.com/contents/videos/12000/12942/12942fhd.mp4
-свежем  воздухе-1879,https://v88188.cdn-d1.com/a98567b9b4cfb4e139bf955377851dfcef86f0cd/video.drive-movie.com/contents/videos/12000/12918/12918fhd.mp4
-трах-1880,https://v6260.cdn-d1.com/a98567b9b4cfb4e139bf69da0f779f738f4c6c85/video.drive-movie.com/contents/videos/6000/6751/6751.mp4
-ЯK TV HD-7,http://kstv.us:8080/live/haw5UJfF68/1729172230/47226.ts
-в  осеннем  лесу-,https://v215178.cdn-d1.com/a98567b9b4cfb4e139bf15ffff29f127b5e8da99/video.drive-movie.com/contents/videos/12000/12942/12942fhd.mp4
-свежем  воздухе-,https://v88188.cdn-d1.com/a98567b9b4cfb4e139bf955377851dfcef86f0cd/video.drive-movie.com/contents/videos/12000/12918/12918fhd.mp4
-трах-,https://v6260.cdn-d1.com/a98567b9b4cfb4e139bf69da0f779f738f4c6c85/video.drive-movie.com/contents/videos/6000/6751/6751.mp4
-八蜜凛,#genre#
-八蜜凛1,https://surrit.com/0435ab78-c497-44f1-a16c-448cf122255b/playlist.m3u8
-八蜜凛2,https://surrit.com/9021fa41-6968-4ae4-8e82-b2d6febacaa2/playlist.m3u8
-八蜜凛3,https://surrit.com/0a6b325b-ef37-4afd-8a58-89336fa359ff/playlist.m3u8
-八蜜凛4,https://surrit.com/7ad64459-d564-4714-a6c9-435a1b9ec07d/playlist.m3u8
-八蜜凛5,https://surrit.com/784fe9d1-26b2-4dd6-b879-64696f4816af/playlist.m3u8
-八蜜凛6,https://surrit.com/db665ab6-833b-43c3-bf8b-c392e31becad/playlist.m3u8
-八蜜凛7,https://surrit.com/18672c5d-0205-43a1-a143-d4f8ec3424c4/playlist.m3u8
-【水果派】,#genre#
-【水果派】叔父遇上女仆装,https://askzybf.com/20230211/ggzFjBId/index.m3u8
-【水果派】叔父遇上女仆装,https://vip2.slbfsl.com/20230208/lkSOD9b3/index.m3u8
-【水果派】叔母遇小侄,操逼进行时https://askzybf.com/20230211/3L3ocJ1D/index.m3u8
-【水果派】叔母遇小侄,操逼进行时https://vip2.slbfsl.com/20230208/43Fn0coF/index.m3u8
-【水果派】熟女控福利：痴女丈母娘,榨干女婿真疯狂！https://askzybf.com/20230211/TOzuGR6r/index.m3u8
-【水果派】熟女控福利：痴女丈母娘,榨干女婿真疯狂！https://vip2.slbfsl.com/20230208/YkqA9mfA/index.m3u8
-【水果派】双枪狙击手-唯,https://askzybf.com/20230212/6WHGX3IZ/index.m3u8
-【水果派】双枪狙击手-唯,https://vip2.slbfsl.com/20230208/hKWfe9Wl/index.m3u8
-【水果派】谁是受害者,https://askzybf.com/20230212/uteMoWbG/index.m3u8
-【水果派】谁是受害者,https://vip2.slbfsl.com/20230207/ADuVQRgz/index.m3u8
-【水果派】水户加奈满身汗水,猥琐老头接吻性交https://askzybf.com/20230213/ym3rm1Zk/index.m3u8
-【水果派】水户加奈满身汗水,猥琐老头接吻性交https://vip2.slbfsl.com/20230207/QZc5zZ9O/index.m3u8
-【水果派】丝袜白领惨遭男客户潜规则,https://askzybf.com/20230214/aquDokjh/index.m3u8
-【水果派】丝袜白领惨遭男客户潜规则,https://vip2.slbfsl.com/20230207/ylE66xOE/index.m3u8
-【水果派】四大天王之腿神下凡?下集?,https://vip2.slbfsl.com/20230207/bISkQeca/index.m3u8
-【水果派】搜查官逆转局面,https://askzybf.com/20230214/oYHn03ND/index.m3u8
-【水果派】搜查官逆转局面,https://vip2.slbfsl.com/20230206/16sHXKK1/index.m3u8
-【水果派】台风天秘事,https://askzybf.com/20230215/8moAwKGA/index.m3u8
-【水果派】台风天秘事,https://vip2.slbfsl.com/20230206/i7ZeYS4y/index.m3u8
-【水果派】逃奸地狱-夜袭村,https://askzybf.com/20230216/CykJMCTT/index.m3u8
-【水果派】逃奸地狱-夜袭村,https://vip2.slbfsl.com/20230206/KgmmG48o/index.m3u8
-【水果派】讨厌的我强奸成熟的你,https://vip2.slbfsl.com/20230206/7QVTjX8h/index.m3u8
-【水果派】舔脚狂魔肏一花！,https://askzybf.com/20230217/XFGy54jR/index.m3u8
-【水果派】舔脚狂魔肏一花！,https://vip2.slbfsl.com/20230205/Fau383nD/index.m3u8
-【水果派】吸烟有害健康,抽烟抽出一片草原https://askzybf.com/20230223/4Kb0BcCN/index.m3u8
-【水果派】吸烟有害健康,抽烟抽出一片草原https://vip2.slbfsl.com/20230203/NcsBPImy/index.m3u8
-【水果派】小伙儿请美女家教,成绩上来了肾虚了https://askzybf.com/20230228/7mMxtdKX/index.m3u8
-【水果派】小伙儿请美女家教,成绩上来了肾虚了https://vip2.slbfsl.com/20230202/fLcpHfPt/index.m3u8
-【水果派】御姐、萝莉、抖M,小伙狂干6名大胸美女！！https://askzybf.com/20230313/HFgHmg3g/index.m3u8
-【水果派】御姐、萝莉、抖M,小伙狂干6名大胸美女！！https://vip2.slbfsl.com/20230129/LUKzLK7W/index.m3u8
-【小马寻花】几十万粉丝要求返场极品抽搐妹中途休息吹硬换套第二炮继续激情高潮叫得惊天动地,https://vip2.slbfsl.com/20230328/hqnehG3Y/index.m3u8
-【野战正规军】三男两女多人群P,-https://vip1.slbfsl.com/20221129/kXwacROr/index.m3u8
-搏击成人,#genre#
-Evolved Fights(搏击成人)-1,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/6200/index.m3u8
-Evolved Fights(搏击成人)-2,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6200/index.m3u8
-Evolved Fights(搏击成人)-3,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/6200/index.m3u8
-Evolved Fights(搏击成人)-4,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/6200/index.m3u8
-Evolved Fights-,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/6200/index.m3u8
 倫理片,#genre#
 伦理片-聊斋艳谭之五通神,https://vip.dytt-cine.com/20250508/18914_9796df6b/index.m3u8
 伦理片-麗蘭,https://vip.dytt-cine.com/20250429/15744_e5a419ed/index.m3u8
@@ -742,6 +565,183 @@ Evolved Fights-,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/6200/inde
 伦理片-F罩杯的奶水太棒了,https://play.phimgood.com/20250614/25644_caa00974/index.m3u8
 伦理片-娜塔莉的情人,https://vip.dytt-cine.com/20250603/27812_9729c946/index.m3u8
 伦理片-一路向西,https://vip.dytt-cine.com/20250528/26093_925cdef6/index.m3u8
+
+Play boy,#genre# 
+Playboy KR,p3p://167.114.175.6:55331/646fa54000041fa7e554fbe50f3b3077
+Playboy LA,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/6280/manifest.m3u8
+Playboy Plus HD,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/6242/manifest.m3u8
+Playboy1,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/527/index.m3u8
+Playboy2,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/12135/manifest.m3u8
+PLAYBOY TV,http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/75903
+花花公子-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6260/index.m3u8
+花花公子-2,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6260/manifest.m3u8
+花花公子-3,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/6260/index.m3u8
+花花公子-4,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6260/index.m3u8
+花花公子-7,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/6260/index.m3u8
+花花公子a-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/12135/index.m3u8
+花花公子a-2,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/12135/index.m3u8
+花花公子a-3,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12135/index.m3u8
+花花公子a-6,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/12135/index.m3u8
+花花公子a-7,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6280/index.m3u8
+花花公子a-8,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6280/manifest.m3u8
+花花公子a-9,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/6280/index.m3u8
+花花公子a-10,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6280/index.m3u8
+花花公子a-12,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/6280/index.m3u8
+花花公子c-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6242/index.m3u8
+花花公子c-2,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6242/manifest.m3u8
+花花公子c-3,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/6242/index.m3u8
+花花公子c-4,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6242/index.m3u8
+花花公子c-7,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/6242/index.m3u8
+花花公子d-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/527/index.m3u8
+花花公子d-2,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/527/index.m3u8
+花花公子d-5,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/527/index.m3u8
+花花公子e-1,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/527/index.m3u8
+Hustler,#genre#
+Hustler HD-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/244/index.m3u8
+Hustler HD-2,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/9065/index.m3u8
+Hustler HD-3,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/244/index.m3u8
+Hustler HD-4,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/9065/index.m3u8
+Hustler HD-10,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/244/index.m3u8
+Hustler HD-11,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/9065/index.m3u8
+HUSTLER Blue-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/1064/index.m3u8
+HUSTLER Blue-2,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/1064/index.m3u8
+HUSTLER Blue-6,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/1064/index.m3u8
+HUSTLER Blue-7,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38940.m3u8
+HUSTLER HD-2,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/244/index.m3u8
+HUSTLER Blue-898,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/1064/index.m3u8
+HUSTLER Blue-899,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/1064/index.m3u8
+HUSTLER Blue-906,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/1064/index.m3u8
+HUSTLER Blue-907,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38940.m3u8
+Hustler HD-909,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/244/index.m3u8
+Hustler HD-910,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/9065/index.m3u8
+Hustler HD-911,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/244/index.m3u8
+Hustler HD-912,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/9065/index.m3u8
+HUSTLER HD-917,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/244/index.m3u8
+Hustler HD-924,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/244/index.m3u8
+Hustler HD-925,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/9065/index.m3u8
+Hustler HD-926,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/244/index.m3u8
+Hustler HD-927,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/9065/index.m3u8
+Penthouse,#genre# 
+PENTHOUSE Gold-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/5011/index.m3u8
+PENTHOUSE Gold-2,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/5011/index.m3u8
+PENTHOUSE Gold-5,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/5011/index.m3u8
+PENTHOUSE PASS,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/5010/index.m3u8
+PENTHOUSE REALITY TV-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/5012/index.m3u8
+PENTHOUSE REALITY TV-2,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/5013/index.m3u8
+PENTHOUSE REALITY TV-3,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/5012/index.m3u8
+PENTHOUSE REALITY TV-4,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/5013/index.m3u8
+PENTHOUSE REALITY TV-8,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/5012/index.m3u8PENTHOUSE REALITY TV-9,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/5013/index.m3u8
+PENTHOUSE REALITY TV-10,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/5012/index.m3u8
+PENTHOUSE REALITY TV-11,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/5013/index.m3u8
+PENTHOUSE REALITY TV-12,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/5013/index.m3u8
+PENTHOUSE,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/5011/index.m3u8
+PENTHOUSE Gold-1219,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/5011/index.m3u8
+PENTHOUSE Gold-1222,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/5011/index.m3u8
+PENTHOUSE Gold-1225,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/5011/index.m3u8
+PENTHOUSE Gold-1226,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/5011/index.m3u8
+PENTHOUSE PASS-1228,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/5010/index.m3u8
+PENTHOUSE PASS-1229,http://rhsbjv7k.tvclub.xyz/iptv/YMQV89SPM8ATDUGNGRH7HMRZ/5010/index.m3u8
+PENTHOUSE REALITY TV-1231,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/5012/index.m3u8
+PENTHOUSE REALITY TV-1232,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/5013/index.m3u8
+PENTHOUSE REALITY TV-1233,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/5012/index.m3u8
+PENTHOUSE REALITY TV-1234,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/5013/index.m3u8
+PENTHOUSE REALITY TV-1237,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/5012/index.m3u8
+PENTHOUSE REALITY TV-1238,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/5013/index.m3u8
+PENTHOUSE REALITY TV-1244,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/5012/index.m3u8
+PENTHOUSE REALITY TV-1245,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/5013/index.m3u8
+PENTHOUSE REALITY TV-1246,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/5012/index.m3u8
+PENTHOUSE REALITY TV-1247,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/5013/index.m3u8
+PENTHOUSE-1250,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/5011/index.m3u8
+PENTHOUSE2-1253,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/5013/index.m3u8
+FAKE TAXI,#genre#
+FAKE TAXI-1,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/6202/index.m3u8
+FAKE TAXI-3,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6202/index.m3u8
+FAKE TAXI-4,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/6202/index.m3u8
+FAKE TAXI-5,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/6202/index.m3u8
+squirt-,http://live.mycamtv.com/squirt.m3u8
+Meiden Van,#genre#
+Meiden Van Holland-1,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/12134/index.m3u8
+Meiden Van Holland-4,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12125/index.m3u8
+Meiden Van Holland-5,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12134/index.m3u8
+Meiden Van Holland-6,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/12125/index.m3u8
+Meiden Van Holland-7,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/12134/index.m3u8
+Meiden Van Holland-8,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/12125/index.m3u8
+Meiden Van Holland-9,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/12134/index.m3u8
+Кино 18+,#genre#
+Кино 18+ HD-2,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/18075/index.m3u8
+Кино 18+ HD-5,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/18075/index.m3u8
+Кино 18+ HD-6,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/18075/index.m3u8
+Кино 18+ HD-7,http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18075/index.m3u8
+Кино 18+ HD-1847,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/18075/index.m3u8
+Кино 18+ HD-1850,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/18075/index.m3u8
+Кино 18+ HD-1851,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/18075/index.m3u8
+Кино 18+ HD-1852,http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18075/index.m3u8
+ЛесбисKenzie Madison-1866,https://v180163.cdn-d1.com/a98567b9b4cfb4e139bfa03a2af963a46ecc89e9/video.drive-movie.com/contents/videos/6000/6743/6743.mp4
+ЛесбисJazmin Luv-,https://v148173.cdn-d1.com/a98567b9b4cfb4e139bf750a4e37a40eec84f198/video.drive-movie.com/contents/videos/6000/6748/6748.mp4
+ЛесбисKenzie Madison-,https://v180163.cdn-d1.com/a98567b9b4cfb4e139bfa03a2af963a46ecc89e9/video.drive-movie.com/contents/videos/6000/6743/6743.mp4
+ОХ-АХ HD-1,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/11068/index.m3u8
+ОХ-АХ HD-2,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/11068/index.m3u8
+ОХ-АХ HD-3,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/11068/index.m3u8
+ОХ-АХ HD-5,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/11068/index.m3u8
+ОХ-АХ HD-6,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/11068/index.m3u8
+ОХ-АХ HD-1868,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/11068/index.m3u8
+ОХ-АХ HD-1870,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/11068/index.m3u8
+ОХ-АХ HD-1873,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/11068/index.m3u8
+ОХ-АХ HD-1874,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/11068/index.m3u8
+в  осеннем  лесу-1878,https://v215178.cdn-d1.com/a98567b9b4cfb4e139bf15ffff29f127b5e8da99/video.drive-movie.com/contents/videos/12000/12942/12942fhd.mp4
+свежем  воздухе-1879,https://v88188.cdn-d1.com/a98567b9b4cfb4e139bf955377851dfcef86f0cd/video.drive-movie.com/contents/videos/12000/12918/12918fhd.mp4
+трах-1880,https://v6260.cdn-d1.com/a98567b9b4cfb4e139bf69da0f779f738f4c6c85/video.drive-movie.com/contents/videos/6000/6751/6751.mp4
+ЯK TV HD-7,http://kstv.us:8080/live/haw5UJfF68/1729172230/47226.ts
+в  осеннем  лесу-,https://v215178.cdn-d1.com/a98567b9b4cfb4e139bf15ffff29f127b5e8da99/video.drive-movie.com/contents/videos/12000/12942/12942fhd.mp4
+свежем  воздухе-,https://v88188.cdn-d1.com/a98567b9b4cfb4e139bf955377851dfcef86f0cd/video.drive-movie.com/contents/videos/12000/12918/12918fhd.mp4
+трах-,https://v6260.cdn-d1.com/a98567b9b4cfb4e139bf69da0f779f738f4c6c85/video.drive-movie.com/contents/videos/6000/6751/6751.mp4
+八蜜凛,#genre#
+八蜜凛1,https://surrit.com/0435ab78-c497-44f1-a16c-448cf122255b/playlist.m3u8
+八蜜凛2,https://surrit.com/9021fa41-6968-4ae4-8e82-b2d6febacaa2/playlist.m3u8
+八蜜凛3,https://surrit.com/0a6b325b-ef37-4afd-8a58-89336fa359ff/playlist.m3u8
+八蜜凛4,https://surrit.com/7ad64459-d564-4714-a6c9-435a1b9ec07d/playlist.m3u8
+八蜜凛5,https://surrit.com/784fe9d1-26b2-4dd6-b879-64696f4816af/playlist.m3u8
+八蜜凛6,https://surrit.com/db665ab6-833b-43c3-bf8b-c392e31becad/playlist.m3u8
+八蜜凛7,https://surrit.com/18672c5d-0205-43a1-a143-d4f8ec3424c4/playlist.m3u8
+【水果派】,#genre#
+【水果派】叔父遇上女仆装,https://askzybf.com/20230211/ggzFjBId/index.m3u8
+【水果派】叔父遇上女仆装,https://vip2.slbfsl.com/20230208/lkSOD9b3/index.m3u8
+【水果派】叔母遇小侄,操逼进行时https://askzybf.com/20230211/3L3ocJ1D/index.m3u8
+【水果派】叔母遇小侄,操逼进行时https://vip2.slbfsl.com/20230208/43Fn0coF/index.m3u8
+【水果派】熟女控福利：痴女丈母娘,榨干女婿真疯狂！https://askzybf.com/20230211/TOzuGR6r/index.m3u8
+【水果派】熟女控福利：痴女丈母娘,榨干女婿真疯狂！https://vip2.slbfsl.com/20230208/YkqA9mfA/index.m3u8
+【水果派】双枪狙击手-唯,https://askzybf.com/20230212/6WHGX3IZ/index.m3u8
+【水果派】双枪狙击手-唯,https://vip2.slbfsl.com/20230208/hKWfe9Wl/index.m3u8
+【水果派】谁是受害者,https://askzybf.com/20230212/uteMoWbG/index.m3u8
+【水果派】谁是受害者,https://vip2.slbfsl.com/20230207/ADuVQRgz/index.m3u8
+【水果派】水户加奈满身汗水,猥琐老头接吻性交https://askzybf.com/20230213/ym3rm1Zk/index.m3u8
+【水果派】水户加奈满身汗水,猥琐老头接吻性交https://vip2.slbfsl.com/20230207/QZc5zZ9O/index.m3u8
+【水果派】丝袜白领惨遭男客户潜规则,https://askzybf.com/20230214/aquDokjh/index.m3u8
+【水果派】丝袜白领惨遭男客户潜规则,https://vip2.slbfsl.com/20230207/ylE66xOE/index.m3u8
+【水果派】四大天王之腿神下凡?下集?,https://vip2.slbfsl.com/20230207/bISkQeca/index.m3u8
+【水果派】搜查官逆转局面,https://askzybf.com/20230214/oYHn03ND/index.m3u8
+【水果派】搜查官逆转局面,https://vip2.slbfsl.com/20230206/16sHXKK1/index.m3u8
+【水果派】台风天秘事,https://askzybf.com/20230215/8moAwKGA/index.m3u8
+【水果派】台风天秘事,https://vip2.slbfsl.com/20230206/i7ZeYS4y/index.m3u8
+【水果派】逃奸地狱-夜袭村,https://askzybf.com/20230216/CykJMCTT/index.m3u8
+【水果派】逃奸地狱-夜袭村,https://vip2.slbfsl.com/20230206/KgmmG48o/index.m3u8
+【水果派】讨厌的我强奸成熟的你,https://vip2.slbfsl.com/20230206/7QVTjX8h/index.m3u8
+【水果派】舔脚狂魔肏一花！,https://askzybf.com/20230217/XFGy54jR/index.m3u8
+【水果派】舔脚狂魔肏一花！,https://vip2.slbfsl.com/20230205/Fau383nD/index.m3u8
+【水果派】吸烟有害健康,抽烟抽出一片草原https://askzybf.com/20230223/4Kb0BcCN/index.m3u8
+【水果派】吸烟有害健康,抽烟抽出一片草原https://vip2.slbfsl.com/20230203/NcsBPImy/index.m3u8
+【水果派】小伙儿请美女家教,成绩上来了肾虚了https://askzybf.com/20230228/7mMxtdKX/index.m3u8
+【水果派】小伙儿请美女家教,成绩上来了肾虚了https://vip2.slbfsl.com/20230202/fLcpHfPt/index.m3u8
+【水果派】御姐、萝莉、抖M,小伙狂干6名大胸美女！！https://askzybf.com/20230313/HFgHmg3g/index.m3u8
+【水果派】御姐、萝莉、抖M,小伙狂干6名大胸美女！！https://vip2.slbfsl.com/20230129/LUKzLK7W/index.m3u8
+【小马寻花】几十万粉丝要求返场极品抽搐妹中途休息吹硬换套第二炮继续激情高潮叫得惊天动地,https://vip2.slbfsl.com/20230328/hqnehG3Y/index.m3u8
+【野战正规军】三男两女多人群P,-https://vip1.slbfsl.com/20221129/kXwacROr/index.m3u8
+搏击成人,#genre#
+Evolved Fights(搏击成人)-1,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/6200/index.m3u8
+Evolved Fights(搏击成人)-2,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6200/index.m3u8
+Evolved Fights(搏击成人)-3,http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/6200/index.m3u8
+Evolved Fights(搏击成人)-4,http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/6200/index.m3u8
+Evolved Fights-,http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/6200/index.m3u8
 
 21NATURAL,#genre#
 21NATURALS01-3,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/12169/index.m3u8
